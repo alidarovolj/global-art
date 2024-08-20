@@ -5,139 +5,139 @@
   },
   "headers": {
     "payment_success": {
-      "title": "付款成功 |",
+      "title": "付款成功 | Global Art AI",
       "description": "您的付款成功。",
       "og_url": "https://globalart.ai/ payment-success",
       "canonical": "https://globalart.ai/ payment-success"
     },
     "payment_failed": {
-      "title": "付款失败 |",
+      "title": "付款失败 | Global Art AI",
       "description": "您的付款不成功。",
       "og_url": "https://globalart.ai/ payment-failed",
       "canonical": "https://globalart.ai/ payment-failed"
     },
     "gift_card_success": {
-      "title": "付款成功 |",
+      "title": "付款成功 | Global Art AI",
       "description": "您的付款成功。",
       "og_url": "https://globalart.ai/gift-card-success",
       "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "付款失败 |",
+      "title": "付款失败 | Global Art AI",
       "description": "您的付款不成功。",
       "og_url": "https://globalart.ai/gift-card-failed",
       "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "主页 |",
+      "title": "主页 | Global Art AI",
       "description": "探索 GlobalArt.ai——一个融合人工智能与创意艺术的尖端平台。",
       "og_url": "https://globalart.ai/",
       "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "艺术家注册|",
+      "title": "艺术家注册 | Global Art AI",
       "description": "以艺术家身份加入 GlobalArt.ai，开启充满机会展示您的才华、与艺术爱好者交流并出售您的创作的机会。",
       "og_url": "https://globalart.ai/artistRegistration",
       "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "艺术家 |",
+      "title": "艺术家 | Global Art AI",
       "description": "GlobalArt.ai 的“艺术家”页面允许用户根据各种标准探索和筛选艺术家，例如绘画类型（肖像、风景）、材料（布面油画、水彩）、风格（现代、古典、城市、照片写实）和",
       "og_url": "https://globalart.ai/artists",
       "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "博客 |",
+      "title": "博客 | Global Art AI",
       "description": "GlobalArt.ai 博客提供各种艺术相关主题的文章和视频，包括艺术中的人工智能、艺术家特征和行业见解。",
       "og_url": "https://globalart.ai/博客",
       "canonical": "https://globalart.ai/博客"
     },
     "artworks": {
-      "title": "艺术品|",
+      "title": "艺术品 | Global Art AI",
       "description": "GlobalArt.ai 上的艺术品页面允许用户探索来自世界各地的各种艺术品。",
       "og_url": "https://globalart.ai/artworks",
       "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "愿望清单 |",
+      "title": "愿望清单 | Global Art AI",
       "description": "GlobalArt.ai 上的愿望清单页面允许用户管理和查看他们最喜欢的艺术品。",
       "og_url": "https://globalart.ai/wishlist",
       "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "购物车 |",
+      "title": "购物车 | Global Art AI",
       "description": "GlobalArt.ai 上的购物车页面允许用户查看和管理他们打算购买的商品。",
       "og_url": "https://globalart.ai/cart",
       "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "关于人工智能 |",
+      "title": "关于人工智能 | Global Art AI",
       "description": "GlobalArt.ai 上的“关于人工智能”页面解释了他们与艺术家合作开发的人工智能艺术生成的道德方法。",
       "og_url": "https://globalart.ai/about-ai",
       "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "市场|",
+      "title": "市场 | Global Art AI",
       "description": "GlobalArt.ai 的 Marketplace 页面将世界各地的艺术家和艺术爱好者联系起来，提供来自 3,943 名艺术家的 10,590 多件现成艺术品。",
       "og_url": "https://globalart.ai/marketplace",
       "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "帮助中心 |",
+      "title": "帮助中心 | Global Art AI",
       "description": "GlobalArt.ai 上的帮助页面提供了有关购买艺术品、作为艺术家获得报酬、委托流程、艺术品运输以及退货和退款流程的常见问题解答。",
       "og_url": "https://globalart.ai/help",
       "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "简介 |",
+      "title": "简介 | Global Art AI",
       "description": "GlobalArt.ai 上的个人资料页面可能允许用户管理他们的个人信息、查看他们的活动并跟踪他们在平台上的互动。",
       "og_url": "https://globalart.ai/profile",
       "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "佣金 |",
+          "title": "佣金 | Global Art AI",
           "description": "在 GlobalArt.ai 上管理您的艺术委托。",
           "og_url": "https://globalart.ai/profile/commissions",
           "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "保存的艺术品 |",
+          "title": "保存的艺术品 | Global Art AI",
           "description": "在 GlobalArt.ai 上探索和管理您保存的艺术品。",
           "og_url": "https://globalart.ai/profile/saved-artworks",
           "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "订单|",
+          "title": "订单 | Global Art AI",
           "description": "在 GlobalArt.ai 上查看和管理您的订单。",
           "og_url": "https://globalart.ai/profile/orders",
           "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "关注艺术家 |",
+          "title": "关注艺术家 | Global Art AI",
           "description": "在 GlobalArt.ai 上关注您最喜欢的艺术家。",
           "og_url": "https://globalart.ai/profile/following-artists",
           "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "评论 |",
+          "title": "评论 | Global Art AI",
           "description": "分享您对 GlobalArt.ai 的反馈。",
           "og_url": "https://globalart.ai/profile/review",
           "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "礼品卡|",
+          "title": "礼品卡 | Global Art AI",
           "description": "在 GlobalArt.ai 上购买和兑换礼品卡。",
           "og_url": "https://globalart.ai/profile/buy-gift-cards",
           "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "账户 |",
+          "title": "账户 | Global Art AI",
           "description": "管理您在 GlobalArt.ai 上的帐户设置。",
           "og_url": "https://globalart.ai/profile/profile",
           "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "地址簿 |",
+          "title": "地址簿 | Global Art AI",
           "description": "在 GlobalArt.ai 上管理您的地址簿。",
           "og_url": "https://globalart.ai/profile/addresses",
           "canonical": "https://globalart.ai/profile"

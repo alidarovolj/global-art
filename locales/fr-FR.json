@@ -5,139 +5,139 @@
   },
   "headers": {
     "payment_success": {
-      "title": "Succès du paiement | ",
+      "title": "Succès du paiement | Global Art AI",
       "description": "Votre paiement a réussi. ",
       "og_url": "https://globalart.ai/payment-success",
       "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "Échec du paiement | ",
+      "title": "Échec du paiement | Global Art AI",
       "description": "Votre paiement a échoué. ",
       "og_url": "https://globalart.ai/payment-failed",
       "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "Succès du paiement | ",
+      "title": "Succès du paiement | Global Art AI",
       "description": "Votre paiement a réussi. ",
       "og_url": "https://globalart.ai/gift-card-success",
       "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "Échec du paiement | ",
+      "title": "Échec du paiement | Global Art AI",
       "description": "Votre paiement a échoué. ",
       "og_url": "https://globalart.ai/gift-card-failed",
       "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "Page principale | ",
+      "title": "Page principale | Global Art AI",
       "description": "Découvrez GlobalArt.ai – une plateforme de pointe qui allie intelligence artificielle et art créatif. ",
       "og_url": "https://globalart.ai/",
       "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "Inscription des artistes | ",
+      "title": "Inscription des artistes | Global Art AI",
       "description": "Rejoignez GlobalArt.ai en tant qu'artiste et débloquez un monde d'opportunités pour mettre en valeur votre talent, vous connecter avec des amateurs d'art et vendre vos créations. ",
       "og_url": "https://globalart.ai/artistRegistration",
       "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "Artistes | ",
+      "title": "Artistes | Global Art AI",
       "description": "La page « Artistes » de GlobalArt.ai permet aux utilisateurs d'explorer et de filtrer les artistes en fonction de divers critères tels que le type de peinture (portrait, paysage), les matériaux (huile sur toile, aquarelle), les styles (moderne, classique, urbain, photoréaliste) et ",
       "og_url": "https://globalart.ai/artists",
       "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "Blogue | ",
+      "title": "Blogue | Global Art AI",
       "description": "Le blog GlobalArt.ai propose des articles et des vidéos sur divers sujets liés à l'art, notamment l'IA dans l'art, les fonctionnalités des artistes et les informations sur l'industrie. ",
       "og_url": "https://globalart.ai/blog",
       "canonical": "https://globalart.ai/blog"
     },
     "artworks": {
-      "title": "Oeuvres | ",
+      "title": "Oeuvres | Global Art AI",
       "description": "La page Œuvres d'art sur GlobalArt.ai permet aux utilisateurs d'explorer un large éventail d'œuvres d'art du monde entier. ",
       "og_url": "https://globalart.ai/artworks",
       "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "Liste de souhaits | ",
+      "title": "Liste de souhaits | Global Art AI",
       "description": "La page Liste de souhaits sur GlobalArt.ai permet aux utilisateurs de gérer et de visualiser leurs œuvres d'art préférées. ",
       "og_url": "https://globalart.ai/wishlist",
       "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "Panier | ",
+      "title": "Panier | Global Art AI",
       "description": "La page Panier sur GlobalArt.ai permet aux utilisateurs de visualiser et de gérer les articles qu'ils ont l'intention d'acheter.",
       "og_url": "https://globalart.ai/cart",
       "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "À propos de l'IA | ",
+      "title": "À propos de l'IA | Global Art AI",
       "description": "La page « À propos de l'IA » sur GlobalArt.ai explique leur approche éthique de la génération d'art IA, développée en collaboration avec des artistes. ",
       "og_url": "https://globalart.ai/about-ai",
       "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "Marché | ",
+      "title": "Marché | Global Art AI",
       "description": "La page Marketplace sur GlobalArt.ai met en relation les artistes et les amateurs d'art du monde entier, proposant plus de 10 590 œuvres d'art prêtes à l'emploi de 3 943 artistes. ",
       "og_url": "https://globalart.ai/marketplace",
       "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "Centre d'aide | ",
+      "title": "Centre d'aide | Global Art AI",
       "description": "La page d'aide sur GlobalArt.ai fournit des réponses aux questions fréquemment posées sur l'achat d'œuvres d'art, la rémunération en tant qu'artiste, le processus de commande, l'expédition des œuvres d'art et le processus de retour et de remboursement. ",
       "og_url": "https://globalart.ai/help",
       "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "Profil | ",
+      "title": "Profil | Global Art AI",
       "description": "La page Profil sur GlobalArt.ai permet probablement aux utilisateurs de gérer leurs informations personnelles, de visualiser leur activité et de suivre leurs interactions sur la plateforme. ",
       "og_url": "https://globalart.ai/profile",
       "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "Commissions | ",
+          "title": "Commissions | Global Art AI",
           "description": "Gérez vos commandes artistiques sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/commissions",
           "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "Œuvres d'art enregistrées | ",
+          "title": "Œuvres d'art enregistrées | Global Art AI",
           "description": "Explorez et gérez vos œuvres d'art enregistrées sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/saved-artworks",
           "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "Commandes | ",
+          "title": "Commandes | Global Art AI",
           "description": "Consultez et gérez vos commandes sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/orders",
           "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "Artistes suivants | ",
+          "title": "Artistes suivants | Global Art AI",
           "description": "Suivez vos artistes préférés sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/following-artists",
           "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "Commentaires | ",
+          "title": "Commentaires | Global Art AI",
           "description": "Partagez vos commentaires sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/review",
           "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "Cartes-cadeaux | ",
+          "title": "Cartes-cadeaux | Global Art AI",
           "description": "Achetez et échangez des cartes-cadeaux sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/buy-gift-cards",
           "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "Compte | ",
+          "title": "Compte | Global Art AI",
           "description": "Gérez les paramètres de votre compte sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/profile",
           "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "Carnet d'adresses | ",
+          "title": "Carnet d'adresses | Global Art AI",
           "description": "Gérez votre carnet d'adresses sur GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/addresses",
           "canonical": "https://globalart.ai/profile"

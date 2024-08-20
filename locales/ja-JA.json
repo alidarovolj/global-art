@@ -5,139 +5,139 @@
   },
   "headers": {
     "payment_success": {
-      "title": "支払い成功 |",
+      "title": "支払い成功 | Global Art AI",
       "description": "お支払いは正常に完了しました。",
       "og_url": "https://globalart.ai/payment-success",
       "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "支払いに失敗しました |",
+      "title": "支払いに失敗しました | Global Art AI",
       "description": "お支払いは失敗しました。",
       "og_url": "https://globalart.ai/payment-failed",
       "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "支払い成功 |",
+      "title": "支払い成功 | Global Art AI",
       "description": "お支払いは正常に完了しました。",
       "og_url": "https://globalart.ai/gift-card-success",
       "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "支払いに失敗しました |",
+      "title": "支払いに失敗しました | Global Art AI",
       "description": "お支払いは失敗しました。",
       "og_url": "https://globalart.ai/gift-card-failed",
       "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "メインページ |",
+      "title": "メインページ | Global Art AI",
       "description": "GlobalArt.ai – 人工知能と創造的なアートを融合する最先端のプラットフォームをご覧ください。 ",
       "og_url": "https://globalart.ai/",
       "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "アーティスト登録 |",
+      "title": "アーティスト登録 | Global Art AI",
       "description": "アーティストとして GlobalArt.ai に参加し、あなたの才能を披露し、アート愛好家とつながり、あなたの作品を販売する機会の世界を解き放ちましょう。",
       "og_url": "https://globalart.ai/artistRegistration",
       "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "アーティスト |",
+      "title": "アーティスト | Global Art AI",
       "description": "GlobalArt.ai の「アーティスト」ページでは、ユーザーは絵画の種類 (肖像画、風景画)、素材 (キャンバスに油彩、水彩画)、スタイル (モダン、クラシック、都会的、フォトリアリスティック)、",
       "og_url": "https://globalart.ai/artists",
       "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "ブログ |",
+      "title": "ブログ | Global Art AI",
       "description": "GlobalArt.ai ブログでは、アートにおける AI、アーティストの特徴、業界の洞察など、さまざまなアート関連のトピックに関する記事やビデオを提供しています。",
       "og_url": "https://globalart.ai/ブログ",
       "canonical": "https://globalart.ai/ブログ"
     },
     "artworks": {
-      "title": "作品 |",
+      "title": "作品 | Global Art AI",
       "description": "GlobalArt.ai のアートワーク ページでは、ユーザーは世界中の幅広いアートワークを探索できます。",
       "og_url": "https://globalart.ai/artworks",
       "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "ウィッシュリスト |",
+      "title": "ウィッシュリスト | Global Art AI",
       "description": "GlobalArt.ai のウィッシュリスト ページでは、ユーザーがお気に入りのアートワークを管理および表示できます。",
       "og_url": "https://globalart.ai/wishlist",
       "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "カート |",
+      "title": "カート | Global Art AI",
       "description": "GlobalArt.ai のカート ページでは、ユーザーが購入予定の商品を表示および管理できます。",
       "og_url": "https://globalart.ai/cart",
       "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "AIについて |",
+      "title": "AIについて | Global Art AI",
       "description": "GlobalArt.ai の「AI について」ページでは、アーティストと協力して開発された AI アート生成に対する倫理的アプローチが説明されています。",
       "og_url": "https://globalart.ai/about-ai",
       "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "マーケットプレイス |",
+      "title": "マーケットプレイス | Global Art AI",
       "description": "GlobalArt.ai のマーケットプレイス ページでは、世界中のアーティストとアート愛好家を結び付け、3,943 人のアーティストによる 10,590 点以上の既成作品を提供しています。",
       "og_url": "https://globalart.ai/マーケットプレイス",
       "canonical": "https://globalart.ai/マーケットプレイス"
     },
     "help": {
-      "title": "ヘルプセンター |",
+      "title": "ヘルプセンター | Global Art AI",
       "description": "GlobalArt.ai のヘルプ ページには、アートワークの購入、アーティストとしての報酬の受け取り、委託プロセス、アートワークの発送、返品と返金のプロセスに関するよくある質問への回答が記載されています。",
       "og_url": "https://globalart.ai/ヘルプ",
       "canonical": "https://globalart.ai/ヘルプ"
     },
     "profile": {
-      "title": "プロフィール |",
+      "title": "プロフィール | Global Art AI",
       "description": "GlobalArt.ai のプロフィール ページでは、ユーザーが自分の個人情報を管理し、アクティビティを表示し、プラットフォーム上でのやり取りを追跡できる可能性があります。",
       "og_url": "https://globalart.ai/profile",
       "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "手数料 |",
+          "title": "手数料 | Global Art AI",
           "description": "GlobalArt.ai でアート コミッションを管理します。",
           "og_url": "https://globalart.ai/profile/commissions",
           "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "保存されたアートワーク |",
+          "title": "保存されたアートワーク | Global Art AI",
           "description": "GlobalArt.ai で保存したアートワークを探索して管理します。",
           "og_url": "https://globalart.ai/profile/saved-artworks",
           "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "注文 |",
+          "title": "注文 | Global Art AI",
           "description": "GlobalArt.ai で注文を表示および管理します。",
           "og_url": "https://globalart.ai/profile/orders",
           "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "アーティストをフォロー中 |",
+          "title": "アーティストをフォロー中 | Global Art AI",
           "description": "GlobalArt.ai でお気に入りのアーティストをフォローしてください。",
           "og_url": "https://globalart.ai/profile/following-artists",
           "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "レビュー |",
+          "title": "レビュー | Global Art AI",
           "description": "GlobalArt.ai でフィードバックを共有してください。",
           "og_url": "https://globalart.ai/profile/review",
           "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "ギフトカード |",
+          "title": "ギフトカード | Global Art AI",
           "description": "GlobalArt.ai でギフト カードを購入して引き換えます。",
           "og_url": "https://globalart.ai/profile/buy-gift-cards",
           "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "アカウント |",
+          "title": "アカウント | Global Art AI",
           "description": "GlobalArt.ai でアカウント設定を管理します。",
           "og_url": "https://globalart.ai/profile/profile",
           "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "アドレス帳 |",
+          "title": "アドレス帳 | Global Art AI",
           "description": "GlobalArt.ai でアドレス帳を管理します。",
           "og_url": "https://globalart.ai/profile/addresses",
           "canonical": "https://globalart.ai/profile"

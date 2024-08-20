@@ -5,139 +5,139 @@
   },
   "headers": {
     "payment_success": {
-      "title": "نجاح الدفع | ",
+      "title": "نجاح الدفع",
       "description": "كانت عملية الدفع ناجحة. ",
       "og_url": "https://globalart.ai/Payment-success",
       "canonical": "https://globalart.ai/Payment-success"
     },
     "payment_failed": {
-      "title": "فشل الدفع | ",
+      "title": "فشل الدفع",
       "description": "لم تكن عملية الدفع الخاصة بك ناجحة. ",
       "og_url": "https://globalart.ai/Payment-failed",
       "canonical": "https://globalart.ai/Payment-failed"
     },
     "gift_card_success": {
-      "title": "نجاح الدفع | ",
+      "title": "نجاح الدفع",
       "description": "كانت عملية الدفع ناجحة. ",
       "og_url": "https://globalart.ai/gift-card-success",
       "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "فشل الدفع | ",
+      "title": "فشل الدفع",
       "description": "لم تكن عملية الدفع الخاصة بك ناجحة. ",
       "og_url": "https://globalart.ai/gift-card-failed",
       "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "الصفحة الرئيسية | ",
+      "title": "الصفحة الرئيسية",
       "description": "اكتشف GlobalArt.ai - منصة متطورة تمزج الذكاء الاصطناعي مع الفن الإبداعي. ",
       "og_url": "https://globalart.ai/",
       "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "تسجيل الفنان | ",
+      "title": "تسجيل الفنان",
       "description": "انضم إلى GlobalArt.ai كفنان وافتح عالمًا من الفرص لعرض موهبتك والتواصل مع محبي الفن وبيع إبداعاتك. ",
       "og_url": "https://globalart.ai/artistRegistration",
       "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "فنانين | ",
+      "title": "فنانين",
       "description": "تتيح صفحة \"الفنانين\" في GlobalArt.ai للمستخدمين استكشاف الفنانين وتصفيتهم بناءً على معايير مختلفة مثل نوع اللوحة (صورة شخصية، منظر طبيعي)، والمواد (زيت على قماش، ألوان مائية)، والأنماط (حديثة، كلاسيكية، حضرية، واقعية)، و ",
       "og_url": "https://globalart.ai/artists",
       "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "مدونة | ",
+      "title": "مدونة",
       "description": "تقدم مدونة GlobalArt.ai مقالات ومقاطع فيديو حول مواضيع مختلفة متعلقة بالفن، بما في ذلك الذكاء الاصطناعي في الفن، وميزات الفنان، ورؤى الصناعة. ",
       "og_url": "https://globalart.ai/blog",
       "canonical": "https://globalart.ai/blog"
     },
     "artworks": {
-      "title": "أعمال فنية | ",
+      "title": "أعمال فنية",
       "description": "تتيح صفحة الأعمال الفنية على GlobalArt.ai للمستخدمين استكشاف مجموعة واسعة من الأعمال الفنية من جميع أنحاء العالم. ",
       "og_url": "https://globalart.ai/artworks",
       "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "قائمة الرغبات | ",
+      "title": "قائمة الرغبات",
       "description": "تتيح صفحة قائمة الرغبات على GlobalArt.ai للمستخدمين إدارة وعرض أعمالهم الفنية المفضلة. ",
       "og_url": "https://globalart.ai/wishlist",
       "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "عربة | ",
+      "title": "عربة",
       "description": "تتيح صفحة سلة التسوق على GlobalArt.ai للمستخدمين عرض وإدارة العناصر التي ينوون شرائها.",
       "og_url": "https://globalart.ai/cart",
       "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "حول الذكاء الاصطناعي | ",
+      "title": "حول الذكاء الاصطناعي",
       "description": "تشرح صفحة \"حول الذكاء الاصطناعي\" على موقع GlobalArt.ai النهج الأخلاقي الذي يتبعونه في توليد فن الذكاء الاصطناعي، والذي تم تطويره بالتعاون مع الفنانين. ",
       "og_url": "https://globalart.ai/about-ai",
       "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "السوق | ",
+      "title": "السوق",
       "description": "تربط صفحة Marketplace على GlobalArt.ai بين الفنانين ومحبي الفن في جميع أنحاء العالم، حيث تقدم أكثر من 10,590 عملاً فنيًا جاهزًا من 3,943 فنانًا. ",
       "og_url": "https://globalart.ai/marketplace",
       "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "مركز المساعدة | ",
+      "title": "مركز المساعدة",
       "description": "توفر صفحة المساعدة على GlobalArt.ai إجابات على الأسئلة المتداولة حول شراء الأعمال الفنية، والحصول على أموال كفنان، وعملية التكليف، وشحن العمل الفني، وعملية الإرجاع واسترداد الأموال. ",
       "og_url": "https://globalart.ai/help",
       "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "الملف الشخصي | ",
+      "title": "الملف الشخصي",
       "description": "من المحتمل أن تسمح صفحة الملف الشخصي على GlobalArt.ai للمستخدمين بإدارة معلوماتهم الشخصية وعرض نشاطهم وتتبع تفاعلاتهم على النظام الأساسي. ",
       "og_url": "https://globalart.ai/profile",
       "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "اللجان | ",
+          "title": "اللجان",
           "description": "إدارة اللجان الفنية الخاصة بك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/commissions",
           "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "الأعمال الفنية المحفوظة | ",
+          "title": "الأعمال الفنية المحفوظة",
           "description": "استكشف أعمالك الفنية المحفوظة وقم بإدارتها على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/saved-artworks",
           "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "الطلبات | ",
+          "title": "الطلبات",
           "description": "عرض وإدارة طلباتك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/orders",
           "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "متابعة الفنانين | ",
+          "title": "متابعة الفنانين",
           "description": "اتبع الفنانين المفضلين لديك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/following-artists",
           "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "التعليقات | ",
+          "title": "التعليقات",
           "description": "شارك بتعليقاتك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/review",
           "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "بطاقات الهدايا | ",
+          "title": "بطاقات الهدايا",
           "description": "قم بشراء واسترداد بطاقات الهدايا على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/buy-gift-cards",
           "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "الحساب | ",
+          "title": "الحساب",
           "description": "إدارة إعدادات حسابك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/profile",
           "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "دفتر العناوين | ",
+          "title": "دفتر العناوين",
           "description": "قم بإدارة دفتر العناوين الخاص بك على GlobalArt.ai. ",
           "og_url": "https://globalart.ai/profile/addresses",
           "canonical": "https://globalart.ai/profile"

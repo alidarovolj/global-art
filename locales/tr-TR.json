@@ -5,139 +5,139 @@
   },
   "headers": {
     "payment_success": {
-      "title": "Ödeme başarısı | ",
+      "title": "Ödeme başarısı | Global Art AI",
       "description": "Ödemeniz başarılı oldu. ",
       "og_url": "https://globalart.ai/payment-success",
       "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "Ödeme başarısız oldu | ",
+      "title": "Ödeme başarısız oldu | Global Art AI",
       "description": "Ödemeniz başarısız oldu. ",
       "og_url": "https://globalart.ai/payment-failed",
       "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "Ödeme başarısı | ",
+      "title": "Ödeme başarısı | Global Art AI",
       "description": "Ödemeniz başarılı oldu. ",
       "og_url": "https://globalart.ai/gift-card-success",
       "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "Ödeme başarısız oldu | ",
+      "title": "Ödeme başarısız oldu | Global Art AI",
       "description": "Ödemeniz başarısız oldu. ",
       "og_url": "https://globalart.ai/gift-card-failed",
       "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "Ana Sayfa | ",
+      "title": "Ana Sayfa | Global Art AI",
       "description": "Yapay zekayı yaratıcı sanatla birleştiren son teknoloji ürünü bir platform olan GlobalArt.ai'yi keşfedin. ",
       "og_url": "https://globalart.ai/",
       "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "Sanatçı kaydı | ",
+      "title": "Sanatçı kaydı | Global Art AI",
       "description": "GlobalArt.ai'ye bir sanatçı olarak katılın ve yeteneğinizi sergilemek, sanatseverlerle bağlantı kurmak ve kreasyonlarınızı satmak için fırsatlar dünyasının kilidini açın. ",
       "og_url": "https://globalart.ai/artistRegistration",
       "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "Sanatçılar | ",
+      "title": "Sanatçılar | Global Art AI",
       "description": "GlobalArt.ai'nin 'Sanatçılar' sayfası, kullanıcıların sanatçıları resim türü (portre, manzara), malzemeler (tuval üzerine yağlıboya, sulu boya), stiller (modern, klasik, kentsel, fotogerçekçi) gibi çeşitli kriterlere göre keşfetmesine ve filtrelemesine olanak tanır. ",
       "og_url": "https://globalart.ai/artists",
       "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "Blog | ",
+      "title": "Blog | Global Art AI",
       "description": "GlobalArt.ai blogu, sanatta yapay zeka, sanatçı özellikleri ve sektörle ilgili bilgiler de dahil olmak üzere sanatla ilgili çeşitli konularda makaleler ve videolar sunuyor. ",
       "og_url": "https://globalart.ai/blog",
       "canonical": "https://globalart.ai/blog"
     },
     "artworks": {
-      "title": "Sanat Eserleri | ",
+      "title": "Sanat Eserleri | Global Art AI",
       "description": "GlobalArt.ai'deki Sanat Eserleri sayfası, kullanıcıların dünyanın dört bir yanından çok çeşitli sanat eserlerini keşfetmesine olanak tanır. ",
       "og_url": "https://globalart.ai/artworks",
       "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "İstek Listesi | ",
+      "title": "İstek Listesi | Global Art AI",
       "description": "GlobalArt.ai'deki İstek Listesi sayfası, kullanıcıların en sevdikleri sanat eserlerini yönetmelerine ve görüntülemelerine olanak tanır. ",
       "og_url": "https://globalart.ai/wishlist",
       "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "Sepet | ",
+      "title": "Sepet | Global Art AI",
       "description": "GlobalArt.ai'deki Sepet sayfası, kullanıcıların satın almayı düşündükleri ürünleri görüntülemesine ve yönetmesine olanak tanır.",
       "og_url": "https://globalart.ai/cart",
       "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "Yapay Zeka Hakkında | ",
+      "title": "Yapay Zeka Hakkında | Global Art AI",
       "description": "GlobalArt.ai'deki 'Yapay Zeka Hakkında' sayfası, sanatçılarla işbirliği içinde geliştirilen yapay zeka sanat üretimine yönelik etik yaklaşımlarını açıklıyor. ",
       "og_url": "https://globalart.ai/about-ai",
       "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "Pazaryeri | ",
+      "title": "Pazaryeri | Global Art AI",
       "description": "GlobalArt.ai'deki Marketplace sayfası, dünya çapındaki sanatçıları ve sanatseverleri buluşturarak 3.943 sanatçının 10.590'ı aşkın hazır sanat eserini sunuyor. ",
       "og_url": "https://globalart.ai/marketplace",
       "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "Yardım Merkezi | ",
+      "title": "Yardım Merkezi | Global Art AI",
       "description": "GlobalArt.ai'deki Yardım sayfası, sanat eserlerinin satın alınması, sanatçı olarak ödeme alınması, işletmeye alma süreci, sanat eserlerinin nakliyesi ve iade ve geri ödeme süreci hakkında sık sorulan soruların yanıtlarını sağlar. ",
       "og_url": "https://globalart.ai/help",
       "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "Profil | ",
+      "title": "Profil | Global Art AI",
       "description": "GlobalArt.ai'deki Profil sayfası muhtemelen kullanıcıların kişisel bilgilerini yönetmelerine, etkinliklerini görüntülemelerine ve platformdaki etkileşimlerini takip etmelerine olanak tanıyor. ",
       "og_url": "https://globalart.ai/profile",
       "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "Komisyonlar | ",
+          "title": "Komisyonlar | Global Art AI",
           "description": "GlobalArt.ai'de sanat komisyonlarınızı yönetin. ",
           "og_url": "https://globalart.ai/profile/commissions",
           "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "Kaydedilen Sanat Eserleri | ",
+          "title": "Kaydedilen Sanat Eserleri | Global Art AI",
           "description": "Kayıtlı sanat eserlerinizi GlobalArt.ai'de keşfedin ve yönetin. ",
           "og_url": "https://globalart.ai/profile/saved-artworks",
           "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "Siparişler | ",
+          "title": "Siparişler | Global Art AI",
           "description": "Siparişlerinizi GlobalArt.ai'de görüntüleyin ve yönetin. ",
           "og_url": "https://globalart.ai/profile/orders",
           "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "Takip Edilen Sanatçılar | ",
+          "title": "Takip Edilen Sanatçılar | Global Art AI",
           "description": "En sevdiğiniz sanatçıları GlobalArt.ai'de takip edin. ",
           "og_url": "https://globalart.ai/profile/following-artists",
           "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "İncelemeler | ",
+          "title": "İncelemeler | Global Art AI",
           "description": "Geri bildiriminizi GlobalArt.ai'de paylaşın. ",
           "og_url": "https://globalart.ai/profile/review",
           "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "Hediye Kartları | ",
+          "title": "Hediye Kartları | Global Art AI",
           "description": "GlobalArt.ai'de hediye kartları satın alın ve kullanın. ",
           "og_url": "https://globalart.ai/profile/buy-gift-cards",
           "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "Hesap | ",
+          "title": "Hesap | Global Art AI",
           "description": "GlobalArt.ai'de hesap ayarlarınızı yönetin. ",
           "og_url": "https://globalart.ai/profile/profile",
           "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "Adres Defteri | ",
+          "title": "Adres Defteri | Global Art AI",
           "description": "GlobalArt.ai'deki adres defterinizi yönetin. ",
           "og_url": "https://globalart.ai/profile/addresses",
           "canonical": "https://globalart.ai/profile"
