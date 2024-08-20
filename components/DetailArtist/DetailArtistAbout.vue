@@ -72,7 +72,7 @@ const translatedBaseInfo = computed(() =>
           {{ $t("detailArtist.about.title") }}
         </h2>
         <p class="mt-6 text-[#757575]">
-          <ShowMoreLess :text="translatedBaseInfo.artist_about" max-lines="3" />
+          <ShowMoreLess :text="translatedBaseInfo.artist_about" max-lines="3"/>
         </p>
       </div>
       <div class="w-full md:w-1/2 mb-10 md:mb-0">
@@ -80,7 +80,7 @@ const translatedBaseInfo = computed(() =>
           {{ $t("detailArtist.about.creativeCreed") }}
         </h2>
         <p v-if="translatedBaseInfo.artist_credo" class="mt-6 text-[#757575]">
-          <ShowMoreLess :text="translatedBaseInfo.artist_credo" max-lines="3" />
+          <ShowMoreLess :text="translatedBaseInfo.artist_credo" max-lines="3"/>
         </p>
       </div>
     </div>
