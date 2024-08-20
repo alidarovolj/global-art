@@ -1,271 +1,277 @@
 {
+  "search_general": {
+    "title": "Recherche",
+    "placeholder": "Recherche par nom d'artiste"
+  },
   "headers": {
     "payment_success": {
-      "title": "Paiement réussi | Global Art AI",
-      "description": "Votre paiement a été effectué avec succès. Merci pour votre achat. Vous recevrez un e-mail de confirmation sous peu.",
-      "og_url": "https://globalart.ai/fr-FR/payment-success",
-      "canonical": "https://globalart.ai/fr-FR/payment-success"
+      "title": "Succès du paiement | ",
+      "description": "Votre paiement a réussi. ",
+      "og_url": "https://globalart.ai/payment-success",
+      "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "Échec du paiement | Global Art AI",
-      "description": "Votre paiement n'a pas abouti. Veuillez réessayer ou contacter le support client pour obtenir de l'aide.",
-      "og_url": "https://globalart.ai/fr-FR/payment-failed",
-      "canonical": "https://globalart.ai/fr-FR/payment-failed"
+      "title": "Échec du paiement | ",
+      "description": "Votre paiement a échoué. ",
+      "og_url": "https://globalart.ai/payment-failed",
+      "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "Paiement réussi | Global Art AI",
-      "description": "Votre paiement a été effectué avec succès. Merci pour votre achat. Vous recevrez une confirmation par email sous peu.",
-      "og_url": "https://globalart.ai/fr-FR/gift-card-success",
-      "canonical": "https://globalart.ai/fr-FR/gift-card-success"
+      "title": "Succès du paiement | ",
+      "description": "Votre paiement a réussi. ",
+      "og_url": "https://globalart.ai/gift-card-success",
+      "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "Échec du paiement | Global Art AI",
-      "description": "Votre paiement n'a pas été effectué. Veuillez réessayer ou contacter le support client pour obtenir de l'aide.",
-      "og_url": "https://globalart.ai/fr-FR/gift-card-failed",
-      "canonical": "https://globalart.ai/fr-FR/gift-card-failed"
+      "title": "Échec du paiement | ",
+      "description": "Votre paiement a échoué. ",
+      "og_url": "https://globalart.ai/gift-card-failed",
+      "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "Page Principale | Global Art AI",
-      "description": "Découvrez GlobalArt.ai – une plateforme de pointe qui combine intelligence artificielle et art créatif. Explorez des œuvres d'art générées par IA, des outils innovants pour les artistes et rejoignez une communauté de créateurs utilisant la technologie pour repousser les limites artistiques. Que vous soyez un artiste cherchant à améliorer votre créativité avec l'IA ou un amateur d'art, GlobalArt.ai offre des perspectives et des ressources uniques pour le monde de l'art moderne.",
-      "og_url": "https://globalart.ai/fr-FR/",
-      "canonical": "https://globalart.ai/fr-FR/"
+      "title": "Page principale | ",
+      "description": "Découvrez GlobalArt.ai – une plateforme de pointe qui allie intelligence artificielle et art créatif. ",
+      "og_url": "https://globalart.ai/",
+      "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "Inscription artiste | Global Art AI",
-      "description": "Rejoignez GlobalArt.ai en tant qu'artiste et découvrez un monde d'opportunités pour montrer votre talent, vous connecter avec les amateurs d'art et vendre vos créations. Inscrivez-vous dès aujourd'hui pour créer votre profil d'artiste, télécharger votre portfolio et commencer à vendre votre art à un public mondial. Que vous soyez peintre, sculpteur, photographe ou artiste numérique, GlobalArt.ai fournit la plateforme et les outils pour élever votre carrière artistique.",
-      "og_url": "https://globalart.ai/fr-FR/artistRegistration",
-      "canonical": "https://globalart.ai/fr-FR/artistRegistration"
+      "title": "Inscription des artistes | ",
+      "description": "Rejoignez GlobalArt.ai en tant qu'artiste et débloquez un monde d'opportunités pour mettre en valeur votre talent, vous connecter avec des amateurs d'art et vendre vos créations. ",
+      "og_url": "https://globalart.ai/artistRegistration",
+      "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "Artistes | Global Art AI",
-      "description": "La page 'Artistes' de GlobalArt.ai permet aux utilisateurs d'explorer et de filtrer les artistes selon divers critères tels que le type de peinture (portrait, paysage), les matériaux (huile sur toile, aquarelle), les styles (moderne, classique, urbain, photoréaliste) et la localisation. Elle offre également des options pour trier les artistes par popularité ou par prix et fournit des fonctionnalités pour commander des œuvres d'art personnalisées.",
-      "og_url": "https://globalart.ai/fr-FR/artists",
-      "canonical": "https://globalart.ai/fr-FR/artists"
+      "title": "Artistes | ",
+      "description": "La page « Artistes » de GlobalArt.ai permet aux utilisateurs d'explorer et de filtrer les artistes en fonction de divers critères tels que le type de peinture (portrait, paysage), les matériaux (huile sur toile, aquarelle), les styles (moderne, classique, urbain, photoréaliste) et ",
+      "og_url": "https://globalart.ai/artists",
+      "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "Blog | Global Art AI",
-      "description": "Le blog de GlobalArt.ai propose des articles et des vidéos sur divers sujets liés à l'art, y compris l'IA dans l'art, les profils d'artistes et les perspectives de l'industrie. Il vise à éduquer et inspirer les artistes et les amateurs d'art avec des mises à jour hebdomadaires.",
-      "og_url": "https://globalart.ai/fr-FR/blog",
-      "canonical": "https://globalart.ai/fr-FR/blog"
+      "title": "Blogue | ",
+      "description": "Le blog GlobalArt.ai propose des articles et des vidéos sur divers sujets liés à l'art, notamment l'IA dans l'art, les fonctionnalités des artistes et les informations sur l'industrie. ",
+      "og_url": "https://globalart.ai/blog",
+      "canonical": "https://globalart.ai/blog"
     },
     "artworks": {
-      "title": "Œuvres d'Art | Global Art AI",
-      "description": "La page 'Œuvres d'Art' de GlobalArt.ai permet aux utilisateurs d'explorer une large gamme d'œuvres d'art du monde entier. Elle propose des filtres par année, prix, mouvement et style, rareté, matériaux et styles. Les utilisateurs peuvent trier les œuvres d'art par popularité ou prix et voir les pièces à vendre ou vendues.",
-      "og_url": "https://globalart.ai/fr-FR/artworks",
-      "canonical": "https://globalart.ai/fr-FR/artworks"
+      "title": "Oeuvres | ",
+      "description": "La page Œuvres d'art sur GlobalArt.ai permet aux utilisateurs d'explorer un large éventail d'œuvres d'art du monde entier. ",
+      "og_url": "https://globalart.ai/artworks",
+      "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "Liste de Souhaits | Global Art AI",
-      "description": "La page 'Liste de Souhaits' de GlobalArt.ai permet aux utilisateurs de gérer et de voir leurs œuvres d'art préférées. Elle offre des fonctionnalités pour ajouter des pièces à une collection personnalisée, aidant les utilisateurs à suivre l'art qui les intéresse.",
-      "og_url": "https://globalart.ai/fr-FR/wishlist",
-      "canonical": "https://globalart.ai/fr-FR/wishlist"
+      "title": "Liste de souhaits | ",
+      "description": "La page Liste de souhaits sur GlobalArt.ai permet aux utilisateurs de gérer et de visualiser leurs œuvres d'art préférées. ",
+      "og_url": "https://globalart.ai/wishlist",
+      "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "Panier | Global Art AI",
-      "description": "La page 'Panier' de GlobalArt.ai permet aux utilisateurs de voir et de gérer les articles qu'ils envisagent d'acheter.",
-      "og_url": "https://globalart.ai/fr-FR/cart",
-      "canonical": "https://globalart.ai/fr-FR/cart"
+      "title": "Panier | ",
+      "description": "La page Panier sur GlobalArt.ai permet aux utilisateurs de visualiser et de gérer les articles qu'ils ont l'intention d'acheter.",
+      "og_url": "https://globalart.ai/cart",
+      "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "À Propos de l'IA | Global Art AI",
-      "description": "La page 'À Propos de l'IA' de GlobalArt.ai explique leur approche éthique de la génération d'art par IA, développée en collaboration avec des artistes. Elle met en avant des fonctionnalités telles que la création d'art à partir de zéro, l'édition de photos avec des styles artistiques, le redimensionnement et la modification d'art existant, ainsi que des cas d'utilisation pour divers professionnels comme les designers d'intérieur et les spécialistes du marketing digital. La plateforme insiste sur l'utilisation responsable de l'IA, en veillant à ce que les droits des artistes soient respectés.",
-      "og_url": "https://globalart.ai/fr-FR/about-ai",
-      "canonical": "https://globalart.ai/fr-FR/about-ai"
+      "title": "À propos de l'IA | ",
+      "description": "La page « À propos de l'IA » sur GlobalArt.ai explique leur approche éthique de la génération d'art IA, développée en collaboration avec des artistes. ",
+      "og_url": "https://globalart.ai/about-ai",
+      "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "Marché | Global Art AI",
-      "description": "La page 'Marché' de GlobalArt.ai connecte les artistes et les amateurs d'art du monde entier, offrant plus de 10 590 œuvres d'art prêtes à l'emploi de 3 943 artistes. Elle propose des outils pour découvrir et acheter de l'art, des recommandations d'IA, des commandes d'art personnalisées et la réalité augmentée pour visualiser l'art dans votre espace. La plateforme garantit l'authenticité avec des certificats et offre une collaboration directe avec les artistes et les experts.",
-      "og_url": "https://globalart.ai/fr-FR/marketplace",
-      "canonical": "https://globalart.ai/fr-FR/marketplace"
+      "title": "Marché | ",
+      "description": "La page Marketplace sur GlobalArt.ai met en relation les artistes et les amateurs d'art du monde entier, proposant plus de 10 590 œuvres d'art prêtes à l'emploi de 3 943 artistes. ",
+      "og_url": "https://globalart.ai/marketplace",
+      "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "Centre d'Aide | Global Art AI",
-      "description": "La page 'Aide' de GlobalArt.ai fournit des réponses aux questions fréquemment posées sur l'achat d'œuvres d'art, le paiement en tant qu'artiste, le processus de commande, l'expédition des œuvres d'art ainsi que le processus de retour et de remboursement. Elle offre des conseils sur l'utilisation de la plateforme et la résolution des problèmes courants.",
-      "og_url": "https://globalart.ai/fr-FR/help",
-      "canonical": "https://globalart.ai/fr-FR/help"
+      "title": "Centre d'aide | ",
+      "description": "La page d'aide sur GlobalArt.ai fournit des réponses aux questions fréquemment posées sur l'achat d'œuvres d'art, la rémunération en tant qu'artiste, le processus de commande, l'expédition des œuvres d'art et le processus de retour et de remboursement. ",
+      "og_url": "https://globalart.ai/help",
+      "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "Profil | Global Art AI",
-      "description": "La page 'Profil' de GlobalArt.ai permet probablement aux utilisateurs de gérer leurs informations personnelles, de voir leur activité et de suivre leurs interactions sur la plateforme. Elle peut inclure des paramètres pour les préférences de compte, la sécurité et les options de communication.",
-      "og_url": "https://globalart.ai/fr-FR/profile",
-      "canonical": "https://globalart.ai/fr-FR/profile",
+      "title": "Profil | ",
+      "description": "La page Profil sur GlobalArt.ai permet probablement aux utilisateurs de gérer leurs informations personnelles, de visualiser leur activité et de suivre leurs interactions sur la plateforme. ",
+      "og_url": "https://globalart.ai/profile",
+      "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "Commissions | Global Art AI",
-          "description": "Gérez vos commissions d'art sur GlobalArt.ai. Voir, suivre et mettre à jour l'état de vos œuvres d'art commandées, communiquer avec les artistes et gérer les détails de paiement. Restez organisé et assurez-vous que vos demandes d'art personnalisées sont sur la bonne voie et alignées sur votre vision.",
-          "og_url": "https://globalart.ai/fr-FR/profile/commissions",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Commissions | ",
+          "description": "Gérez vos commandes artistiques sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/commissions",
+          "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "Œuvres d'Art Enregistrées | Global Art AI",
-          "description": "Explorez et gérez vos œuvres d'art enregistrées sur GlobalArt.ai. Suivez vos pièces préférées, organisez votre collection et accédez facilement aux œuvres d'art que vous aimez. Améliorez votre expérience de navigation artistique en enregistrant et en revisitant vos meilleurs choix.",
-          "og_url": "https://globalart.ai/fr-FR/profile/saved-artworks",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Œuvres d'art enregistrées | ",
+          "description": "Explorez et gérez vos œuvres d'art enregistrées sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/saved-artworks",
+          "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "Commandes | Global Art AI",
-          "description": "Voir et gérer vos commandes sur GlobalArt.ai. Suivez le statut de vos œuvres d'art achetées, gérez les détails de l'expédition et accédez à l'historique des commandes. Restez informé de vos achats d'art et assurez-vous une expérience d'achat fluide.",
-          "og_url": "https://globalart.ai/fr-FR/profile/orders",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Commandes | ",
+          "description": "Consultez et gérez vos commandes sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/orders",
+          "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "Artistes Suivis | Global Art AI",
-          "description": "Suivez vos artistes préférés sur GlobalArt.ai. Restez informé de leurs dernières œuvres, expositions et événements. Découvrez de nouveaux artistes et explorez divers styles d'art. Créez un flux d'art personnalisé et connectez-vous avec des créateurs du monde entier.",
-          "og_url": "https://globalart.ai/fr-FR/profile/following-artists",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Artistes suivants | ",
+          "description": "Suivez vos artistes préférés sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/following-artists",
+          "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "Avis | Global Art AI",
-          "description": "Partagez vos commentaires sur GlobalArt.ai. Écrivez des avis sur les œuvres d'art achetées, les artistes et votre expérience générale sur la plateforme. Aidez d'autres amateurs d'art à prendre des décisions éclairées et soutenez les artistes en partageant vos pensées et recommandations.",
-          "og_url": "https://globalart.ai/fr-FR/profile/review",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Commentaires | ",
+          "description": "Partagez vos commentaires sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/review",
+          "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "Cartes Cadeaux | Global Art AI",
-          "description": "Achetez et échangez des cartes cadeaux sur GlobalArt.ai. Offrez le cadeau de l'art à des amis, à la famille ou à des collègues. Choisissez parmi une variété de valeurs et laissez les destinataires explorer et choisir leurs œuvres d'art préférées. Répandez la joie et la créativité avec les cartes cadeaux de GlobalArt.ai.",
-          "og_url": "https://globalart.ai/fr-FR/profile/buy-gift-cards",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Cartes-cadeaux | ",
+          "description": "Achetez et échangez des cartes-cadeaux sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/buy-gift-cards",
+          "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "Compte | Global Art AI",
-          "description": "Gérez les paramètres de votre compte sur GlobalArt.ai. Mettez à jour vos informations personnelles, changez votre mot de passe et personnalisez votre profil. Restez connecté avec la communauté artistique, accédez à des fonctionnalités exclusives et personnalisez votre expérience artistique.",
-          "og_url": "https://globalart.ai/fr-FR/profile/profile",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Compte | ",
+          "description": "Gérez les paramètres de votre compte sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/profile",
+          "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "Carnet d'Adresses | Global Art AI",
-          "description": "Gérez votre carnet d'adresses sur GlobalArt.ai. Enregistrez et organisez vos adresses de livraison pour une expérience de paiement fluide. Ajoutez, modifiez ou supprimez des adresses et assurez-vous une livraison précise et ponctuelle de vos œuvres d'art achetées.",
-          "og_url": "https://globalart.ai/fr-FR/profile/addresses",
-          "canonical": "https://globalart.ai/fr-FR/profile"
+          "title": "Carnet d'adresses | ",
+          "description": "Gérez votre carnet d'adresses sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/profile/addresses",
+          "canonical": "https://globalart.ai/profile"
         }
       }
     },
     "commissions": {
       "title": "Demande d'art personnalisé",
-      "description": "Demandez une œuvre d'art personnalisée sur GlobalArt.ai. Choisissez votre catégorie et votre style préférés, fixez votre budget et décrivez votre vision pour trouver l'artiste parfait. Personnalisez la taille, le calendrier et joignez des images de référence pour garantir que votre art commandé correspond à vos attentes. Créez dès aujourd'hui une œuvre unique et personnalisée !",
-      "og_url": "https://globalart.ai/fr-FR/commissions",
-      "canonical": "https://globalart.ai/fr-FR/commissions"
+      "description": "Demandez des illustrations personnalisées sur GlobalArt.ai. ",
+      "og_url": "https://globalart.ai/commissions",
+      "canonical": "https://globalart.ai/commissions"
     },
     "artist_profile": {
       "title": "Profil de l'artiste",
-      "description": "Explorez le profil d'un artiste sur GlobalArt.ai. Découvrez leur parcours créatif, leur formation, leurs réalisations et leurs expositions en cours. Consultez leurs collections en vedette, leur credo créatif et leur portfolio. Plongez dans les œuvres de l'artiste, suivez leurs mises à jour et connectez-vous avec eux à travers leurs chroniques d'atelier.",
-      "og_url": "https://globalart.ai/fr-FR/artistProfile",
-      "canonical": "https://globalart.ai/fr-FR/artistProfile",
+      "description": "Explorez le profil d’un artiste sur GlobalArt.ai. ",
+      "og_url": "https://globalart.ai/artistProfile",
+      "canonical": "https://globalart.ai/artistProfile",
       "pages": {
         "artworks": {
-          "title": "Œuvres d'art",
-          "description": "Explorez le portfolio d'un artiste sur GlobalArt.ai. Découvrez leur collection de peintures, sculptures, estampes et plus encore. Découvrez des pièces uniques, apprenez-en plus sur le processus créatif de l'artiste et trouvez l'inspiration pour votre collection d'art.",
-          "og_url": "https://globalart.ai/fr-FR/artistProfile/artworks",
-          "canonical": "https://globalart.ai/fr-FR/artistProfile"
+          "title": "Oeuvres",
+          "description": "Explorez le portfolio d'un artiste sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/artistProfile/artworks",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "promocodes": {
-          "title": "Codes promo",
-          "description": "Utilisez des codes promo sur GlobalArt.ai. Profitez de réductions, d'offres spéciales et de promotions exclusives sur les achats d'art. Saisissez les codes promo lors du paiement pour économiser sur vos œuvres d'art préférées et soutenir des artistes talentueux. Débloquez des économies et améliorez votre collection d'art.",
-          "og_url": "https://globalart.ai/fr-FR/artistProfile/promocode",
-          "canonical": "https://globalart.ai/fr-FR/artistProfile"
+          "title": "Codes promotionnels",
+          "description": "Utilisez les codes promotionnels sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/artistProfile/promocode",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "commissions": {
           "title": "Commissions",
-          "description": "Collaborez avec des artistes sur des commandes d'art personnalisées sur GlobalArt.ai. Demandez des œuvres d'art personnalisées, communiquez votre vision et suivez l'avancement de vos pièces commandées. Engagez-vous avec les artistes, partagez vos idées et donnez vie à vos projets créatifs.",
-          "og_url": "https://globalart.ai/fr-FR/artistProfile/commissions",
-          "canonical": "https://globalart.ai/fr-FR/artistProfile"
+          "description": "Collaborez avec des artistes sur des commandes d’art personnalisées sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/artistProfile/commissions",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "messages": {
           "title": "Messages",
-          "description": "Communiquez avec des artistes sur GlobalArt.ai. Envoyez des messages, partagez vos retours et discutez des demandes d'art personnalisé avec des créateurs talentueux. Restez connecté avec les artistes, recevez des mises à jour sur vos œuvres d'art commandées et participez à des conversations significatives sur l'art.",
-          "og_url": "https://globalart.ai/fr-FR/artistProfile/messages",
-          "canonical": "https://globalart.ai/fr-FR/artistProfile"
+          "description": "Communiquez avec les artistes sur GlobalArt.ai. ",
+          "og_url": "https://globalart.ai/artistProfile/messages",
+          "canonical": "https://globalart.ai/artistProfile"
         }
       }
     }
   },
   "cus_art_req": {
-    "open": "Ouvert pour les œuvres d'art personnalisées",
-    "close": "Fermé pour les œuvres d'art personnalisées"
+    "open": "Ouvert à l'art personnalisé",
+    "close": "Fermé pour art personnalisé"
   },
   "header": {
     "links": {
-      "artworks": "Œuvres d'Art",
+      "artworks": "Oeuvres",
       "artists": "Artistes",
-      "marketplace": "À propos du Marché",
-      "order_cus_art": "Commander une Œuvre Personnalisée",
-      "but_gift_card": "Acheter une Carte Cadeau",
-      "about_us": "À Propos de Nous",
-      "ai": "À Propos de Global Art AI",
+      "marketplace": "À propos du marché",
+      "order_cus_art": "Commandez des œuvres d'art personnalisées",
+      "but_gift_card": "Acheter une carte cadeau",
+      "about_us": "À propos de nous",
+      "ai": "À propos de Global Art AI",
       "galleries": "Galeries",
-      "blog": "Notre Blog"
+      "blog": "Notre blog"
     },
-    "search": "Rechercher par nom d'œuvre, artiste, galerie, style, thème, etc.",
-    "login": "Connexion",
-    "registration": "Inscription",
+    "search": "Recherchez par nom d'œuvre d'art, artiste, galerie, style, thème, etc.",
+    "login": "Se connecter",
+    "registration": "S'inscrire",
     "activationCode": "Code d'activation",
-    "resendCode": "Renvoyer le code",
+    "resendCode": "Envoyer à nouveau le code",
     "inner_header_links": {
       "sell": "Pour les artistes",
       "help": "Aide",
       "mobileApp": "Application mobile"
     },
-    "popular": "Populaire sur Global art",
+    "popular": "Populaire sur l'art mondial",
     "contemporary": "Art contemporain",
-    "noNotifications": "Il n'y a pas de notifications",
-    "balance": "Solde",
+    "noNotifications": "Il n'y a aucune notification",
+    "balance": "Équilibre",
     "myProfile": "Mon profil",
-    "orders": "Commandes",
-    "becomeAnArtist": "Devenir artiste",
+    "orders": "Ordres",
+    "becomeAnArtist": "Devenez artiste",
+    "artistProfile": "Profil de l'artiste",
+    "verifyingProfile": "Vérification du profil...",
     "helpCenter": "Centre d'aide",
     "logout": "Déconnexion"
   },
   "footer": {
     "about": "À propos de nous",
-    "blog": "Blog",
-    "contact": "Nous contacter",
+    "blog": "Blogue",
+    "contact": "Contactez-nous",
     "explore": "Explorer",
-    "artworks": "Œuvres d'art",
+    "artworks": "Oeuvres",
     "artists": "Artistes",
     "letUsHelp": "Laissez-nous vous aider",
     "orderStatus": "Statut de la commande",
-    "customerSupport": "Service client",
+    "customerSupport": "Assistance client",
     "sellWithUs": "Vendez avec nous",
     "subscribeToNewsLetter": "Abonnez-vous à notre newsletter",
-    "getWeekly": "Recevez des articles et vidéos sur l'art chaque semaine",
+    "getWeekly": "Recevez des articles et des vidéos hebdomadaires sur l'art",
     "yourEmail": "Votre email",
-    "valueRequired": "Valeur requise",
+    "valueRequired": "La valeur est requise",
     "subscribe": "S'abonner",
     "getToKnow": "Apprenez à nous connaître",
-    "terms": "Conditions générales",
-    "privacy": "Politique de confidentialité"
+    "terms": "Termes",
+    "privacy": "Confidentialité"
   },
   "faq": {
-    "title": "Vous voulez en savoir plus?",
+    "title": "Vous voulez en savoir plus ?",
     "subtitle": "Questions fréquemment posées",
     "first": {
-      "title": "Qu'est-ce que la plateforme Artworks?",
-      "content": "La plateforme Artworks est une plateforme en ligne conçue pour présenter les œuvres des artistes et les connecter avec les amateurs d'art, les collectionneurs et les acheteurs. Elle offre aux artistes un espace pour exposer et vendre leurs œuvres."
+      "title": "Qu'est-ce que la plateforme Artworks ?",
+      "content": "La plateforme Artworks est une plateforme en ligne conçue pour présenter les œuvres d'artistes et les mettre en relation avec les amateurs d'art, les collectionneurs et les acheteurs. "
     },
     "second": {
-      "title": "Comment créer un profil d'artiste sur la plateforme Artworks?",
-      "content": "Pour créer un profil d'artiste, inscrivez-vous sur la plateforme et suivez les étapes simples pour configurer votre profil. Vous pouvez télécharger des images de vos œuvres, rédiger une biographie et ajouter d'autres informations pertinentes."
+      "title": "Comment créer un profil d'artiste sur la plateforme Artworks ?",
+      "content": "Pour créer un profil d'artiste, inscrivez-vous sur la plateforme et suivez des étapes simples pour configurer votre profil. "
     },
     "third": {
-      "title": "Est-ce gratuit de rejoindre la plateforme Artworks en tant qu'artiste?",
-      "content": "Oui, il est gratuit pour les artistes de créer des profils sur la plateforme. Des frais peuvent être associés à la mise en ligne et à la vente des œuvres, selon votre niveau d'adhésion."
+      "title": "Est-il gratuit de rejoindre la plateforme Artworks en tant qu'artiste ?",
+      "content": "Oui, il est gratuit pour les artistes de créer des profils sur la plateforme. "
     },
     "fourth": {
-      "title": "Comment puis-je vendre mes œuvres sur la plateforme Artworks?",
-      "content": "Pour vendre votre travail, vous pouvez le mettre en vente dans votre profil. Ensuite, les acheteurs peuvent voir et acheter votre art via la plateforme. Vous pouvez choisir de gérer vous-même les expéditions et les paiements ou d'utiliser les services intégrés de la plateforme."
+      "title": "Comment vendre mes œuvres sur la plateforme Artworks ?",
+      "content": "Pour vendre votre travail, vous pouvez le mettre en vente dans votre profil. "
     },
     "fifth": {
-      "title": "Quels types d'art sont acceptés sur la plateforme?",
-      "content": "Nous acceptons une large gamme de médiums artistiques, y compris la peinture, la sculpture, la photographie, l'art numérique et plus encore. La plateforme encourage la diversité et accueille les artistes de toutes orientations."
+      "title": "Quels types d’art sont acceptés sur la plateforme ?",
+      "content": "Nous acceptons un large éventail de médiums artistiques, notamment la peinture, la sculpture, la photographie, l'art numérique, etc. "
     },
     "sixth": {
-      "title": "Puis-je fixer mes propres prix pour mes œuvres?",
-      "content": "Oui, en tant qu'artiste, vous avez un contrôle total sur la tarification de vos œuvres. Vous pouvez fixer vos prix en fonction de vos préférences et de la valeur du marché."
+      "title": "Puis-je fixer mes propres prix pour mes œuvres ?",
+      "content": "Oui, en tant qu'artiste, vous avez un contrôle total sur le prix de vos œuvres. "
     }
   },
   "help": {
     "search": {
-      "title": "Comment pouvons-nous vous aider?",
+      "title": "Comment pouvons-nous vous aider ?",
       "placeholder": "Rechercher des mots-clés ou des questions"
     },
     "tabs": {
@@ -277,72 +283,72 @@
       "title": "Questions fréquemment posées",
       "questions": {
         "first": {
-          "title": "Comment acheter une œuvre d'art?",
-          "content": "Pour acheter une œuvre d'art, suivez ces étapes : \n 1. Parcourir les œuvres d'art : Explorez notre collection diversifiée d'œuvres d'art créées par des artistes talentueux. \n 2. Sélectionner une œuvre d'art : Cliquez sur l'œuvre d'art qui vous captive pour voir les informations détaillées. \n 3. Ajouter au panier : Cliquez sur le bouton Ajouter au panier sur la page de l'œuvre d'art. \n 4. Revoir le panier : Visitez votre panier pour revoir les œuvres d'art sélectionnées et les quantités. \n 5. Passer à la caisse : Procédez au paiement et entrez vos détails de livraison et votre méthode de paiement. \n 6. Paiement : Choisissez une méthode de paiement sécurisée et fournissez les détails nécessaires pour compléter la transaction. \n 7. Confirmation : Recevez une confirmation de commande avec les détails de votre achat. \n 8. Expédition de l'œuvre d'art : Suivez l'expédition de l'œuvre d'art achetée. \n Pour plus d'informations détaillées sur chaque étape, consultez notre guide d'achat."
+          "title": "Comment acheter une œuvre d'art ?",
+          "content": "Pour acheter une œuvre d’art, suivez ces étapes : \n "
         },
         "second": {
-          "title": "Comment être payé?",
-          "content": "Vous pouvez être payé en vendant vos œuvres sur notre plateforme."
+          "title": "Comment puis-je être payé ?",
+          "content": "Vous pouvez être payé en vendant vos arts sur notre plateforme."
         },
         "third": {
-          "title": "Comment fonctionne le processus de commande?",
-          "content": "Le processus de commande comporte plusieurs étapes. Tout d'abord, le projet est défini et l'équipe est assemblée. Ensuite, le système est conçu et mis en œuvre. Après cela, le système est testé pour s'assurer qu'il répond aux exigences du projet. Enfin, le système est remis au propriétaire et le rapport de mise en service est complété."
+          "title": "Comment se déroule le processus de mise en service ?",
+          "content": "Le processus de mise en service comporte plusieurs étapes. "
         },
         "fourth": {
-          "title": "Comment les œuvres d'art sont-elles expédiées?",
-          "content": "Les œuvres d'art sont expédiées par des services de messagerie de confiance pour assurer leur livraison en toute sécurité."
+          "title": "Comment les œuvres d’art sont-elles expédiées ?",
+          "content": "Les œuvres d'art sont expédiées via des services de messagerie de confiance pour garantir leur livraison en toute sécurité."
         },
         "fifth": {
-          "title": "Puis-je retourner une œuvre d'art et quel est le processus de remboursement?",
-          "content": "Oui, vous pouvez retourner une œuvre d'art si elle ne répond pas à vos attentes. L'œuvre d'art doit être retournée dans son état original dans un délai spécifié, généralement 14 jours. Une fois que nous recevons l'œuvre d'art retournée et confirmons son état, le processus de remboursement commencera. Le remboursement sera effectué sur votre méthode de paiement originale dans un certain nombre de jours, en fonction des politiques de votre banque."
+          "title": "Puis-je retourner une œuvre d’art et quelle est la procédure de remboursement ?",
+          "content": "Oui, vous pouvez retourner une œuvre si elle ne correspond pas à vos attentes. "
         }
       }
     },
     "categories": {
       "title": "Catégories",
       "account": {
-        "title": "Gestion du compte",
+        "title": "Gestion des comptes",
         "link": {
           "first": "Comment créer un compte",
-          "second": "Confirmer votre email",
-          "third": "Mettre à jour votre compte",
+          "second": "Confirmez votre email",
+          "third": "Mettez à jour votre compte",
           "fourth": "Changer le mot de passe",
           "fifth": "Supprimer mon compte"
         }
       },
       "artworks": {
-        "title": "Découverte des œuvres d'art",
+        "title": "Découverte d'œuvres d'art",
         "link": {
           "first": "Trouver l'œuvre d'art parfaite",
-          "second": "Rechercher des œuvres d'art spécifiques",
-          "third": "Comprendre les détails de l'œuvre d'art",
+          "second": "Recherche d'œuvres d'art spécifiques",
+          "third": "Comprendre les détails des illustrations",
           "fourth": "Enregistrer l'art dans les favoris"
         }
       },
       "orders": {
-        "title": "Commander des œuvres d'art personnalisées",
+        "title": "Commande d'œuvres d'art personnalisées",
         "link": {
           "first": "Comment commander une œuvre d'art",
           "second": "Communiquer avec les artistes",
-          "third": "Commander des œuvres d'art générées par l'IA",
-          "fourth": "Définir les exigences de la commande",
-          "fifth": "Vérifier le statut",
+          "third": "Commande d'art généré par l'IA",
+          "fourth": "Fixation des exigences de commission",
+          "fifth": "Vérification de l'état",
           "sixth": "Politique de remboursement"
         }
       },
       "generates": {
         "title": "Art généré par l'IA",
         "link": {
-          "first": "Comment générer de l'art avec l'IA",
-          "second": "Commander des œuvres d'art générées par l'IA",
-          "third": "Éthique de l'art généré par l'IA",
+          "first": "Comment générer de l'art IA",
+          "second": "Commande d'art généré par l'IA",
+          "third": "Éthique artistique de l’IA",
           "fourth": "Conditions d'utilisation"
         }
       },
       "payments": {
         "title": "Transactions et paiements",
         "link": {
-          "first": "Effectuer un achat",
+          "first": "Faire un achat",
           "second": "Méthodes de paiement",
           "third": "Sécurité des transactions"
         }
@@ -352,29 +358,29 @@
         "link": {
           "first": "Frais de livraison",
           "second": "Suivi des expéditions",
-          "third": "Politique de retours et remboursements",
+          "third": "Politique de retours et de remboursement",
           "fourth": "Gestion des expéditions endommagées ou perdues"
         }
       },
       "terms": {
-        "title": "Conditions et politiques",
+        "title": "Conditions et politiquesW",
         "link": {
-          "first": "Politique de confidentialité",
-          "second": "Conditions générales"
+          "first": "politique de confidentialité",
+          "second": "Termes et conditions"
         }
       }
     },
     "contact": {
-      "title": "Besoin de nous contacter?",
+      "title": "Besoin de nous contacter ?",
       "button": "Contactez-nous",
-      "also": "Vous pouvez aussi",
-      "feedback": "nous donner votre avis"
+      "also": "Vous pouvez également",
+      "feedback": "donnez-nous vos commentaires"
     }
   },
   "galleries": {
     "title": "Galeries",
     "search": {
-      "locations": "Toutes les localisations",
+      "locations": "Tous les emplacements",
       "media": "Tous les médias",
       "styles": "Tous les styles",
       "artists": "Tous les artistes"
@@ -382,27 +388,27 @@
   },
   "condition": {
     "terms": {
-      "title": "Conditions générales",
-      "subtitle": "Votre Accord",
-      "content": "Conditions de service de Saatchi Art Date de la dernière mise à jour : 4 juin 2019 Saatchi Online, Inc., une filiale à 100 % de Leaf Group Ltd. (\"Saatchi Art,\" \"nous\" ou \"notre\") fournit un service pour visualiser, vendre et acheter des œuvres d'art originales et exploiter commercialement des images numériques d'œuvres d'art via notre site Web, accessible à l'adresse www.saatchiart.com (le \"Site\") ou l'application mobile (l'\"Application mobile\") ainsi que tous services, logiciels, outils, fonctionnalités ou fonctionnalités mis à disposition par Saatchi Art (chacun, un \"Service\" et collectivement, les \"Services\"). Veuillez lire attentivement les conditions générales suivantes (\"Conditions\") et notre Politique de confidentialité, qui peut être trouvée à l'adresse www.saatchiart.com/privacy (la \"Politique de confidentialité\"). Ces Conditions, la Politique de confidentialité et toute autre politique liée aux présentes régissent votre accès et votre utilisation des Services, et constituent un accord juridique contraignant entre vous et Saatchi Art. Certaines zones des Services et votre accès à certains Services peuvent avoir des conditions générales différentes affichées ou peuvent vous obliger à accepter et à accepter des conditions générales supplémentaires. En cas de conflit entre ces Conditions et les conditions générales affichées pour une zone spécifique des Services ou pour l'accès à des Services spécifiques, ces dernières conditions générales prévaudront en ce qui concerne votre utilisation ou accès à cette zone des Services. VEUILLEZ LIRE ATTENTIVEMENT CES CONDITIONS. CES CONDITIONS COMPRENNENT UN ACCORD D'ARBITRAGE, CE QUI SIGNIFIE QUE VOUS ACCEPTEZ DE SOUMETTRE TOUT DIFFÉREND RELATIF À VOTRE UTILISATION DES SERVICES À UN ARBITRAGE INDIVIDUEL CONTRAIGNANT PLUTÔT QUE DE PROCÉDER DEVANT LES TRIBUNAUX. SI VOUS SOUHAITEZ VOUS DÉSISTER DE L'ACCORD D'ARBITRAGE, VOUS POUVEZ LE FAIRE À CONDITION DE SUIVRE LES PROCÉDURES ÉNONCÉES CI-DESSOUS DANS LA SECTION INTITULÉE \"ACCORD D'ARBITRAGE\". LA SECTION DE RÉSOLUTION DES DIFFÉRENDS COMPREND ÉGALEMENT UNE RENONCIATION AUX ACTIONS COLLECTIVES, CE QUI SIGNIFIE QUE VOUS ACCEPTEZ DE PROCÉDER À TOUT DIFFÉREND INDIVIDUELLEMENT ET NON COMME PARTIE D'UNE ACTION COLLECTIVE PROPOSÉE. CES CONDITIONS COMPRENNENT ÉGALEMENT UNE RENONCIATION À VOS DROITS À UN PROCÈS PAR JURY INDÉPENDAMMENT DE VOTRE ACCORD D'ARBITRER VOS RÉCLAMATIONS. VOUS RECONNAISSEZ ET ACCEPTEZ QUE, EN ACCÉDANT OU EN UTILISANT LES SERVICES OU EN VENDANT OU ACHETANT UNE ŒUVRE SUR OU VIA LES SERVICES."
+      "title": "Termes et conditions",
+      "subtitle": "Votre accord",
+      "content": "Conditions d'utilisation de Saatchi Art Date de dernière mise à jour : 4 juin 2019 Saatchi Online, Inc., une filiale en propriété exclusive de Leaf Group Ltd. (« Saatchi Art », « nous » ou « notre ») fournit un service de visualisation, de vente "
     }
   },
   "commission": {
     "title": "Demande d'art personnalisé",
-    "referenceArts": "Référence des arts IA mondiaux",
+    "referenceArts": "Référence de Global Art AI arts",
     "budgetPlaceholder": "Entrez votre budget",
     "delAddress": "Adresse de livraison",
     "chooseArtist": "Choisir un artiste",
-    "selectCategory": "Choisissez d'abord un artiste pour afficher toutes les catégories",
+    "selectCategory": "Sélectionnez d'abord un artiste pour afficher toutes les catégories",
     "category": "Catégories",
-    "categoryText": "Les artistes se spécialisent dans différentes catégories et choisir une catégorie aide à affiner le type d'œuvre d'art qui vous intéresse.",
+    "categoryText": "Les artistes se spécialisent dans différentes catégories et le choix d'une catégorie permet de affiner le type d'œuvre d'art qui vous intéresse.",
     "styleChoose": "Styles",
-    "styleChooseText": "Cela aide l'artiste à aligner son travail avec votre style préféré",
-    "budget": "Quel est votre budget ?",
+    "styleChooseText": "Cela aide l'artiste à aligner son travail sur votre style préféré",
+    "budget": "Qu’est-ce que le budget ?",
     "days": "jours",
     "referenceArtist": "Référence de l'artiste",
     "style": {
-      "title": "Choisissez un style pour lancer votre demande d'art",
+      "title": "Choisissez le style pour lancer votre demande d'art",
       "tabs": {
         "paintings": "Peintures",
         "sculptures": "Sculptures",
@@ -410,29 +416,29 @@
       },
       "paintings": {
         "portrait": "Portrait",
-        "price": "À partir de 1500 $"
+        "price": "À partir de 1 500 $"
       }
     },
     "description": {
       "title": "Décrivez votre vision avec vos propres mots",
-      "placeholder": "Fournissez une description de ce que vous voulez, y compris le sujet, le style, les couleurs et tout élément spécifique que vous souhaitez inclure"
+      "placeholder": "Fournissez une description de ce que vous souhaitez, y compris le sujet, le style, les couleurs et tout élément spécifique que vous souhaitez inclure"
     },
     "size": {
-      "title": "Taille de l'œuvre (largeur x hauteur) :",
-      "optional": "optionnel",
-      "description": "Choisissez les dimensions standard de l'œuvre ou spécifiez les vôtres",
-      "select": "Pas de préférence"
+      "title": "Taille de l'œuvre (largeur x hauteur) :",
+      "optional": "facultatif",
+      "description": "Choisissez les dimensions standards de l'œuvre d'art ou spécifiez les vôtres",
+      "select": "Aucune préférence"
     },
     "timeline": {
-      "title": "Préférences de délai",
-      "optional": "optionnel",
-      "description": "Indiquez à l'artiste si vous avez un délai préféré pour recevoir votre œuvre commandée. Gardez à l'esprit que l'artiste peut le revoir et le modifier",
-      "select": "Pas de préférence"
+      "title": "Préférences de chronologie ",
+      "optional": "facultatif",
+      "description": "Dites à l’artiste si vous disposez d’un délai préféré pour recevoir l’œuvre d’art commandée. ",
+      "select": "Aucune préférence"
     },
     "reference": {
       "title": "Images de référence",
       "description": "Joignez toutes les images ou fichiers de référence qui aideront l'artiste à comprendre votre vision",
-      "upload": "Glissez-déposez vos photos ici"
+      "upload": "Glissez et déposez vos photos ici"
     },
     "submit": "Envoyer la demande",
     "artist": {
@@ -446,30 +452,31 @@
     "shipping_calc": "Calculé dans les prochaines étapes",
     "save": "Enregistrer pour plus tard",
     "saved": "Enregistré pour plus tard",
-    "remove": "Supprimer",
-    "artworks": "œuvres d'art",
+    "delivery_price": "Prix ​​de livraison",
+    "remove": "Retirer",
+    "artworks": "oeuvres d'art",
     "address": "Adresse",
-    "chooseAddress": "Choisir une adresse",
-    "fillAddress": "Veuillez remplir ce champ",
-    "fee": "Frais de service Global art",
+    "chooseAddress": "Choisissez l'adresse",
+    "fillAddress": "Merci de remplir ce champ",
+    "fee": "Frais de service artistique global",
     "total": "Total estimé",
-    "shipping": "Expédition non incluse",
-    "checkout": "Passer à la caisse",
-    "emptyTitle": "Aucun article dans le panier",
-    "emptyText": "Vous n'avez aucun article dans votre panier. Allez dans la boutique et ajoutez des articles à votre panier.",
+    "shipping": "Frais de port non inclus",
+    "checkout": "Vérifier",
+    "emptyTitle": "Aucun article du panier à afficher",
+    "emptyText": "Vous n'avez aucun article dans votre panier. ",
     "unfortunately": "Malheureusement, le panier n'est pas disponible, veuillez vous inscrire ou vous connecter",
-    "login": "Connexion",
-    "register": "Inscription"
+    "login": "Se connecter",
+    "register": "Registre"
   },
   "general": {
-    "mode": "Passer en mode acheteur",
+    "mode": "Passer en mode Acheteur",
     "artist": "Disponible pour l'art personnalisé",
     "blogBlock": "minutes de lecture",
     "cookieResolve": {
-      "title": "Notre site utilise des cookies",
-      "text": "Notre site utilise des cookies. En continuant, nous supposons que vous acceptez de déployer des cookies comme indiqué dans notre",
-      "privacy": "Politique de confidentialité",
-      "decline": "Refuser",
+      "title": "Notre site Web utilise des cookies",
+      "text": "Notre site Web utilise des cookies. ",
+      "privacy": "politique de confidentialité",
+      "decline": "Déclin",
       "accept": "Accepter"
     },
     "location": "Localisation",
@@ -484,47 +491,47 @@
       "price": "Par prix"
     },
     "theme": {
-      "light": "Clair",
+      "light": "Lumière",
       "dark": "Sombre",
       "sepia": "Sépia"
     }
   },
   "detailBlog": {
-    "readAlso": "min de lecture"
+    "readAlso": "minutes de lecture"
   },
   "detailArtist": {
     "about": {
       "title": "À propos de l'artiste",
-      "studioTitle": "Chroniques du studio",
+      "studioTitle": "Chroniques des studios",
       "educationTitle": "Éducation",
-      "achievementTitle": "Reconnaissance & Événements",
+      "achievementTitle": "Reconnaissance et événements",
       "exhibitionTitle": "Expositions en cours",
       "featuredTitle": "Collections en vedette",
-      "creativeCreed": "Crédo créatif",
-      "portfolio": "Portfolio",
+      "creativeCreed": "Credo créatif",
+      "portfolio": "Portefeuille",
       "authorWorks": "Œuvres de l'auteur",
-      "showAll": "Voir tout"
+      "showAll": "Afficher tout"
     },
-    "artworks": "œuvres d'art"
+    "artworks": "oeuvres d'art"
   },
   "categories": {
     "artworksFilter": {
       "showFilter": "Afficher le filtre",
       "custom": "Créateurs personnalisés uniquement",
       "year": "Année",
-      "from": "De",
-      "y": "a",
+      "from": "Depuis",
+      "y": "oui",
       "to": "À",
       "price": "Prix",
       "minimum": "Minimum",
       "maximum": "Maximum",
-      "sale": "En vente",
+      "sale": "À vendre",
       "sold": "Vendu",
       "movement": "Mouvement et style",
       "rarity": "Rareté",
       "certs": "Certificats",
-      "signatures": "Signatures",
-      "materials": "Matériaux",
+      "signatures": "Signature",
+      "materials": "Matériels",
       "styles": "Styles",
       "submit": "Soumettre",
       "reset": "Réinitialiser tous les filtres"
@@ -533,14 +540,14 @@
       "sort": "Trier",
       "popularity": "Par popularité",
       "price": "Par prix",
-      "search": "Rechercher..."
+      "search": "Recherche..."
     }
   },
   "buyerComponent": {
-    "edit": "Modifier l'acheteur",
-    "change": "Vous pouvez changer les champs suivants",
-    "fullName": "Nom complet",
-    "fill": "Veuillez remplir ce champ",
+    "edit": "Modification de l'acheteur",
+    "change": "Vous pouvez modifier les champs suivants",
+    "fullName": "Nom et prénom",
+    "fill": "Merci de remplir ce champ",
     "confirm": "Confirmer",
     "cancel": "Annuler",
     "close": "Fermer"
@@ -548,7 +555,7 @@
   "landing": {
     "ar": {
       "title": "Visualiser l'art",
-      "description": "La réalité augmentée montrera comment cela fonctionne dans votre espace"
+      "description": "AR montrera comment cela fonctionne dans votre espace"
     },
     "buyArt": {
       "tags": {
@@ -559,112 +566,113 @@
       },
       "title": {
         "main": "Achetez de l'art qui",
-        "span": "vous parle"
+        "span": "te parle"
       },
-      "description": "Découvrez et achetez avec l'aide d'experts en art et de recommandations par IA",
+      "description": "Découvrez et achetez avec l'aide d'experts en art et les recommandations de l'IA",
       "link": "Trouvez votre artiste"
     },
     "gridBlock": {
       "title": {
-        "main": "Ressentez, vivez & chérissez",
-        "span": "l'art"
+        "main": "Ressentez, expérimentez et chérissez",
+        "span": "art"
       },
       "authenticity": {
         "title": "Authenticité",
-        "subtitle": "garantie",
-        "description": "Des certificats d'authenticité accompagnent chaque œuvre d'art, assurant sa véracité et sa valeur"
+        "subtitle": "garanti",
+        "description": "Des certificats d'authenticité accompagnent chaque œuvre d'art, garantissant son authenticité et sa valeur."
       },
       "delivery": {
         "title": "Livraison",
         "description": "De l'artiste à votre porte",
-        "link": "Vérifiez les tarifs"
+        "link": "Consultez les tarifs"
       },
       "expertGuidance": {
-        "title": "Conseils d'experts en art",
-        "description": "Une équipe d'experts chevronnés offre des recommandations personnalisées et des conseils avisés",
-        "link": "Vérifiez les tarifs"
+        "title": "Conseils artistiques d’experts",
+        "description": "Une équipe d'experts chevronnés propose des recommandations personnalisées et des conseils judicieux",
+        "link": "Consultez les tarifs"
       }
     },
     "heroAnimation": {
       "title": {
-        "main": "Nous rassemblons",
-        "span": "les artistes & les amateurs d'art",
-        "text": "du monde entier"
+        "main": "Nous apportons",
+        "span": "artistes et art",
+        "text": "amants ensemble du monde entier"
       },
-      "description": "10 590 œuvres d'art prêtes et 3943 artistes à choisir",
-      "video": "Votre navigateur ne supporte pas la balise vidéo."
+      "description": "10 590 œuvres d'art prêtes à l'emploi et 3 943 artistes parmi lesquels choisir",
+      "video": "Votre navigateur ne prend pas en charge la balise vidéo."
     },
     "infiniteScroll": {
       "title": {
         "main": "Collaborez directement avec",
-        "span": "les artistes & les experts en art"
+        "span": "artistes et experts en art"
       },
-      "description": "Communiquez sans effort dans n'importe quelle langue"
+      "description": "Communiquez sans effort dans n’importe quelle langue"
     },
     "orderCustomArt": {
       "title": {
-        "main": "Commander",
-        "span": "de l'art personnalisé"
+        "main": "Commande",
+        "span": "art personnalisé"
       },
-      "description": "Visualisez votre idée en utilisant la technologie IA. Nous la réaliserons",
+      "description": "Visualisez votre idée en utilisant la technologie de l'IA. ",
       "findBtn": "Trouvez votre artiste",
-      "howItWorksBtn": "Comment ça marche?",
-      "available": "Disponible pour des œuvres d'art personnalisées",
-      "video": "Votre navigateur ne supporte pas la balise vidéo.",
-      "makeReference": "Faites vos références en utilisant l'IA"
+      "howItWorksBtn": "Comment ça marche ?",
+      "available": "Disponible pour des illustrations personnalisées",
+      "video": "Votre navigateur ne prend pas en charge la balise vidéo.",
+      "makeReference": "Faites vos références grâce à l'IA"
     }
   },
   "mainPage": {
     "categories": {
-      "shopBy": "Acheter par catégorie"
+      "shopBy": "Magasiner par catégorie"
     },
     "hero": {
       "slide": {
         "buttons": {
-          "shopNow": "Acheter maintenant",
-          "howToOrder": "Comment commander de l'art personnalisé?"
+          "browse": "Parcourir les œuvres",
+          "explore": "Explorer les artistes",
+          "order": "Commandez des œuvres d'art personnalisées"
         },
         "first": {
           "title": {
-            "order": "Commander",
-            "custom": "de l'art",
-            "art": "personnalisé"
+            "order": "Achetez des œuvres d'art originales d'artistes exceptionnels",
+            "custom": "coutume",
+            "art": "art"
           },
-          "content": "Choisissez parmi plus de 1000 artistes talentueux pour donner vie à votre vision"
+          "content": "Choisissez parmi plus de 1 000 artistes talentueux pour donner vie à votre vision"
         },
         "second": {
           "title": {
             "buy": "Acheter",
-            "reallyMade": "de l'art original"
+            "reallyMade": "art original"
           },
-          "content": "Choisissez parmi plus de 1000 artistes talentueux pour donner vie à votre vision"
+          "content": "Choisissez parmi plus de 1 000 artistes talentueux pour donner vie à votre vision"
         }
       }
     },
     "risingTalents": {
       "title": "Talents émergents",
-      "showAll": "Voir tous les talents émergents"
+      "showAll": "Montrer tous les talents émergents"
     },
     "trending": {
-      "title": "Tendances",
-      "showAll": "Voir toutes les tendances"
+      "title": "Tendance",
+      "showAll": "Afficher toutes les tendances"
     }
   },
   "profile": {
     "links": {
       "title": "Mon compte",
       "dashboard": "Tableau de bord",
-      "orders": "Commandes",
-      "savedArtworks": "Œuvres d'art enregistrées",
-      "followingArtists": "Artistes suivis",
+      "orders": "Ordres",
+      "savedArtworks": "Oeuvres enregistrées",
+      "followingArtists": "Suivre les artistes",
       "reviews": "Avis",
       "giftCard": "Carte cadeau",
-      "commissions": "Commandes"
+      "commissions": "Commissions"
     },
     "commissions": {
-      "title": "Commandes",
-      "noCommissions": "Aucune commande à afficher pour le moment",
-      "noCommissionsText": "Dès que vous recevrez une demande de commande, vous aurez la possibilité de voir la liste des commandes!"
+      "title": "Commissions",
+      "noCommissions": "Aucune commission à afficher pour l'instant",
+      "noCommissionsText": "Une fois que vous recevrez une demande de commission, vous aurez la possibilité de voir la liste des commissions !"
     },
     "settingLinks": {
       "title": "Paramètres du compte",
@@ -676,82 +684,82 @@
       "editProfile": "Modifier le profil",
       "recentOrders": "Commandes récentes",
       "viewAll": "Voir tout",
-      "noOrders": "Aucune commande à afficher pour le moment",
-      "noOrdersText": "Dès que vous passerez une commande, vous aurez la possibilité de voir la liste des commandes!",
+      "noOrders": "Aucune commande à afficher pour l'instant",
+      "noOrdersText": "Une fois que vous aurez passé une commande, vous aurez la possibilité de voir la liste des commandes !",
       "artistsYouFollow": "Artistes que vous suivez",
-      "noSubscriptions": "Aucune souscription à afficher pour le moment",
-      "noSubscriptionsText": "Dès que vous suivrez un artiste, vous aurez la possibilité de voir la liste des artistes!"
+      "noSubscriptions": "Aucun abonnement à afficher pour l'instant",
+      "noSubscriptionsText": "Une fois que vous suivez un artiste, vous aurez la possibilité de voir la liste des artistes !"
     },
     "orders": {
-      "title": "Commandes",
-      "orderId": "ID de commande",
+      "title": "Ordres",
+      "orderId": "Numéro de commande",
       "total": "Total",
       "items": "articles",
       "date": "Date",
       "address": "Adresse",
       "waiting": "En attente de livraison",
-      "noOrders": "Aucune commande à afficher pour le moment",
-      "noOrdersText": "Dès que vous passerez une commande, vous aurez la possibilité de voir la liste des commandes!"
+      "noOrders": "Aucune commande à afficher pour l'instant",
+      "noOrdersText": "Une fois que vous aurez passé une commande, vous aurez la possibilité de voir la liste des commandes !"
     },
     "savedArtworks": {
       "title": "Ma collection",
-      "noItems": "Aucun article dans votre collection",
-      "noItemsText": "Vous pouvez ajouter des articles à votre collection en cliquant sur l'icône en forme de cœur sur la page de l'article."
+      "noItems": "Aucun élément dans votre collection",
+      "noItemsText": "Vous pouvez ajouter des éléments à votre collection en cliquant sur l'icône en forme de cœur sur la page de l'élément."
     },
     "followingArtists": {
       "title": "Artistes que vous suivez",
       "viewAll": "Voir tout",
-      "artistMaterial": "Matériau de l'artiste",
-      "artStyle": "Style de l'art",
+      "artistMaterial": "Matériel d'artiste",
+      "artStyle": "Style artistique",
       "typeOfPainting": "Type de peinture",
-      "noArtists": "Aucun artiste à afficher pour le moment",
-      "noArtistsText": "Vous pouvez suivre des artistes à partir des listes d'artistes"
+      "noArtists": "Aucun artiste à montrer pour l'instant",
+      "noArtistsText": "Vous pouvez suivre les artistes à partir des listes d'artistes"
     },
     "review": {
       "tabs": {
-        "notReviewed": "Pas encore évalué",
-        "previouslyReviewed": "Déjà évalué"
+        "notReviewed": "Pas encore examiné",
+        "previouslyReviewed": "Déjà examiné"
       },
-      "title": "Évaluation",
+      "title": "Revoir",
       "reviews": "Avis",
       "writeReview": "Écrire un avis",
       "send": "Envoyer",
       "cancel": "Annuler",
       "submit": "Soumettre",
-      "search": "Rechercher par numéro de commande",
-      "noReviews": "Aucun avis à afficher pour le moment",
-      "noReviewsText": "Vous pouvez écrire un avis après avoir reçu votre commande"
+      "search": "Recherche par numéro de commande",
+      "noReviews": "Aucun avis à afficher pour l'instant",
+      "noReviewsText": "Vous pouvez rédiger un avis après avoir reçu votre commande"
     },
     "profile": {
-      "title": "Informations du compte",
+      "title": "Informations sur le compte",
       "name": "Nom",
       "edit": "Modifier",
       "cancel": "Annuler",
-      "save": "Enregistrer",
+      "save": "Sauvegarder",
       "thisIs": "C'est le nom sur votre document",
       "typeHere": "Tapez ici",
       "email": "Adresse email",
       "password": "Mot de passe",
       "accountDeactivation": "Désactivation ou suppression de compte",
-      "deactivate": "Désactiver votre compte",
-      "delete": "Supprimer votre compte",
-      "deleteConfirm": "Êtes-vous sûr de vouloir supprimer votre compte?",
+      "deactivate": "Désactivez votre compte",
+      "delete": "Supprimez votre compte",
+      "deleteConfirm": "Êtes-vous sûr de vouloir supprimer votre compte ?",
       "deleteButton": "Supprimer",
       "noData": "Aucune donnée"
     },
     "address": {
       "savedAddresses": "Adresses enregistrées",
       "addNew": "Ajouter une nouvelle adresse",
-      "default": "Par défaut",
+      "default": "Défaut",
       "title": "Adresse",
-      "fillOutField": "Veuillez remplir ce champ",
+      "fillOutField": "Merci de remplir ce champ",
       "city": "Ville",
       "state": "État",
       "country": "Pays",
       "zip": "Code postal",
       "phone": "Numéro de téléphone",
-      "fullName": "Nom complet",
-      "remove": "Supprimer",
+      "fullName": "Nom et prénom",
+      "remove": "Retirer",
       "edit": "Modifier",
       "submit": "Soumettre",
       "createAddressModal": {
@@ -761,48 +769,48 @@
         "title": "Modifier l'adresse",
         "submit": "Soumettre"
       },
-      "noAddresses": "Aucune adresse à afficher pour le moment",
+      "noAddresses": "Aucune adresse à afficher pour l'instant",
       "noAddressesText": "Vous pouvez ajouter une nouvelle adresse en cliquant sur le bouton ci-dessus"
     },
     "customArtRequests": {
       "title": "Demandes d'art personnalisées",
       "pending": "En attente",
       "artType": "Type d'art (Peinture, portrait)",
-      "description": "souvenir magique de mon mariage - mais les photos que j'avais n'ont pas capturé le jour comme je l'avais ressenti dans mon cœur",
+      "description": "souvenir magique dans ma tête de ma nuit de noces - mais les photos que je viens de prendre n'ont pas capturé la journée comme je l'avais ressentie dans mon cœur",
       "size": "Préférences de taille",
-      "timeline": "Préférences de délai",
+      "timeline": "Préférences de chronologie",
       "edit": "Modifier la demande"
     }
   },
   "search": {
     "sort": "Trier",
     "byPopularity": "Par popularité",
-    "artworks": "Œuvres d'art",
+    "artworks": "Oeuvres",
     "noArtworks": "Il n'y a pas d'œuvres d'art",
     "article": "Article"
   },
   "wishList": {
     "title": "Ma collection",
-    "noItemsTitle": "Aucun article dans votre collection",
-    "noItemsText": "Vous pouvez ajouter des articles à votre collection en cliquant sur l'icône en forme de cœur sur la page de l'article."
+    "noItemsTitle": "Aucun élément dans votre collection",
+    "noItemsText": "Vous pouvez ajouter des éléments à votre collection en cliquant sur l'icône en forme de cœur sur la page de l'élément."
   },
   "dragAndDrop": {
-    "title": "Glissez et déposez vos images de référence ici!",
-    "maxSize": "Taille maximale du fichier : 2 Mo",
+    "title": "Faites glisser et déposez vos images de référence ici !",
+    "maxSize": "Max. ",
     "browseFile": "Parcourir le fichier",
-    "uploadImage": "Télécharger l'image"
+    "uploadImage": "Télécharger une image"
   },
   "payment": {
     "success": {
       "title": "Merci pour votre commande",
-      "description": "Vous recevrez un email de confirmation de commande avec les détails de votre commande.",
+      "description": "Vous recevrez un e-mail de confirmation de commande avec les détails de votre commande.",
       "orderNumber": "Votre numéro de commande est",
       "backToMain": "Retour à la page principale",
-      "orderedArtworks": "Œuvres d'art commandées"
+      "orderedArtworks": "Oeuvres commandées"
     },
     "failed": {
       "title": "Échec du paiement",
-      "description": "Votre paiement n'a pas été réussi. Veuillez réessayer ou contacter le service client pour obtenir de l'aide.",
+      "description": "Votre paiement n'a pas abouti. ",
       "orderNumber": "Votre numéro de commande est",
       "backToMain": "Retour à la page principale"
     }
@@ -812,43 +820,78 @@
       "title": "Aucune œuvre trouvée",
       "text": "Veuillez ajouter de nouvelles œuvres pour les afficher ici."
     },
-    "welcome": "Bienvenue de retour",
+    "welcome": "Content de te revoir",
     "tabs": {
-      "overview": "Vue d'ensemble",
-      "artworks": "Œuvres d'art",
-      "promocode": "Code promo",
-      "commissions": "Commandes",
+      "overview": "Aperçu",
+      "artworks": "Oeuvres",
+      "promocode": "Code promotionnel",
+      "commissions": "Commissions",
       "messages": "Messages"
     },
     "confirm": {
       "title": "Votre compte n'a pas encore été vérifié",
       "description": "Veuillez attendre que l'administrateur confirme les informations que vous avez fournies.",
-      "verify": "Vérifier maintenant"
+      "verify": "Vérifiez maintenant"
     },
     "works": {
-      "title": "Vos œuvres d'art",
-      "total": "Total des œuvres d'art",
+      "title": "Vos oeuvres",
+      "total": "Oeuvres totales",
       "manage": "Gérer les œuvres d'art",
       "review": "En cours de révision",
       "edit": "Modifier les détails"
     },
-    "commission": {
+    "dashboard": {
+      "yourArtworks": "Vos oeuvres",
+      "artworksInStock": "Oeuvres en stock",
+      "artworksSold": "Oeuvres vendues",
+      "availableForCommissions": "Disponible pour des commissions ?",
+      "availableSubtitle": "Faites savoir aux visiteurs que vous êtes disponible pour les demandes d'art personnalisées",
+      "followers": "Abonnés",
+      "following": "Suivant",
+      "bio": "Biographie",
+      "styles": "Styles",
+      "materials": "Matériels",
+      "subjects": "Sujets",
+      "achievements": "Réalisations",
+      "education": "Éducation",
+      "exhibitions": "Expositions",
+      "studioChronicles": "Chroniques d'atelier",
+      "noInfoAbout": "Aucune information sur",
+      "buttons": {
+        "edit": "Modifier",
+        "more": "Plus",
+        "less": "Moins",
+        "editProfile": "Modifier le profil",
+        "previewProfile": "Aperçu du profil",
+        "goToArtworks": "Aller aux œuvres d'art",
+        "editAvailability": "Modifier la disponibilité"
+      }
+    },
+    "comission": {
       "title": "Demandes de commissions",
       "total": "Commissions en cours",
       "details": "Aller aux détails",
       "requests": "Nouvelles demandes",
       "messages": "Aller aux messages",
-      "isAvailable": "Êtes-vous disponible pour des commandes?",
-      "question": "Confirmez votre identité pour montrer votre art au monde. Vérifiez maintenant pour publier vos œuvres",
+      "isAvailable": "Êtes-vous disponible pour des commissions?",
+      "question": "Confirmez votre identité pour présenter votre art au monde. ",
       "reject": "Non, je ne suis pas disponible",
       "accept": "Oui, disponible",
       "execution": "Jours d'exécution",
-      "personalities": "Je voudrais un portrait personnalisé de ma famille à accrocher dans notre salon. Le portrait doit capturer l'essence de notre lien et de nos personnalités.",
-      "decision": "Prêt à prendre une décision?",
-      "discussDetails": "Si vous avez déjà discuté des détails ou avez une préférence claire à propos de cette demande",
-      "acceptCommission": "Accepter la commande",
-      "decline": "Refuser",
-      "notSpecified": "Prix non spécifié",
+      "personalities": "J'aimerais qu'un portrait personnalisé de ma famille soit accroché dans notre salon. ",
+      "decision": "Prêt à prendre une décision ?",
+      "discussDetails": "Si vous avez déjà discuté des détails ou si vous avez une préférence claire concernant cette demande",
+      "acceptCommission": "Accepter les commissions",
+      "decline": "Déclin",
+      "notSpecified": "Prix ​​non précisé",
+      "acceptOrder": "Accepter la commande personnalisée",
+      "acceptOrderContent": "Avant d'accepter la commande, veuillez écrire un message au client",
+      "declineOrder": "Refuser la commande personnalisée",
+      "declineOrderContent": "Avant de refuser la commande, veuillez écrire un message au client",
+      "updateOrderParams": "Mettre à jour les paramètres de commande personnalisés",
+      "updateOrderPrice": "Mettre à jour le prix de la commande personnalisée",
+      "updatePriceTitle": "Prix",
+      "updatePriceContent": "Entrez le prix final pour la commande personnalisée",
       "requested": "demandé",
       "requestedUser": "Taille demandée par l'utilisateur",
       "finalSize": "Taille finale",
@@ -857,14 +900,14 @@
       "updatePrice": "Mettre à jour le prix"
     },
     "insights": {
-      "title": "Aperçus : novembre 2023",
+      "title": "Perspectives : novembre 2023",
       "monthRevenue": "Revenus ce mois-ci",
-      "sold": "Œuvres d'art vendues",
-      "commission": "Œuvres commandées",
+      "sold": "Oeuvres vendues",
+      "commission": "Œuvres d'art commandées",
       "sales": "Ventes par pays"
     },
     "tips": {
-      "title": "Conseils & directives",
+      "title": "Conseils et conseils",
       "first": {
         "title": "Comment prendre de superbes photos avec votre téléphone"
       },
@@ -876,21 +919,28 @@
       "title": "Messages"
     },
     "artworks": {
-      "title": "Œuvres d'art",
-      "addNewArt": "Ajouter une nouvelle œuvre",
-      "options": "Options de vue",
+      "ready_to_send": "Prêt à envoyer",
+      "ready_to_send_modal": {
+        "title": "Prêt à envoyer",
+        "description": "Êtes-vous sûr de vouloir envoyer l'illustration au client ?",
+        "send": "Envoyer",
+        "cancel": "Annuler"
+      },
+      "title": "Oeuvres",
+      "addNewArt": "Ajouter une nouvelle illustration",
+      "options": "Afficher les options",
       "info": {
-        "id": "ID",
+        "id": "IDENTIFIANT",
         "images": "Images",
         "title": "Titre",
         "description": "Description",
         "price": "Prix",
-        "date": "Créé le",
+        "date": "Créé à",
         "validateStatus": "Validé",
         "notValidated": "Non validé",
         "sale": "À vendre",
         "sold": "Non",
-        "actions": "Actions",
+        "actions": "Actes",
         "yes": "Oui",
         "no": "Non",
         "inStock": "En stock",
@@ -902,27 +952,27 @@
     "addArtwork": {
       "details": "Détails",
       "upload": "Télécharger des images",
-      "price": "Prix & Expédition",
+      "price": "Prix ​​et expédition",
       "preview": "Aperçu",
-      "back": "Retour aux œuvres d'art",
+      "back": "Retour aux œuvres",
       "next": "Suivant"
     },
     "promocode": {
       "discountAmount": "Montant de la remise",
-      "promocodeAdd": "Ajouter un code promo",
+      "promocodeAdd": "Ajouter un code promotionnel",
       "promocodeNo": "Aucun code promo trouvé",
-      "promocodeNoText": "Vous n'avez pas de codes promo, veuillez les ajouter"
+      "promocodeNoText": "Vous n'avez pas de codes promo, merci de les ajouter"
     },
     "comissions": {
-      "title": "Commandes",
+      "title": "Commissions",
       "links": {
-        "commissions": "Toutes les commandes",
-        "work": "En cours",
+        "commissions": "Toutes les commissions",
+        "work": "Au travail",
         "new": "Nouveau",
         "declined": "Refusé",
         "completed": "Complété",
-        "onReview": "En cours de révision",
-        "pricing": "Tarification",
+        "onReview": "En révision",
+        "pricing": "Tarifs",
         "waitingForPayment": "En attente de paiement",
         "paid": "Payé",
         "waitingForDelivery": "En attente de livraison"
@@ -930,11 +980,11 @@
       "settings": {
         "budget": "Budget",
         "size": "Préférences de taille",
-        "time": "Délai"
+        "time": "Chronologie"
       },
       "buttons": {
         "more": "Plus de détails",
-        "conversation": "Commencer la conversation"
+        "conversation": "Démarrer une conversation"
       }
     }
   },
@@ -942,41 +992,41 @@
     "placeholders": {
       "firstName": "Prénom",
       "lastName": "Nom de famille",
-      "fullName": "Nom complet"
+      "fullName": "Nom et prénom"
     },
     "modals": {
       "education": {
         "title": "Éducation",
         "school": "École / Université",
         "faculty": "Faculté",
-        "degree": "Diplôme",
-        "chooseDegree": "Choisir un diplôme",
+        "degree": "Degré",
+        "chooseDegree": "Choisir le diplôme",
         "startYear": "Année de début",
-        "endYear": "Année de fin",
-        "addAnotherSchool": "Ajouter une autre école / université"
+        "endYear": "Fin d'année",
+        "addAnotherSchool": "Ajouter une autre école/université"
       },
       "achievements": {
-        "title": "Réalisations ou reconnaissances",
-        "subtitle": "Partager vos réalisations et reconnaissances artistiques aide à mettre en valeur vos contributions à la communauté artistique"
+        "title": "Réalisations ou reconnaissance",
+        "subtitle": "Partager vos réalisations et reconnaissances artistiques permet de mettre en valeur vos contributions à la communauté artistique."
       },
       "exhibitions": {
         "title": "Expositions",
-        "name": "Nom de l'exposition",
-        "location": "Lieu",
+        "name": "À propos de l'exposition",
+        "location": "Emplacement",
         "startDate": "Date de début",
         "endData": "Date de fin",
         "addAnother": "Ajouter une autre exposition",
         "photo": "Photo"
       },
       "profilePhoto": {
-        "setPhoto": "Définir la photo de profil",
+        "setPhoto": "Définir une photo de profil",
         "uploadPhoto": "Veuillez télécharger votre photo"
       },
       "portfolio": {
-        "title": "Portfolio",
-        "works": "Œuvres",
+        "title": "Portefeuille",
+        "works": "Travaux",
         "fillTitlePlaceholder": "Veuillez remplir le titre",
-        "pleaseUpload": "Veuillez télécharger au moins"
+        "pleaseUpload": "Veuillez fournir au moins 1 œuvre d'art de votre portfolio ou vous montrer en cours de travail "
       },
       "editAbout": {
         "title": "Modifier à propos de l'artiste",
@@ -986,7 +1036,7 @@
         "title": "Modifier les paramètres de l'artiste"
       },
       "editCreativeCredo": {
-        "title": "Modifier le crédo créatif"
+        "title": "Modifier le credo créatif"
       },
       "editArtistName": {
         "title": "Modifier le nom",
@@ -997,7 +1047,7 @@
     "profileSetup": {
       "tabs": {
         "artisticProfile": "Configuration du profil artistique",
-        "pictures": "Images",
+        "pictures": "Photos",
         "verification": "Vérification",
         "preview": "Aperçu"
       },
@@ -1006,14 +1056,14 @@
         "basicInfoSubtitle": "Remplissez les champs suggérés ci-dessous pour une présence professionnelle",
         "firstName": "Prénom",
         "lastName": "Nom de famille",
-        "artisticName": "Nom artistique (optionnel, uniquement si différent)",
-        "fillOutPlaceholder": "Remplissez ce champ si vous avez un nom artistique différent",
-        "chooseCountry": "Choisissez un pays",
+        "artisticName": "Nom artistique (facultatif, seulement s'il est différent)",
+        "fillOutPlaceholder": "Remplissez ce champ Si vous avez un nom artistique différent",
+        "chooseCountry": "Choisir le pays",
         "country": "Pays",
         "state": "État",
         "city": "Ville",
-        "providesYourLocation": "Fournit votre localisation, permettant aux acheteurs potentiels de comprendre votre origine ou la zone d'influence",
-        "note": "Note : Assurez-vous que toutes les informations soumises sont correctes. Une fois ces champs soumis, toute modification ultérieure sera soumise à l'approbation de notre équipe.",
+        "providesYourLocation": "Fournit votre emplacement, permettant aux acheteurs potentiels de comprendre votre origine ou la zone d'influence",
+        "note": "Remarque : Assurez-vous que toutes les informations soumises sont correctes. ",
         "address": "Adresse",
         "zipcode": "Code postal",
         "phone": "Numéro de téléphone"
@@ -1022,66 +1072,66 @@
         "briefBio": "Brève biographie",
         "bio": "Biographie",
         "credoTitle": "Crédo créatif",
-        "credo": "Crédo",
-        "bioPlaceholder": "Veuillez rédiger une brève biographie sur vous-même. Minimum 40 caractères.",
-        "credoPlaceholder": "Veuillez écrire un credo sur vous-même. Minimum 40 caractères.",
+        "credo": "Credo",
+        "bioPlaceholder": "Veuillez rédiger une brève biographie sur vous-même. ",
+        "credoPlaceholder": "Veuillez écrire un credo sur vous-même. ",
         "minimumCharacters": "Minimum 40 caractères",
         "additionalDetails": "Détails supplémentaires",
-        "youCanUpdate": " Vous pouvez mettre à jour ou ajouter des informations à tout moment depuis les paramètres de votre profil"
+        "youCanUpdate": " Vous pouvez mettre à jour ou ajouter des informations à tout moment à partir des paramètres de votre profil"
       },
       "thirdStep": {
-        "areYouOpen": "Êtes-vous ouvert aux commandes d'art?",
-        "youCanChange": "Vous pouvez changer la disponibilité dans les paramètres de votre profil",
-        "yesImOpen": "Oui, je suis ouvert aux commandes personnalisées",
-        "thisIndicatesToYes": "Cela indique aux acheteurs que vous êtes disponible et pouvez accepter des travaux personnalisés si intéressé",
-        "noImNotOpen": "Non, je ne suis pas disponible pour le moment",
-        "thisIndicatesToNot": "Cela indique que vous n'acceptez pas actuellement de commandes personnalisées"
+        "areYouOpen": "Êtes-vous ouvert aux commandes artistiques ?",
+        "youCanChange": "Vous pouvez modifier la disponibilité dans les paramètres de votre profil",
+        "yesImOpen": "Oui, je suis ouvert aux commissions personnalisées",
+        "thisIndicatesToYes": "Cela indique aux acheteurs que vous êtes disponible et que vous pouvez accepter un travail personnalisé si vous êtes intéressé.",
+        "noImNotOpen": "Non, je ne suis pas disponible actuellement",
+        "thisIndicatesToNot": "Cela indique que vous n'acceptez pas actuellement de commissions personnalisées."
       },
       "fourthStep": {
         "describeYourStyle": "Décrivez votre style artistique",
         "category": "Catégorie",
         "chooseAtLeast": "Choisissez au moins 1",
-        "materials": "Matériaux",
+        "materials": "Matériels",
         "styles": "Styles",
         "subject": "Sujet"
       },
       "fifthStep": {
-        "upload": "Téléchargez une photo",
-        "subtitle": "Cela aide à personnaliser votre profil et ajoute une touche personnelle à votre présence sur la plateforme",
+        "upload": "Télécharger une photo",
+        "subtitle": "Il permet de personnaliser votre profil et ajoute une touche personnelle à votre présence sur la plateforme",
         "profilePhoto": "Photo de profil",
-        "aboutSectionPhoto": "Photo de la section \"À propos\"",
-        "portfolio": "Portfolio",
-        "pleaseProvide": "Veuillez fournir au moins une œuvre de votre portfolio ou vous montrer en train de travailler"
+        "aboutSectionPhoto": "Photo de la rubrique \"À propos\"",
+        "portfolio": "Portefeuille",
+        "pleaseProvide": "Veuillez fournir au moins 1 œuvre d'art de votre portfolio ou vous montrer en cours de travail"
       },
       "sixthStep": {
         "verifyIdentity": "Vérifiez votre identité",
-        "pleaseProvide": "Veuillez fournir au moins 2 contacts d'autres artistes, afin que nous puissions\n            vérifier votre compte",
+        "pleaseProvide": "Veuillez fournir au moins 2 contacts d'autres artistes afin que nous puissions\n            ",
         "artist": "Artiste",
         "artistName": "Nom de l'artiste",
-        "artistContacts": "Contacts de l'artiste",
+        "artistContacts": "Contacts artistes",
         "contactsPlaceholder": "Numéro de téléphone ou email",
-        "addMoreContacts": "Ajouter plus de contacts de référence"
+        "addMoreContacts": "Ajouter plus de contact de référence"
       },
       "preview": {
         "style": "Style",
         "typeOfPainting": "Type de peinture",
-        "material": "Matériau",
-        "orderCustomArt": "Commander de l'art personnalisé",
+        "material": "Matériel",
+        "orderCustomArt": "Commandez des œuvres d'art personnalisées",
         "follow": "Suivre",
         "replace": "Remplacer",
         "education": "Éducation",
         "aboutArtist": "À propos de l'artiste",
-        "recognitionEvents": "Reconnaissance, Événements"
+        "recognitionEvents": "Reconnaissance, événements"
       }
     },
     "buttons": {
       "edit": "Modifier",
       "add": "Ajouter",
       "next": "Suivant",
-      "back": "Retour",
+      "back": "Dos",
       "submit": "Soumettre",
       "cancel": "Annuler",
-      "save": "Enregistrer",
+      "save": "Sauvegarder",
       "publish": "Publier",
       "goBack": "Aller à la page principale"
     }
@@ -1092,24 +1142,24 @@
     "followers": "abonnés",
     "available": "Disponibilité",
     "type": "Type de peinture",
-    "material": "Matériau",
-    "custom": "Commander de l'art personnalisé",
-    "noCustom": "Non disponible pour l'art personnalisé",
-    "searchBy": "Rechercher par nom d'art, nom de l'artiste",
+    "material": "Matériel",
+    "custom": "Commandez des œuvres d'art personnalisées",
+    "noCustom": "Non disponible pour les illustrations personnalisées",
+    "searchBy": "Recherche par nom d'art, nom d'artiste",
     "about": "À propos de l'artiste",
-    "artworks": "Œuvres d'art",
+    "artworks": "Oeuvres",
     "reviews": "Avis",
     "unfollow": "Ne plus suivre",
     "follow": "Suivre",
-    "noArtistsTitle": "Aucun artiste à afficher",
-    "noArtistsText": "Veuillez essayer de changer les filtres ou revenir plus tard"
+    "noArtistsTitle": "Aucun artiste à montrer",
+    "noArtistsText": "Veuillez essayer de modifier les filtres ou revenir plus tard"
   },
   "artistFilter": {
     "show": "Afficher le filtre",
-    "filter": "Filtrer",
-    "artwork": "Disponible pour des œuvres d'art personnalisées",
+    "filter": "Filtre",
+    "artwork": "Disponible pour des illustrations personnalisées",
     "type": "Type de peinture",
-    "materials": "Matériaux",
+    "materials": "Matériels",
     "styles": "Styles",
     "location": "Localisation de l'artiste",
     "showMore": "Afficher plus",
@@ -1121,99 +1171,99 @@
   },
   "artworkDetail": {
     "chooseFrame": {
-      "choose": "Choisir un cadre",
+      "choose": "Choisir le cadre",
       "profile": "Profil",
       "color": "Couleur"
     },
     "breadCrumbs": {
       "mainPage": "Page principale",
-      "artworks": "Œuvres d'art"
+      "artworks": "Oeuvres"
     },
     "descriptionTabs": {
       "artistAbout": "À propos de l'artiste",
       "detailsArtwork": "Détails de l'œuvre",
-      "readMore": "Lire plus",
+      "readMore": "En savoir plus",
       "follow": "Suivre",
-      "located": "Localisé à",
+      "located": "Situé dans",
       "available": "Disponible pour l'art personnalisé",
-      "notAvailable": "Non disponible pour l'art personnalisé",
-      "viewed": "Vu récemment"
+      "notAvailable": "Non disponible pour les illustrations personnalisées",
+      "viewed": "Récemment consulté"
     }
   },
   "auth": {
     "emailModal": {
-      "login": "Se connecter ou S'inscrire",
-      "welcome": "Bienvenue sur Art Platform",
+      "login": "Connectez-vous ou inscrivez-vous",
+      "welcome": "Bienvenue sur la plateforme artistique",
       "continue": "Continuer"
     },
     "forgotPassword": {
       "forgot": "Mot de passe oublié",
-      "enter": "Entrez l'adresse email associée à votre compte, et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
+      "enter": "Entrez l'adresse e-mail associée à votre compte et nous vous enverrons un lien pour réinitialiser votre mot de passe.",
       "send": "Réinitialiser le mot de passe"
     },
     "loginModal": {
       "login": "Se connecter",
-      "email": "Email",
+      "email": "E-mail",
       "password": "Mot de passe",
-      "try": "Essayons à nouveau",
-      "invalidTry": "Identifiants invalides. Veuillez réessayer.",
-      "forgot": "Mot de passe oublié?",
+      "try": "Essayons encore",
+      "invalidTry": "Identifiants invalides. ",
+      "forgot": "Mot de passe oublié ?",
       "close": "fermer",
       "or": "ou",
-      "forgotPass": "Mot de passe oublié?",
+      "forgotPass": "Mot de passe oublié ?",
       "continueWithGoogle": "Continuer avec Google"
     },
     "signUpModal": {
       "title": "Inscrivez-vous et obtenez",
-      "discount": "20 $ DE RÉDUCTION",
-      "firstPurchase": "sur votre premier achat",
+      "discount": "20$ DE RABAIS",
+      "firstPurchase": "lors de votre premier achat",
       "artistOrNo": "Je suis un artiste",
       "enterCode": "Entrez le code de confirmation",
-      "haveAnAccount": "Vous avez déjà un compte?",
+      "haveAnAccount": "Vous avez déjà un compte ?",
       "signIn": "Se connecter",
-      "welcome": "Bienvenue chez Global Art AI",
-      "first": "Nous nous engageons à vous fournir des œuvres d'art de haute qualité et des expériences personnalisées.",
-      "second": "Merci de nous avoir choisis comme porte d'entrée vers le monde de l'art!",
+      "welcome": "Bienvenue sur Global Art AI",
+      "first": "Nous nous engageons à vous offrir des œuvres d’art de haute qualité et des expériences personnalisées.",
+      "second": "Merci de nous avoir choisis comme porte d'entrée vers le monde de l'art !",
       "artistRegistration": "Aller à l'inscription des artistes",
-      "continue": "Commencer à acheter",
-      "fullName": "Nom complet",
+      "continue": "Commencez vos achats",
+      "fullName": "Nom et prénom",
       "email": "E-mail",
       "password": "Mot de passe",
       "sendCode": "Envoyer le code",
       "signUp": "S'inscrire",
-      "again": "Essayons encore une fois",
-      "invalidTry": "Identifiants invalides. Veuillez réessayer.",
-      "fill": "Veuillez remplir ce champ",
-      "agree": "En continuant, vous acceptez nos",
+      "again": "Essayons encore",
+      "invalidTry": "Identifiants non valides. Veuillez réessayer.",
+      "fill": "Merci de remplir ce champ",
+      "agree": "En continuant, vous acceptez notre",
       "terms": "termes et conditions",
       "and": "et",
       "or": "ou",
       "privacy": "politique de confidentialité",
       "close": "fermer",
-      "refCode": "Code de parrainage"
+      "refCode": "Code de référence"
     }
   },
   "buyComponent": {
     "payment": {
       "payment": "Paiement",
       "cardNumber": "Numéro de carte",
-      "firstName": "Entrer le prénom",
+      "firstName": "Entrez le prénom",
       "cardholderName": "Nom du titulaire de la carte",
-      "fullName": "Entrer le nom complet",
+      "fullName": "Entrez le nom complet",
       "expDate": "Date d'expiration",
-      "enterExpDate": "Entrer la date d'expiration",
-      "ccv": "CCV",
-      "enterCcv": "Entrer le CCV",
+      "enterExpDate": "Entrez la date d'expiration",
+      "ccv": "CVC",
+      "enterCcv": "Entrez CVC",
       "placeOrder": "Passer la commande",
-      "back": "Retour"
+      "back": "Retourner"
     },
     "result": {
       "thanks": "Merci pour votre achat!",
-      "purchase": "Infos d'achat d'art",
+      "purchase": "Informations sur l'achat d'œuvres d'art",
       "order": "Numéro de commande",
       "date": "Date",
-      "total": "Montant total",
-      "shipping": "Infos de livraison",
+      "total": "Somme totale",
+      "shipping": "Informations d'expédition",
       "shippingAddress": "Adresse de livraison",
       "share": "Partagez votre achat",
       "icons": "Icônes sociales",
@@ -1222,24 +1272,24 @@
     "shipping": {
       "address": "Adresse de livraison",
       "name": "Prénom",
-      "enterName": "Entrer le prénom",
+      "enterName": "Entrez le prénom",
       "lastName": "Nom de famille",
-      "enterLastName": "Entrer le nom de famille",
+      "enterLastName": "Entrez le nom de famille",
       "country": "Pays",
-      "enterCountry": "Entrer le pays",
+      "enterCountry": "Entrez le pays",
       "city": "Ville",
-      "enterCity": "Entrer la ville",
-      "apt": "App., suite, etc.",
-      "enterApt": "Entrer app., suite, etc.",
+      "enterCity": "Entrez la ville",
+      "apt": "Appartement, suite, etc.",
+      "enterApt": "Entrez apt, suite, etc.",
       "zip": "Code postal",
-      "enterZip": "Entrer le code postal",
+      "enterZip": "Entrez le code postal",
       "phone": "Numéro de téléphone",
-      "enterPhone": "Entrer le numéro de téléphone",
+      "enterPhone": "Entrez le numéro de téléphone",
       "next": "Étape suivante"
     }
   },
   "artworks": {
-    "medium": "Medium",
+    "medium": "Moyen",
     "size": "Taille",
     "inch": "pouce",
     "cm": "cm",
@@ -1248,138 +1298,139 @@
     "viewCart": "Voir mon panier",
     "movement": "Mouvement et style",
     "year": "Année",
-    "location": "Localisation",
+    "location": "Emplacement",
     "rare": "Rareté",
     "signature": "Signature",
     "certificate": "Certificat d'authenticité",
     "frameMain": "Cadre",
     "yes": "Oui",
     "no": "Non",
-    "rights": "Droits d'image",
+    "rights": "Droits à l'image",
     "remove": "Supprimer du panier",
-    "options": "Voir les options",
+    "options": "Afficher les options",
     "shipping": "Expédition à",
     "stan_par": "Expédition standard",
     "taxes": "Les taxes sont calculées à la caisse",
     "artist": "Artiste",
-    "want": "Vous voulez de l'art dans un style similaire par cet artiste?",
-    "order": "Commander de l'art personnalisé",
-    "explore": "Explorez l'art du monde entier",
-    "browse": "Parcourir par sujet",
-    "title": "Œuvres d'art"
+    "want": "Vous voulez des œuvres d'art dans un style similaire de cet artiste ?",
+    "order": "Commandez des œuvres d'art personnalisées",
+    "explore": "Découvrez l'art du monde entier",
+    "browse": "Naviguer par sujet",
+    "title": "Oeuvres"
   },
   "buy": {
     "delivery": "Livraison",
     "payment": "Paiement",
     "preview": "Aperçu",
-    "login": "Se connecter ou S'inscrire",
-    "speed": "Pour accélérer le processus de commande et enregistrer les paiements sur le compte",
+    "login": "Connectez-vous ou inscrivez-vous",
+    "speed": "Pour accélérer le processus de paiement et enregistrer les paiements sur le compte",
     "signUp": "S'inscrire",
     "signIn": "Se connecter",
     "edit": "Modifier",
-    "promocode": "Avez-vous un code promo?",
+    "promocode": "Avez-vous un code promo ?",
     "shipping": "Expédition",
-    "address": "Entrer l'adresse de livraison",
+    "address": "Entrez l'adresse de livraison",
     "fee": "Frais de service de la plateforme artistique",
     "total": "Total estimé",
-    "notShipping": "Expédition non incluse"
+    "notShipping": "Frais de port non inclus"
   },
   "aboutAI": {
-    "create": "Créer de l'art",
-    "authentic": "authentique",
+    "create": "Créer éthique",
+    "authentic": "art authentique",
     "collaboration": "Avec Gen-AI conçu en collaboration directe avec des artistes",
-    "value": "Valeur requise",
+    "value": "La valeur est requise",
     "waitlist": "Rejoindre la liste d'attente",
-    "shareInfo": "Nous ne partageons pas vos informations avec quiconque",
-    "notSupport": "Votre navigateur ne supporte pas la balise vidéo.",
+    "shareInfo": "Nous ne partageons vos informations avec personne",
+    "notSupport": "Votre navigateur ne prend pas en charge la balise vidéo.",
     "joinDigitalArt": "Rejoignez la révolution de l'art numérique",
     "cases": "Cas d'utilisation",
     "artists": "Artistes",
-    "designers": "Designers d'intérieur",
-    "eventDesigners": "Designers d'événements haut de gamme",
+    "designers": "Architectes d'intérieur",
+    "eventDesigners": "Concepteurs d'événements haut de gamme",
     "marketing": "Spécialistes du marketing numérique",
-    "gameDesigners": "Designers de films et jeux",
+    "gameDesigners": "Concepteurs de films et de jeux",
     "industrialDesigners": "Designers industriels",
     "artist": "Artiste",
-    "platform": "Nous sommes la seule plateforme qui pratique la génération d'art IA responsable",
+    "platform": "Nous sommes la seule plateforme qui pratique une génération d'art IA responsable",
     "generate": "Générer de l'art à partir de zéro",
-    "exploreStyles": "Explorez divers styles et trouvez le match parfait pour votre vision",
-    "inspiredArtists": "Inspirez-vous des artistes",
-    "keepEthical": "Nous gardons l'éthique - en collaborant et en veillant à ce que les droits des artistes soient respectés",
+    "exploreStyles": "Explorez différents styles et trouvez celui qui correspond parfaitement à votre vision",
+    "inspiredArtists": "Laissez-vous inspirer par les artistes",
+    "keepEthical": "Nous veillons à ce que cela soit éthique - en collaborant et en veillant au respect des droits des artistes",
     "edit": "Modifiez vos photos",
     "applyStyles": "Appliquez des styles inspirés par des artistes, changez les arrière-plans et recolorez-les",
-    "resize": "Redimensionnez et modifiez l'art existant",
-    "fullNamePlaceholder": "Nom complet",
-    "emailPlaceholder": "Email",
-    "generateFromScratch": "Générer de zéro",
-    "beInspiredByArtists": "Inspirez-vous des artistes",
+    "resize": "Redimensionner et modifier l'art existant",
+    "fullNamePlaceholder": "Nom et prénom",
+    "emailPlaceholder": "E-mail",
+    "generateFromScratch": "Générer à partir de zéro",
+    "beInspiredByArtists": "Laissez-vous inspirer par les artistes",
     "editYourPhotos": "Modifiez vos photos",
-    "makeArtMove": "Faites bouger l'art"
+    "makeArtMove": "Faites bouger l’art"
   },
   "addArtwork": {
-    "addNew": "Ajouter une nouvelle œuvre",
+    "editArtwork": "Modifier l'illustration",
+    "addNew": "Ajouter une nouvelle illustration",
     "subject": "Sujet",
-    "artworkImages": "Images de l'œuvre d'art",
+    "artworkImages": "Images d’œuvres d’art",
     "warnings": {
-      "first": "Assurez-vous que l'œuvre est droite et centrée dans le cadre",
-      "second": "Assurez-vous que l'œuvre est uniformément éclairée, sans zones sombres ou surexposées",
-      "third": "Incluez des gros plans des détails importants, tels que les textures, les coups de pinceau et les signatures"
+      "first": "Assurez-vous que l'illustration est droite et centrée dans le cadre",
+      "second": "Assurez-vous que l'œuvre d'art est uniformément éclairée, sans points sombres ni zones surexposées.",
+      "third": "Incluez des gros plans de détails importants, tels que les textures, les coups de pinceau et les signatures."
     },
     "help": {
       "first": {
-        "first": "Les champs marqués par",
+        "first": "Champs marqués d'un",
         "span": "*",
-        "second": "sont obligatoires"
+        "second": "sont requis"
       },
-      "second": "En choisissant une catégorie et des styles, vous aidez les acheteurs potentiels à découvrir votre œuvre"
+      "second": "En choisissant la catégorie et les styles, vous aidez les acheteurs potentiels à découvrir votre travail"
     },
-    "priceAndQuantity": "Prix & Quantité",
+    "priceAndQuantity": "Prix ​​et quantité",
     "artwork": "Informations sur l'œuvre",
     "title": "Titre de l'œuvre",
     "titlePlaceholder": "Entrez le titre de votre œuvre",
     "description": "Description",
-    "descriptionPlaceholder": "Fournissez une description de votre œuvre, par exemple : l'inspiration, les matériaux utilisés",
+    "descriptionPlaceholder": "Fournissez une description de votre œuvre, par exemple : l'inspiration, les matériaux utilisés",
     "made": "Fabriqué en",
     "madePlaceholder": "Où a-t-il été fabriqué",
     "yearMade": "Année de fabrication",
     "yearPlaceholder": "Année",
     "signature": "Type de signature (facultatif)",
     "signatureSelect": "Sélectionnez le type de signature",
-    "category": "Catégorie & Styles",
+    "category": "Catégorie et styles",
     "categorySelect": "Sélectionnez la catégorie",
     "rights": "Droits",
-    "rightsPlaceholder": "Entrez les droits",
+    "rightsPlaceholder": "Saisir les droits",
     "material": "Matériel",
-    "materialSelect": "Sélectionnez le matériel",
+    "materialSelect": "Sélectionnez le matériau",
     "raritySelect": "Sélectionnez la rareté",
-    "selectAuth": "Sélectionnez le certificat d'authenticité",
+    "selectAuth": "Sélectionnez le certificat d'authentification",
     "movement": "Mouvement et style",
     "styles": "Styles",
     "framed": "Encadré",
     "unframed": "Non encadré",
-    "dimensionsBase": "Dimensions de base (non encadré)",
+    "dimensionsBase": "Dimensions de la base (non encadré)",
     "width": "Largeur",
     "height": "Hauteur",
     "depth": "Profondeur",
     "weight": "Poids",
-    "kg": "kg",
+    "kg": "kilos",
     "units": "Unités",
     "cm": "cm",
     "rarity": "Rareté",
-    "auth": "Certificat d'authenticité",
+    "auth": "Certificat d'authentification",
     "dimensions": "Dimensions",
     "preview": {
-      "review": "Examinez votre œuvre et publiez",
-      "show": "Voici ce que nous montrerons aux acheteurs. Assurez-vous que tout semble correct.",
+      "review": "Examinez votre art et publiez-le",
+      "show": "Voici ce que nous montrerons aux acheteurs. ",
       "information": "Informations sur l'œuvre",
       "title": "Titre de l'œuvre",
       "description": "Description de l'œuvre",
       "made": "Fabriqué en",
       "year": "Année de fabrication",
-      "style": "Catégorie & Styles",
+      "style": "Catégorie et styles",
       "category": "Catégorie",
       "styles": "Styles",
-      "materials": "Matériaux",
+      "materials": "Matériels",
       "rarity": "Rareté",
       "price": "Prix",
       "frame": "Cadre",
@@ -1387,26 +1438,26 @@
       "size": "Taille"
     },
     "second": {
-      "photosAdd": "Ajoutez des photos de votre œuvre",
-      "add": "Vous devez ajouter 5 photos. Vous pouvez en ajouter plus tard",
-      "requirements": "Exigences de l'image",
-      "frontalImage": "Image frontale complète",
-      "frontalView": "Une vue frontale claire et complète de votre œuvre montrant son intégralité",
-      "closeUp": "Détail en gros plan de l'œuvre",
-      "highResolution": "Gros plans haute résolution mettant en évidence les détails et les textures complexes de votre œuvre",
+      "photosAdd": "Ajoutez des photos de votre art",
+      "add": "Vous devez ajouter 5 photos. ",
+      "requirements": "Exigences relatives aux images",
+      "frontalImage": "Image frontale",
+      "frontalView": "Une vue claire et frontale de votre œuvre montrant son intégralité",
+      "closeUp": "Détail en gros plan de l'œuvre d'art",
+      "highResolution": "Gros plans haute résolution mettant en valeur les détails et les textures complexes de votre œuvre",
       "closeUpSignature": "Détail en gros plan de votre signature",
-      "focused": "Une capture focalisée de votre signature pour l'authenticité",
-      "artworkBack": "Arrière de l'œuvre",
-      "context": "Vue contextuelle (dans un intérieur de maison)",
-      "potential": "Offrez aux acheteurs potentiels une sensation visuelle de son échelle et de son attrait esthétique",
+      "focused": "Une capture ciblée de votre signature pour l'authenticité",
+      "artworkBack": "Dos de l'oeuvre",
+      "context": "Vue en contexte (dans un intérieur de maison)",
+      "potential": "Offrez aux acheteurs potentiels une idée visuelle de son ampleur et de son attrait esthétique",
       "preview": "Aperçu",
       "title": "Veuillez remplir le titre",
-      "price": "Veuillez remplir le prix"
+      "price": "Veuillez indiquer le prix"
     },
     "third": {
-      "priceQuantity": "Prix & Quantité",
-      "status": "État de l'œuvre",
-      "statusPlaceholder": "Sélectionnez l'état de l'œuvre",
+      "priceQuantity": "Prix ​​et quantité",
+      "status": "Statut de l'œuvre d'art",
+      "statusPlaceholder": "Sélectionner le statut de l'œuvre",
       "quantity": "Quantité en stock",
       "quantityPlaceholder": "Combien d'articles disponibles à la vente ?",
       "price": "Prix",
@@ -1414,78 +1465,78 @@
       "shipping": "Expédition",
       "shippingProfile": "Profil d'expédition",
       "shippingProfileSelect": "Sélectionnez le profil d'expédition",
-      "calculateShipping": "Ce profil sera utilisé pour calculer les frais de port",
-      "detailsShipping": "Détails de l'expédition",
-      "packageArtwork": "Comment allez-vous emballer cette œuvre ?",
-      "packageChose": "Choisissez l'option d'emballage",
+      "calculateShipping": "Ce profil sera utilisé pour calculer les frais d'expédition",
+      "detailsShipping": "Détails d'expédition",
+      "packageArtwork": "Comment allez-vous emballer cette œuvre d’art ?",
+      "packageChose": "Choisissez l'option du forfait",
       "parcelEstimated": "Taille estimée du colis",
       "width": "Largeur",
       "height": "Hauteur",
       "depth": "Profondeur",
       "units": "Unités",
-      "kg": "kg",
-      "consider": "Tenez compte des frais de la plateforme",
-      "ensure": "Assurez-vous que votre tarification maintient la rentabilité.",
-      "read": "En savoir plus sur les conditions du vendeur",
+      "kg": "kilos",
+      "consider": "Tenez compte des frais de plateforme",
+      "ensure": "Assurez-vous que vos prix maintiennent la rentabilité.",
+      "read": "En savoir plus sur les conditions de vente",
       "weightShipping": "Poids d'expédition",
       "weightPlaceholder": "Poids",
       "guides": "Guides d'expédition",
       "profile": "Choisissez le bon profil d'expédition",
       "packagingTechniques": "Techniques d'emballage appropriées",
-      "insurance": "Options d'assurance expédition"
+      "insurance": "Options d'assurance d'expédition"
     }
   },
   "changeStatus": {
     "change": "Changer de statut",
-    "sureWant": "Êtes-vous sûr de vouloir",
+    "sureWant": "Etes-vous sûr de vouloir",
     "enable": "activer",
     "disable": "désactiver",
     "the": "le",
-    "saleStatus": "statut de vente?",
-    "sureWantRemove": "Êtes-vous sûr de vouloir supprimer le",
+    "saleStatus": "statut de vente ?",
+    "sureWantRemove": "Etes-vous sûr de vouloir supprimer le",
     "disableBig": "Désactiver",
     "enableBig": "Activer",
     "cancel": "Annuler",
     "close": "Fermer"
   },
   "blog": {
-    "title": "Blog",
+    "title": "Blogue",
     "mainPage": "Page principale",
-    "news": "Actualités",
-    "newest": "Les plus récents",
-    "searchPlaceholder": "Rechercher par nom d'art, nom d'artiste",
-    "tags": "Étiquettes",
+    "news": "Nouvelles",
+    "newest": "Le plus récent",
+    "searchPlaceholder": "Recherche par nom d'art, nom d'artiste",
+    "tags": "Balises",
     "shareArticle": "Partager l'article",
     "readAlso": "Lire aussi",
     "trending": "Tendances dans les catégories",
-    "showAll": "Voir tout",
+    "showAll": "Afficher tout",
     "allArticles": "Tous les articles",
     "info": {
-      "noNews": "Aucune actualité à afficher pour le moment",
-      "tryAgain": "Veuillez essayer de changer les filtres ou revenir plus tard"
+      "noNews": "Aucune nouvelle à afficher pour l'instant",
+      "tryAgain": "Veuillez essayer de modifier les filtres ou revenir plus tard"
     }
   },
   "giftCard": {
     "buyTab": "Acheter",
-    "redeemTab": "Échanger",
+    "redeemTab": "Racheter",
     "title": "Acheter une carte cadeau",
     "amount": "Montant",
     "to": "À",
-    "from": "De",
+    "from": "Depuis",
     "recipientName": "Nom du destinataire",
-    "recipientEmail": "Email du destinataire",
+    "recipientEmail": "E-mail du destinataire",
     "giftMessage": "Message cadeau",
     "senderName": "Nom de l'expéditeur",
-    "send": "Envoyer la carte cadeau",
+    "send": "Envoyer une carte cadeau",
     "placeholders": {
-      "custom": "Personnalisér",
+      "custom": "Coutume",
       "giftMessage": "Tapez votre message ici..."
     },
     "redeem": {
-      "title": "Utiliser votre carte cadeau",
-      "apply": "Une fois que vous aurez utilisé votre carte cadeau Global Art AI, le crédit cadeau sera disponible pour votre prochain achat",
+      "title": "Échangez votre carte-cadeau",
+      "apply": "Une fois que vous aurez utilisé votre carte-cadeau Global Art AI, un crédit-cadeau sera disponible et pourra être appliqué à votre prochain achat.",
       "code": "Code de la carte cadeau",
-      "submit": "Utiliser la carte cadeau",
+      "submit": "Échanger une carte-cadeau",
       "enterCode": "Entrez le code de la carte cadeau"
     }
   },
@@ -1498,34 +1549,34 @@
     }
   },
   "preloader": {
-    "createProfile": "Créer un profil",
-    "pleaseWait": "Veuillez patienter",
-    "minute": "Cela ne prendra qu'une minute",
-    "keepTab": "Gardez un onglet sur vos œuvres d'art",
-    "thankYou": "Merci pour votre patience"
+    "createProfile": "Création de votre profil",
+    "pleaseWait": "S'il vous plaît, attendez",
+    "minute": "Cela peut prendre quelques minutes.",
+    "keepTab": "Veuillez garder cet onglet ouvert pour garantir que tout se passe bien.",
+    "thankYou": "Merci pour votre patience !"
   },
   "dragImage": {
-    "title": "Exposez votre art à l'intérieur",
-    "subTitle": "Sublimez votre œuvre en la présentant dans des intérieurs beaux et professionnels avec des cadres personnalisables",
+    "title": "Présentez votre art à l’intérieur",
+    "subTitle": "Élevez votre œuvre d’art en la présentant dans de magnifiques décors intérieurs professionnels avec des cadres personnalisables",
     "position": "Position",
     "chooseInterior": "Choisissez l'intérieur",
-    "artworkSize": "Taille de l'œuvre",
+    "artworkSize": "Taille de l'illustration",
     "smaller": "Plus petit",
     "larger": "Plus grand"
   },
   "payment_types": {
-    "balance": "Solde",
-    "stripe": "Stripe"
+    "balance": "Équilibre",
+    "stripe": "Bande"
   },
   "gift_card_payment": {
     "success": {
       "title": "Merci pour votre achat",
-      "description": "Le destinataire recevra un e-mail avec le code de la carte cadeau. Vous recevrez un e-mail avec les détails de l'achat.",
+      "description": "Le destinataire recevra un e-mail avec le code de la carte cadeau. ",
       "backToMain": "Retour à la page principale"
     },
     "failed": {
       "title": "Échec du paiement",
-      "description": "Votre paiement n'a pas été effectué. Veuillez réessayer ou contacter le support client pour obtenir de l'aide.",
+      "description": "Votre paiement n'a pas abouti. ",
       "backToMain": "Retour à la page principale"
     }
   }

@@ -1,272 +1,278 @@
 {
+  "search_general": {
+    "title": "Aramak",
+    "placeholder": "Sanatçı adına göre ara"
+  },
   "headers": {
     "payment_success": {
-      "title": "Ödeme Başarılı | Global Art AI",
-      "description": "Ödemeniz başarıyla gerçekleştirildi. Satın aldığınız için teşekkür ederiz. Kısa süre içinde e-posta ile bir onay alacaksınız.",
-      "og_url": "https://globalart.ai/tr-TR/payment-success",
-      "canonical": "https://globalart.ai/tr-TR/payment-success"
+      "title": "Ödeme başarısı | ",
+      "description": "Ödemeniz başarılı oldu. ",
+      "og_url": "https://globalart.ai/payment-success",
+      "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "Ödeme Başarısız | Global Art AI",
-      "description": "Ödemeniz başarısız oldu. Lütfen tekrar deneyin veya yardım için müşteri desteği ile iletişime geçin.",
-      "og_url": "https://globalart.ai/tr-TR/payment-failed",
-      "canonical": "https://globalart.ai/tr-TR/payment-failed"
+      "title": "Ödeme başarısız oldu | ",
+      "description": "Ödemeniz başarısız oldu. ",
+      "og_url": "https://globalart.ai/payment-failed",
+      "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "Ödeme başarılı | Global Art AI",
-      "description": "Ödemeniz başarılı oldu. Satın alımınız için teşekkür ederiz. Kısa süre içinde bir e-posta onayı alacaksınız.",
-      "og_url": "https://globalart.ai/tr-TR/gift-card-success",
-      "canonical": "https://globalart.ai/tr-TR/gift-card-success"
+      "title": "Ödeme başarısı | ",
+      "description": "Ödemeniz başarılı oldu. ",
+      "og_url": "https://globalart.ai/gift-card-success",
+      "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "Ödeme başarısız | Global Art AI",
-      "description": "Ödemeniz başarısız oldu. Lütfen tekrar deneyin veya yardım için müşteri hizmetleriyle iletişime geçin.",
-      "og_url": "https://globalart.ai/tr-TR/gift-card-failed",
-      "canonical": "https://globalart.ai/tr-TR/gift-card-failed"
+      "title": "Ödeme başarısız oldu | ",
+      "description": "Ödemeniz başarısız oldu. ",
+      "og_url": "https://globalart.ai/gift-card-failed",
+      "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "Ana Sayfa | Global Art AI",
-      "description": "GlobalArt.ai – yapay zeka ile yaratıcı sanatı birleştiren son teknoloji bir platformu keşfedin. AI tarafından oluşturulan sanat eserlerini, sanatçılar için yenilikçi araçları keşfedin ve sanatsal sınırları zorlamak için teknolojiden yararlanan yaratıcı bir topluluğa katılın. İster AI ile yaratıcılığınızı artırmak isteyen bir sanatçı olun, ister sanat meraklısı olun, GlobalArt.ai modern sanat dünyası için benzersiz bilgiler ve kaynaklar sunar.",
-      "og_url": "https://globalart.ai/tr-TR/",
-      "canonical": "https://globalart.ai/tr-TR/"
+      "title": "Ana Sayfa | ",
+      "description": "Yapay zekayı yaratıcı sanatla birleştiren son teknoloji ürünü bir platform olan GlobalArt.ai'yi keşfedin. ",
+      "og_url": "https://globalart.ai/",
+      "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "Sanatçı kaydı | Global Art AI",
-      "description": "GlobalArt.ai'ya sanatçı olarak katılın ve yeteneğinizi sergilemek, sanatseverlerle bağlantı kurmak ve yaratımlarınızı satmak için fırsatlar dünyasının kapılarını aralayın. Bugün kayıt olun, sanatçı profilinizi oluşturun, portföyünüzü yükleyin ve sanatınızı global bir kitleye satmaya başlayın. Ressam, heykeltıraş, fotoğrafçı veya dijital sanatçı olun, GlobalArt.ai sanat kariyerinizi yükseltmek için platform ve araçlar sağlar.",
-      "og_url": "https://globalart.ai/tr-TR/artistRegistration",
-      "canonical": "https://globalart.ai/tr-TR/artistRegistration"
+      "title": "Sanatçı kaydı | ",
+      "description": "GlobalArt.ai'ye bir sanatçı olarak katılın ve yeteneğinizi sergilemek, sanatseverlerle bağlantı kurmak ve kreasyonlarınızı satmak için fırsatlar dünyasının kilidini açın. ",
+      "og_url": "https://globalart.ai/artistRegistration",
+      "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "Sanatçılar | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Sanatçılar' sayfası, kullanıcılara portre, manzara gibi resim türü, tuval üzerine yağlı boya, suluboya gibi malzemeler, modern, klasik, kentsel, fotogerçekçi gibi tarzlar ve konum gibi çeşitli kriterlere göre sanatçıları keşfetme ve filtreleme imkanı sunar. Ayrıca sanatçıları popülerlik veya fiyata göre sıralama seçenekleri ve özel sanat eserleri sipariş etme özellikleri sunar.",
-      "og_url": "https://globalart.ai/tr-TR/artists",
-      "canonical": "https://globalart.ai/tr-TR/artists"
+      "title": "Sanatçılar | ",
+      "description": "GlobalArt.ai'nin 'Sanatçılar' sayfası, kullanıcıların sanatçıları resim türü (portre, manzara), malzemeler (tuval üzerine yağlıboya, sulu boya), stiller (modern, klasik, kentsel, fotogerçekçi) gibi çeşitli kriterlere göre keşfetmesine ve filtrelemesine olanak tanır. ",
+      "og_url": "https://globalart.ai/artists",
+      "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "Blog | Global Art AI",
-      "description": "GlobalArt.ai'nin blogu, AI ile sanat, sanatçı özellikleri ve sektör içgörüleri gibi çeşitli sanatla ilgili konular hakkında makaleler ve videolar sunar. Sanatçılar ve sanat meraklılarını haftalık güncellemelerle eğitmeyi ve ilham vermeyi amaçlar.",
-      "og_url": "https://globalart.ai/tr-TR/blog",
-      "canonical": "https://globalart.ai/tr-TR/blog"
+      "title": "Blog | ",
+      "description": "GlobalArt.ai blogu, sanatta yapay zeka, sanatçı özellikleri ve sektörle ilgili bilgiler de dahil olmak üzere sanatla ilgili çeşitli konularda makaleler ve videolar sunuyor. ",
+      "og_url": "https://globalart.ai/blog",
+      "canonical": "https://globalart.ai/blog"
     },
     "artworks": {
-      "title": "Sanat Eserleri | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Sanat Eserleri' sayfası, kullanıcılara dünyanın dört bir yanından gelen geniş bir sanat eserleri yelpazesini keşfetme imkanı sunar. Yıl, fiyat, hareket ve stil, nadirlik, malzemeler ve stiller için filtreler sağlar. Kullanıcılar sanat eserlerini popülerlik veya fiyata göre sıralayabilir ve satılık veya satılmış parçaları görebilir.",
-      "og_url": "https://globalart.ai/tr-TR/artworks",
-      "canonical": "https://globalart.ai/tr-TR/artworks"
+      "title": "Sanat Eserleri | ",
+      "description": "GlobalArt.ai'deki Sanat Eserleri sayfası, kullanıcıların dünyanın dört bir yanından çok çeşitli sanat eserlerini keşfetmesine olanak tanır. ",
+      "og_url": "https://globalart.ai/artworks",
+      "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "Dilek Listesi | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Dilek Listesi' sayfası, kullanıcılara favori sanat eserlerini yönetme ve görüntüleme imkanı sunar. Kullanıcıların ilgilendikleri sanat eserlerini takip etmelerine yardımcı olmak için parçalara kişiselleştirilmiş bir koleksiyon ekleme işlevi sunar.",
-      "og_url": "https://globalart.ai/tr-TR/wishlist",
-      "canonical": "https://globalart.ai/tr-TR/wishlist"
+      "title": "İstek Listesi | ",
+      "description": "GlobalArt.ai'deki İstek Listesi sayfası, kullanıcıların en sevdikleri sanat eserlerini yönetmelerine ve görüntülemelerine olanak tanır. ",
+      "og_url": "https://globalart.ai/wishlist",
+      "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "Sepet | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Sepet' sayfası, kullanıcılara satın almayı düşündükleri öğeleri görüntüleme ve yönetme imkanı sunar.",
-      "og_url": "https://globalart.ai/tr-TR/cart",
-      "canonical": "https://globalart.ai/tr-TR/cart"
+      "title": "Sepet | ",
+      "description": "GlobalArt.ai'deki Sepet sayfası, kullanıcıların satın almayı düşündükleri ürünleri görüntülemesine ve yönetmesine olanak tanır.",
+      "og_url": "https://globalart.ai/cart",
+      "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "AI Hakkında | Global Art AI",
-      "description": "GlobalArt.ai'nin 'AI Hakkında' sayfası, sanatçılarla işbirliği içinde geliştirilen AI sanat üretimine etik yaklaşımlarını açıklar. Sıfırdan sanat yaratma, sanatsal tarzlarla fotoğraf düzenleme, mevcut sanatı yeniden boyutlandırma ve değiştirme gibi özellikleri ve iç mimarlar ile dijital pazarlama uzmanları gibi çeşitli profesyoneller için kullanım durumlarını vurgular. Platform, AI'nin sorumlu kullanımını vurgulamakta ve sanatçıların haklarının korunmasını sağlamaktadır.",
-      "og_url": "https://globalart.ai/tr-TR/about-ai",
-      "canonical": "https://globalart.ai/tr-TR/about-ai"
+      "title": "Yapay Zeka Hakkında | ",
+      "description": "GlobalArt.ai'deki 'Yapay Zeka Hakkında' sayfası, sanatçılarla işbirliği içinde geliştirilen yapay zeka sanat üretimine yönelik etik yaklaşımlarını açıklıyor. ",
+      "og_url": "https://globalart.ai/about-ai",
+      "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "Pazar Yeri | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Pazar Yeri' sayfası, dünyanın dört bir yanındaki sanatçılar ve sanat severleri bir araya getirir, 3.943 sanatçıdan 10.590'dan fazla hazır sanat eseri sunar. Sanatı keşfetmek ve satın almak için araçlar, AI önerileri, özel sanat siparişleri ve mekanınızda sanatı görselleştirmek için artırılmış gerçeklik özellikleri sunar. Platform, sertifikalarla özgünlüğü sağlar ve sanatçılar ve uzmanlarla doğrudan işbirliği sunar.",
-      "og_url": "https://globalart.ai/tr-TR/marketplace",
-      "canonical": "https://globalart.ai/tr-TR/marketplace"
+      "title": "Pazaryeri | ",
+      "description": "GlobalArt.ai'deki Marketplace sayfası, dünya çapındaki sanatçıları ve sanatseverleri buluşturarak 3.943 sanatçının 10.590'ı aşkın hazır sanat eserini sunuyor. ",
+      "og_url": "https://globalart.ai/marketplace",
+      "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "Yardım Merkezi | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Yardım' sayfası, sanat eserleri satın alma, sanatçı olarak ödeme alma, sipariş süreci, sanat eserlerinin gönderimi ve iade ve geri ödeme süreci hakkında sıkça sorulan sorulara yanıtlar sağlar. Platformun nasıl kullanılacağı ve yaygın sorunların nasıl çözüleceği konusunda rehberlik sağlar.",
-      "og_url": "https://globalart.ai/tr-TR/help",
-      "canonical": "https://globalart.ai/tr-TR/help"
+      "title": "Yardım Merkezi | ",
+      "description": "GlobalArt.ai'deki Yardım sayfası, sanat eserlerinin satın alınması, sanatçı olarak ödeme alınması, işletmeye alma süreci, sanat eserlerinin nakliyesi ve iade ve geri ödeme süreci hakkında sık sorulan soruların yanıtlarını sağlar. ",
+      "og_url": "https://globalart.ai/help",
+      "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "Profil | Global Art AI",
-      "description": "GlobalArt.ai'nin 'Profil' sayfası, kullanıcılara kişisel bilgilerini yönetme, etkinliklerini görüntüleme ve platformdaki etkileşimlerini izleme imkanı sunar. Hesap tercihlerine, güvenliğe ve iletişim seçeneklerine yönelik ayarları içerebilir.",
-      "og_url": "https://globalart.ai/tr-TR/profile",
-      "canonical": "https://globalart.ai/tr-TR/profile",
+      "title": "Profil | ",
+      "description": "GlobalArt.ai'deki Profil sayfası muhtemelen kullanıcıların kişisel bilgilerini yönetmelerine, etkinliklerini görüntülemelerine ve platformdaki etkileşimlerini takip etmelerine olanak tanıyor. ",
+      "og_url": "https://globalart.ai/profile",
+      "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "Siparişler | Global Art AI",
-          "description": "GlobalArt.ai'de sanat siparişlerinizi yönetin. Sipariş edilen sanat eserlerinizin durumunu görüntüleyin, takip edin ve güncelleyin, sanatçılarla iletişim kurun ve ödeme detaylarını yönetin. Düzenli kalın ve özel sanat isteklerinizin doğru yolda ve vizyonunuzla uyumlu olduğundan emin olun.",
-          "og_url": "https://globalart.ai/tr-TR/profile/commissions",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Komisyonlar | ",
+          "description": "GlobalArt.ai'de sanat komisyonlarınızı yönetin. ",
+          "og_url": "https://globalart.ai/profile/commissions",
+          "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "Kaydedilen Sanat Eserleri | Global Art AI",
-          "description": "GlobalArt.ai'de kaydedilen sanat eserlerinizi keşfedin ve yönetin. Favori parçalarınızı takip edin, koleksiyonunuzu organize edin ve sevdiğiniz sanat eserlerine kolayca erişin. En iyi seçimlerinizi kaydederek ve tekrar ziyaret ederek sanat tarama deneyiminizi geliştirin.",
-          "og_url": "https://globalart.ai/tr-TR/profile/saved-artworks",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Kaydedilen Sanat Eserleri | ",
+          "description": "Kayıtlı sanat eserlerinizi GlobalArt.ai'de keşfedin ve yönetin. ",
+          "og_url": "https://globalart.ai/profile/saved-artworks",
+          "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "Siparişler | Global Art AI",
-          "description": "GlobalArt.ai'de siparişlerinizi görüntüleyin ve yönetin. Satın aldığınız sanat eserlerinin durumunu takip edin, gönderim detaylarını yönetin ve sipariş geçmişine erişin. Sanat alımlarınız hakkında bilgilendirilmiş olun ve sorunsuz bir alışveriş deneyimi sağlayın.",
-          "og_url": "https://globalart.ai/tr-TR/profile/orders",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Siparişler | ",
+          "description": "Siparişlerinizi GlobalArt.ai'de görüntüleyin ve yönetin. ",
+          "og_url": "https://globalart.ai/profile/orders",
+          "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "Takip Edilen Sanatçılar | Global Art AI",
-          "description": "GlobalArt.ai'de favori sanatçılarınızı takip edin. En son eserleri, sergileri ve etkinlikleri hakkında güncel kalın. Yeni sanatçılar keşfedin ve çeşitli sanat tarzlarını keşfedin. Kişiselleştirilmiş bir sanat akışı oluşturun ve dünyanın dört bir yanındaki yaratıcılarla bağlantı kurun.",
-          "og_url": "https://globalart.ai/tr-TR/profile/following-artists",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Takip Edilen Sanatçılar | ",
+          "description": "En sevdiğiniz sanatçıları GlobalArt.ai'de takip edin. ",
+          "og_url": "https://globalart.ai/profile/following-artists",
+          "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "Yorumlar | Global Art AI",
-          "description": "GlobalArt.ai'de geri bildiriminizi paylaşın. Satın aldığınız sanat eserleri, sanatçılar ve genel platform deneyiminiz hakkında yorum yazın. Diğer sanat meraklılarının bilinçli kararlar almasına yardımcı olun ve düşüncelerinizi ve tavsiyelerinizi paylaşarak sanatçıları destekleyin.",
-          "og_url": "https://globalart.ai/tr-TR/profile/review",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "İncelemeler | ",
+          "description": "Geri bildiriminizi GlobalArt.ai'de paylaşın. ",
+          "og_url": "https://globalart.ai/profile/review",
+          "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "Hediye Kartları | Global Art AI",
-          "description": "GlobalArt.ai'de hediye kartları satın alın ve kullanın. Arkadaşlarınıza, ailenize veya meslektaşlarınıza sanat hediye edin. Çeşitli tutarlar arasından seçim yapın ve alıcıların favori sanat eserlerini keşfetmesine ve seçmesine izin verin. GlobalArt.ai hediye kartları ile neşe ve yaratıcılığı yaygınlaştırın.",
-          "og_url": "https://globalart.ai/tr-TR/profile/buy-gift-cards",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Hediye Kartları | ",
+          "description": "GlobalArt.ai'de hediye kartları satın alın ve kullanın. ",
+          "og_url": "https://globalart.ai/profile/buy-gift-cards",
+          "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "Hesap | Global Art AI",
-          "description": "GlobalArt.ai'de hesap ayarlarını yönetin. Kişisel bilgilerinizi güncelleyin, şifrenizi değiştirin ve profilinizi kişiselleştirin. Sanat topluluğu ile bağlantıda kalın, özel özelliklere erişin ve sanat deneyiminizi kişiselleştirin.",
-          "og_url": "https://globalart.ai/tr-TR/profile/profile",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Hesap | ",
+          "description": "GlobalArt.ai'de hesap ayarlarınızı yönetin. ",
+          "og_url": "https://globalart.ai/profile/profile",
+          "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "Adres Defteri | Global Art AI",
-          "description": "GlobalArt.ai'de adres defterinizi yönetin. Sorunsuz bir ödeme deneyimi için gönderim adreslerinizi saklayın ve düzenleyin. Adresleri ekleyin, düzenleyin veya silin ve satın alınan sanat eserlerinizin doğru ve zamanında teslim edilmesini sağlayın.",
-          "og_url": "https://globalart.ai/tr-TR/profile/addresses",
-          "canonical": "https://globalart.ai/tr-TR/profile"
+          "title": "Adres Defteri | ",
+          "description": "GlobalArt.ai'deki adres defterinizi yönetin. ",
+          "og_url": "https://globalart.ai/profile/addresses",
+          "canonical": "https://globalart.ai/profile"
         }
       }
     },
     "commissions": {
       "title": "Özel sanat isteği",
-      "description": "GlobalArt.ai'de özel sanat eseri talep edin. Tercih ettiğiniz kategoriyi ve stili seçin, bütçenizi belirleyin ve mükemmel sanatçıyı bulmak için vizyonunuzu tanımlayın. Boyut, zaman çizelgesi gibi özelleştirmeler yapın ve sipariş ettiğiniz sanat eserlerinin beklentilerinize uygun olmasını sağlamak için referans görseller ekleyin. Bugün benzersiz, kişiselleştirilmiş sanat eseri yaratın!",
-      "og_url": "https://globalart.ai/tr-TR/commissions",
-      "canonical": "https://globalart.ai/tr-TR/commissions"
+      "description": "GlobalArt.ai'den özel sanat eserleri talep edin. ",
+      "og_url": "https://globalart.ai/commissions",
+      "canonical": "https://globalart.ai/commissions"
     },
     "artist_profile": {
       "title": "Sanatçı profili",
-      "description": "GlobalArt.ai'de bir sanatçının profilini keşfedin. Yaratıcı yolculuklarını, eğitimlerini, başarılarını ve devam eden sergilerini keşfedin. Öne çıkan koleksiyonlarını, yaratıcı inançlarını ve portföylerini görüntüleyin. Sanatçının eserlerine dalın, güncellemelerini takip edin ve stüdyo güncellemeleri aracılığıyla onlarla bağlantı kurun.",
-      "og_url": "https://globalart.ai/tr-TR/artistProfile",
-      "canonical": "https://globalart.ai/tr-TR/artistProfile",
+      "description": "GlobalArt.ai'de bir sanatçının profilini keşfedin. ",
+      "og_url": "https://globalart.ai/artistProfile",
+      "canonical": "https://globalart.ai/artistProfile",
       "pages": {
         "artworks": {
           "title": "Sanat eserleri",
-          "description": "GlobalArt.ai'de bir sanatçının portföyünü keşfedin. Resim, heykel, baskı ve daha fazlasından oluşan koleksiyonlarını görüntüleyin. Benzersiz sanat eserlerini keşfedin, sanatçının yaratıcı süreci hakkında bilgi edinin ve sanat koleksiyonunuz için ilham bulun.",
-          "og_url": "https://globalart.ai/tr-TR/artistProfile/artworks",
-          "canonical": "https://globalart.ai/tr-TR/artistProfile"
+          "description": "GlobalArt.ai'de bir sanatçının portföyünü keşfedin. ",
+          "og_url": "https://globalart.ai/artistProfile/artworks",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "promocodes": {
           "title": "Promosyon kodları",
-          "description": "GlobalArt.ai'de promosyon kodlarını kullanın. Sanat alımlarında indirimler, özel teklifler ve benzersiz fırsatlardan yararlanın. En sevdiğiniz sanat eserlerini daha uygun fiyatlarla almak ve yetenekli sanatçıları desteklemek için ödeme sırasında promosyon kodlarını girin. Tasarruf sağlayın ve sanat koleksiyonunuzu yükseltin.",
-          "og_url": "https://globalart.ai/tr-TR/artistProfile/promocode",
-          "canonical": "https://globalart.ai/tr-TR/artistProfile"
+          "description": "GlobalArt.ai'de promosyon kodlarını kullanın. ",
+          "og_url": "https://globalart.ai/artistProfile/promocode",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "commissions": {
           "title": "Komisyonlar",
-          "description": "GlobalArt.ai'de özel sanat komisyonları için sanatçılarla işbirliği yapın. Kişiselleştirilmiş sanat eserleri talep edin, vizyonunuzu paylaşın ve sipariş ettiğiniz parçaların ilerlemesini takip edin. Sanatçılarla etkileşime geçin, fikirlerinizi paylaşın ve yaratıcı projelerinizi hayata geçirin.",
-          "og_url": "https://globalart.ai/tr-TR/artistProfile/commissions",
-          "canonical": "https://globalart.ai/tr-TR/artistProfile"
+          "description": "GlobalArt.ai'de özel sanat siparişlerinde sanatçılarla işbirliği yapın. ",
+          "og_url": "https://globalart.ai/artistProfile/commissions",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "messages": {
           "title": "Mesajlar",
-          "description": "GlobalArt.ai'de sanatçılarla iletişime geçin. Mesajlar gönderin, geri bildirim paylaşın ve yetenekli yaratıcılarla özel sanat taleplerinizi tartışın. Sanatçılarla bağlantıda kalın, sipariş ettiğiniz sanat eserleri hakkında güncellemeler alın ve sanat hakkında anlamlı sohbetlere katılın.",
-          "og_url": "https://globalart.ai/tr-TR/artistProfile/messages",
-          "canonical": "https://globalart.ai/tr-TR/artistProfile"
+          "description": "GlobalArt.ai'de sanatçılarla iletişim kurun. ",
+          "og_url": "https://globalart.ai/artistProfile/messages",
+          "canonical": "https://globalart.ai/artistProfile"
         }
       }
     }
   },
   "cus_art_req": {
-    "open": "Özel sanat için açık",
-    "close": "Özel sanat için kapalı"
+    "open": "Özel sanata açık",
+    "close": "Özel sanat eserleri nedeniyle kapalı"
   },
   "header": {
     "links": {
-      "artworks": "Sanat Eserleri",
+      "artworks": "Sanat eserleri",
       "artists": "Sanatçılar",
       "marketplace": "Pazar Yeri Hakkında",
       "order_cus_art": "Özel Sanat Siparişi",
-      "but_gift_card": "Hediye Kartı Satın Al",
+      "but_gift_card": "Hediye Kartı satın al",
       "about_us": "Hakkımızda",
       "ai": "Global Art AI Hakkında",
       "galleries": "Galeriler",
       "blog": "Blogumuz"
     },
-    "search": "Sanat eseri adı, sanatçı, galeri, stil, tema vb. ile arama yapın",
-    "login": "Giriş Yap",
-    "registration": "Kayıt Ol",
-    "activationCode": "Aktivasyon kodu",
+    "search": "Sanat eseri adına, sanatçıya, galeriye, stile, temaya vb. göre arama yapın.",
+    "login": "Giriş yapmak",
+    "registration": "Üye olmak",
+    "activationCode": "Etkinleştirme kodu",
     "resendCode": "Kodu tekrar gönder",
     "inner_header_links": {
       "sell": "Sanatçılar için",
       "help": "Yardım",
       "mobileApp": "Mobil Uygulama"
     },
-    "popular": "Global Sanat'ta Popüler",
-    "contemporary": "Çağdaş Sanat",
-    "noNotifications": "Bildirim yok",
-    "balance": "Bakiye",
+    "popular": "Küresel sanatta popüler",
+    "contemporary": "Çağdaş sanat",
+    "noNotifications": "Hiçbir bildirim yok",
+    "balance": "Denge",
     "myProfile": "Profilim",
     "orders": "Siparişler",
-    "becomeAnArtist": "Sanatçı Ol",
-    "helpCenter": "Yardım Merkezi",
-    "logout": "Çıkış Yap"
+    "becomeAnArtist": "Sanatçı ol",
+    "artistProfile": "Sanatçı profili",
+    "verifyingProfile": "Profil doğrulanıyor...",
+    "helpCenter": "Yardım merkezi",
+    "logout": "Oturumu kapat"
   },
   "footer": {
     "about": "Hakkımızda",
     "blog": "Blog",
     "contact": "Bize Ulaşın",
-    "explore": "Keşfet",
-    "artworks": "Sanat Eserleri",
+    "explore": "Keşfetmek",
+    "artworks": "Sanat eserleri",
     "artists": "Sanatçılar",
-    "letUsHelp": "Size Nasıl Yardımcı Olabiliriz?",
-    "orderStatus": "Sipariş Durumu",
-    "customerSupport": "Müşteri Destek",
-    "sellWithUs": "Bizimle Satış Yapın",
-    "subscribeToNewsLetter": "Bültene Abone Ol",
+    "letUsHelp": "Size yardım edelim",
+    "orderStatus": "Sipariş durumu",
+    "customerSupport": "Müşteri desteği",
+    "sellWithUs": "Bizimle satış yapın",
+    "subscribeToNewsLetter": "Bültenimize abone olun",
     "getWeekly": "Haftalık sanatla ilgili makaleler ve videolar alın",
-    "yourEmail": "E-posta adresiniz",
+    "yourEmail": "E-postanız",
     "valueRequired": "Değer gerekli",
-    "subscribe": "Abone Ol",
-    "getToKnow": "Bizi Tanıyın",
+    "subscribe": "Abone",
+    "getToKnow": "Bizi tanıyın",
     "terms": "Şartlar",
-    "privacy": "Gizlilik"
+    "privacy": "Mahremiyet"
   },
   "faq": {
-    "title": "Daha Fazla Bilgi Almak İster Misiniz?",
-    "subtitle": "Sıkça Sorulan Sorular",
+    "title": "Daha fazlasını mı öğrenmek istiyorsunuz?",
+    "subtitle": "Sık sorulan sorular",
     "first": {
-      "title": "Sanat Eserleri Platformu nedir?",
-      "content": "Sanat Eserleri platformu, sanatçıların eserlerini sergilemek ve sanat severler, koleksiyoncular ve alıcılarla buluşturmak için tasarlanmış bir çevrimiçi platformdur. Sanatçılara eserlerini sergilemek ve satmak için bir alan sağlar."
+      "title": "Artworks platformu nedir?",
+      "content": "Artworks platformu, sanatçıların eserlerini sergilemek ve onları sanatseverler, koleksiyonerler ve alıcılarla buluşturmak için tasarlanmış çevrimiçi bir platformdur. "
     },
     "second": {
-      "title": "Sanat Eserleri platformunda sanatçı profili nasıl oluştururum?",
-      "content": "Platforma kaydolun ve profilinizi oluşturmak için basit adımları izleyin. Eserlerinizin resimlerini yükleyebilir, biyografi yazabilir ve diğer ilgili bilgileri ekleyebilirsiniz."
+      "title": "Artworks platformunda nasıl sanatçı profili oluşturabilirim?",
+      "content": "Sanatçı profili oluşturmak için platforma kaydolun ve profilinizi oluşturmak için basit adımları izleyin. "
     },
     "third": {
-      "title": "Sanat Eserleri platformuna sanatçı olarak katılmak ücretsiz mi?",
-      "content": "Evet, sanatçıların platforma profil oluşturması ücretsizdir. Üyelik seviyenize bağlı olarak eser listeleme ve satışla ilgili ücretler olabilir."
+      "title": "Artworks platformuna sanatçı olarak katılmak ücretsiz mi?",
+      "content": "Evet, sanatçıların platformda profil oluşturması ücretsizdir. "
     },
     "fourth": {
-      "title": "Sanat Eserleri platformunda eserlerimi nasıl satarım?",
-      "content": "Eserlerinizi profilinizde satışa sunabilirsiniz. Ardından, alıcılar platform üzerinden sanat eserlerinizi görebilir ve satın alabilir. Kargo ve ödemeleri kendiniz halledebilir veya platformun entegre hizmetlerini kullanabilirsiniz."
+      "title": "Eserlerimi Artworks platformunda nasıl satabilirim?",
+      "content": "Çalışmanızı satmak için profilinizde satışa sunabilirsiniz. "
     },
     "fifth": {
-      "title": "Platformda hangi tür sanat eserleri kabul edilmektedir?",
-      "content": "Resim, heykel, fotoğraf, dijital sanat ve daha fazlası dahil olmak üzere geniş bir yelpazede sanat eseri kabul edilir. Platform çeşitliliği teşvik eder ve her türden sanatçıyı kabul eder."
+      "title": "Platformda ne tür sanat eserleri kabul ediliyor?",
+      "content": "Resim, heykel, fotoğraf, dijital sanat ve daha fazlasını içeren çok çeşitli sanatsal araçları kabul ediyoruz. "
     },
     "sixth": {
-      "title": "Eserlerimin fiyatlarını kendim belirleyebilir miyim?",
-      "content": "Evet, bir sanatçı olarak eserlerinizin fiyatlarını siz belirlersiniz. Tercihlerinize ve piyasa değerine göre fiyat belirleyebilirsiniz."
+      "title": "Çalışmalarım için kendi fiyatımı belirleyebilir miyim?",
+      "content": "Evet, bir sanatçı olarak eserlerinizin fiyatlandırılması üzerinde tam kontrole sahipsiniz. "
     }
   },
   "help": {
     "search": {
-      "title": "Size nasıl yardımcı olabiliriz?",
-      "placeholder": "Anahtar kelimeler veya sorular ara"
+      "title": "Nasıl yardımcı olabiliriz?",
+      "placeholder": "Anahtar kelimeleri veya soruları arayın"
     },
     "tabs": {
       "general": "Genel",
@@ -274,27 +280,27 @@
       "designer": "Tasarımcı"
     },
     "general": {
-      "title": "Sıkça Sorulan Sorular",
+      "title": "Sık sorulan sorular",
       "questions": {
         "first": {
           "title": "Bir sanat eserini nasıl satın alabilirim?",
-          "content": "Bir sanat eserini satın almak için şu adımları izleyin:\n 1. Sanat Eserlerini Göz Atın: Yetenekli sanatçılar tarafından oluşturulan çeşitli sanat eserleri koleksiyonumuzu keşfedin.\n 2. Sanat Eserini Seçin: İlginizi çeken sanat eserine tıklayın ve detaylı bilgi alın.\n 3. Sepete Ekle: Sanat eseri sayfasında Sepete Ekle butonuna tıklayın.\n 4. Sepeti İnceleyin: Alışveriş sepetinizi ziyaret edin ve seçilen sanat eserlerini ve miktarları gözden geçirin.\n 5. Ödeme: Ödemeye geçin ve teslimat bilgilerinizi ve ödeme yöntemini girin.\n 6. Ödeme: Güvenli bir ödeme yöntemi seçin ve işlemi tamamlamak için gerekli bilgileri sağlayın.\n 7. Onay: Satın alma detaylarınızı içeren bir sipariş onayı alın.\n 8. Sanat Eseri Gönderimi: Satın aldığınız sanat eserinin gönderimini takip edin.\n Her adım hakkında daha detaylı bilgi için Satın Alma Kılavuzumuza bakın."
+          "content": "Bir sanat eseri satın almak için şu adımları izleyin: \n "
         },
         "second": {
           "title": "Nasıl ödeme alabilirim?",
-          "content": "Platformumuzda eserlerinizi satarak ödeme alabilirsiniz."
+          "content": "Sanatlarınızı platformumuzda satarak ödeme alabilirsiniz."
         },
         "third": {
-          "title": "Sipariş süreci nasıl işler?",
-          "content": "Sipariş süreci birkaç adımı içerir. İlk olarak, proje tanımlanır ve ekip oluşturulur. Daha sonra sistem tasarlanır ve uygulanır. Son olarak, sistem proje gereksinimlerini karşılamak için test edilir. Sistemin sahibi teslim edilir ve sipariş raporu tamamlanır."
+          "title": "Devreye alma süreci nasıl işliyor?",
+          "content": "Devreye alma süreci birkaç adımdan oluşur. "
         },
         "fourth": {
           "title": "Sanat eserleri nasıl gönderilir?",
-          "content": "Sanat eserleri güvenli bir şekilde teslim edilmelerini sağlamak için güvenilir kargo hizmetleri kullanılarak gönderilir."
+          "content": "Sanat eserleri, güvenli teslimatı sağlamak için güvenilir kurye hizmetleri kullanılarak gönderilir."
         },
         "fifth": {
-          "title": "Bir sanat eserini iade edebilir miyim ve iade süreci nasıl işler?",
-          "content": "Evet, bir sanat eseri beklentilerinizi karşılamazsa iade edebilirsiniz. Sanat eseri, genellikle 14 gün içinde, orijinal durumda iade edilmelidir. İade edilen sanat eserini aldığımızda ve durumunu onayladığımızda iade süreci başlar. İade, bankanızın politikalarına bağlı olarak belirli bir gün içinde orijinal ödeme yönteminizle yapılır."
+          "title": "Bir sanat eserini iade edebilir miyim ve geri ödeme süreci nedir?",
+          "content": "Evet, beklentilerinizi karşılamayan bir eseri iade edebilirsiniz. "
         }
       }
     },
@@ -303,138 +309,138 @@
       "account": {
         "title": "Hesap Yönetimi",
         "link": {
-          "first": "Hesap Oluşturma",
-          "second": "E-posta Onaylama",
-          "third": "Hesabınızı Güncelleyin",
-          "fourth": "Şifre Değiştirme",
-          "fifth": "Hesabımı Sil"
+          "first": "Hesap nasıl oluşturulur?",
+          "second": "E-postanızı onaylayın",
+          "third": "Hesabınızı güncelleyin",
+          "fourth": "Şifre değiştir",
+          "fifth": "Hesabımı sil"
         }
       },
       "artworks": {
-        "title": "Sanat Eseri Keşfi",
+        "title": "Sanat eseri keşfi",
         "link": {
-          "first": "Mükemmel Sanat Eserini Bulma",
-          "second": "Belirli Sanat Eserlerini Arama",
-          "third": "Sanat Eseri Detaylarını Anlama",
-          "fourth": "Sanat Eserlerini Favorilere Kaydet"
+          "first": "Mükemmel sanat eserini bulmak",
+          "second": "Belirli sanat eserlerini arama",
+          "third": "Sanat eseri ayrıntılarını anlama",
+          "fourth": "Sanatı favorilere kaydet"
         }
       },
       "orders": {
-        "title": "Özel Sanat Siparişi",
+        "title": "Özel sanat eserleri sipariş etme",
         "link": {
-          "first": "Sanat Eseri Siparişi Verme",
-          "second": "Sanatçılarla İletişim",
-          "third": "AI Tarafından Oluşturulan Sanat Eseri Siparişi Verme",
-          "fourth": "Sipariş Gereksinimlerini Belirleme",
-          "fifth": "Durumu Kontrol Etme",
-          "sixth": "İade Politikası"
+          "first": "Bir sanat eseri nasıl sipariş edilir",
+          "second": "Sanatçılarla iletişim kurmak",
+          "third": "Yapay zeka tarafından üretilen sanatı devreye alma",
+          "fourth": "Komisyon gerekliliklerinin belirlenmesi",
+          "fifth": "Durum kontrol ediliyor",
+          "sixth": "Geri ödeme politikası"
         }
       },
       "generates": {
-        "title": "AI Tarafından Oluşturulan Sanat",
+        "title": "Yapay Zekanın Oluşturduğu Sanat",
         "link": {
-          "first": "AI Sanat Oluşturma",
-          "second": "AI Tarafından Oluşturulan Sanat Siparişi Verme",
-          "third": "AI Sanat Etiği",
-          "fourth": "Kullanım Koşulları"
+          "first": "Yapay zeka sanatı nasıl oluşturulur?",
+          "second": "Yapay zeka tarafından üretilen sanatı devreye alma",
+          "third": "Yapay Zeka Sanat Etiği",
+          "fourth": "Kullanım koşulları"
         }
       },
       "payments": {
         "title": "İşlemler ve Ödemeler",
         "link": {
-          "first": "Satın Alma",
+          "first": "Satın Alma Yapmak",
           "second": "Ödeme Yöntemleri",
-          "third": "İşlemlerin Güvenliği"
+          "third": "İşlem Güvenliği"
         }
       },
       "deliveries": {
-        "title": "Teslimat ve İadeler",
+        "title": "Teslimat ve İade",
         "link": {
-          "first": "Teslimat Ücretleri",
-          "second": "Gönderileri Takip Etme",
-          "third": "İade ve İade Politikası",
-          "fourth": "Hasarlı veya Kaybolmuş Gönderileri İşleme"
+          "first": "Teslimat ücretleri",
+          "second": "Gönderileri takip etme",
+          "third": "İade ve geri ödeme politikası",
+          "fourth": "Hasarlı veya kayıp gönderilerin ele alınması"
         }
       },
       "terms": {
-        "title": "Şartlar ve Politikalar",
+        "title": "Şartlar ve PolitikalarW",
         "link": {
           "first": "Gizlilik Politikası",
-          "second": "Kullanım Koşulları"
+          "second": "Şartlar ve koşullar"
         }
       }
     },
     "contact": {
-      "title": "İletişime Geçmeniz Mi Gerekiyor?",
+      "title": "İletişime geçmeniz mi gerekiyor?",
       "button": "Bize Ulaşın",
       "also": "Ayrıca",
-      "feedback": "geri bildirim verebilirsiniz"
+      "feedback": "bize geri bildirimde bulunun"
     }
   },
   "galleries": {
-    "title": "Galeri",
+    "title": "Galeriler",
     "search": {
       "locations": "Tüm Konumlar",
-      "media": "Tüm Medyalar",
+      "media": "Tüm Medya",
       "styles": "Tüm Stiller",
       "artists": "Tüm Sanatçılar"
     }
   },
   "condition": {
     "terms": {
-      "title": "Şartlar ve Koşullar",
-      "subtitle": "Anlaşmanız",
-      "content": "Saatchi Art Hizmet Koşulları Son Güncelleme Tarihi: 4 Haziran 2019 Saatchi Online, Inc., Leaf Group Ltd.'nin (\"Saatchi Art,\" \"biz\" veya \"bizim\") tamamen sahip olduğu bir yan kuruluşu olarak web sitemiz (www.saatchiart.com) veya mobil uygulamamız aracılığıyla orijinal sanat eserlerinin görüntülenmesi, satışı ve satın alınması ve sanat eserlerinin dijital görüntülerinin ticari olarak kullanılması için bir hizmet sunmaktadır. Lütfen aşağıdaki şartlar ve koşulları (\"Koşullar\") ve Gizlilik Politikamızı dikkatlice okuyun. Bu Koşullar, Gizlilik Politikası ve burada bağlantılı olan diğer politikalar, Hizmetlere erişiminizi ve kullanımınızı yönetir ve sizinle Saatchi Art arasında yasal olarak bağlayıcı bir anlaşma oluşturur. Hizmetlerin belirli alanları ve belirli Hizmetlere erişiminiz için farklı şartlar ve koşullar yayınlanabilir veya ek şartlar ve koşulları kabul etmeniz gerekebilir. Bu Koşullar ile belirli Hizmetlere erişim veya kullanım için yayınlanan şartlar ve koşullar arasında bir çelişki olması durumunda, belirli Hizmetlere erişim veya kullanım için yayınlanan şartlar ve koşullar öncelikli olacaktır. LÜTFEN BU KOŞULLARI DİKKATLİCE OKUYUN. BU KOŞULLAR, BAĞLAYICI BİREYSEL TAHKİME KABUL EDİLMİŞ BİR ANLAŞMA İÇERİR; BU DA, HİZMETLERİ KULLANIMINIZLA İLGİLİ HERHANGİ BİR UYUŞMAZLIĞI MAHKEME YERİNE BAĞLAYICI BİREYSEL TAHKİME SUNMAYI KABUL ETTİĞİNİZ ANLAMINA GELİR. TALEPLERİNİZİ TAHKİME GÖTÜRMEYİ KABUL ETMEZSENİZ, AŞAĞIDAKİ \"TAHKİM ANLAŞMASI\" BÖLÜMÜNDE BELİRTİLEN PROSEDÜRLERE UYARAK BUNUN DIŞINDA KALABİLİRSİNİZ. UYUŞMAZLIK ÇÖZÜMÜ BÖLÜMÜ, AYRICA SINIF DAVASI FERAGATİ İÇERİR; BU DA, HERHANGİ BİR UYUŞMAZLIĞI BİREYSEL OLARAK VE ÖNERİLEN BİR SINIFIN PARÇASI OLARAK DEVAM ETMEYİ KABUL ETTİĞİNİZ ANLAMINA GELİR. BU KOŞULLAR AYRICA JÜRİ YARGILAMASI HAKLARINIZDAN FERAGAT ETTİĞİNİZ ANLAMINA GELİR."
+      "title": "Şartlar ve koşullar",
+      "subtitle": "Sözleşmeniz",
+      "content": "Saatchi Art Hizmet Koşulları Son Güncelleme Tarihi: 4 Haziran 2019 Leaf Group Ltd.'nin (\"Saatchi Art\", \"biz\" veya \"bizim\") yüzde yüz iştiraki olan Saatchi Online, Inc., görüntüleme, satış yapma hizmeti sağlar "
     }
   },
   "commission": {
-    "title": "Özel sanat talebi",
-    "referenceArts": "Küresel Sanat AI sanatı referansı",
+    "title": "Özel sanat isteği",
+    "referenceArts": "Global Art AI Arts'tan referans",
     "budgetPlaceholder": "Bütçenizi girin",
     "delAddress": "Teslimat adresi",
-    "chooseArtist": "Sanatçı seç",
-    "selectCategory": "Tüm kategorileri göstermek için önce bir sanatçı seçin",
+    "chooseArtist": "Sanatçı Seç",
+    "selectCategory": "Öncelikle tüm kategorileri göstermek için bir sanatçı seçin",
     "category": "Kategoriler",
-    "categoryText": "Sanatçılar farklı kategorilere uzmanlaşmıştır ve bir kategori seçmek, ilgilendiğiniz sanat türünü daraltmaya yardımcı olur.",
+    "categoryText": "Sanatçılar farklı kategorilerde uzmanlaşır ve bir kategori seçmek, ilgilendiğiniz sanat eseri türünü daraltmanıza yardımcı olur.",
     "styleChoose": "Stiller",
-    "styleChooseText": "Bu, sanatçının çalışmasını tercih ettiğiniz stile göre hizalamasına yardımcı olur",
-    "budget": "Bütçeniz nedir?",
-    "days": "gün",
+    "styleChooseText": "Bu, sanatçının çalışmalarını tercih ettiğiniz stille uyumlu hale getirmesine yardımcı olur",
+    "budget": "Bütçe nedir?",
+    "days": "günler",
     "referenceArtist": "Sanatçı referansı",
     "style": {
-      "title": "Sanat talebinizi başlatmak için stil seçin",
+      "title": "Sanat isteğinizi başlatmak için stil seçin",
       "tabs": {
-        "paintings": "Resimler",
+        "paintings": "Tablolar",
         "sculptures": "Heykeller",
         "prints": "Baskılar"
       },
       "paintings": {
         "portrait": "Portre",
-        "price": "1500 $'dan başlayan fiyatlarla"
+        "price": "1500dan başlıyor"
       }
     },
     "description": {
-      "title": "Vizyonunuzu kendi kelimelerinizle tanımlayın",
-      "placeholder": "Konu, stil, renkler ve dahil etmek istediğiniz belirli öğeler de dahil olmak üzere istediğiniz şeyi açıklayın"
+      "title": "Vizyonunuzu kendi sözlerinizle tanımlayın",
+      "placeholder": "Konu, stil, renkler ve dahil edilmesini istediğiniz belirli öğeler de dahil olmak üzere ne istediğinizi açıklayan bir açıklama sağlayın"
     },
     "size": {
       "title": "Sanat eseri boyutu (genişlik x yükseklik):",
       "optional": "isteğe bağlı",
-      "description": "Sanat eserinin standart boyutlarını seçin veya kendi boyutlarınızı belirtin",
+      "description": "Resmin standart boyutlarını seçin veya kendinizinkini belirtin",
       "select": "Tercih yok"
     },
     "timeline": {
-      "title": "Zaman çizelgesi tercihleri",
+      "title": "Zaman çizelgesi tercihleri ",
       "optional": "isteğe bağlı",
-      "description": "Sipariş ettiğiniz sanat eserini almak için tercih ettiğiniz bir zaman dilimi varsa sanatçıya bildirin. Sanatçı bunu gözden geçirip değiştirebilir",
+      "description": "Sipariş ettiğiniz sanat eserinin teslim alınması için tercih ettiğiniz bir zaman aralığının olup olmadığını sanatçıya bildirin. ",
       "select": "Tercih yok"
     },
     "reference": {
-      "title": "Referans görüntüler",
-      "description": "Sanatçının vizyonunuzu anlamasına yardımcı olacak herhangi bir referans görüntü veya dosya ekleyin",
+      "title": "Referans görselleri",
+      "description": "Sanatçının vizyonunuzu anlamasına yardımcı olacak referans görselleri veya dosyaları ekleyin",
       "upload": "Fotoğraflarınızı buraya sürükleyip bırakın"
     },
-    "submit": "Talebi gönder",
+    "submit": "İstek gönder",
     "artist": {
       "followers": "takipçiler",
       "terms": "Hizmet şartları"
@@ -442,176 +448,177 @@
   },
   "cart": {
     "title": "Sepet",
-    "shipping_title": "Kargo",
+    "shipping_title": "Nakliye",
     "shipping_calc": "Sonraki adımlarda hesaplanır",
-    "save": "Daha sonra sakla",
-    "saved": "Daha sonra saklandı",
-    "remove": "Kaldır",
+    "save": "Sonrası için kaydet",
+    "saved": "Daha sonrası için kaydedildi",
+    "delivery_price": "Teslimat fiyatı",
+    "remove": "Kaldırmak",
     "artworks": "sanat eserleri",
     "address": "Adres",
     "chooseAddress": "Adres seçin",
-    "fillAddress": "Bu alanı doldurun",
-    "fee": "Global sanat hizmet ücreti",
+    "fillAddress": "Lütfen bu alanı doldurun",
+    "fee": "Küresel sanat hizmeti ücreti",
     "total": "Tahmini toplam",
-    "shipping": "Kargo dahil değil",
-    "checkout": "Ödeme",
+    "shipping": "Nakliye dahil değildir",
+    "checkout": "Çıkış yapmak",
     "emptyTitle": "Gösterilecek sepet öğesi yok",
-    "emptyText": "Sepetinizde öğe yok. Mağazaya gidin ve sepetinize öğe ekleyin.",
-    "unfortunately": "Ne yazık ki, sepet kullanılamıyor, lütfen kaydolun veya giriş yapın",
-    "login": "Giriş Yap",
-    "register": "Kaydol"
+    "emptyText": "Sepetinizde ürün yok. ",
+    "unfortunately": "Maalesef sepet mevcut değil, lütfen kayıt olun veya giriş yapın",
+    "login": "Giriş yapmak",
+    "register": "Kayıt olmak"
   },
   "general": {
     "mode": "Alıcı moduna geç",
-    "artist": "Özel sanat için mevcut",
-    "blogBlock": "dk okuma",
+    "artist": "Özel sanat için kullanılabilir",
+    "blogBlock": "dakika okuma",
     "cookieResolve": {
-      "title": "Web sitemiz çerez kullanıyor",
-      "text": "Web sitemiz çerez kullanıyor. Devam ederek, çerezlerin Gizlilik Politikamızda belirtildiği şekilde dağıtılmasına izin verdiğinizi varsayıyoruz",
+      "title": "Web sitemiz çerezleri kullanıyor",
+      "text": "Web sitemizde çerezler kullanılmaktadır. ",
       "privacy": "Gizlilik Politikası",
-      "decline": "Reddet",
-      "accept": "Kabul et"
+      "decline": "Reddetmek",
+      "accept": "Kabul etmek"
     },
-    "location": "Yerleşim",
+    "location": "Konumlandırma",
     "pagination": {
-      "showBy": "Göster",
+      "showBy": "Şuna göre göster:",
       "prev": "Önceki",
       "next": "Sonraki"
     },
     "sort": {
-      "title": "Sırala",
+      "title": "Düzenlemek",
       "popularity": "Popülerliğe göre",
       "price": "Fiyata göre"
     },
     "theme": {
-      "light": "Açık",
-      "dark": "Koyu",
+      "light": "Işık",
+      "dark": "Karanlık",
       "sepia": "Sepya"
     }
   },
   "detailBlog": {
-    "readAlso": "dk okuma"
+    "readAlso": "dakika okuma"
   },
   "detailArtist": {
     "about": {
-      "title": "Sanatçı Hakkında",
+      "title": "Sanatçı hakkında",
       "studioTitle": "Stüdyo Günlükleri",
       "educationTitle": "Eğitim",
-      "achievementTitle": "Tanınırlık ve Etkinlikler",
+      "achievementTitle": "Tanıma ve Etkinlikler",
       "exhibitionTitle": "Devam Eden Sergiler",
-      "featuredTitle": "Öne Çıkan Koleksiyonlar",
-      "creativeCreed": "Yaratıcı İnanç",
+      "featuredTitle": "Öne çıkan koleksiyonlar",
+      "creativeCreed": "Yaratıcı inanç",
       "portfolio": "Portföy",
-      "authorWorks": "Yazarın Eserleri",
-      "showAll": "Hepsini Göster"
+      "authorWorks": "Yazarın çalışmaları",
+      "showAll": "Tümünü göster"
     },
     "artworks": "sanat eserleri"
   },
   "categories": {
     "artworksFilter": {
-      "showFilter": "Filtreyi Göster",
-      "custom": "Sadece özel yapım",
+      "showFilter": "Filtreyi göster",
+      "custom": "Yalnızca özel yaratıcılar",
       "year": "Yıl",
-      "from": "Başlangıç",
-      "y": "y",
-      "to": "Bitiş",
+      "from": "İtibaren",
+      "y": "sen",
+      "to": "İle",
       "price": "Fiyat",
-      "minimum": "Minimum",
+      "minimum": "Asgari",
       "maximum": "Maksimum",
       "sale": "Satılık",
-      "sold": "Satıldı",
-      "movement": "Hareket ve Stil",
+      "sold": "Satılmış",
+      "movement": "Hareket ve stil",
       "rarity": "Nadirlik",
       "certs": "Sertifikalar",
       "signatures": "İmzalar",
       "materials": "Malzemeler",
       "styles": "Stiller",
-      "submit": "Gönder",
+      "submit": "Göndermek",
       "reset": "Tüm filtreleri sıfırla"
     },
     "sort": {
-      "sort": "Sırala",
+      "sort": "Düzenlemek",
       "popularity": "Popülerliğe göre",
       "price": "Fiyata göre",
-      "search": "Ara..."
+      "search": "Aramak..."
     }
   },
   "buyerComponent": {
-    "edit": "Alıcıyı Düzenle",
+    "edit": "Alıcı düzenleniyor",
     "change": "Aşağıdaki alanları değiştirebilirsiniz",
-    "fullName": "Tam Adı",
-    "fill": "Bu alanı doldurun",
-    "confirm": "Onayla",
-    "cancel": "İptal",
-    "close": "Kapat"
+    "fullName": "Ad Soyad",
+    "fill": "Lütfen bu alanı doldurun",
+    "confirm": "Onaylamak",
+    "cancel": "İptal etmek",
+    "close": "Kapalı"
   },
   "landing": {
     "ar": {
-      "title": "Sanatı Görselleştirin",
-      "description": "AR, mekanınızda nasıl çalıştığını gösterecek"
+      "title": "Sanatı görselleştirin",
+      "description": "AR, alanınızda nasıl çalıştığını gösterecek"
     },
     "buyArt": {
       "tags": {
-        "contemporary": "Çağdaş",
+        "contemporary": "Modern",
         "abstract": "Soyut",
         "modern": "Modern",
         "colors": "Renkler"
       },
       "title": {
-        "main": "Sizi etkileyen",
-        "span": "sanat satın alın"
+        "main": "Sanat satın al",
+        "span": "seninle konuşuyor"
       },
-      "description": "Sanat uzmanlarının ve AI önerilerinin yardımıyla keşfedin ve satın alın",
+      "description": "Sanat uzmanlarının ve yapay zeka önerilerinin yardımıyla keşfedin ve satın alın",
       "link": "Sanatçınızı bulun"
     },
     "gridBlock": {
       "title": {
-        "main": "Hissedin, deneyimleyin ve",
-        "span": "sanatı koruyun"
+        "main": "Hisset, deneyimle ve değer ver",
+        "span": "sanat"
       },
       "authenticity": {
-        "title": "Otantiklik",
-        "subtitle": "garanti",
-        "description": "Her sanat eseri, özgünlüğünü ve değerini garanti eden Otantiklik Sertifikaları ile birlikte gelir"
+        "title": "Özgünlük",
+        "subtitle": "garantili",
+        "description": "Her sanat eserine eşlik eden Orijinallik Sertifikaları, orijinalliğini ve değerini garanti eder"
       },
       "delivery": {
         "title": "Teslimat",
         "description": "Sanatçıdan kapınıza",
-        "link": "Fiyatları kontrol edin"
+        "link": "Oranları kontrol edin"
       },
       "expertGuidance": {
         "title": "Uzman Sanat Rehberliği",
-        "description": "Deneyimli uzmanlardan oluşan ekip, özel öneriler ve değerli tavsiyeler sunar",
-        "link": "Fiyatları kontrol edin"
+        "description": "Tecrübeli uzmanlardan oluşan ekip, kişiye özel öneriler ve anlayışlı tavsiyeler sunuyor",
+        "link": "Oranları kontrol edin"
       }
     },
     "heroAnimation": {
       "title": {
-        "main": "Sanatçılar ve sanat",
-        "span": "severleri bir araya getiriyoruz",
-        "text": "dünyanın dört bir yanından"
+        "main": "biz getiriyoruz",
+        "span": "sanatçılar ve sanat",
+        "text": "Dünyanın dört bir yanından aşıklar bir arada"
       },
-      "description": "10,590 hazır sanat eseri ve 3943 sanatçı arasından seçim yapın",
+      "description": "Aralarından seçim yapabileceğiniz 10.590 hazır sanat eseri ve 3943 sanatçı",
       "video": "Tarayıcınız video etiketini desteklemiyor."
     },
     "infiniteScroll": {
       "title": {
-        "main": "Sanatçılar ve sanat uzmanları ile",
-        "span": "doğrudan işbirliği yapın"
+        "main": "Doğrudan işbirliği yapın",
+        "span": "sanatçılar ve sanat uzmanları"
       },
-      "description": "Herhangi bir dilde sorunsuzca iletişim kurun"
+      "description": "Herhangi bir dilde zahmetsizce iletişim kurun"
     },
     "orderCustomArt": {
       "title": {
-        "main": "Özel sanat",
-        "span": "sipariş edin"
+        "main": "Emir",
+        "span": "özel sanat"
       },
-      "description": "AI teknolojisini kullanarak fikrinizi görselleştirin. Biz gerçeğe dönüştüreceğiz",
+      "description": "Yapay zeka teknolojisini kullanarak fikrinizi görselleştirin. ",
       "findBtn": "Sanatçınızı bulun",
-      "howItWorksBtn": "Nasıl çalışır?",
-      "available": "Özel sanat siparişi için mevcut",
+      "howItWorksBtn": "Nasıl çalışıyor?",
+      "available": "Özel sanat eserleri için kullanılabilir",
       "video": "Tarayıcınız video etiketini desteklemiyor.",
-      "makeReference": "AI kullanarak referanslar oluşturun"
+      "makeReference": "Referanslarınızı AI kullanarak yapın"
     }
   },
   "mainPage": {
@@ -621,23 +628,24 @@
     "hero": {
       "slide": {
         "buttons": {
-          "shopNow": "Şimdi Alışveriş Yapın",
-          "howToOrder": "Özel sanat nasıl sipariş edilir?"
+          "browse": "Sanat eserlerine göz atın",
+          "explore": "Sanatçıları keşfedin",
+          "order": "Özel sanat eserleri sipariş edin"
         },
         "first": {
           "title": {
-            "order": "Sipariş",
-            "custom": "özel",
+            "order": "Olağanüstü sanatçılardan orijinal sanat eserleri satın alın",
+            "custom": "gelenek",
             "art": "sanat"
           },
-          "content": "1000'den fazla yetenekli sanatçı arasından seçim yaparak vizyonunuzu hayata geçirin"
+          "content": "Vizyonunuzu hayata geçirmek için 1000'den fazla yetenekli sanatçı arasından seçim yapın"
         },
         "second": {
           "title": {
-            "buy": "Satın Alın",
+            "buy": "Satın almak",
             "reallyMade": "orijinal sanat"
           },
-          "content": "1000'den fazla yetenekli sanatçı arasından seçim yaparak vizyonunuzu hayata geçirin"
+          "content": "Vizyonunuzu hayata geçirmek için 1000'den fazla yetenekli sanatçı arasından seçim yapın"
         }
       }
     },
@@ -646,41 +654,41 @@
       "showAll": "Tüm yükselen yetenekleri göster"
     },
     "trending": {
-      "title": "Trendler",
+      "title": "Trend olan",
       "showAll": "Tüm trendleri göster"
     }
   },
   "profile": {
     "links": {
       "title": "Hesabım",
-      "dashboard": "Gösterge Paneli",
+      "dashboard": "Kontrol Paneli",
       "orders": "Siparişler",
-      "savedArtworks": "Kaydedilen Sanat Eserleri",
-      "followingArtists": "Takip Edilen Sanatçılar",
-      "reviews": "İncelemeler",
-      "giftCard": "Hediye Kartı",
+      "savedArtworks": "Kaydedilen sanat eserleri",
+      "followingArtists": "Takip edilen sanatçılar",
+      "reviews": "Yorumlar",
+      "giftCard": "Hediye kartı",
       "commissions": "Komisyonlar"
     },
     "commissions": {
       "title": "Komisyonlar",
-      "noCommissions": "Gösterilecek komisyon yok",
-      "noCommissionsText": "Bir komisyon talebi aldığınızda, komisyon listesini görme fırsatınız olacak!"
+      "noCommissions": "Henüz gösterilecek komisyon yok",
+      "noCommissionsText": "Komisyon talebi aldığınızda komisyon listesini görme fırsatına sahip olacaksınız!"
     },
     "settingLinks": {
-      "title": "Hesap Ayarları",
+      "title": "Hesap ayarları",
       "profile": "Profil",
-      "addressBook": "Adres Defteri",
+      "addressBook": "Adres defteri",
       "help": "Yardım"
     },
     "dashboard": {
-      "editProfile": "Profili Düzenle",
-      "recentOrders": "Son Siparişler",
-      "viewAll": "Hepsini Gör",
-      "noOrders": "Gösterilecek sipariş yok",
-      "noOrdersText": "Sipariş verdikten sonra, sipariş listesini görme fırsatınız olacak!",
-      "artistsYouFollow": "Takip Ettiğiniz Sanatçılar",
-      "noSubscriptions": "Gösterilecek abonelik yok",
-      "noSubscriptionsText": "Bir sanatçıyı takip ettiğinizde, sanatçı listesini görme fırsatınız olacak!"
+      "editProfile": "Profili düzenle",
+      "recentOrders": "Son siparişler",
+      "viewAll": "Tümünü görüntüle",
+      "noOrders": "Henüz gösterilecek sipariş yok",
+      "noOrdersText": "Sipariş verdiğinizde sipariş listesini görme fırsatına sahip olacaksınız!",
+      "artistsYouFollow": "Takip ettiğiniz sanatçılar",
+      "noSubscriptions": "Henüz gösterilecek abonelik yok",
+      "noSubscriptionsText": "Bir sanatçıyı takip ettiğinizde sanatçıların listesini görme fırsatına sahip olacaksınız!"
     },
     "orders": {
       "title": "Siparişler",
@@ -689,9 +697,9 @@
       "items": "öğeler",
       "date": "Tarih",
       "address": "Adres",
-      "waiting": "Teslimat Bekleniyor",
-      "noOrders": "Gösterilecek sipariş yok",
-      "noOrdersText": "Sipariş verdikten sonra, sipariş listesini görme fırsatınız olacak!"
+      "waiting": "Teslimat bekleniyor",
+      "noOrders": "Henüz gösterilecek sipariş yok",
+      "noOrdersText": "Sipariş verdiğinizde sipariş listesini görme fırsatına sahip olacaksınız!"
     },
     "savedArtworks": {
       "title": "Koleksiyonum",
@@ -699,87 +707,87 @@
       "noItemsText": "Öğe sayfasındaki kalp simgesine tıklayarak koleksiyonunuza öğe ekleyebilirsiniz."
     },
     "followingArtists": {
-      "title": "Takip Ettiğiniz Sanatçılar",
-      "viewAll": "Hepsini Gör",
-      "artistMaterial": "Sanatçı Malzemesi",
-      "artStyle": "Sanat Tarzı",
-      "typeOfPainting": "Resim Türü",
-      "noArtists": "Gösterilecek sanatçı yok",
+      "title": "Takip ettiğiniz sanatçılar",
+      "viewAll": "Tümünü görüntüle",
+      "artistMaterial": "Sanatçı malzemesi",
+      "artStyle": "Sanat tarzı",
+      "typeOfPainting": "Boyama türü",
+      "noArtists": "Henüz gösterilecek sanatçı yok",
       "noArtistsText": "Sanatçı listelerinden sanatçıları takip edebilirsiniz"
     },
     "review": {
       "tabs": {
-        "notReviewed": "Henüz İncelenmedi",
-        "previouslyReviewed": "Önceden İncelendi"
+        "notReviewed": "Henüz incelenmedi",
+        "previouslyReviewed": "Daha önce incelendi"
       },
-      "title": "İnceleme",
-      "reviews": "İncelemeler",
-      "writeReview": "İnceleme Yaz",
-      "send": "Gönder",
-      "cancel": "İptal",
-      "submit": "Gönder",
+      "title": "Gözden geçirmek",
+      "reviews": "Yorumlar",
+      "writeReview": "Bir inceleme yazın",
+      "send": "Göndermek",
+      "cancel": "İptal etmek",
+      "submit": "Göndermek",
       "search": "Sipariş numarasına göre ara",
-      "noReviews": "Gösterilecek inceleme yok",
-      "noReviewsText": "Siparişinizi aldıktan sonra inceleme yazabilirsiniz"
+      "noReviews": "Henüz gösterilecek inceleme yok",
+      "noReviewsText": "Siparişinizi aldıktan sonra yorum yazabilirsiniz"
     },
     "profile": {
-      "title": "Hesap Bilgileri",
-      "name": "Ad",
-      "edit": "Düzenle",
-      "cancel": "İptal",
-      "save": "Kaydet",
-      "thisIs": "Bu belgenizdeki isimdir",
+      "title": "Hesap bilgileri",
+      "name": "İsim",
+      "edit": "Düzenlemek",
+      "cancel": "İptal etmek",
+      "save": "Kaydetmek",
+      "thisIs": "Bu, belgenizdeki addır",
       "typeHere": "Buraya yazın",
       "email": "E-posta adresi",
       "password": "Şifre",
-      "accountDeactivation": "Hesap devre dışı bırakma veya silme",
+      "accountDeactivation": "Hesabın devre dışı bırakılması veya silinmesi",
       "deactivate": "Hesabınızı devre dışı bırakın",
       "delete": "Hesabınızı silin",
-      "deleteConfirm": "Hesabınızı gerçekten silmek istiyor musunuz?",
-      "deleteButton": "Sil",
+      "deleteConfirm": "Hesabınızı silmek istediğinizden emin misiniz?",
+      "deleteButton": "Silmek",
       "noData": "Veri yok"
     },
     "address": {
-      "savedAddresses": "Kaydedilen Adresler",
-      "addNew": "Yeni Adres Ekle",
+      "savedAddresses": "Kayıtlı adresler",
+      "addNew": "Yeni adres ekle",
       "default": "Varsayılan",
       "title": "Adres",
-      "fillOutField": "Bu alanı doldurun",
+      "fillOutField": "Lütfen bu alanı doldurun",
       "city": "Şehir",
-      "state": "Eyalet",
+      "state": "Durum",
       "country": "Ülke",
-      "zip": "Posta Kodu",
+      "zip": "Posta kodu",
       "phone": "Telefon numarası",
-      "fullName": "Tam Adı",
-      "remove": "Kaldır",
-      "edit": "Düzenle",
-      "submit": "Gönder",
+      "fullName": "Ad Soyad",
+      "remove": "Kaldırmak",
+      "edit": "Düzenlemek",
+      "submit": "Göndermek",
       "createAddressModal": {
-        "title": "Yeni Adres Ekle"
+        "title": "Yeni adres ekle"
       },
       "editAddressModal": {
-        "title": "Adresi Düzenle",
-        "submit": "Gönder"
+        "title": "Adresi düzenle",
+        "submit": "Göndermek"
       },
-      "noAddresses": "Gösterilecek adres yok",
-      "noAddressesText": "Yukarıdaki butona tıklayarak yeni bir adres ekleyebilirsiniz"
+      "noAddresses": "Henüz gösterilecek adres yok",
+      "noAddressesText": "Yukarıdaki butona tıklayarak yeni bir adres ekleyebilirsiniz."
     },
     "customArtRequests": {
-      "title": "Özel Sanat Talepleri",
-      "pending": "Beklemede",
+      "title": "Özel sanat istekleri",
+      "pending": "Askıda olması",
       "artType": "Sanat türü (Resim, portre)",
-      "description": "Düğün gecemden unutulmaz bir anı - ama fotoğraflar, o gün kalbimde hissettiğim gibi değildi",
-      "size": "Boyut Tercihleri",
-      "timeline": "Zaman Çizelgesi Tercihleri",
-      "edit": "Talebi Düzenle"
+      "description": "Düğün geceme ait sihirli bir anı aklımdaydı ama çektiğim fotoğraflar, günü kalbimde hissettiğim gibi çekmiyordu.",
+      "size": "Boyut tercihleri",
+      "timeline": "Zaman çizelgesi tercihleri",
+      "edit": "İsteği düzenle"
     }
   },
   "search": {
-    "sort": "Sırala",
+    "sort": "Düzenlemek",
     "byPopularity": "Popülerliğe göre",
-    "artworks": "Sanat Eserleri",
-    "noArtworks": "Sanat eseri yok",
-    "article": "Makale"
+    "artworks": "Sanat eserleri",
+    "noArtworks": "Hiçbir sanat eseri yok",
+    "article": "Madde"
   },
   "wishList": {
     "title": "Koleksiyonum",
@@ -787,189 +795,204 @@
     "noItemsText": "Öğe sayfasındaki kalp simgesine tıklayarak koleksiyonunuza öğe ekleyebilirsiniz."
   },
   "dragAndDrop": {
-    "title": "Referans görüntülerinizi buraya sürükleyin ve bırakın!",
-    "maxSize": "Maks. Dosya Boyutu: 2MB",
-    "browseFile": "Dosya seç",
-    "uploadImage": "Görüntü yükle"
+    "title": "Referans görsellerinizi buraya sürükleyip bırakın!",
+    "maxSize": "Maks. ",
+    "browseFile": "Dosyaya göz at",
+    "uploadImage": "Resim yükle"
   },
   "payment": {
     "success": {
       "title": "Siparişiniz için teşekkür ederiz",
-      "description": "Sipariş detaylarını içeren bir onay e-postası alacaksınız.",
-      "orderNumber": "Sipariş numaranız",
+      "description": "Siparişinizin ayrıntılarını içeren bir sipariş onay e-postası alacaksınız.",
+      "orderNumber": "Siparişiniz №:",
       "backToMain": "Ana sayfaya dön",
-      "orderedArtworks": "Sipariş Edilen Sanat Eserleri"
+      "orderedArtworks": "Sipariş edilen sanat eserleri"
     },
     "failed": {
-      "title": "Ödeme başarısız",
-      "description": "Ödemeniz başarılı olmadı. Lütfen tekrar deneyin veya müşteri desteği ile iletişime geçin.",
-      "orderNumber": "Sipariş numaranız",
+      "title": "Ödeme başarısız oldu",
+      "description": "Ödemeniz başarılı olmadı. ",
+      "orderNumber": "Siparişiniz №:",
       "backToMain": "Ana sayfaya dön"
     }
   },
   "artistProfile": {
     "noElements": {
-      "title": "Sanat eseri bulunamadı",
-      "text": "Yeni sanat eserleri ekleyerek bunları burada görüntüleyin."
+      "title": "Hiçbir sanat eseri bulunamadı",
+      "text": "Lütfen burada görüntülemek için yeni sanat eserleri ekleyin."
     },
-    "welcome": "Tekrar hoş geldiniz",
+    "welcome": "tekrar hoşgeldiniz",
     "tabs": {
       "overview": "Genel Bakış",
-      "artworks": "Sanat Eserleri",
-      "promocode": "Promosyon Kodu",
+      "artworks": "Sanat eserleri",
+      "promocode": "Promosyon kodu",
       "commissions": "Komisyonlar",
       "messages": "Mesajlar"
     },
     "confirm": {
       "title": "Hesabınız henüz doğrulanmadı",
-      "description": "Sağladığınız bilgilerin doğrulanması için bekleyin.",
+      "description": "Lütfen yöneticinin sağladığınız bilgileri onaylamasını bekleyin.",
       "verify": "Şimdi doğrula"
     },
     "works": {
-      "title": "Sanat Eserleriniz",
-      "total": "Toplam sanat eseri",
+      "title": "Sanat eserleriniz",
+      "total": "Toplam sanat eserleri",
       "manage": "Sanat eserlerini yönet",
-      "review": "İnceleme altında",
-      "edit": "Detayları düzenle"
+      "review": "İnceleniyor",
+      "edit": "Ayrıntıları düzenle"
     },
     "dashboard": {
       "yourArtworks": "Sanat eserleriniz",
-      "artworksInStock": "Stokta bulunan sanat eserleri",
+      "artworksInStock": "Stoktaki sanat eserleri",
       "artworksSold": "Satılan sanat eserleri",
-      "availableForCommissions": "Komisyonlar için müsait mi?",
-      "availableSubtitle": "Ziyaretçilerinize özel sanat taleplerini kabul ettiğinizi belirtin",
+      "availableForCommissions": "Komisyonlara uygun mu?",
+      "availableSubtitle": "Ziyaretçilere özel sanat istekleri için uygun olduğunuzu bildirin",
       "followers": "Takipçiler",
-      "following": "Takip Edilenler",
+      "following": "Takip etme",
       "bio": "Biyografi",
       "styles": "Stiller",
       "materials": "Malzemeler",
-      "subjects": "Konu",
+      "subjects": "Konular",
       "achievements": "Başarılar",
       "education": "Eğitim",
       "exhibitions": "Sergiler",
-      "studioChronicles": "Stüdyo Günlükleri",
+      "studioChronicles": "Stüdyo günlükleri",
       "noInfoAbout": "Hakkında bilgi yok",
       "buttons": {
-        "edit": "Düzenle",
-        "more": "Daha fazla",
-        "less": "Daha az",
-        "editProfile": "Profili Düzenle",
-        "previewProfile": "Profili Önizle",
+        "edit": "Düzenlemek",
+        "more": "Daha",
+        "less": "Az",
+        "editProfile": "Profili düzenle",
+        "previewProfile": "Profili önizle",
         "goToArtworks": "Sanat eserlerine git",
-        "editAvailability": "Uygunluğu düzenle"
+        "editAvailability": "Müsaitliği düzenle"
       }
     },
     "comission": {
       "title": "Komisyon Talepleri",
       "total": "Devam Eden Komisyonlar",
-      "details": "Detaylara git",
-      "requests": "Yeni Talepler",
+      "details": "Ayrıntılara git",
+      "requests": "Yeni İstekler",
       "messages": "Mesajlara git",
-      "isAvailable": "Komisyonlar için müsait misiniz?",
-      "question": "Sanatınızı dünyaya sergilemek için kimliğinizi doğrulayın. Hesabınızı doğrulayarak eserlerinizi yayınlayın",
-      "reject": "Hayır, müsait değilim",
-      "accept": "Evet, müsaitim",
-      "execution": "Gerçekleştirme günleri",
-      "personalities": "Oturma odamız için ailemizin özel bir portresini istiyorum. Portre, bağımızın ve kişiliklerimizin özünü yakalamalıdır.",
+      "isAvailable": "Komisyonlara müsait misiniz?",
+      "question": "Sanatınızı dünyaya sergilemek için kimliğinizi doğrulayın. ",
+      "reject": "Hayır müsait değilim",
+      "accept": "Evet mevcut",
+      "execution": "İnfaz günleri",
+      "personalities": "Ailemin özel bir portresinin oturma odamıza asılmasını istiyorum. ",
       "decision": "Karar vermeye hazır mısınız?",
-      "discussDetails": "Detayları zaten tartıştıysanız veya bu talep hakkında net bir tercihiniz varsa",
+      "discussDetails": "Ayrıntıları zaten tartıştıysanız veya bu istekle ilgili net bir tercihiniz varsa",
       "acceptCommission": "Komisyonu kabul et",
-      "decline": "Reddet",
-      "notSpecified": "Fiyat belirtilmemiş",
+      "decline": "Reddetmek",
+      "notSpecified": "Fiyat belirtilmedi",
+      "acceptOrder": "Özel siparişi kabul et",
+      "acceptOrderContent": "Siparişi kabul etmeden önce lütfen müşteriye bir mesaj yazınız.",
+      "declineOrder": "Özel siparişi reddet",
+      "declineOrderContent": "Siparişi reddetmeden önce lütfen müşteriye bir mesaj yazınız.",
+      "updateOrderParams": "Özel sipariş parametrelerini güncelleyin",
+      "updateOrderPrice": "Özel sipariş fiyatını güncelle",
+      "updatePriceTitle": "Fiyat",
+      "updatePriceContent": "Özel sipariş için son fiyatı girin",
       "requested": "talep edildi",
-      "requestedUser": "Kullanıcı tarafından talep edilen boyut",
-      "finalSize": "Nihai boyut",
+      "requestedUser": "Kullanıcının talep ettiği boyut",
+      "finalSize": "Son boyut",
       "chat": "Sohbet",
-      "updateParams": "Parametreleri güncelle",
+      "updateParams": "Paramları güncelle",
       "updatePrice": "Fiyatı güncelle"
     },
     "insights": {
-      "title": "Öngörüler: Kasım 2023",
+      "title": "Analizler: Kasım 2023",
       "monthRevenue": "Bu Ayın Geliri",
       "sold": "Satılan sanat eserleri",
-      "commission": "Komisyon edilen sanat eserleri",
+      "commission": "Sipariş edilen sanat eserleri",
       "sales": "Ülkeye göre satışlar"
     },
     "tips": {
       "title": "İpuçları ve Rehberlik",
       "first": {
-        "title": "Telefonunuzla harika fotoğraflar çekme"
+        "title": "Telefonunuzla harika fotoğraflar nasıl çekilir?"
       },
       "second": {
-        "title": "Etkili bir liste açıklaması yazma"
+        "title": "İşe yarayan bir liste açıklaması nasıl yazılır?"
       }
     },
     "message": {
       "title": "Mesajlar"
     },
     "artworks": {
-      "title": "Sanat Eserleri",
-      "addNewArt": "Yeni Sanat Eseri Ekle",
-      "options": "Görünüm seçenekleri",
+      "ready_to_send": "Gönderilmeye hazır",
+      "ready_to_send_modal": {
+        "title": "Gönderilmeye hazır",
+        "description": "Resmi müşteriye göndermek istediğinizden emin misiniz?",
+        "send": "Göndermek",
+        "cancel": "İptal etmek"
+      },
+      "title": "Sanat eserleri",
+      "addNewArt": "Yeni sanat ekle",
+      "options": "Seçenekleri görüntüle",
       "info": {
-        "id": "ID",
-        "images": "Görüntüler",
+        "id": "İD",
+        "images": "Görseller",
         "title": "Başlık",
-        "description": "Açıklama",
+        "description": "Tanım",
         "price": "Fiyat",
-        "date": "Oluşturulma Tarihi",
+        "date": "Oluşturulma tarihi:",
         "validateStatus": "Doğrulandı",
         "notValidated": "Doğrulanmadı",
         "sale": "Satılık",
-        "sold": "Hayır",
+        "sold": "HAYIR",
         "actions": "Eylemler",
         "yes": "Evet",
-        "no": "Hayır",
+        "no": "HAYIR",
         "inStock": "Stokta var",
-        "soldOut": "Tükendi",
+        "soldOut": "Hepsi satıldı",
         "noArtworks": "Sanat eseri yok",
         "tryAgain": "Sanatçı henüz resimlerini yüklemedi"
       }
     },
     "addArtwork": {
       "details": "Detaylar",
-      "upload": "Görüntü Yükle",
-      "price": "Fiyat ve Kargo",
+      "upload": "Resimleri yükle",
+      "price": "Fiyat & Gönderim",
       "preview": "Önizleme",
-      "back": "Sanat eserlerine dön",
-      "next": "İleri"
+      "back": "Sanat eserlerine geri dön",
+      "next": "Sonraki"
     },
     "promocode": {
-      "discountAmount": "İndirim Tutarı",
-      "promocodeAdd": "Promosyon Kodu Ekle",
-      "promocodeNo": "Promosyon Kodu Bulunamadı",
+      "discountAmount": "İndirim tutarı",
+      "promocodeAdd": "Promosyon kodu ekle",
+      "promocodeNo": "Promosyon kodu bulunamadı",
       "promocodeNoText": "Promosyon kodunuz yok, lütfen ekleyin"
     },
     "comissions": {
       "title": "Komisyonlar",
       "links": {
-        "commissions": "Tüm Komisyonlar",
-        "work": "İşlemde",
+        "commissions": "Tüm komisyonlar",
+        "work": "işte",
         "new": "Yeni",
         "declined": "Reddedildi",
-        "completed": "Tamamlandı",
-        "onReview": "İnceleme altında",
+        "completed": "Tamamlanmış",
+        "onReview": "İnceleniyor",
         "pricing": "Fiyatlandırma",
-        "waitingForPayment": "Ödeme Bekleniyor",
-        "paid": "Ödendi",
-        "waitingForDelivery": "Teslimat Bekleniyor"
+        "waitingForPayment": "Ödeme bekleniyor",
+        "paid": "Paralı",
+        "waitingForDelivery": "Teslimat bekleniyor"
       },
       "settings": {
         "budget": "Bütçe",
-        "size": "Boyut Tercihleri",
-        "time": "Zaman Çizelgesi"
+        "size": "Boyut tercihleri",
+        "time": "Zaman çizelgesi"
       },
       "buttons": {
-        "more": "Detaylar",
-        "conversation": "Sohbete başla"
+        "more": "Daha fazla ayrıntı",
+        "conversation": "Konuşmayı başlat"
       }
     }
   },
   "artistRegistration": {
     "placeholders": {
-      "firstName": "İsim",
-      "lastName": "Soyisim",
-      "fullName": "Tam Adı"
+      "firstName": "İlk adı",
+      "lastName": "Soy isim",
+      "fullName": "Ad Soyad"
     },
     "modals": {
       "education": {
@@ -978,137 +1001,137 @@
         "faculty": "Fakülte",
         "degree": "Derece",
         "chooseDegree": "Derece seçin",
-        "startYear": "Başlangıç Yılı",
-        "endYear": "Bitiş Yılı",
+        "startYear": "Başlangıç ​​yılı",
+        "endYear": "Yıl sonu",
         "addAnotherSchool": "Başka bir Okul / Üniversite ekle"
       },
       "achievements": {
-        "title": "Başarılar veya Tanınmalar",
-        "subtitle": "Sanatsal başarılarınızı ve tanınmalarınızı paylaşmak, sanat topluluğuna katkılarınızı vurgulamaya yardımcı olur"
+        "title": "Başarılar veya tanınma",
+        "subtitle": "Sanatsal başarılarınızı ve takdirlerinizi paylaşmak, sanat camiasına yaptığınız katkıların öne çıkmasına yardımcı olur"
       },
       "exhibitions": {
         "title": "Sergiler",
-        "name": "Sergi Adı",
+        "name": "Sergi hakkında",
         "location": "Konum",
-        "startDate": "Başlangıç Tarihi",
+        "startDate": "Başlangıç ​​Tarihi",
         "endData": "Bitiş Tarihi",
         "addAnother": "Başka bir sergi ekle",
         "photo": "Fotoğraf"
       },
       "profilePhoto": {
-        "setPhoto": "Profil fotoğrafı ayarla",
+        "setPhoto": "Profil fotoğrafını ayarla",
         "uploadPhoto": "Lütfen fotoğrafınızı yükleyin"
       },
       "portfolio": {
         "title": "Portföy",
-        "works": "Çalışmalar",
-        "fillTitlePlaceholder": "Lütfen başlık girin",
-        "pleaseUpload": "Lütfen en az bir tane yükleyin"
+        "works": "Eserler",
+        "fillTitlePlaceholder": "Lütfen başlığı doldurun",
+        "pleaseUpload": "Lütfen portföyünüzden en az 1 sanat eseri sağlayın veya çalışma sürecinde kendinizi gösterin "
       },
       "editAbout": {
-        "title": "Sanatçı Hakkında Düzenle",
-        "minimumCharacters": "En az 40 karakter"
+        "title": "Sanatçı hakkında düzenleme",
+        "minimumCharacters": "Minimum 40 karakter"
       },
       "editArtistParams": {
-        "title": "Sanatçı Parametrelerini Düzenle"
+        "title": "Sanatçı parametrelerini düzenle"
       },
       "editCreativeCredo": {
-        "title": "Yaratıcı İnanç Düzenle"
+        "title": "Yaratıcılık inancını düzenle"
       },
       "editArtistName": {
-        "title": "İsmi Düzenle",
-        "firstName": "İsim",
-        "lastName": "Soyisim"
+        "title": "Adı düzenle",
+        "firstName": "İlk adı",
+        "lastName": "Soy isim"
       }
     },
     "profileSetup": {
       "tabs": {
-        "artisticProfile": "Sanatsal Profil Ayarları",
-        "pictures": "Fotoğraflar",
+        "artisticProfile": "Sanatsal profil kurulumu",
+        "pictures": "Resimler",
         "verification": "Doğrulama",
         "preview": "Önizleme"
       },
       "firstStep": {
-        "basicInfoTitle": "Temel Bilgiler",
-        "basicInfoSubtitle": "Profesyonel bir varlık için aşağıdaki önerilen alanları doldurun",
-        "firstName": "İsim",
-        "lastName": "Soyisim",
-        "artisticName": "Sanatsal isim (isteğe bağlı, sadece farklıysa)",
-        "fillOutPlaceholder": "Sanatsal isminiz farklıysa bu alanı doldurun",
+        "basicInfoTitle": "Temel bilgiler",
+        "basicInfoSubtitle": "Profesyonel varlık için aşağıdaki önerilen alanları doldurun",
+        "firstName": "İlk adı",
+        "lastName": "Soy isim",
+        "artisticName": "Sanatsal ad (isteğe bağlı, yalnızca farklıysa)",
+        "fillOutPlaceholder": "Farklı sanatsal adınız varsa bu alanı doldurun",
         "chooseCountry": "Ülke seçin",
         "country": "Ülke",
-        "state": "Eyalet",
+        "state": "Durum",
         "city": "Şehir",
-        "providesYourLocation": "Konumunuzu sağlayarak potansiyel alıcıların kökeninizi veya etkili olduğunuz alanı anlamalarını sağlar",
-        "note": "Not: Gönderilen tüm bilgilerin doğru olduğundan emin olun. Bu alanlar gönderildikten sonra, sonraki değişiklikler ekibimiz tarafından incelenecektir.",
+        "providesYourLocation": "Potansiyel alıcıların kökeninizi veya etki alanınızı anlamalarına olanak tanıyarak konumunuzu sağlar",
+        "note": "Not: Gönderilen tüm bilgilerin doğru olduğundan emin olun. ",
         "address": "Adres",
-        "zipcode": "Posta Kodu",
-        "phone": "Telefon Numarası"
+        "zipcode": "Posta kodu",
+        "phone": "Telefon numarası"
       },
       "secondStep": {
         "briefBio": "Kısa Biyografi",
         "bio": "Biyografi",
-        "credoTitle": "Yaratıcı İnanç",
+        "credoTitle": "Yaratıcı inanç",
         "credo": "İnanç",
-        "bioPlaceholder": "Lütfen kendiniz hakkında kısa bir biyografi yazın. En az 40 karakter.",
-        "credoPlaceholder": "Lütfen kendiniz hakkında bir inanç yazın. En az 40 karakter.",
-        "minimumCharacters": "En az 40 karakter",
-        "additionalDetails": "Ek Detaylar",
-        "youCanUpdate": "Profil ayarlarından herhangi bir zamanda bilgileri güncelleyebilir veya ekleyebilirsiniz"
+        "bioPlaceholder": "Lütfen kendiniz hakkında kısa bir biyografi yazın. ",
+        "credoPlaceholder": "Lütfen kendiniz hakkında bir inanç yazın. ",
+        "minimumCharacters": "Minimum 40 karakter",
+        "additionalDetails": "Ek Ayrıntılar",
+        "youCanUpdate": " Profil ayarlarınızdan istediğiniz zaman bilgileri güncelleyebilir veya ekleyebilirsiniz."
       },
       "thirdStep": {
         "areYouOpen": "Sanat komisyonlarına açık mısınız?",
-        "youCanChange": "Profil ayarlarından uygunluğu değiştirebilirsiniz",
+        "youCanChange": "Kullanılabilirliği profil ayarlarınızdan değiştirebilirsiniz",
         "yesImOpen": "Evet, özel komisyonlara açığım",
-        "thisIndicatesToYes": "Bu, alıcıların ilgilenirse özel çalışmalar yapabileceğinizi gösterir",
+        "thisIndicatesToYes": "Bu, alıcılara müsait olduğunuzu ve ilgilendikleri takdirde özel işleri kabul edebileceğinizi gösterir",
         "noImNotOpen": "Hayır, şu anda müsait değilim",
-        "thisIndicatesToNot": "Bu, şu anda özel komisyon kabul etmediğinizi gösterir"
+        "thisIndicatesToNot": "Bu, şu anda özel komisyonları kabul etmediğinizi gösterir"
       },
       "fourthStep": {
-        "describeYourStyle": "Sanatsal stilinizi tanımlayın",
+        "describeYourStyle": "Sanatsal tarzınızı tanımlayın",
         "category": "Kategori",
-        "chooseAtLeast": "En az 1 tane seçin",
+        "chooseAtLeast": "En az 1 tanesini seçin",
         "materials": "Malzemeler",
         "styles": "Stiller",
-        "subject": "Konu"
+        "subject": "Ders"
       },
       "fifthStep": {
-        "upload": "Fotoğraf yükleyin",
-        "subtitle": "Profilinizi kişiselleştirmeye ve platformdaki varlığınıza kişisel bir dokunuş katmaya yardımcı olur",
+        "upload": "Fotoğraf yükle",
+        "subtitle": "Profilinizi kişiselleştirmenize yardımcı olur ve platformdaki varlığınıza kişisel bir dokunuş katar",
         "profilePhoto": "Profil fotoğrafı",
         "aboutSectionPhoto": "\"Hakkında\" bölümü fotoğrafı",
         "portfolio": "Portföy",
-        "pleaseProvide": "Lütfen portföyünüzden en az bir sanat eseri sağlayın veya çalışma sürecinde kendinizi gösterin"
+        "pleaseProvide": "Lütfen portföyünüzden en az 1 sanat eseri sağlayın veya çalışma sürecinde kendinizi gösterin"
       },
       "sixthStep": {
         "verifyIdentity": "Kimliğinizi doğrulayın",
-        "pleaseProvide": "Hesabınızı doğrulayabilmemiz için en az 2 diğer sanatçının iletişim bilgilerini sağlayın",
+        "pleaseProvide": "Lütfen diğer sanatçıların en az 2 iletişim bilgilerini sağlayın, böylece\n            ",
         "artist": "Sanatçı",
         "artistName": "Sanatçı adı",
-        "artistContacts": "Sanatçı iletişim bilgileri",
+        "artistContacts": "Sanatçı kişileri",
         "contactsPlaceholder": "Telefon numarası veya e-posta",
-        "addMoreContacts": "Daha fazla referans iletişim ekle"
+        "addMoreContacts": "Daha fazla referans kişisi ekleyin"
       },
       "preview": {
         "style": "Stil",
-        "typeOfPainting": "Resim Türü",
+        "typeOfPainting": "Boyama türü",
         "material": "Malzeme",
-        "orderCustomArt": "Özel sanat sipariş et",
-        "follow": "Takip et",
-        "replace": "Değiştir",
+        "orderCustomArt": "Özel sanat eserleri sipariş edin",
+        "follow": "Takip etmek",
+        "replace": "Yer değiştirmek",
         "education": "Eğitim",
         "aboutArtist": "Sanatçı hakkında",
-        "recognitionEvents": "Tanınma, Etkinlikler"
+        "recognitionEvents": "Tanıma, Etkinlikler"
       }
     },
     "buttons": {
-      "edit": "Düzenle",
-      "add": "Ekle",
-      "next": "İleri",
+      "edit": "Düzenlemek",
+      "add": "Eklemek",
+      "next": "Sonraki",
       "back": "Geri",
-      "submit": "Gönder",
-      "cancel": "İptal",
-      "save": "Kaydet",
+      "submit": "Göndermek",
+      "cancel": "İptal etmek",
+      "save": "Kaydetmek",
       "publish": "Yayınla",
       "goBack": "Ana sayfaya git"
     }
@@ -1117,32 +1140,32 @@
   "artists": {
     "title": "Sanatçılar",
     "followers": "takipçiler",
-    "available": "Müsaitlik",
-    "type": "Resim Türü",
+    "available": "Kullanılabilirlik",
+    "type": "Boyama türü",
     "material": "Malzeme",
-    "custom": "Özel sanat sipariş et",
-    "noCustom": "Özel sanat için müsait değil",
-    "searchBy": "Sanat adı, sanatçı adı ile ara",
+    "custom": "Özel sanat eserleri sipariş edin",
+    "noCustom": "Özel sanat eserleri için mevcut değil",
+    "searchBy": "Sanat adına, sanatçı adına göre ara",
     "about": "Sanatçı hakkında",
-    "artworks": "Sanat Eserleri",
-    "reviews": "İncelemeler",
+    "artworks": "Sanat eserleri",
+    "reviews": "Yorumlar",
     "unfollow": "Takibi bırak",
-    "follow": "Takip et",
+    "follow": "Takip etmek",
     "noArtistsTitle": "Gösterilecek sanatçı yok",
     "noArtistsText": "Lütfen filtreleri değiştirmeyi deneyin veya daha sonra tekrar gelin"
   },
   "artistFilter": {
-    "show": "Filtreyi Göster",
+    "show": "Filtreyi göster",
     "filter": "Filtre",
-    "artwork": "Özel sanat için müsait",
-    "type": "Resim Türü",
+    "artwork": "Özel sanat eserleri için kullanılabilir",
+    "type": "Boyama türü",
     "materials": "Malzemeler",
     "styles": "Stiller",
-    "location": "Sanatçı Konumu",
-    "showMore": "Daha fazla göster",
-    "submit": "Gönder",
+    "location": "Sanatçının Konumu",
+    "showMore": "Daha fazlasını göster",
+    "submit": "Göndermek",
     "reset": "Tüm filtreleri sıfırla",
-    "sort": "Sırala",
+    "sort": "Düzenlemek",
     "popularity": "Popülerliğe göre",
     "price": "Fiyata göre"
   },
@@ -1154,111 +1177,111 @@
     },
     "breadCrumbs": {
       "mainPage": "Ana Sayfa",
-      "artworks": "Sanat Eserleri"
+      "artworks": "Sanat eserleri"
     },
     "descriptionTabs": {
       "artistAbout": "Sanatçı hakkında",
-      "detailsArtwork": "Sanat eseri detayları",
-      "readMore": "Daha fazla oku",
-      "follow": "Takip et",
-      "located": "Konum",
-      "available": "Özel sanat için müsait",
-      "notAvailable": "Özel sanat için müsait değil",
-      "viewed": "Son Görüntülenenler"
+      "detailsArtwork": "Sanat eseri ayrıntıları",
+      "readMore": "Devamını oku",
+      "follow": "Takip etmek",
+      "located": "Bulunduğu yer",
+      "available": "Özel sanat için kullanılabilir",
+      "notAvailable": "Özel sanat eserleri için mevcut değil",
+      "viewed": "Son görüntülenenler"
     }
   },
   "auth": {
     "emailModal": {
-      "login": "Giriş Yap veya Kaydol",
+      "login": "Giriş yapın veya kaydolun",
       "welcome": "Sanat Platformuna Hoş Geldiniz",
-      "continue": "Devam Et"
+      "continue": "Devam etmek"
     },
     "forgotPassword": {
-      "forgot": "Şifremi Unuttum",
-      "enter": "Hesabınızla ilişkili e-posta adresini girin, şifrenizi sıfırlamak için size bir bağlantı göndereceğiz.",
-      "send": "Şifreyi Sıfırla"
+      "forgot": "Parolanızı mı unuttunuz",
+      "enter": "Hesabınızla ilişkili e-posta adresini girin; size şifrenizi sıfırlamanız için bir bağlantı e-postayla göndereceğiz.",
+      "send": "Şifreyi sıfırla"
     },
     "loginModal": {
-      "login": "Giriş Yap",
+      "login": "Giriş yapmak",
       "email": "E-posta",
       "password": "Şifre",
       "try": "Tekrar deneyelim",
-      "invalidTry": "Geçersiz bilgiler. Lütfen tekrar deneyin.",
-      "forgot": "Şifrenizi mi unuttunuz?",
-      "close": "kapat",
+      "invalidTry": "Geçersiz kimlik bilgileri. ",
+      "forgot": "Parolanızı mı unuttunuz?",
+      "close": "kapalı",
       "or": "veya",
-      "forgotPass": "Şifrenizi mi unuttunuz?",
+      "forgotPass": "Parolanızı mı unuttunuz?",
       "continueWithGoogle": "Google ile devam et"
     },
     "signUpModal": {
-      "title": "Kaydolun ve",
-      "discount": "$20 İNDİRİM",
-      "firstPurchase": "ilk alışverişinizde",
+      "title": "Kaydolun ve alın",
+      "discount": "20$ İNDİRİM",
+      "firstPurchase": "ilk satın alma işleminizde",
       "artistOrNo": "Ben bir sanatçıyım",
-      "enterCode": "Doğrulama kodunu girin",
+      "enterCode": "Onay kodunu girin",
       "haveAnAccount": "Zaten bir hesabınız var mı?",
-      "signIn": "Giriş yap",
+      "signIn": "Kayıt olmak",
       "welcome": "Global Art AI'ye hoş geldiniz",
       "first": "Size yüksek kaliteli sanat ve kişiselleştirilmiş deneyimler sunmaya kararlıyız.",
-      "second": "Sanat dünyasına açılan kapı olarak bizi seçtiğiniz için teşekkür ederiz!",
+      "second": "Sanat dünyasına açılan kapınız olarak bizi seçtiğiniz için teşekkür ederiz!",
       "artistRegistration": "Sanatçı Kaydına Git",
-      "continue": "Alışverişe Başla",
-      "fullName": "Tam Adı",
+      "continue": "Alışverişe başla",
+      "fullName": "Ad Soyad",
       "email": "E-posta",
       "password": "Şifre",
       "sendCode": "Kodu Gönder",
-      "signUp": "Kaydol",
+      "signUp": "Üye olmak",
       "again": "Tekrar deneyelim",
       "invalidTry": "Geçersiz kimlik bilgileri. Lütfen tekrar deneyin.",
       "fill": "Lütfen bu alanı doldurun",
-      "agree": "Devam ederek, bizim",
+      "agree": "Devam ederek şunları kabul etmiş olursunuz:",
       "terms": "şartlar ve koşullar",
-      "and": "ve",
+      "and": "Ve",
       "or": "veya",
       "privacy": "gizlilik politikası",
-      "close": "kapat",
-      "refCode": "Referans kodu"
+      "close": "kapalı",
+      "refCode": "Yönlendirme kodu"
     }
   },
   "buyComponent": {
     "payment": {
       "payment": "Ödeme",
       "cardNumber": "Kart numarası",
-      "firstName": "Adı girin",
-      "cardholderName": "Kart sahibinin adı",
+      "firstName": "Adını girin",
+      "cardholderName": "Kart Sahibinin Adı",
       "fullName": "Tam adı girin",
       "expDate": "Son kullanma tarihi",
       "enterExpDate": "Son kullanma tarihini girin",
       "ccv": "CCV",
-      "enterCcv": "CCV girin",
+      "enterCcv": "CCV'yi girin",
       "placeOrder": "Sipariş Ver",
-      "back": "Geri Dön"
+      "back": "Geri gitmek"
     },
     "result": {
       "thanks": "Satın aldığınız için teşekkür ederiz!",
-      "purchase": "Sanat alım bilgisi",
+      "purchase": "Sanat satın alma bilgileri",
       "order": "Sipariş numarası",
       "date": "Tarih",
-      "total": "Toplam tutar",
-      "shipping": "Kargo bilgisi",
-      "shippingAddress": "Kargo adresi",
-      "share": "Satın alımınızı paylaşın",
+      "total": "Toplam toplam",
+      "shipping": "Gönderim bilgileri",
+      "shippingAddress": "Gönderi Adresi",
+      "share": "Satın alma işleminizi paylaşın",
       "icons": "Sosyal simgeler",
-      "recommend": "Tavsiye ederiz"
+      "recommend": "Tavsiye ediyoruz"
     },
     "shipping": {
-      "address": "Kargo adresi",
-      "name": "Adı",
-      "enterName": "Adı girin",
-      "lastName": "Soyadı",
-      "enterLastName": "Soyadı girin",
+      "address": "Gönderi Adresi",
+      "name": "İlk adı",
+      "enterName": "Adını girin",
+      "lastName": "Soy isim",
+      "enterLastName": "Soyadını girin",
       "country": "Ülke",
       "enterCountry": "Ülkeyi girin",
       "city": "Şehir",
       "enterCity": "Şehri girin",
-      "apt": "Apt, süit vb.",
-      "enterApt": "Apt, süit vb. girin",
-      "zip": "Posta Kodu",
+      "apt": "Daire, süit vb.",
+      "enterApt": "Apt, suite vb. girin.",
+      "zip": "Posta kodu",
       "enterZip": "Posta kodunu girin",
       "phone": "Telefon numarası",
       "enterPhone": "Telefon numarasını girin",
@@ -1269,58 +1292,58 @@
     "medium": "Orta",
     "size": "Boyut",
     "inch": "inç",
-    "cm": "cm",
+    "cm": "santimetre",
     "frame": "çerçeve",
     "add": "Sepete ekle",
-    "viewCart": "Sepetimi Gör",
+    "viewCart": "Sepetimi görüntüle",
     "movement": "Hareket ve stil",
     "year": "Yıl",
     "location": "Konum",
     "rare": "Nadirlik",
     "signature": "İmza",
-    "certificate": "Otantiklik sertifikası",
+    "certificate": "Orijinallik sertifikası",
     "frameMain": "Çerçeve",
     "yes": "Evet",
-    "no": "Hayır",
-    "rights": "Görüntü hakları",
-    "remove": "Sepetten çıkar",
-    "options": "Görünüm seçenekleri",
-    "shipping": "Kargo",
-    "stan_par": "Standart kargo",
+    "no": "HAYIR",
+    "rights": "Resim hakları",
+    "remove": "Sepetten kaldır",
+    "options": "Seçenekleri görüntüle",
+    "shipping": "Nakliye",
+    "stan_par": "Standart nakliye",
     "taxes": "Vergiler ödeme sırasında hesaplanır",
     "artist": "Sanatçı",
-    "want": "Bu sanatçının benzer tarzda sanatını mı istiyorsunuz?",
-    "order": "Özel sanat siparişi ver",
+    "want": "Bu sanatçının benzer tarzda eserlerini mi istiyorsunuz?",
+    "order": "Özel sanat eserleri sipariş edin",
     "explore": "Dünyanın dört bir yanından sanatı keşfedin",
-    "browse": "Konuya göre göz at",
+    "browse": "Konuya göre göz atın",
     "title": "Sanat eserleri"
   },
   "buy": {
     "delivery": "Teslimat",
     "payment": "Ödeme",
     "preview": "Önizleme",
-    "login": "Giriş Yap veya Kaydol",
-    "speed": "Ödeme sürecini hızlandırın ve ödemeleri hesaba kaydedin",
-    "signUp": "Kaydol",
-    "signIn": "Giriş Yap",
-    "edit": "Düzenle",
+    "login": "Oturum açın veya kaydolun",
+    "speed": "Ödeme işlemini hızlandırmak ve ödemeleri hesaba kaydetmek için",
+    "signUp": "Üye olmak",
+    "signIn": "Kayıt olmak",
+    "edit": "Düzenlemek",
     "promocode": "Promosyon kodunuz var mı?",
-    "shipping": "Kargo",
-    "address": "Kargo adresini girin",
+    "shipping": "Nakliye",
+    "address": "Teslimat adresini girin",
     "fee": "Sanat platformu hizmet ücreti",
     "total": "Tahmini toplam",
-    "notShipping": "Kargo dahil değil"
+    "notShipping": "Nakliye dahil değildir"
   },
   "aboutAI": {
-    "create": "Etik yarat",
+    "create": "Etik yaratın",
     "authentic": "otantik sanat",
-    "collaboration": "Sanatçılarla doğrudan işbirliği içinde tasarlanan Gen-AI ile",
+    "collaboration": "Sanatçılarla doğrudan işbirliği yapılarak tasarlanan Gen-AI ile",
     "value": "Değer gerekli",
     "waitlist": "Bekleme listesine katıl",
     "shareInfo": "Bilgilerinizi kimseyle paylaşmıyoruz",
     "notSupport": "Tarayıcınız video etiketini desteklemiyor.",
-    "joinDigitalArt": "Dijital sanat devrimine katıl",
-    "cases": "Kullanım Durumları",
+    "joinDigitalArt": "Dijital sanat devrimine katılın",
+    "cases": "Kullanım durumları",
     "artists": "Sanatçılar",
     "designers": "İç Mimarlar",
     "eventDesigners": "Üst Düzey Etkinlik Tasarımcıları",
@@ -1328,82 +1351,83 @@
     "gameDesigners": "Film ve Oyun Tasarımcıları",
     "industrialDesigners": "Endüstriyel Tasarımcılar",
     "artist": "Sanatçı",
-    "platform": "Sorumlu AI Sanat üretimini uygulayan tek platformuz",
-    "generate": "Sıfırdan Sanat Oluşturun",
+    "platform": "Sorumlu Yapay Zeka Sanatı neslini uygulayan tek platformuz",
+    "generate": "Sıfırdan Sanat Üretin",
     "exploreStyles": "Çeşitli stilleri keşfedin ve vizyonunuza en uygun olanı bulun",
     "inspiredArtists": "Sanatçılardan ilham alın",
-    "keepEthical": "Etik kal - sanatçılarla işbirliği yaparak ve sanatçının haklarını koruyarak",
+    "keepEthical": "İşbirliği yaparak ve sanatçıların haklarına saygı duyulmasını sağlayarak bunu etik tutuyoruz",
     "edit": "Fotoğraflarınızı düzenleyin",
-    "applyStyles": "Sanatçılardan ilham alan stiller uygulayın, arka planları değiştirin ve yeniden renklendirin",
-    "resize": "Mevcut sanatı yeniden boyutlandırın ve değiştirin",
-    "fullNamePlaceholder": "Tam adı",
+    "applyStyles": "Sanatçılardan ilham alan stilleri uygulayın, arka planları değiştirin ve yeniden renklendirin",
+    "resize": "Mevcut resmi yeniden boyutlandırın ve değiştirin",
+    "fullNamePlaceholder": "Ad Soyad",
     "emailPlaceholder": "E-posta",
-    "generateFromScratch": "Sıfırdan oluştur",
-    "beInspiredByArtists": "Sanatçılardan ilham alın",
-    "editYourPhotos": "Fotoğraflarınızı düzenleyin",
-    "makeArtMove": "Sanatı hareket ettir"
+    "generateFromScratch": "Sıfırdan Oluştur",
+    "beInspiredByArtists": "Sanatçılardan İlham Alın",
+    "editYourPhotos": "Fotoğraflarınızı Düzenleyin",
+    "makeArtMove": "Sanatı Harekete Geçirin"
   },
   "addArtwork": {
-    "addNew": "Yeni Sanat Eseri Ekle",
-    "subject": "Konu",
-    "artworkImages": "Sanat Eseri Görselleri",
+    "editArtwork": "Resmi düzenle",
+    "addNew": "Yeni sanat eseri ekle",
+    "subject": "Ders",
+    "artworkImages": "Sanat eseri görüntüleri",
     "warnings": {
-      "first": "Sanat eserinin çerçeve içinde düz ve ortalanmış olduğundan emin olun",
-      "second": "Sanat eserinin eşit şekilde aydınlatıldığından, karanlık alanlar veya aşırı pozlanmış bölgeler olmadığından emin olun",
-      "third": "Dokular, fırça darbeleri ve imzalar gibi önemli detayların yakın plan çekimlerini ekleyin"
+      "first": "Resmin düz ve çerçevede ortalanmış olduğundan emin olun",
+      "second": "Resmin eşit şekilde aydınlatıldığından, karanlık noktalar veya aşırı pozlanmış alanlar olmadığından emin olun",
+      "third": "Dokular, fırça darbeleri ve imzalar gibi önemli ayrıntıların yakın çekimlerini ekleyin"
     },
     "help": {
       "first": {
-        "first": "İşaretli alanlar",
+        "first": "ile işaretlenmiş alanlar",
         "span": "*",
-        "second": "zorunludur"
+        "second": "gereklidir"
       },
-      "second": "Kategori ve stilleri seçerek potansiyel alıcıların eserlerinizi keşfetmesine yardımcı olursunuz"
+      "second": "Kategori ve stilleri seçerek potansiyel alıcıların çalışmalarınızı keşfetmesine yardımcı olursunuz"
     },
-    "priceAndQuantity": "Fiyat ve Miktar",
-    "artwork": "Sanat Eseri Bilgileri",
-    "title": "Sanat Eseri Başlığı",
+    "priceAndQuantity": "Fiyat & Adet",
+    "artwork": "Yapıt Bilgileri",
+    "title": "Yapıt Başlığı",
     "titlePlaceholder": "Sanat eserinizin başlığını girin",
-    "description": "Açıklama",
-    "descriptionPlaceholder": "Sanat eserinizi tanımlayın, örneğin: ilham kaynağı, kullanılan malzemeler",
-    "made": "Yapıldığı Yer",
-    "madePlaceholder": "Nerede yapıldı",
-    "yearMade": "Yapıldığı Yıl",
+    "description": "Tanım",
+    "descriptionPlaceholder": "Sanat eserinizin açıklamasını sağlayın; örneğin: ilham kaynağı, kullanılan malzemeler",
+    "made": "Yapımı",
+    "madePlaceholder": "Nerede yapıldı?",
+    "yearMade": "Yapım yılı",
     "yearPlaceholder": "Yıl",
-    "signature": "İmza Türü (isteğe bağlı)",
+    "signature": "İmza türü (isteğe bağlı)",
     "signatureSelect": "İmza türünü seçin",
-    "category": "Kategori ve Stiller",
-    "categorySelect": "Kategoriyi seçin",
+    "category": "Kategori ve stiller",
+    "categorySelect": "Kategori seç",
     "rights": "Haklar",
     "rightsPlaceholder": "Hakları girin",
     "material": "Malzeme",
-    "materialSelect": "Malzemeyi seçin",
-    "raritySelect": "Nadirliği seçin",
-    "selectAuth": "Otantikasyon Sertifikasını seçin",
+    "materialSelect": "Malzeme Seçiniz",
+    "raritySelect": "Nadirlik Seç",
+    "selectAuth": "Kimlik Doğrulama Sertifikasını Seçin",
     "movement": "Hareket ve Stil",
     "styles": "Stiller",
     "framed": "Çerçeveli",
     "unframed": "Çerçevesiz",
-    "dimensionsBase": "Temel Boyutlar (çerçevesiz)",
+    "dimensionsBase": "Temel boyutlar (çerçevesiz)",
     "width": "Genişlik",
     "height": "Yükseklik",
     "depth": "Derinlik",
     "weight": "Ağırlık",
-    "kg": "kg",
+    "kg": "kilogram",
     "units": "Birimler",
-    "cm": "cm",
+    "cm": "santimetre",
     "rarity": "Nadirlik",
-    "auth": "Otantikasyon Sertifikası",
+    "auth": "Yetki Sertifikası",
     "dimensions": "Boyutlar",
     "preview": {
-      "review": "Sanat eserini inceleyin ve yayınlayın",
-      "show": "Alıcılara göstereceğimiz şey budur. Her şeyin doğru göründüğünden emin olun.",
-      "information": "Sanat Eseri Bilgileri",
-      "title": "Sanat Eseri Başlığı",
-      "description": "Sanat Eseri Açıklaması",
-      "made": "Yapıldığı Yer",
-      "year": "Yapıldığı Yıl",
-      "style": "Kategori ve Stiller",
+      "review": "Çalışmanızı inceleyin ve yayınlayın",
+      "show": "İşte alıcılara göstereceğimiz şey. ",
+      "information": "Sanat eseri bilgileri",
+      "title": "Yapıt başlığı",
+      "description": "Yapıt açıklaması",
+      "made": "Yapımı",
+      "year": "Yapım yılı",
+      "style": "Kategori ve stiller",
       "category": "Kategori",
       "styles": "Stiller",
       "materials": "Malzemeler",
@@ -1414,106 +1438,106 @@
       "size": "Boyut"
     },
     "second": {
-      "photosAdd": "Sanat eserinizi fotoğraflarla ekleyin",
-      "add": "5 fotoğraf eklemeniz gerekiyor. Daha sonra daha fazla ekleyebilirsiniz",
-      "requirements": "Görüntü gereksinimleri",
-      "frontalImage": "Önden tam görüntü",
-      "frontalView": "Sanat eserinizin tamamını gösteren net bir önden görünüm",
-      "closeUp": "Sanat eserinin yakın plan detayı",
-      "highResolution": "Sanat eserinizin ayrıntılı ve dokulu bölümlerini vurgulayan yüksek çözünürlüklü yakın çekimler",
-      "closeUpSignature": "İmzanızın yakın plan detayı",
-      "focused": "Otantikasyon için odaklanmış bir imza çekimi",
-      "artworkBack": "Sanat eserinin arka kısmı",
-      "context": "Bağlam görünümü (ev içi)",
-      "potential": "Potansiyel alıcılara ölçüsü ve estetik çekiciliği hakkında görsel bir his sunun",
+      "photosAdd": "Sanatınızın fotoğraflarını ekleyin",
+      "add": "5 adet fotoğraf eklemeniz gerekmektedir. ",
+      "requirements": "Resim gereksinimleri",
+      "frontalImage": "Tam önden görüntü",
+      "frontalView": "Resminizin bütünlüğünü sergileyen net, tam önden görünümü",
+      "closeUp": "Eserin yakından detayı",
+      "highResolution": "Sanat eserinizin karmaşık ayrıntılarını ve dokularını vurgulayan yüksek çözünürlüklü yakın çekimler",
+      "closeUpSignature": "İmzanızın yakın çekim detayı",
+      "focused": "Özgünlük için imzanızın odaklanmış bir şekilde yakalanması",
+      "artworkBack": "Sanat eserinin arkası",
+      "context": "Bağlam içi görünüm (evin iç kısmında)",
+      "potential": "Potansiyel alıcılara ölçeğine ve estetik çekiciliğine dair görsel bir fikir sunun",
       "preview": "Önizleme",
       "title": "Lütfen başlığı doldurun",
-      "price": "Lütfen fiyatı doldurun"
+      "price": "Lütfen fiyatı giriniz"
     },
     "third": {
-      "priceQuantity": "Fiyat ve Miktar",
-      "status": "Sanat Eseri Durumu",
-      "statusPlaceholder": "Sanat eseri durumunu seçin",
-      "quantity": "Stoktaki Miktar",
-      "quantityPlaceholder": "Satışa sunulan kaç ürün var?",
+      "priceQuantity": "Fiyat & Adet",
+      "status": "Sanat eserinin durumu",
+      "statusPlaceholder": "Sanat eserinin durumunu seçin",
+      "quantity": "Stoktaki miktar",
+      "quantityPlaceholder": "Kaç ürün satışa sunuluyor?",
       "price": "Fiyat",
-      "currency": "Para Birimi",
-      "shipping": "Gönderim",
-      "shippingProfile": "Gönderim Profili",
+      "currency": "Para birimi",
+      "shipping": "Nakliye",
+      "shippingProfile": "Gönderim profili",
       "shippingProfileSelect": "Gönderim profilini seçin",
-      "calculateShipping": "Bu profil gönderim ücretini hesaplamak için kullanılacaktır",
+      "calculateShipping": "Bu profil gönderim ücretlerini hesaplamak için kullanılacak",
       "detailsShipping": "Gönderim detayları",
       "packageArtwork": "Bu sanat eserini nasıl paketleyeceksiniz?",
-      "packageChose": "Paketleme seçeneğini seçin",
-      "parcelEstimated": "Tahmini paket boyutu",
+      "packageChose": "Paket seçeneğini seçin",
+      "parcelEstimated": "Tahmini parsel büyüklüğü",
       "width": "Genişlik",
       "height": "Yükseklik",
       "depth": "Derinlik",
       "units": "Birimler",
-      "kg": "kg",
-      "consider": "Platform ücretlerini göz önünde bulundurun",
-      "ensure": "Fiyatlandırmanızın karlılığı sürdürdüğünden emin olun.",
-      "read": "Satıcı Koşulları hakkında daha fazla bilgi edinin",
-      "weightShipping": "Gönderim ağırlığı",
+      "kg": "kilogram",
+      "consider": "Platform Ücretlerini Göz önünde bulundurun",
+      "ensure": "Fiyatlandırmanızın karlılığı koruduğundan emin olun.",
+      "read": "Satıcı Şartları hakkında daha fazlasını okuyun",
+      "weightShipping": "Nakliye ağırlığı",
       "weightPlaceholder": "Ağırlık",
-      "guides": "Gönderim kılavuzları",
-      "profile": "Doğru gönderim profilini seçin",
-      "packagingTechniques": "Doğru paketleme teknikleri",
-      "insurance": "Gönderim sigortası seçenekleri"
+      "guides": "Nakliye kılavuzları",
+      "profile": "Doğru Gönderi Profilini Seçin",
+      "packagingTechniques": "Doğru Paketleme Teknikleri",
+      "insurance": "Nakliye Sigortası Seçenekleri"
     }
   },
   "changeStatus": {
-    "change": "Durum Değiştir",
-    "sureWant": "Gerçekten",
-    "enable": "etkinleştirmek",
+    "change": "Durumu değiştir",
+    "sureWant": "Bunu istediğinden emin misin?",
+    "enable": "olanak vermek",
     "disable": "devre dışı bırakmak",
-    "the": "mı istiyorsunuz",
-    "saleStatus": "satış durumunu?",
-    "sureWantRemove": "Gerçekten",
-    "disableBig": "Devre Dışı Bırak",
-    "enableBig": "Etkinleştir",
-    "cancel": "İptal",
-    "close": "Kapat"
+    "the": "the",
+    "saleStatus": "satış durumu?",
+    "sureWantRemove": "Kaldırmak istediğinizden emin misiniz?",
+    "disableBig": "Devre dışı bırakmak",
+    "enableBig": "Olanak vermek",
+    "cancel": "İptal etmek",
+    "close": "Kapalı"
   },
   "blog": {
     "title": "Blog",
     "mainPage": "Ana Sayfa",
     "news": "Haberler",
-    "newest": "En Yeni",
-    "searchPlaceholder": "Sanat adı, sanatçı adı ile ara",
+    "newest": "En yeni",
+    "searchPlaceholder": "Sanat adına, sanatçı adına göre ara",
     "tags": "Etiketler",
     "shareArticle": "Makaleyi paylaş",
-    "readAlso": "Ayrıca Oku",
-    "trending": "Kategorilerde Trend",
-    "showAll": "Hepsini Göster",
-    "allArticles": "Tüm Makaleler",
+    "readAlso": "Ayrıca okuyun",
+    "trending": "Kategorilerde trend",
+    "showAll": "Tümünü göster",
+    "allArticles": "Tüm makaleler",
     "info": {
-      "noNews": "Gösterilecek haber yok",
+      "noNews": "Henüz gösterilecek haber yok",
       "tryAgain": "Lütfen filtreleri değiştirmeyi deneyin veya daha sonra tekrar gelin"
     }
   },
   "giftCard": {
-    "buyTab": "Satın Al",
+    "buyTab": "Satın almak",
     "redeemTab": "Kullan",
-    "title": "Hediye Kartı Satın Al",
-    "amount": "Tutar",
-    "to": "Alıcı",
-    "from": "Gönderen",
+    "title": "Hediye kartı satın al",
+    "amount": "Miktar",
+    "to": "İle",
+    "from": "İtibaren",
     "recipientName": "Alıcı adı",
     "recipientEmail": "Alıcı e-postası",
     "giftMessage": "Hediye mesajı",
-    "senderName": "Gönderen adı",
-    "send": "Hediye Kartı Gönder",
+    "senderName": "Gönderenin adı",
+    "send": "Hediye kartı gönder",
     "placeholders": {
-      "custom": "Özel",
+      "custom": "Gelenek",
       "giftMessage": "Mesajınızı buraya yazın..."
     },
     "redeem": {
-      "title": "Hediye Kartınızı Kullanma",
-      "apply": "Global Art AI hediye kartınızı kullandıktan sonra, hediye kredisi bir sonraki satın alma işleminize uygulanabilir",
+      "title": "Hediye kartınızı kullanın",
+      "apply": "Global Art AI hediye kartınızı kullandığınızda, hediye kredisi bir sonraki satın alma işleminizde geçerli olacaktır.",
       "code": "Hediye kartı kodu",
-      "submit": "Hediye Kartını Kullan",
-      "enterCode": "Kodu girin"
+      "submit": "Hediye kartını kullan",
+      "enterCode": "Hediye kartı kodunu girin"
     }
   },
   "promocodes": {
@@ -1525,34 +1549,34 @@
     }
   },
   "preloader": {
-    "createProfile": "Profil oluşturuluyor",
+    "createProfile": "Profilinizi oluşturma",
     "pleaseWait": "Lütfen bekleyin",
-    "minute": "Birkaç dakika sürebilir",
-    "keepTab": "Bu sekmede kalın",
-    "thankYou": "Teşekkür ederim"
+    "minute": "Bu birkaç dakika sürebilir.",
+    "keepTab": "Her şeyin yolunda gitmesini sağlamak için lütfen bu sekmeyi açık tutun.",
+    "thankYou": "Sabrınız için teşekkürler!"
   },
   "dragImage": {
     "title": "Sanatınızı iç mekanda sergileyin",
-    "subTitle": "Sanat eserlerinizi özelleştirilebilir çerçevelerle güzel ve profesyonel iç mekanlarda sergileyerek yükseltin",
-    "position": "Pozisyon",
-    "chooseInterior": "İç mekan seçin",
+    "subTitle": "Özelleştirilebilir çerçevelerle sanat eserinizi güzel, profesyonel iç mekanlarda sunarak kaliteyi yükseltin",
+    "position": "Konum",
+    "chooseInterior": "İç mekanı seçin",
     "artworkSize": "Sanat eseri boyutu",
     "smaller": "Daha küçük",
     "larger": "Daha büyük"
   },
   "payment_types": {
-    "balance": "Bakiye",
-    "stripe": "Stripe"
+    "balance": "Denge",
+    "stripe": "Şerit"
   },
   "gift_card_payment": {
     "success": {
-      "title": "Satın alımınız için teşekkürler",
-      "description": "Alıcıya hediye kartı kodu ile bir e-posta gönderilecektir. Satın alma detayları ile bir e-posta alacaksınız.",
+      "title": "Satın aldığınız için teşekkür ederiz",
+      "description": "Alıcı, hediye kartı kodunu içeren bir e-posta alacaktır. ",
       "backToMain": "Ana sayfaya dön"
     },
     "failed": {
-      "title": "Ödeme başarısız",
-      "description": "Ödemeniz başarılı olmadı. Lütfen tekrar deneyin veya yardım için müşteri hizmetleriyle iletişime geçin.",
+      "title": "Ödeme başarısız oldu",
+      "description": "Ödemeniz başarılı olmadı. ",
       "backToMain": "Ana sayfaya dön"
     }
   }

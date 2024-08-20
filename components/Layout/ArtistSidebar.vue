@@ -21,15 +21,19 @@ const {token} = storeToRefs(auth);
 const toasts = useToastsStore()
 
 const links = computed(() => [
-  {title: t("artistProfile.tabs.overview"), link: "/artistProfile"},
-  {title: t("artistProfile.tabs.artworks"), link: "/artistProfile/artworks"},
+  {title: t("artistProfile.tabs.overview"), link: localePath("/artistProfile")},
+  {title: t("artistProfile.tabs.artworks"), link: localePath("/artistProfile/artworks")},
   {
     title: t("artistProfile.tabs.promocode"),
-    link: "/artistProfile/promocode",
+    link: localePath("/artistProfile/promocode"),
   },
   {
     title: t("artistProfile.tabs.commissions"),
-    link: "/artistProfile/commissions",
+    link: localePath("/artistProfile/commissions"),
+  },
+  {
+    title: t("header.orders"),
+    link: localePath("/artistProfile/orders"),
   },
   // { title: t("artistProfile.tabs.messages"), link: "/artistProfile/messages" },
 ]);
@@ -200,8 +204,7 @@ onMounted(async () => {
       <NuxtLink
           v-for="(link, index) in links"
           :key="index"
-
-          :class="{ 'border-b border-black': route.fullPath.includes(link.link) }"
+          :class="{ 'border-b border-black': route.fullPath === link.link }"
           :to="localePath(link.link)"
           class="whitespace-nowrap text-sm  block uppercase py-1 focus:border-b focus:border-black hover:border-b hover:border-black transition-all"
       >

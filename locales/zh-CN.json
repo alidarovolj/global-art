@@ -1,217 +1,223 @@
 {
+  "search_general": {
+    "title": "搜索",
+    "placeholder": "按艺术家姓名搜索"
+  },
   "headers": {
     "payment_success": {
-      "title": "支付成功 | Global Art AI",
-      "description": "您的支付已成功。感谢您的购买。您将很快收到确认电子邮件。",
-      "og_url": "https://globalart.ai/zh-CN/payment-success",
-      "canonical": "https://globalart.ai/zh-CN/payment-success"
+      "title": "付款成功 |",
+      "description": "您的付款成功。",
+      "og_url": "https://globalart.ai/ payment-success",
+      "canonical": "https://globalart.ai/ payment-success"
     },
     "payment_failed": {
-      "title": "支付失败 | Global Art AI",
-      "description": "您的支付未成功。请再试一次或联系客户支持寻求帮助。",
-      "og_url": "https://globalart.ai/zh-CN/payment-failed",
-      "canonical": "https://globalart.ai/zh-CN/payment-failed"
+      "title": "付款失败 |",
+      "description": "您的付款不成功。",
+      "og_url": "https://globalart.ai/ payment-failed",
+      "canonical": "https://globalart.ai/ payment-failed"
     },
     "gift_card_success": {
-      "title": "支付成功 | Global Art AI",
-      "description": "您的支付已成功。感谢您的购买。您将很快收到确认电子邮件。",
-      "og_url": "https://globalart.ai/zh-CN/gift-card-success",
-      "canonical": "https://globalart.ai/zh-CN/gift-card-success"
+      "title": "付款成功 |",
+      "description": "您的付款成功。",
+      "og_url": "https://globalart.ai/gift-card-success",
+      "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "支付失败 | Global Art AI",
-      "description": "您的支付未成功。请重试或联系客户支持以获取帮助。",
-      "og_url": "https://globalart.ai/zh-CN/gift-card-failed",
-      "canonical": "https://globalart.ai/zh-CN/gift-card-failed"
+      "title": "付款失败 |",
+      "description": "您的付款不成功。",
+      "og_url": "https://globalart.ai/gift-card-failed",
+      "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "主页 | Global Art AI",
-      "description": "探索GlobalArt.ai——一个将人工智能与创意艺术相结合的前沿平台。探索AI生成的艺术作品、创新的艺术家工具，并加入一个利用技术推动艺术边界的创意社区。无论您是希望通过AI提升创意的艺术家，还是艺术爱好者，GlobalArt.ai都为现代艺术世界提供独特的见解和资源。",
-      "og_url": "https://globalart.ai/zh-CN/",
-      "canonical": "https://globalart.ai/zh-CN/"
+      "title": "主页 |",
+      "description": "探索 GlobalArt.ai——一个融合人工智能与创意艺术的尖端平台。",
+      "og_url": "https://globalart.ai/",
+      "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "艺术家注册 | Global Art AI",
-      "description": "作为艺术家加入GlobalArt.ai，开启展示才华、与艺术爱好者联系和销售创作的机会世界。立即注册以创建您的艺术家资料，上传您的作品集，并开始向全球观众销售您的艺术作品。无论您是画家、雕塑家、摄影师还是数字艺术家，GlobalArt.ai都提供提升您的艺术事业的平台和工具。",
-      "og_url": "https://globalart.ai/zh-CN/artistRegistration",
-      "canonical": "https://globalart.ai/zh-CN/artistRegistration"
+      "title": "艺术家注册|",
+      "description": "以艺术家身份加入 GlobalArt.ai，开启充满机会展示您的才华、与艺术爱好者交流并出售您的创作的机会。",
+      "og_url": "https://globalart.ai/artistRegistration",
+      "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "艺术家 | Global Art AI",
-      "description": "GlobalArt.ai的“艺术家”页面允许用户根据各种标准探索和筛选艺术家，如绘画类型（肖像、风景）、材料（油画、 水彩）、风格（现代、古典、城市、写实）和位置。还提供按人气或价格排序艺术家的选项，并提供定制艺术作品的功能。",
-      "og_url": "https://globalart.ai/zh-CN/artists",
-      "canonical": "https://globalart.ai/zh-CN/artists"
+      "title": "艺术家 |",
+      "description": "GlobalArt.ai 的“艺术家”页面允许用户根据各种标准探索和筛选艺术家，例如绘画类型（肖像、风景）、材料（布面油画、水彩）、风格（现代、古典、城市、照片写实）和",
+      "og_url": "https://globalart.ai/artists",
+      "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "博客 | Global Art AI",
-      "description": "GlobalArt.ai的博客提供关于各种艺术相关主题的文章和视频，包括艺术中的AI、艺术家特写和行业见解。其目的是通过每周更新教育和启发艺术家和艺术爱好者。",
-      "og_url": "https://globalart.ai/zh-CN/blog",
-      "canonical": "https://globalart.ai/zh-CN/blog"
+      "title": "博客 |",
+      "description": "GlobalArt.ai 博客提供各种艺术相关主题的文章和视频，包括艺术中的人工智能、艺术家特征和行业见解。",
+      "og_url": "https://globalart.ai/博客",
+      "canonical": "https://globalart.ai/博客"
     },
     "artworks": {
-      "title": "艺术品 | Global Art AI",
-      "description": "GlobalArt.ai的“艺术品”页面允许用户探索来自世界各地的各种艺术品。它提供按年份、价格、流派和风格、稀有性、材料和风格的过滤器。用户可以按人气或价格排序艺术品，并查看在售或已售的作品。",
-      "og_url": "https://globalart.ai/zh-CN/artworks",
-      "canonical": "https://globalart.ai/zh-CN/artworks"
+      "title": "艺术品|",
+      "description": "GlobalArt.ai 上的艺术品页面允许用户探索来自世界各地的各种艺术品。",
+      "og_url": "https://globalart.ai/artworks",
+      "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "愿望清单 | Global Art AI",
-      "description": "GlobalArt.ai的“愿望清单”页面允许用户管理和查看他们最喜欢的艺术品。它提供将作品添加到个性化收藏中的功能，帮助用户跟踪他们感兴趣的艺术品。",
-      "og_url": "https://globalart.ai/zh-CN/wishlist",
-      "canonical": "https://globalart.ai/zh-CN/wishlist"
+      "title": "愿望清单 |",
+      "description": "GlobalArt.ai 上的愿望清单页面允许用户管理和查看他们最喜欢的艺术品。",
+      "og_url": "https://globalart.ai/wishlist",
+      "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "购物车 | Global Art AI",
-      "description": "GlobalArt.ai的“购物车”页面允许用户查看和管理他们打算购买的物品。",
-      "og_url": "https://globalart.ai/zh-CN/cart",
-      "canonical": "https://globalart.ai/zh-CN/cart"
+      "title": "购物车 |",
+      "description": "GlobalArt.ai 上的购物车页面允许用户查看和管理他们打算购买的商品。",
+      "og_url": "https://globalart.ai/cart",
+      "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "关于AI | Global Art AI",
-      "description": "GlobalArt.ai的“关于AI”页面解释了他们与艺术家合作开发的AI艺术生成的伦理方法。它突出了从头创作艺术、用艺术风格编辑照片、调整和修改现有艺术品的功能，以及室内设计师和数字营销专家等各种专业人士的使用案例。该平台强调AI的负责任使用，确保尊重艺术家的权利。",
-      "og_url": "https://globalart.ai/zh-CN/about-ai",
-      "canonical": "https://globalart.ai/zh-CN/about-ai"
+      "title": "关于人工智能 |",
+      "description": "GlobalArt.ai 上的“关于人工智能”页面解释了他们与艺术家合作开发的人工智能艺术生成的道德方法。",
+      "og_url": "https://globalart.ai/about-ai",
+      "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "市场 | Global Art AI",
-      "description": "GlobalArt.ai的“市场”页面连接了世界各地的艺术家和艺术爱好者，提供来自3,943位艺术家的10,590多件现成艺术品。它具有发现和购买艺术品的工具、AI推荐、定制艺术订单以及在您的空间中可视化艺术的增强现实功能。该平台通过证书确保真实性，并提供与艺术家和专家的直接合作。",
-      "og_url": "https://globalart.ai/zh-CN/marketplace",
-      "canonical": "https://globalart.ai/zh-CN/marketplace"
+      "title": "市场|",
+      "description": "GlobalArt.ai 的 Marketplace 页面将世界各地的艺术家和艺术爱好者联系起来，提供来自 3,943 名艺术家的 10,590 多件现成艺术品。",
+      "og_url": "https://globalart.ai/marketplace",
+      "canonical": "https://globalart.ai/marketplace"
     },
     "help": {
-      "title": "帮助中心 | Global Art AI",
-      "description": "GlobalArt.ai的“帮助”页面提供了有关购买艺术品、作为艺术家获得报酬、委托过程、艺术品运输以及退货和退款流程的常见问题解答。它提供了有关使用平台和解决常见问题的指导。",
-      "og_url": "https://globalart.ai/zh-CN/help",
-      "canonical": "https://globalart.ai/zh-CN/help"
+      "title": "帮助中心 |",
+      "description": "GlobalArt.ai 上的帮助页面提供了有关购买艺术品、作为艺术家获得报酬、委托流程、艺术品运输以及退货和退款流程的常见问题解答。",
+      "og_url": "https://globalart.ai/help",
+      "canonical": "https://globalart.ai/help"
     },
     "profile": {
-      "title": "个人资料 | Global Art AI",
-      "description": "GlobalArt.ai的“个人资料”页面允许用户管理他们的个人信息、查看他们的活动并跟踪他们在平台上的互动。它可能包括账户偏好、安全性和通信选项的设置。",
-      "og_url": "https://globalart.ai/zh-CN/profile",
-      "canonical": "https://globalart.ai/zh-CN/profile",
+      "title": "简介 |",
+      "description": "GlobalArt.ai 上的个人资料页面可能允许用户管理他们的个人信息、查看他们的活动并跟踪他们在平台上的互动。",
+      "og_url": "https://globalart.ai/profile",
+      "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "委托 | Global Art AI",
-          "description": "在GlobalArt.ai上管理您的艺术委托。查看、跟踪和更新您的委托艺术品的状态，与艺术家沟通并管理付款详细信息。保持有序，确保您的定制艺术请求按计划进行并与您的愿景一致。",
-          "og_url": "https://globalart.ai/zh-CN/profile/commissions",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "佣金 |",
+          "description": "在 GlobalArt.ai 上管理您的艺术委托。",
+          "og_url": "https://globalart.ai/profile/commissions",
+          "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "保存的艺术品 | Global Art AI",
-          "description": "在GlobalArt.ai上探索和管理您的保存艺术品。跟踪您最喜欢的作品，组织您的收藏，并轻松访问您喜爱的艺术品。通过保存和重新访问您的最佳选择，提升您的艺术浏览体验。",
-          "og_url": "https://globalart.ai/zh-CN/profile/saved-artworks",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "保存的艺术品 |",
+          "description": "在 GlobalArt.ai 上探索和管理您保存的艺术品。",
+          "og_url": "https://globalart.ai/profile/saved-artworks",
+          "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "订单 | Global Art AI",
-          "description": "在GlobalArt.ai上查看和管理您的订单。跟踪已购艺术品的状态，管理送货详细信息并访问订单历史记录。及时了解您的艺术购买情况，并确保顺畅的购买体验。",
-          "og_url": "https://globalart.ai/zh-CN/profile/orders",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "订单|",
+          "description": "在 GlobalArt.ai 上查看和管理您的订单。",
+          "og_url": "https://globalart.ai/profile/orders",
+          "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "关注的艺术家 | Global Art AI",
-          "description": "在GlobalArt.ai上关注您喜欢的艺术家。获取他们最新作品、展览和活动的更新。发现新的艺术家，探索多样的艺术风格。创建个性化的艺术信息流，并与世界各地的创意人士建立联系。",
-          "og_url": "https://globalart.ai/zh-CN/profile/following-artists",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "关注艺术家 |",
+          "description": "在 GlobalArt.ai 上关注您最喜欢的艺术家。",
+          "og_url": "https://globalart.ai/profile/following-artists",
+          "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "评论 | Global Art AI",
-          "description": "在GlobalArt.ai上分享您的反馈。撰写关于购买的艺术品、艺术家和平台总体体验的评论。帮助其他艺术爱好者做出明智的决定，并通过分享您的想法和建议支持艺术家。",
-          "og_url": "https://globalart.ai/zh-CN/profile/review",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "评论 |",
+          "description": "分享您对 GlobalArt.ai 的反馈。",
+          "og_url": "https://globalart.ai/profile/review",
+          "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "礼品卡 | Global Art AI",
-          "description": "在GlobalArt.ai上购买和兑换礼品卡。将艺术作为礼物送给朋友、家人或同事。从各种面额中选择，让收件人探索并选择他们喜欢的艺术品。通过GlobalArt.ai礼品卡传播欢乐和创造力。",
-          "og_url": "https://globalart.ai/zh-CN/profile/buy-gift-cards",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "礼品卡|",
+          "description": "在 GlobalArt.ai 上购买和兑换礼品卡。",
+          "og_url": "https://globalart.ai/profile/buy-gift-cards",
+          "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "账户 | Global Art AI",
-          "description": "在GlobalArt.ai上管理您的账户设置。更新您的个人信息、更改密码并自定义您的个人资料。与艺术社区保持联系，访问独家功能，并个性化您的艺术体验。",
-          "og_url": "https://globalart.ai/zh-CN/profile/profile",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "账户 |",
+          "description": "管理您在 GlobalArt.ai 上的帐户设置。",
+          "og_url": "https://globalart.ai/profile/profile",
+          "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "地址簿 | Global Art AI",
-          "description": "在GlobalArt.ai上管理您的地址簿。存储和组织您的送货地址，以便结账体验流畅。添加、编辑或删除地址，确保您购买的艺术品准确及时地送达。",
-          "og_url": "https://globalart.ai/zh-CN/profile/addresses",
-          "canonical": "https://globalart.ai/zh-CN/profile"
+          "title": "地址簿 |",
+          "description": "在 GlobalArt.ai 上管理您的地址簿。",
+          "og_url": "https://globalart.ai/profile/addresses",
+          "canonical": "https://globalart.ai/profile"
         }
       }
     },
     "commissions": {
-      "title": "定制艺术请求",
-      "description": "在GlobalArt.ai上请求定制艺术品。选择您喜欢的类别和风格，设置预算，并描述您的愿景，以找到完美的艺术家。自定义尺寸、时间表，并附上参考图片，以确保您的定制艺术品符合您的期望。今天就创造独特的个性化艺术作品吧！",
-      "og_url": "https://globalart.ai/zh-CN/commissions",
-      "canonical": "https://globalart.ai/zh-CN/commissions"
+      "title": "定制艺术要求",
+      "description": "在 GlobalArt.ai 上请求定制艺术品。",
+      "og_url": "https://globalart.ai/commissions",
+      "canonical": "https://globalart.ai/commissions"
     },
     "artist_profile": {
       "title": "艺术家简介",
-      "description": "在GlobalArt.ai上探索艺术家的简介。发现他们的创作历程、教育背景、成就和正在进行的展览。查看他们的精选作品集、创作信条和作品集。深入了解艺术家的作品，关注他们的更新，并通过他们的工作室记录与他们联系。",
-      "og_url": "https://globalart.ai/zh-CN/artistProfile",
-      "canonical": "https://globalart.ai/zh-CN/artistProfile",
+      "description": "在 GlobalArt.ai 上探索艺术家的个人资料。",
+      "og_url": "https://globalart.ai/artistProfile",
+      "canonical": "https://globalart.ai/artistProfile",
       "pages": {
         "artworks": {
-          "title": "艺术作品",
-          "description": "在GlobalArt.ai上探索艺术家的作品集。查看他们的绘画、雕塑、版画等收藏。发现独特的艺术品，了解艺术家的创作过程，并为您的艺术收藏找到灵感。",
-          "og_url": "https://globalart.ai/zh-CN/artistProfile/artworks",
-          "canonical": "https://globalart.ai/zh-CN/artistProfile"
+          "title": "艺术品",
+          "description": "在 GlobalArt.ai 上探索艺术家的作品集。",
+          "og_url": "https://globalart.ai/artistProfile/artworks",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "promocodes": {
           "title": "促销代码",
-          "description": "在GlobalArt.ai上兑换促销代码。享受艺术品购买的折扣、特别优惠和独家交易。在结账时输入促销代码，以节省您喜欢的艺术品，并支持有才华的艺术家。解锁优惠并提升您的艺术收藏。",
-          "og_url": "https://globalart.ai/zh-CN/artistProfile/promocode",
-          "canonical": "https://globalart.ai/zh-CN/artistProfile"
+          "description": "在 GlobalArt.ai 上兑换促销代码。",
+          "og_url": "https://globalart.ai/artistProfile/promocode",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "commissions": {
-          "title": "委托",
-          "description": "在GlobalArt.ai上与艺术家合作定制艺术品。请求个性化的艺术作品，传达您的愿景，并跟踪定制作品的进度。与艺术家互动，分享您的想法，并将您的创意项目变为现实。",
-          "og_url": "https://globalart.ai/zh-CN/artistProfile/commissions",
-          "canonical": "https://globalart.ai/zh-CN/artistProfile"
+          "title": "佣金",
+          "description": "在 GlobalArt.ai 上与艺术家合作进行定制艺术委托。",
+          "og_url": "https://globalart.ai/artistProfile/commissions",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "messages": {
-          "title": "消息",
-          "description": "在GlobalArt.ai上与艺术家交流。发送消息，分享反馈，并与才华横溢的创作者讨论定制艺术请求。与艺术家保持联系，接收定制艺术品的更新，并参与关于艺术的有意义的对话。",
-          "og_url": "https://globalart.ai/zh-CN/artistProfile/messages",
-          "canonical": "https://globalart.ai/zh-CN/artistProfile"
+          "title": "留言",
+          "description": "在 GlobalArt.ai 上与艺术家交流。",
+          "og_url": "https://globalart.ai/artistProfile/messages",
+          "canonical": "https://globalart.ai/artistProfile"
         }
       }
     }
   },
   "cus_art_req": {
-    "open": "接受定制艺术",
-    "close": "停止接受定制艺术"
+    "open": "开放定制艺术",
+    "close": "定制艺术关闭"
   },
   "header": {
     "links": {
-      "artworks": "艺术作品",
+      "artworks": "艺术品",
       "artists": "艺术家",
       "marketplace": "关于市场",
-      "order_cus_art": "定制艺术品",
+      "order_cus_art": "订购定制艺术",
       "but_gift_card": "购买礼品卡",
       "about_us": "关于我们",
-      "ai": "关于全球艺术AI",
+      "ai": "关于环球艺术人工智能",
       "galleries": "画廊",
       "blog": "我们的博客"
     },
-    "search": "按艺术品名称、艺术家、画廊、风格、主题等搜索",
+    "search": "按艺术品名称、艺术家、画廊、风格、主题等搜索。",
     "login": "登录",
-    "registration": "注册",
+    "registration": "报名",
     "activationCode": "激活码",
-    "resendCode": "重新发送代码",
+    "resendCode": "再次发送代码",
     "inner_header_links": {
-      "sell": "给艺术家",
+      "sell": "对于艺术家",
       "help": "帮助",
-      "mobileApp": "移动应用"
+      "mobileApp": "手机应用程序"
     },
-    "popular": "全球艺术热门",
+    "popular": "风靡全球艺术",
     "contemporary": "当代艺术",
     "noNotifications": "没有通知",
-    "balance": "余额",
-    "myProfile": "我的资料",
+    "balance": "平衡",
+    "myProfile": "我的个人资料",
     "orders": "订单",
-    "becomeAnArtist": "成为艺术家",
+    "becomeAnArtist": "成为一名艺术家",
+    "artistProfile": "艺术家简介",
+    "verifyingProfile": "正在验证个人资料...",
     "helpCenter": "帮助中心",
     "logout": "退出"
   },
@@ -226,50 +232,50 @@
     "orderStatus": "订单状态",
     "customerSupport": "客户支持",
     "sellWithUs": "与我们一起销售",
-    "subscribeToNewsLetter": "订阅我们的新闻",
-    "getWeekly": "每周获取与艺术相关的文章和视频",
-    "yourEmail": "您的邮箱",
-    "valueRequired": "此项为必填项",
+    "subscribeToNewsLetter": "订阅我们的时事通讯",
+    "getWeekly": "获取每周与艺术相关的文章和视频",
+    "yourEmail": "您的电子邮件",
+    "valueRequired": "值为必填项",
     "subscribe": "订阅",
     "getToKnow": "了解我们",
     "terms": "条款",
     "privacy": "隐私"
   },
   "faq": {
-    "title": "想知道更多？",
+    "title": "想了解更多吗？",
     "subtitle": "常见问题",
     "first": {
       "title": "什么是艺术品平台？",
-      "content": "艺术品平台是一个在线平台，旨在展示艺术家的作品并将其与艺术爱好者、收藏家和买家联系起来。它为艺术家提供了一个展示和销售其作品的空间。"
+      "content": "艺术品平台是一个旨在展示艺术家作品并将他们与艺术爱好者、收藏家和买家联系起来的在线平台。"
     },
     "second": {
-      "title": "如何在艺术品平台上创建艺术家资料？",
-      "content": "要创建艺术家资料，请在平台上注册并按照简单的步骤设置您的资料。您可以上传作品图片，编写个人简介，并添加其他相关信息。"
+      "title": "如何在Artworks平台上创建艺术家档案？",
+      "content": "要创建艺术家个人资料，请在平台上注册并按照简单的步骤设置您的个人资料。"
     },
     "third": {
-      "title": "作为艺术家加入艺术品平台是免费的吗？",
-      "content": "是的，艺术家可以免费在平台上创建资料。根据您的会员等级，发布和销售作品可能会产生费用。"
+      "title": "作为艺术家可以免费加入 Artworks 平台吗？",
+      "content": "是的，艺术家可以免费在平台上创建个人资料。"
     },
     "fourth": {
-      "title": "如何在艺术品平台上销售我的作品？",
-      "content": "要销售您的作品，您可以在您的资料中将其列为待售。然后，买家可以通过平台查看并购买您的艺术品。您可以选择自己处理运输和付款，或者使用平台的集成服务。"
+      "title": "如何在Artworks平台上出售我的作品？",
+      "content": "要出售您的作品，您可以在您的个人资料中列出待售作品。"
     },
     "fifth": {
-      "title": "平台接受哪些类型的艺术？",
-      "content": "我们接受广泛的艺术媒介，包括绘画、雕塑、摄影、数字艺术等。平台鼓励多样性，欢迎各个方向的艺术家。"
+      "title": "该平台接受哪些类型的艺术？",
+      "content": "我们接受广泛的艺术媒介，包括绘画、雕塑、摄影、数字艺术等。"
     },
     "sixth": {
       "title": "我可以为我的作品设定自己的价格吗？",
-      "content": "是的，作为艺术家，您可以完全控制作品的定价。您可以根据自己的喜好和市场价值设定价格。"
+      "content": "是的，作为艺术家，您可以完全控制作品的定价。"
     }
   },
   "help": {
     "search": {
-      "title": "我们如何帮助您？",
+      "title": "我们能提供什么帮助？",
       "placeholder": "搜索关键词或问题"
     },
     "tabs": {
-      "general": "常规",
+      "general": "一般的",
       "artist": "艺术家",
       "designer": "设计师"
     },
@@ -277,87 +283,87 @@
       "title": "常见问题",
       "questions": {
         "first": {
-          "title": "如何购买艺术品？",
-          "content": "要购买艺术品，请按照以下步骤操作： \n 1. 浏览艺术品：探索我们多样化的艺术品收藏，这些艺术品由才华横溢的艺术家创作。 \n 2.选择艺术品：点击吸引您的艺术品以查看详细信息。 \n 3. 加入购物车：点击艺术品页面上的加入购物车按钮。 \n 4.查看购物车：访问您的购物车以查看所选的艺术品和数量。 \n 5.结账：继续结账并输入您的运输详情和付款方式。 \n 6.付款：选择安全的付款方式并提供必要的详细信息以完成交易。 \n 7.确认：接收包含购买详情的订单确认。 \n 8.艺术品运输：跟踪您购买的艺术品的运输情况。 \n 欲了解每个步骤的详细信息，请参阅我们的购买指南。"
+          "title": "我如何购买艺术品？",
+          "content": "要购买艺术品，请按照以下步骤操作： \n "
         },
         "second": {
-          "title": "我如何获得付款？",
-          "content": "您可以通过在我们的平台上销售艺术品获得付款。"
+          "title": "我如何获得报酬？",
+          "content": "您可以通过在我们的平台上出售您的艺术品来获得报酬。"
         },
         "third": {
-          "title": "定制过程如何运作？",
-          "content": "定制过程涉及多个步骤。首先定义项目并组建团队。然后设计并实施系统。之后，测试系统以确保其满足项目要求。最后，将系统交付给所有者并完成定制报告。"
+          "title": "调试过程如何进行？",
+          "content": "调试过程涉及几个步骤。"
         },
         "fourth": {
-          "title": "艺术品如何运输？",
-          "content": "艺术品通过可信的快递服务进行运输，以确保其安全送达。"
+          "title": "艺术品如何运送？",
+          "content": "艺术品使用值得信赖的快递服务运送，以确保安全交付。"
         },
         "fifth": {
-          "title": "我可以退还艺术品吗？退还流程是什么？",
-          "content": "是的，如果艺术品不符合您的期望，您可以退还。艺术品必须在规定的期限内（通常为14天）以原始状态退还。一旦我们收到退还的艺术品并确认其状态，退还流程将开始。退还款项将在一定的天数内退还到您的原始付款方式，具体取决于您的银行政策。"
+          "title": "我可以退回艺术品吗？退款流程是什么？",
+          "content": "是的，如果艺术品不符合您的期望，您可以退回艺术品。"
         }
       }
     },
     "categories": {
-      "title": "分类",
+      "title": "类别",
       "account": {
         "title": "账户管理",
         "link": {
-          "first": "如何创建账户",
-          "second": "确认您的邮箱",
-          "third": "更新您的账户",
+          "first": "如何创建帐户",
+          "second": "确认您的电子邮件",
+          "third": "更新您的帐户",
           "fourth": "更改密码",
-          "fifth": "删除我的账户"
+          "fifth": "删除我的帐户"
         }
       },
       "artworks": {
-        "title": "发现艺术品",
+        "title": "艺术品发现",
         "link": {
-          "first": "找到完美的艺术品",
+          "first": "寻找完美的艺术品",
           "second": "搜索特定的艺术品",
-          "third": "理解艺术品详情",
-          "fourth": "保存艺术品到收藏夹"
+          "third": "了解艺术品细节",
+          "fourth": "将艺术作品保存到收藏夹"
         }
       },
       "orders": {
-        "title": "定制艺术品",
+        "title": "订购定制艺术品",
         "link": {
-          "first": "如何委托艺术品",
-          "second": "与艺术家沟通",
-          "third": "委托AI生成的艺术品",
-          "fourth": "设置委托要求",
+          "first": "如何委托创作艺术品",
+          "second": "与艺术家交流",
+          "third": "委托人工智能生成的艺术",
+          "fourth": "设定佣金要求",
           "fifth": "检查状态",
           "sixth": "退款政策"
         }
       },
       "generates": {
-        "title": "AI生成的艺术品",
+        "title": "人工智能生成的艺术",
         "link": {
-          "first": "如何生成AI艺术品",
-          "second": "委托AI生成的艺术品",
-          "third": "AI艺术伦理",
+          "first": "如何生成人工智能艺术",
+          "second": "委托人工智能生成的艺术",
+          "third": "人工智能艺术伦理",
           "fourth": "使用条款"
         }
       },
       "payments": {
-        "title": "交易和支付",
+        "title": "交易和付款",
         "link": {
           "first": "进行购买",
-          "second": "支付方式",
+          "second": "付款方式",
           "third": "交易安全"
         }
       },
       "deliveries": {
-        "title": "配送和退货",
+        "title": "送货和退货",
         "link": {
-          "first": "配送费用",
-          "second": "跟踪货物",
+          "first": "送货费",
+          "second": "追踪货件",
           "third": "退货和退款政策",
           "fourth": "处理损坏或丢失的货物"
         }
       },
       "terms": {
-        "title": "条款和政策",
+        "title": "条款与政策W",
         "link": {
           "first": "隐私政策",
           "second": "条款和条件"
@@ -365,9 +371,9 @@
       }
     },
     "contact": {
-      "title": "需要联系我们？",
+      "title": "需要联系吗？",
       "button": "联系我们",
-      "also": "您也可以",
+      "also": "您还可以",
       "feedback": "给我们反馈"
     }
   },
@@ -375,133 +381,134 @@
     "title": "画廊",
     "search": {
       "locations": "所有地点",
-      "media": "所有媒介",
-      "styles": "所有风格",
+      "media": "所有媒体",
+      "styles": "所有款式",
       "artists": "所有艺术家"
     }
   },
   "condition": {
     "terms": {
       "title": "条款和条件",
-      "subtitle": "您的同意",
-      "content": "Saatchi Art 服务条款 最近更新日期：2019年6月4日 Saatchi Online, Inc.是 Leaf Group Ltd. 的全资子公司（\"Saatchi Art,\" \"我们\"或\"我们的\"）通过我们的网站提供服务，网站网址为www.saatchiart.com（\"网站\"）或移动应用程序（\"移动应用程序\"）以及Saatchi Art 提供的任何服务、软件、工具、功能或功能（每项均为\"服务\"，统称为\"服务\"）。请仔细阅读以下条款和条件（\"条款\"）以及我们的隐私政策，可以在www.saatchiart.com/privacy找到（\"隐私政策\"）。这些条款、隐私政策以及此处链接的任何其他政策，管理您对服务的访问和使用，并构成您与Saatchi Art之间的具有法律约束力的协议。服务的某些区域以及您对某些服务的访问可能会发布不同的条款和条件或要求您同意并接受额外的条款和条件。如果这些条款与特定服务区域或特定服务访问的条款和条件之间存在冲突，后者将优先适用于您对该服务区域或服务的访问和使用。请仔细阅读这些条款。 这些条款包括仲裁协议，这意味着您同意将与使用服务相关的任何争议提交具有约束力的个人仲裁，而不是上法庭。如果您希望选择退出仲裁协议，您可以按照下文\"仲裁协议\"部分中所述的程序进行。争议解决部分还包括集体诉讼豁免，这意味着您同意单独处理任何争议，而不是作为拟议集体的一部分进行。这些条款还包括您放弃您的陪审团审判权，无论您是否同意仲裁您的索赔。您确认并同意，通过访问或使用服务或通过服务销售或购买作品，您同意这些条款并与Saatchi Art之间建立具有法律约束力的协议。"
+      "subtitle": "您的协议",
+      "content": "萨奇艺术服务条款最后更新日期：2019 年 6 月 4 日 Saatchi Online, Inc.，Leaf Group Ltd. 的全资子公司（“萨奇艺术”、“我们”或“我们的”）提供观看、销售服务"
     }
   },
   "commission": {
-    "title": "定制艺术请求",
-    "referenceArts": "全球艺术 AI 艺术参考",
+    "title": "定制艺术要求",
+    "referenceArts": "参考全球艺术AI艺术",
     "budgetPlaceholder": "输入您的预算",
     "delAddress": "送货地址",
     "chooseArtist": "选择艺术家",
-    "selectCategory": "首先选择一个艺术家以显示所有类别",
+    "selectCategory": "首先选择一位艺术家以显示所有类别",
     "category": "类别",
-    "categoryText": "艺术家专注于不同的类别，选择一个类别有助于缩小您感兴趣的艺术作品类型。",
+    "categoryText": "艺术家专注于不同的类别，通过选择类别有助于缩小您感兴趣的艺术品类型。",
     "styleChoose": "风格",
-    "styleChooseText": "这有助于艺术家将他们的作品与您喜欢的风格对齐",
-    "budget": "预算是多少？",
+    "styleChooseText": "这有助于艺术家将他们的作品与您喜欢的风格结合起来",
+    "budget": "什么是预算？",
     "days": "天",
     "referenceArtist": "艺术家参考",
     "style": {
-      "title": "选择风格以启动您的艺术请求",
+      "title": "选择风格来启动您的艺术要求",
       "tabs": {
         "paintings": "绘画",
         "sculptures": "雕塑",
-        "prints": "版画"
+        "prints": "印刷"
       },
       "paintings": {
         "portrait": "肖像",
-        "price": "起价1500美元"
+        "price": "1500 美元起"
       }
     },
     "description": {
-      "title": "用您自己的话描述您的愿景",
-      "placeholder": "提供您想要的描述，包括主题、风格、颜色以及您想要包含的任何特定元素"
+      "title": "用你自己的话描述你的愿景",
+      "placeholder": "提供您想要的内容的描述，包括主题、风格、颜色以及您想要包含的任何特定元素"
     },
     "size": {
-      "title": "艺术品尺寸（宽 x 高）：",
-      "optional": "可选",
+      "title": "作品尺寸（宽x高）：",
+      "optional": "选修的",
       "description": "选择艺术品的标准尺寸或指定您自己的尺寸",
       "select": "无偏好"
     },
     "timeline": {
-      "title": "时间表偏好",
-      "optional": "可选",
-      "description": "如果您有希望收到定制艺术品的时间框架，请告知艺术家。请记住，艺术家可能会审查并更改它",
+      "title": "时间线首选项 ",
+      "optional": "选修的",
+      "description": "告诉艺术家您是否有接收委托艺术品的首选时间范围。",
       "select": "无偏好"
     },
     "reference": {
       "title": "参考图片",
-      "description": "附上任何参考图片或文件，以帮助艺术家理解您的愿景",
-      "upload": "将您的照片拖放到这里"
+      "description": "附上任何有助于艺术家了解您的愿景的参考图像或文件",
+      "upload": "将您的照片拖放到此处"
     },
     "submit": "发送请求",
     "artist": {
-      "followers": "粉丝",
+      "followers": "追随者",
       "terms": "服务条款"
     }
   },
   "cart": {
-    "title": "购物车",
-    "shipping_title": "运送",
+    "title": "大车",
+    "shipping_title": "船运",
     "shipping_calc": "在接下来的步骤中计算",
-    "save": "稍后保存",
-    "saved": "已保存",
-    "remove": "移除",
+    "save": "保存以供稍后使用",
+    "saved": "保存以供稍后使用",
+    "delivery_price": "交货价格",
+    "remove": "消除",
     "artworks": "艺术品",
     "address": "地址",
     "chooseAddress": "选择地址",
     "fillAddress": "请填写此字段",
     "fee": "全球艺术服务费",
-    "total": "预计总额",
+    "total": "预计总数",
     "shipping": "不包括运费",
-    "checkout": "结账",
-    "emptyTitle": "没有要显示的购物车商品",
-    "emptyText": "您的购物车中没有商品。请前往商店并将商品添加到购物车。",
-    "unfortunately": "很遗憾，购物车不可用，请注册或登录",
+    "checkout": "查看",
+    "emptyTitle": "没有可显示的购物车商品",
+    "emptyText": "您的购物车中没有商品。",
+    "unfortunately": "抱歉，购物车不可用，请注册或登录",
     "login": "登录",
-    "register": "注册"
+    "register": "登记"
   },
   "general": {
-    "mode": "切换到买家模式",
-    "artist": "接受定制艺术",
-    "blogBlock": "分钟阅读",
+    "mode": "切换至买家模式",
+    "artist": "可用于定制艺术",
+    "blogBlock": "阅读分钟数",
     "cookieResolve": {
-      "title": "我们的网站使用Cookie",
-      "text": "我们的网站使用Cookie。继续使用即表示您同意按照我们的",
+      "title": "我们的网站使用 cookie",
+      "text": "我们的网站使用cookie。",
       "privacy": "隐私政策",
-      "decline": "拒绝",
+      "decline": "衰退",
       "accept": "接受"
     },
-    "location": "定位中",
+    "location": "定位",
     "pagination": {
-      "showBy": "显示",
-      "prev": "上一页",
-      "next": "下一页"
+      "showBy": "显示者",
+      "prev": "上一篇",
+      "next": "下一个"
     },
     "sort": {
-      "title": "排序",
+      "title": "种类",
       "popularity": "按人气",
       "price": "按价格"
     },
     "theme": {
-      "light": "明亮",
-      "dark": "黑暗",
+      "light": "光",
+      "dark": "黑暗的",
       "sepia": "棕褐色"
     }
   },
   "detailBlog": {
-    "readAlso": "分钟阅读"
+    "readAlso": "阅读分钟数"
   },
   "detailArtist": {
     "about": {
       "title": "关于艺术家",
-      "studioTitle": "工作室纪实",
+      "studioTitle": "工作室编年史",
       "educationTitle": "教育",
-      "achievementTitle": "成就与活动",
+      "achievementTitle": "认可与活动",
       "exhibitionTitle": "正在进行的展览",
-      "featuredTitle": "精选系列",
-      "creativeCreed": "创意信条",
-      "portfolio": "作品集",
+      "featuredTitle": "特色收藏",
+      "creativeCreed": "创作信条",
+      "portfolio": "文件夹",
       "authorWorks": "作者作品",
       "showAll": "显示全部"
     },
@@ -509,28 +516,28 @@
   },
   "categories": {
     "artworksFilter": {
-      "showFilter": "显示筛选",
-      "custom": "仅限定制创作者",
-      "year": "年份",
+      "showFilter": "显示过滤器",
+      "custom": "仅限自定义创作者",
+      "year": "年",
       "from": "从",
-      "y": "年",
-      "to": "至",
+      "y": "y",
+      "to": "到",
       "price": "价格",
-      "minimum": "最低",
-      "maximum": "最高",
-      "sale": "在售",
-      "sold": "已售",
-      "movement": "运动与风格",
+      "minimum": "最低限度",
+      "maximum": "最大限度",
+      "sale": "出售",
+      "sold": "卖",
+      "movement": "动作与风格",
       "rarity": "稀有度",
       "certs": "证书",
       "signatures": "签名",
       "materials": "材料",
       "styles": "风格",
       "submit": "提交",
-      "reset": "重置所有筛选"
+      "reset": "重置所有过滤器"
     },
     "sort": {
-      "sort": "排序",
+      "sort": "种类",
       "popularity": "按人气",
       "price": "按价格",
       "search": "搜索..."
@@ -539,7 +546,7 @@
   "buyerComponent": {
     "edit": "编辑买家",
     "change": "您可以更改以下字段",
-    "fullName": "全名",
+    "fullName": "姓名",
     "fill": "请填写此字段",
     "confirm": "确认",
     "cancel": "取消",
@@ -547,107 +554,108 @@
   },
   "landing": {
     "ar": {
-      "title": "可视化艺术",
-      "description": "AR将显示它在您的空间中如何工作"
+      "title": "视觉化艺术",
+      "description": "AR 将展示它如何在您的空间中发挥作用"
     },
     "buyArt": {
       "tags": {
-        "contemporary": "当代",
-        "abstract": "抽象",
-        "modern": "现代",
+        "contemporary": "当代的",
+        "abstract": "抽象的",
+        "modern": "现代的",
         "colors": "颜色"
       },
       "title": {
-        "main": "购买",
-        "span": "打动您的艺术"
+        "main": "购买艺术品",
+        "span": "跟你说话"
       },
-      "description": "在艺术专家和AI推荐的帮助下发现并购买",
-      "link": "找到您的艺术家"
+      "description": "在艺术专家和人工智能建议的帮助下发现并购买",
+      "link": "寻找你的艺术家"
     },
     "gridBlock": {
       "title": {
-        "main": "感受、体验并珍惜",
+        "main": "感受、体验、珍惜",
         "span": "艺术"
       },
       "authenticity": {
         "title": "真实性",
         "subtitle": "有保证",
-        "description": "每件艺术品附有真实性证书，确保其真实性和价值"
+        "description": "每件艺术品均附有真品证书，确保其真实性和价值"
       },
       "delivery": {
         "title": "送货",
-        "description": "从艺术家到您的家门口",
-        "link": "查看费率"
+        "description": "从艺术家到您家门口",
+        "link": "检查费率"
       },
       "expertGuidance": {
-        "title": "艺术专家指导",
-        "description": "经验丰富的专家团队提供定制建议和宝贵建议",
-        "link": "查看费率"
+        "title": "专家艺术指导",
+        "description": "经验丰富的专家团队提供量身定制的建议和富有洞察力的建议",
+        "link": "检查费率"
       }
     },
     "heroAnimation": {
       "title": {
-        "main": "我们将艺术家和艺术爱好者",
-        "span": "汇聚一堂",
-        "text": "来自全球各地"
+        "main": "我们带来",
+        "span": "艺术家与艺术",
+        "text": "来自世界各地的恋人聚集在一起"
       },
-      "description": "10,590件现成的艺术品和3943名艺术家可供选择",
+      "description": "10,590 件现成艺术品和 3943 名艺术家可供选择",
       "video": "您的浏览器不支持视频标签。"
     },
     "infiniteScroll": {
       "title": {
-        "main": "直接与",
-        "span": "艺术家和艺术专家合作"
+        "main": "直接与合作",
+        "span": "艺术家和艺术专家"
       },
-      "description": "轻松用任何语言沟通"
+      "description": "使用任何语言轻松沟通"
     },
     "orderCustomArt": {
       "title": {
-        "main": "定制",
-        "span": "艺术品"
+        "main": "命令",
+        "span": "定制艺术"
       },
-      "description": "使用AI技术可视化您的想法。我们将其变为现实",
-      "findBtn": "找到您的艺术家",
-      "howItWorksBtn": "它是如何工作的？",
-      "available": "可定制艺术品",
+      "description": "使用人工智能技术将您的想法可视化。",
+      "findBtn": "寻找你的艺术家",
+      "howItWorksBtn": "它是如何运作的？",
+      "available": "可用于定制艺术品",
       "video": "您的浏览器不支持视频标签。",
-      "makeReference": "使用AI创建您的参考"
+      "makeReference": "使用 AI 进行参考"
     }
   },
   "mainPage": {
     "categories": {
-      "shopBy": "按类别购物"
+      "shopBy": "按类别选购"
     },
     "hero": {
       "slide": {
         "buttons": {
-          "shopNow": "立即购买",
-          "howToOrder": "如何定制艺术？"
+          "browse": "浏览艺术品",
+          "explore": "探索艺术家",
+          "order": "订购定制艺术品"
         },
         "first": {
           "title": {
-            "order": "定制",
-            "custom": "艺术品",
-            "art": "藝術"
+            "order": "购买杰出艺术家的原创艺术品",
+            "custom": "风俗",
+            "art": "艺术"
           },
-          "content": "从1000多名才华横溢的艺术家中选择，实现您的愿景"
+          "content": "从 1000 多名才华横溢的艺术家中进行选择，将您的愿景变为现实"
         },
         "second": {
           "title": {
-            "buy": "购买",
+            "buy": "买",
             "reallyMade": "原创艺术"
           },
-          "content": "从1000多名才华横溢的艺术家中选择，实现您的愿景"
+          "content": "从 1000 多名才华横溢的艺术家中进行选择，将您的愿景变为现实"
         }
       }
     },
     "risingTalents": {
-      "title": "新秀人才",
-      "showAll": "显示所有新秀人才"
+      "title": "后起之秀",
+      "showAll": "展示所有冉冉升起的才华"
     },
     "trending": {
-      "title": "热门",
-      "showAll": "显示所有热门"
+      "title": "流行趋势",
+      "showAll": "显示所有趋势"
     }
   },
   "profile": {
@@ -655,103 +663,103 @@
       "title": "我的账户",
       "dashboard": "仪表板",
       "orders": "订单",
-      "savedArtworks": "保存的艺术品",
-      "followingArtists": "关注的艺术家",
+      "savedArtworks": "保存的艺术作品",
+      "followingArtists": "关注艺术家",
       "reviews": "评论",
       "giftCard": "礼品卡",
-      "commissions": "委托"
+      "commissions": "佣金"
     },
     "commissions": {
-      "title": "委托",
-      "noCommissions": "暂无委托显示",
-      "noCommissionsText": "一旦您收到委托请求，您将有机会查看委托列表！"
+      "title": "佣金",
+      "noCommissions": "尚未显示佣金",
+      "noCommissionsText": "一旦您收到佣金请求，您将有机会查看佣金列表！"
     },
     "settingLinks": {
       "title": "账户设置",
-      "profile": "资料",
+      "profile": "轮廓",
       "addressBook": "地址簿",
       "help": "帮助"
     },
     "dashboard": {
-      "editProfile": "编辑资料",
+      "editProfile": "编辑个人资料",
       "recentOrders": "最近订单",
       "viewAll": "查看全部",
-      "noOrders": "暂无订单显示",
-      "noOrdersText": "下单后，您将有机会查看订单列表！",
+      "noOrders": "尚无订单可显示",
+      "noOrdersText": "下订单后，您将有机会查看订单列表！",
       "artistsYouFollow": "您关注的艺术家",
-      "noSubscriptions": "暂无订阅显示",
+      "noSubscriptions": "尚无可显示的订阅",
       "noSubscriptionsText": "关注艺术家后，您将有机会查看艺术家列表！"
     },
     "orders": {
       "title": "订单",
-      "orderId": "订单ID",
-      "total": "总计",
-      "items": "件商品",
+      "orderId": "订单号",
+      "total": "全部的",
+      "items": "项目",
       "date": "日期",
       "address": "地址",
       "waiting": "等待发货",
-      "noOrders": "暂无订单显示",
-      "noOrdersText": "下单后，您将有机会查看订单列表！"
+      "noOrders": "尚无订单可显示",
+      "noOrdersText": "下订单后，您将有机会查看订单列表！"
     },
     "savedArtworks": {
       "title": "我的收藏",
-      "noItems": "收藏中没有商品",
-      "noItemsText": "您可以通过点击商品页面上的心形图标将商品添加到收藏中。"
+      "noItems": "您的收藏中没有任何物品",
+      "noItemsText": "您可以通过单击项目页面上的心形图标将项目添加到您的收藏中。"
     },
     "followingArtists": {
       "title": "您关注的艺术家",
       "viewAll": "查看全部",
-      "artistMaterial": "艺术家材料",
+      "artistMaterial": "艺术家素材",
       "artStyle": "艺术风格",
       "typeOfPainting": "绘画类型",
-      "noArtists": "暂无艺术家显示",
+      "noArtists": "还没有可以展示的艺术家",
       "noArtistsText": "您可以从艺术家列表中关注艺术家"
     },
     "review": {
       "tabs": {
-        "notReviewed": "尚未评论",
+        "notReviewed": "尚未审核",
         "previouslyReviewed": "之前评论过"
       },
-      "title": "评论",
+      "title": "审查",
       "reviews": "评论",
       "writeReview": "写评论",
       "send": "发送",
       "cancel": "取消",
       "submit": "提交",
       "search": "按订单号搜索",
-      "noReviews": "暂无评论显示",
-      "noReviewsText": "您在收到订单后可以写评论"
+      "noReviews": "尚未显示评论",
+      "noReviewsText": "您可以在收到订单后撰写评论"
     },
     "profile": {
       "title": "账户信息",
-      "name": "名字",
+      "name": "姓名",
       "edit": "编辑",
       "cancel": "取消",
-      "save": "保存",
-      "thisIs": "这是您文件上的名字",
+      "save": "节省",
+      "thisIs": "这是您文件上的姓名",
       "typeHere": "在此输入",
-      "email": "电子邮件地址",
+      "email": "电子邮件",
       "password": "密码",
-      "accountDeactivation": "账户停用或删除",
-      "deactivate": "停用账户",
-      "delete": "删除账户",
-      "deleteConfirm": "您确定要删除账户吗？",
+      "accountDeactivation": "帐户停用或删除",
+      "deactivate": "停用您的帐户",
+      "delete": "删除您的帐户",
+      "deleteConfirm": "您确定要删除您的帐户吗？",
       "deleteButton": "删除",
       "noData": "无数据"
     },
     "address": {
-      "savedAddresses": "保存的地址",
+      "savedAddresses": "已保存的地址",
       "addNew": "添加新地址",
       "default": "默认",
       "title": "地址",
       "fillOutField": "请填写此字段",
       "city": "城市",
-      "state": "州",
+      "state": "状态",
       "country": "国家",
       "zip": "邮政编码",
       "phone": "电话号码",
-      "fullName": "全名",
-      "remove": "移除",
+      "fullName": "姓名",
+      "remove": "消除",
       "edit": "编辑",
       "submit": "提交",
       "createAddressModal": {
@@ -761,150 +769,165 @@
         "title": "编辑地址",
         "submit": "提交"
       },
-      "noAddresses": "暂无地址显示",
-      "noAddressesText": "您可以点击上方按钮添加新地址"
+      "noAddresses": "尚无地址可显示",
+      "noAddressesText": "您可以通过单击上面的按钮添加新地址"
     },
     "customArtRequests": {
-      "title": "定制艺术请求",
-      "pending": "待处理",
-      "artType": "艺术类型（绘画，肖像）",
-      "description": "我脑海中婚礼之夜的魔幻记忆 - 但照片并没有捕捉到我心中的那一天",
+      "title": "定制艺术要求",
+      "pending": "待办的",
+      "artType": "艺术类型（绘画、肖像）",
+      "description": "新婚之夜的神奇记忆在我脑海中 - 但我刚刚拍的照片并没有像我内心感受到的那样捕捉这一天",
       "size": "尺寸偏好",
-      "timeline": "时间表偏好",
+      "timeline": "时间线首选项",
       "edit": "编辑请求"
     }
   },
   "search": {
-    "sort": "排序",
+    "sort": "种类",
     "byPopularity": "按人气",
     "artworks": "艺术品",
-    "noArtworks": "没有艺术品",
+    "noArtworks": "没有任何艺术品",
     "article": "文章"
   },
   "wishList": {
     "title": "我的收藏",
-    "noItemsTitle": "收藏中没有商品",
-    "noItemsText": "您可以通过点击商品页面上的心形图标将商品添加到收藏中。"
+    "noItemsTitle": "您的收藏中没有任何物品",
+    "noItemsText": "您可以通过单击项目页面上的心形图标将项目添加到您的收藏中。"
   },
   "dragAndDrop": {
-    "title": "将您的参考图片拖放到此处！",
-    "maxSize": "最大文件大小：2MB",
+    "title": "将您的参考图像拖放到此处！",
+    "maxSize": "最大限度。",
     "browseFile": "浏览文件",
     "uploadImage": "上传图片"
   },
   "payment": {
     "success": {
       "title": "感谢您的订单",
-      "description": "您将收到包含订单详细信息的确认电子邮件。",
+      "description": "您将收到一封订单确认电子邮件，其中包含订单详细信息。",
       "orderNumber": "您的订单编号是",
       "backToMain": "返回主页",
-      "orderedArtworks": "已订购的艺术品"
+      "orderedArtworks": "订购艺术品"
     },
     "failed": {
-      "title": "支付失败",
-      "description": "您的支付未成功。请重试或联系客户支持以获得帮助。",
+      "title": "付款失败",
+      "description": "您的付款未成功。",
       "orderNumber": "您的订单编号是",
       "backToMain": "返回主页"
     }
   },
   "artistProfile": {
     "noElements": {
-      "title": "未找到艺术品",
-      "text": "请添加新艺术品以在此显示。"
+      "title": "没有找到艺术品",
+      "text": "请添加新的艺术作品以在此处展示。"
     },
     "welcome": "欢迎回来",
     "tabs": {
-      "overview": "概览",
+      "overview": "概述",
       "artworks": "艺术品",
       "promocode": "促销代码",
-      "commissions": "委托",
-      "messages": "消息"
+      "commissions": "佣金",
+      "messages": "留言"
     },
     "confirm": {
-      "title": "确认您的电子邮件",
-      "description": "确认您的身份以向世界展示您的艺术。现在验证以发布您的作品",
-      "verify": "现在验证"
+      "title": "您的帐户尚未经过验证",
+      "description": "请等待管理员确认您提供的信息。",
+      "verify": "立即验证"
     },
     "works": {
-      "title": "您的艺术品",
-      "total": "总艺术品数",
+      "title": "你的作品",
+      "total": "作品总数",
       "manage": "管理艺术品",
       "review": "审核中",
-      "edit": "编辑详情"
+      "edit": "编辑详细信息"
     },
     "dashboard": {
-      "yourArtworks": "您的艺术品",
-      "artworksInStock": "库存中的艺术品",
-      "artworksSold": "已售艺术品",
-      "availableForCommissions": "接受定制艺术？",
-      "availableSubtitle": "让访客知道您接受定制艺术请求",
-      "followers": "粉丝",
-      "following": "关注",
+      "yourArtworks": "你的作品",
+      "artworksInStock": "库存艺术品",
+      "artworksSold": "出售的艺术品",
+      "availableForCommissions": "可以获得佣金吗？",
+      "availableSubtitle": "让访客知道您可以满足定制艺术请求",
+      "followers": "追随者",
+      "following": "下列的",
       "bio": "简介",
       "styles": "风格",
       "materials": "材料",
-      "subjects": "主题",
+      "subjects": "科目",
       "achievements": "成就",
       "education": "教育",
       "exhibitions": "展览",
-      "studioChronicles": "工作室纪实",
-      "noInfoAbout": "无信息",
+      "studioChronicles": "工作室编年史",
+      "noInfoAbout": "没有关于的信息",
       "buttons": {
         "edit": "编辑",
-        "more": "更多",
-        "less": "更少",
-        "editProfile": "编辑资料",
-        "previewProfile": "预览资料",
+        "more": "更多的",
+        "less": "较少的",
+        "editProfile": "编辑个人资料",
+        "previewProfile": "预览个人资料",
         "goToArtworks": "前往艺术品",
         "editAvailability": "编辑可用性"
       }
     },
     "comission": {
-      "title": "委托请求",
-      "total": "进行中的委托",
-      "details": "查看详情",
+      "title": "佣金请求",
+      "total": "持续佣金",
+      "details": "前往详情",
       "requests": "新请求",
-      "messages": "查看消息",
-      "isAvailable": "您接受定制艺术请求吗？",
-      "question": "确认您的身份以向世界展示您的艺术。现在验证以发布您的作品",
-      "reject": "不，我目前不接受",
-      "accept": "是的，接受",
+      "messages": "转到消息",
+      "isAvailable": "您可以获得佣金吗？",
+      "question": "确认您的身份，向世界展示您的艺术。",
+      "reject": "不，我没空",
+      "accept": "是的，可用",
       "execution": "执行天数",
-      "personalities": "我想为我的家人定制一幅挂在我们客厅的肖像画。肖像应捕捉到我们的纽带和个性。",
-      "decision": "准备做出决定了吗？",
-      "discussDetails": "如果您已讨论过细节或对此请求有明确偏好",
-      "acceptCommission": "接受委托",
-      "decline": "拒绝",
+      "personalities": "我想在客厅挂一幅我家人的定制肖像。",
+      "decision": "准备好做出决定了吗？",
+      "discussDetails": "如果您已经讨论过细节或对此请求有明确的偏好",
+      "acceptCommission": "接受佣金",
+      "decline": "衰退",
       "notSpecified": "价格未指定",
-      "requested": "请求",
-      "requestedUser": "用户请求的尺寸",
+      "acceptOrder": "接受定制订单",
+      "acceptOrderContent": "接受订单前，请先给客户留言",
+      "declineOrder": "拒绝定制订单",
+      "declineOrderContent": "在拒绝订单之前，请给客户留言",
+      "updateOrderParams": "更新自定义订单参数",
+      "updateOrderPrice": "更新自定义订单价格",
+      "updatePriceTitle": "价格",
+      "updatePriceContent": "输入定制订单的最终价格",
+      "requested": "要求的",
+      "requestedUser": "用户要求尺寸",
       "finalSize": "最终尺寸",
       "chat": "聊天",
       "updateParams": "更新参数",
       "updatePrice": "更新价格"
     },
     "insights": {
-      "title": "2023年11月洞察",
+      "title": "见解：2023 年 11 月",
       "monthRevenue": "本月收入",
-      "sold": "已售艺术品",
-      "commission": "定制艺术品",
-      "sales": "按国家销售"
+      "sold": "出售的艺术品",
+      "commission": "委托创作的艺术品",
+      "sales": "按国家/地区划分的销售额"
     },
     "tips": {
       "title": "提示与指导",
       "first": {
-        "title": "如何用手机拍出好照片"
+        "title": "如何用手机拍出精彩的照片"
       },
       "second": {
-        "title": "如何撰写有效的列表描述"
+        "title": "如何编写有效的列表描述"
       }
     },
     "message": {
-      "title": "消息"
+      "title": "留言"
     },
     "artworks": {
+      "ready_to_send": "准备发送",
+      "ready_to_send_modal": {
+        "title": "准备发送",
+        "description": "您确定要将艺术品发送给客户吗？",
+        "send": "发送",
+        "cancel": "取消"
+      },
       "title": "艺术品",
-      "addNewArt": "添加新艺术品",
+      "addNewArt": "添加新艺术",
       "options": "查看选项",
       "info": {
         "id": "ID",
@@ -915,24 +938,24 @@
         "date": "创建于",
         "validateStatus": "已验证",
         "notValidated": "未验证",
-        "sale": "在售",
-        "sold": "否",
-        "actions": "操作",
-        "yes": "是",
-        "no": "否",
-        "inStock": "有库存",
+        "sale": "出售",
+        "sold": "不",
+        "actions": "行动",
+        "yes": "是的",
+        "no": "不",
+        "inStock": "有存货",
         "soldOut": "售罄",
         "noArtworks": "没有艺术品",
         "tryAgain": "该画家尚未上传作品"
       }
     },
     "addArtwork": {
-      "details": "详情",
+      "details": "细节",
       "upload": "上传图片",
-      "price": "价格和运费",
+      "price": "价格和运输",
       "preview": "预览",
-      "back": "返回艺术品",
-      "next": "下一步"
+      "back": "回到艺术品",
+      "next": "下一个"
     },
     "promocode": {
       "discountAmount": "折扣金额",
@@ -941,23 +964,23 @@
       "promocodeNoText": "您没有促销代码，请添加"
     },
     "comissions": {
-      "title": "委托",
+      "title": "佣金",
       "links": {
-        "commissions": "所有委托",
-        "work": "进行中",
-        "new": "新",
-        "declined": "已拒绝",
-        "completed": "已完成",
+        "commissions": "所有佣金",
+        "work": "工作中",
+        "new": "新的",
+        "declined": "拒绝",
+        "completed": "完全的",
         "onReview": "审核中",
         "pricing": "定价",
         "waitingForPayment": "等待付款",
-        "paid": "已支付",
+        "paid": "有薪酬的",
         "waitingForDelivery": "等待发货"
       },
       "settings": {
         "budget": "预算",
         "size": "尺寸偏好",
-        "time": "时间表"
+        "time": "时间轴"
       },
       "buttons": {
         "more": "更多详情",
@@ -967,20 +990,20 @@
   },
   "artistRegistration": {
     "placeholders": {
-      "firstName": "名字",
-      "lastName": "姓氏",
-      "fullName": "全名"
+      "firstName": "名",
+      "lastName": "姓",
+      "fullName": "姓名"
     },
     "modals": {
       "education": {
         "title": "教育",
-        "school": "学校 / 大学",
-        "faculty": "系",
-        "degree": "学位",
+        "school": "学校/大学",
+        "faculty": "学院",
+        "degree": "程度",
         "chooseDegree": "选择学位",
         "startYear": "开始年份",
-        "endYear": "结束年份",
-        "addAnotherSchool": "添加另一所学校 / 大学"
+        "endYear": "年底",
+        "addAnotherSchool": "添加另一所学校/大学"
       },
       "achievements": {
         "title": "成就或认可",
@@ -988,7 +1011,7 @@
       },
       "exhibitions": {
         "title": "展览",
-        "name": "展览名称",
+        "name": "关于展会",
         "location": "地点",
         "startDate": "开始日期",
         "endData": "结束日期",
@@ -996,18 +1019,18 @@
         "photo": "照片"
       },
       "profilePhoto": {
-        "setPhoto": "设置资料照片",
+        "setPhoto": "设置个人资料照片",
         "uploadPhoto": "请上传您的照片"
       },
       "portfolio": {
-        "title": "作品集",
+        "title": "文件夹",
         "works": "作品",
         "fillTitlePlaceholder": "请填写标题",
-        "pleaseUpload": "请至少上传"
+        "pleaseUpload": "请提供您作品集中至少 1 件艺术品或在工作过程中展示您自己 "
       },
       "editAbout": {
         "title": "编辑关于艺术家",
-        "minimumCharacters": "最少40个字符"
+        "minimumCharacters": "最少 40 个字符"
       },
       "editArtistParams": {
         "title": "编辑艺术家参数"
@@ -1016,139 +1039,139 @@
         "title": "编辑创意信条"
       },
       "editArtistName": {
-        "title": "编辑名字",
-        "firstName": "名字",
-        "lastName": "姓氏"
+        "title": "编辑姓名",
+        "firstName": "名",
+        "lastName": "姓"
       }
     },
     "profileSetup": {
       "tabs": {
-        "artisticProfile": "艺术资料设置",
+        "artisticProfile": "艺术档案设置",
         "pictures": "图片",
-        "verification": "验证",
+        "verification": "确认",
         "preview": "预览"
       },
       "firstStep": {
         "basicInfoTitle": "基本信息",
-        "basicInfoSubtitle": "填写以下建议字段以展示您的专业形象",
-        "firstName": "名字",
-        "lastName": "姓氏",
-        "artisticName": "艺术名字（可选，仅在不同情况下）",
-        "fillOutPlaceholder": "如果有不同的艺术名字，请填写此字段",
+        "basicInfoSubtitle": "填写下面的建议字段以获得专业表现",
+        "firstName": "名",
+        "lastName": "姓",
+        "artisticName": "艺术名称（可选，仅当不同时）",
+        "fillOutPlaceholder": "如果您有不同的艺名，请填写此字段",
         "chooseCountry": "选择国家",
         "country": "国家",
-        "state": "州",
+        "state": "状态",
         "city": "城市",
-        "providesYourLocation": "提供您的位置，让潜在买家了解您的来源或影响区域",
-        "note": "注意：确保所有提交的信息准确无误。一旦提交这些字段，任何后续更改将由我们的团队审核。",
+        "providesYourLocation": "提供您的位置，让潜在买家了解您的出身或影响范围",
+        "note": "注意：确保所有提交的信息正确。",
         "address": "地址",
         "zipcode": "邮政编码",
         "phone": "电话号码"
       },
       "secondStep": {
-        "briefBio": "简短简介",
+        "briefBio": "简介",
         "bio": "简介",
         "credoTitle": "创意信条",
         "credo": "信条",
-        "bioPlaceholder": "请写一段关于自己的简短简介。最少40个字符。",
-        "credoPlaceholder": "请写一段关于自己的信条。最少40个字符。",
-        "minimumCharacters": "最少40个字符",
-        "additionalDetails": "附加详情",
-        "youCanUpdate": "您可以随时从您的资料设置中更新或添加信息"
+        "bioPlaceholder": "请写一份关于你自己的简短简历。",
+        "credoPlaceholder": "请写一个关于你自己的信条。",
+        "minimumCharacters": "最少 40 个字符",
+        "additionalDetails": "其他细节",
+        "youCanUpdate": " 您可以随时从您的个人资料设置中更新或添加信息"
       },
       "thirdStep": {
         "areYouOpen": "您接受艺术委托吗？",
-        "youCanChange": "您可以在您的资料设置中更改可用性",
-        "yesImOpen": "是的，我接受定制艺术",
-        "thisIndicatesToYes": "这表明您是开放的，并可能接受定制作品",
-        "noImNotOpen": "不，我目前不开放",
-        "thisIndicatesToNot": "这表明您目前不接受定制艺术"
+        "youCanChange": "您可以在个人资料设置中更改可用性",
+        "yesImOpen": "是的，我愿意接受定制佣金",
+        "thisIndicatesToYes": "这向买家表明您有空，并且如果有兴趣可以接受定制工作",
+        "noImNotOpen": "不，我目前没空",
+        "thisIndicatesToNot": "这表明您当前不接受自定义佣金"
       },
       "fourthStep": {
-        "describeYourStyle": "描述您的艺术风格",
+        "describeYourStyle": "描述一下你的艺术风格",
         "category": "类别",
-        "chooseAtLeast": "至少选择一个",
+        "chooseAtLeast": "至少选择 1 个",
         "materials": "材料",
         "styles": "风格",
         "subject": "主题"
       },
       "fifthStep": {
         "upload": "上传照片",
-        "subtitle": "这有助于个性化您的资料，并为您在平台上的存在增添个人风采",
-        "profilePhoto": "资料照片",
-        "aboutSectionPhoto": "\"关于\"部分照片",
-        "portfolio": "作品集",
-        "pleaseProvide": "请提供至少一件您的作品集中的艺术作品，或展示您工作的过程"
+        "subtitle": "它有助于个性化您的个人资料，并为您在平台上的形象增添个人风格",
+        "profilePhoto": "个人资料照片",
+        "aboutSectionPhoto": "“关于”部分照片",
+        "portfolio": "文件夹",
+        "pleaseProvide": "请提供您作品集中至少 1 件艺术品或在工作过程中展示您自己"
       },
       "sixthStep": {
         "verifyIdentity": "验证您的身份",
-        "pleaseProvide": "请提供至少2位其他艺术家的联系方式，以便我们验证您的账户",
+        "pleaseProvide": "请提供至少 2 个其他艺术家的联系方式，以便我们可以\n            ",
         "artist": "艺术家",
-        "artistName": "艺术家名字",
+        "artistName": "艺术家姓名",
         "artistContacts": "艺术家联系方式",
         "contactsPlaceholder": "电话号码或电子邮件",
-        "addMoreContacts": "添加更多参考联系方式"
+        "addMoreContacts": "添加更多参考联系人"
       },
       "preview": {
         "style": "风格",
         "typeOfPainting": "绘画类型",
         "material": "材料",
-        "orderCustomArt": "定制艺术品",
-        "follow": "关注",
-        "replace": "替换",
+        "orderCustomArt": "订购定制艺术品",
+        "follow": "跟随",
+        "replace": "代替",
         "education": "教育",
         "aboutArtist": "关于艺术家",
-        "recognitionEvents": "认可与活动"
+        "recognitionEvents": "认可、活动"
       }
     },
     "buttons": {
       "edit": "编辑",
       "add": "添加",
-      "next": "下一步",
-      "back": "返回",
+      "next": "下一个",
+      "back": "后退",
       "submit": "提交",
       "cancel": "取消",
-      "save": "保存",
+      "save": "节省",
       "publish": "发布",
-      "goBack": "回到主页"
+      "goBack": "前往主页"
     }
   },
   "artRegistration": {},
   "artists": {
     "title": "艺术家",
-    "followers": "粉丝",
+    "followers": "追随者",
     "available": "可用性",
     "type": "绘画类型",
     "material": "材料",
-    "custom": "定制艺术品",
-    "noCustom": "不接受定制艺术品",
-    "searchBy": "按艺术名字、艺术家名字搜索",
+    "custom": "订购定制艺术品",
+    "noCustom": "不适用于定制艺术",
+    "searchBy": "按艺术名称、艺术家姓名搜索",
     "about": "关于艺术家",
     "artworks": "艺术品",
     "reviews": "评论",
     "unfollow": "取消关注",
-    "follow": "关注",
-    "noArtistsTitle": "暂无艺术家显示",
-    "noArtistsText": "请尝试更改筛选条件或稍后再试"
+    "follow": "跟随",
+    "noArtistsTitle": "没有艺术家可以展示",
+    "noArtistsText": "请尝试更换过滤器或稍后再回来"
   },
   "artistFilter": {
-    "show": "显示筛选",
+    "show": "显示过滤器",
     "filter": "筛选",
-    "artwork": "接受定制艺术品",
+    "artwork": "可用于定制艺术品",
     "type": "绘画类型",
     "materials": "材料",
     "styles": "风格",
-    "location": "艺术家位置",
+    "location": "艺术家地点",
     "showMore": "显示更多",
     "submit": "提交",
-    "reset": "重置所有筛选",
-    "sort": "排序",
+    "reset": "重置所有过滤器",
+    "sort": "种类",
     "popularity": "按人气",
     "price": "按价格"
   },
   "artworkDetail": {
     "chooseFrame": {
-      "choose": "选择画框",
+      "choose": "选择镜框",
       "profile": "轮廓",
       "color": "颜色"
     },
@@ -1158,13 +1181,13 @@
     },
     "descriptionTabs": {
       "artistAbout": "关于艺术家",
-      "detailsArtwork": "艺术品详情",
+      "detailsArtwork": "艺术品细节",
       "readMore": "阅读更多",
-      "follow": "关注",
+      "follow": "跟随",
       "located": "位于",
-      "available": "接受定制艺术",
-      "notAvailable": "不接受定制艺术",
-      "viewed": "最近浏览"
+      "available": "可用于定制艺术",
+      "notAvailable": "不适用于定制艺术",
+      "viewed": "最近浏览过"
     }
   },
   "auth": {
@@ -1175,46 +1198,46 @@
     },
     "forgotPassword": {
       "forgot": "忘记密码",
-      "enter": "输入与您的账户关联的电子邮件地址，我们将向您发送密码重置链接。",
+      "enter": "输入与您的帐户关联的电子邮件地址，我们将通过电子邮件向您发送重置密码的链接。",
       "send": "重置密码"
     },
     "loginModal": {
       "login": "登录",
       "email": "电子邮件",
       "password": "密码",
-      "try": "再试一次",
-      "invalidTry": "无效的凭证。请再试一次。",
+      "try": "我们再试一次",
+      "invalidTry": "凭证无效。",
       "forgot": "忘记密码？",
       "close": "关闭",
-      "or": "或",
+      "or": "或者",
       "forgotPass": "忘记密码？",
-      "continueWithGoogle": "通过Google继续"
+      "continueWithGoogle": "继续使用谷歌"
     },
     "signUpModal": {
-      "title": "注册并获得",
-      "discount": "$20 折扣",
-      "firstPurchase": "首次购买",
-      "artistOrNo": "我是艺术家",
-      "enterCode": "输入确认码",
-      "haveAnAccount": "已经有账号？",
-      "signIn": "登录",
-      "welcome": "欢迎来到Global Art AI",
-      "first": "我们致力于为您提供高质量的艺术和个性化体验。",
-      "second": "感谢您选择我们作为通往艺术世界的门户！",
+      "title": "注册并获取",
+      "discount": "优惠 20 美元",
+      "firstPurchase": "在您第一次购买时",
+      "artistOrNo": "我是一个艺术家",
+      "enterCode": "输入验证码",
+      "haveAnAccount": "已经有帐户？",
+      "signIn": "登入",
+      "welcome": "欢迎来到全球艺术人工智能",
+      "first": "我们致力于为您提供高品质的艺术和个性化的体验。",
+      "second": "感谢您选择我们作为您通往艺术世界的门户！",
       "artistRegistration": "前往艺术家注册",
       "continue": "开始购物",
-      "fullName": "全名",
+      "fullName": "姓名",
       "email": "电子邮件",
       "password": "密码",
       "sendCode": "发送代码",
-      "signUp": "注册",
-      "again": "再试一次",
-      "invalidTry": "凭证无效。请再试一次。",
+      "signUp": "报名",
+      "again": "我们再试一次",
+      "invalidTry": "凭据无效。请重试。",
       "fill": "请填写此字段",
-      "agree": "继续即表示您同意我们的",
+      "agree": "继续，即表示您同意我们的",
       "terms": "条款和条件",
       "and": "和",
-      "or": "或",
+      "or": "或者",
       "privacy": "隐私政策",
       "close": "关闭",
       "refCode": "推荐码"
@@ -1227,37 +1250,37 @@
       "firstName": "输入名字",
       "cardholderName": "持卡人姓名",
       "fullName": "输入全名",
-      "expDate": "到期日期",
+      "expDate": "截止日期",
       "enterExpDate": "输入到期日期",
       "ccv": "CCV",
       "enterCcv": "输入CCV",
       "placeOrder": "下订单",
-      "back": "返回"
+      "back": "回去"
     },
     "result": {
       "thanks": "感谢您的购买！",
-      "purchase": "艺术购买信息",
-      "order": "订单编号",
+      "purchase": "艺术品购买信息",
+      "order": "订单号",
       "date": "日期",
       "total": "总金额",
-      "shipping": "配送信息",
-      "shippingAddress": "配送地址",
-      "share": "分享您的购买",
+      "shipping": "运送信息",
+      "shippingAddress": "收件地址",
+      "share": "分享您的购买情况",
       "icons": "社交图标",
       "recommend": "我们推荐"
     },
     "shipping": {
-      "address": "配送地址",
-      "name": "名字",
+      "address": "收件地址",
+      "name": "名",
       "enterName": "输入名字",
-      "lastName": "姓氏",
+      "lastName": "姓",
       "enterLastName": "输入姓氏",
       "country": "国家",
-      "enterCountry": "输入国家",
+      "enterCountry": "输入国家/地区",
       "city": "城市",
       "enterCity": "输入城市",
       "apt": "公寓、套房等",
-      "enterApt": "输入公寓、套房等",
+      "enterApt": "输入 apt、suite 等。",
       "zip": "邮政编码",
       "enterZip": "输入邮政编码",
       "phone": "电话号码",
@@ -1266,56 +1289,56 @@
     }
   },
   "artworks": {
-    "medium": "媒介",
+    "medium": "中等的",
     "size": "尺寸",
     "inch": "英寸",
     "cm": "厘米",
-    "frame": "画框",
-    "add": "加入购物车",
+    "frame": "框架",
+    "add": "添加到购物车",
     "viewCart": "查看我的购物车",
-    "movement": "运动与风格",
-    "year": "年份",
-    "location": "位置",
+    "movement": "动作与风格",
+    "year": "年",
+    "location": "地点",
     "rare": "稀有度",
     "signature": "签名",
-    "certificate": "真实性证书",
-    "frameMain": "画框",
-    "yes": "是",
-    "no": "否",
-    "rights": "图像权利",
-    "remove": "从购物车中移除",
+    "certificate": "真品证书",
+    "frameMain": "框架",
+    "yes": "是的",
+    "no": "不",
+    "rights": "肖像权",
+    "remove": "从购物车中删除",
     "options": "查看选项",
-    "shipping": "配送到",
-    "stan_par": "标准配送",
-    "taxes": "税费在结账时计算",
+    "shipping": "运送至",
+    "stan_par": "标准运输",
+    "taxes": "税费在结帐时计算",
     "artist": "艺术家",
-    "want": "想要这位艺术家的类似风格的艺术品吗？",
-    "order": "定制艺术品",
-    "explore": "探索来自世界各地的艺术",
+    "want": "想要这位艺术家的类似风格的艺术作品吗？",
+    "order": "订购定制艺术品",
+    "explore": "探索世界各地的艺术",
     "browse": "按主题浏览",
     "title": "艺术品"
   },
   "buy": {
-    "delivery": "配送",
+    "delivery": "送货",
     "payment": "支付",
     "preview": "预览",
     "login": "登录或注册",
-    "speed": "加速结账流程并将支付信息保存到账户",
-    "signUp": "注册",
-    "signIn": "登录",
+    "speed": "加快结帐过程并将付款保存到帐户",
+    "signUp": "报名",
+    "signIn": "登入",
     "edit": "编辑",
     "promocode": "您有促销代码吗？",
-    "shipping": "配送",
-    "address": "输入配送地址",
+    "shipping": "船运",
+    "address": "输入送货地址",
     "fee": "艺术平台服务费",
-    "total": "预计总额",
+    "total": "预计总数",
     "notShipping": "不包括运费"
   },
   "aboutAI": {
-    "create": "创造道德的",
-    "authentic": "真实艺术",
-    "collaboration": "与艺术家直接合作设计的Gen-AI",
-    "value": "此项为必填项",
+    "create": "创造道德",
+    "authentic": "真正的艺术",
+    "collaboration": "与艺术家直接合作设计的 Gen-AI",
+    "value": "值为必填项",
     "waitlist": "加入候补名单",
     "shareInfo": "我们不会与任何人分享您的信息",
     "notSupport": "您的浏览器不支持视频标签。",
@@ -1328,133 +1351,134 @@
     "gameDesigners": "电影和游戏设计师",
     "industrialDesigners": "工业设计师",
     "artist": "艺术家",
-    "platform": "我们是唯一一个实践负责任AI艺术生成的平台",
-    "generate": "从头生成艺术",
-    "exploreStyles": "探索各种风格，找到最适合您的愿景",
-    "inspiredArtists": "从艺术家中获得灵感",
-    "keepEthical": "我们保持道德 - 通过合作并确保艺术家的权利受到尊重",
+    "platform": "我们是唯一实践负责任的人工智能艺术生成的平台",
+    "generate": "从头开始生成艺术",
+    "exploreStyles": "探索各种风格并找到最适合您愿景的款式",
+    "inspiredArtists": "受到艺术家的启发",
+    "keepEthical": "我们保持道德——通过合作并确保艺术家的权利得到尊重",
     "edit": "编辑您的照片",
-    "applyStyles": "应用艺术家启发的风格，改变背景并重新着色",
-    "resize": "调整和修改现有艺术品",
-    "fullNamePlaceholder": "全名",
+    "applyStyles": "应用受艺术家启发的风格，更改背景并重新着色",
+    "resize": "调整现有艺术作品的大小和修改",
+    "fullNamePlaceholder": "姓名",
     "emailPlaceholder": "电子邮件",
-    "generateFromScratch": "从头生成艺术",
-    "beInspiredByArtists": "从艺术家中获得灵感",
+    "generateFromScratch": "从头开始生成",
+    "beInspiredByArtists": "受到艺术家的启发",
     "editYourPhotos": "编辑您的照片",
     "makeArtMove": "让艺术动起来"
   },
   "addArtwork": {
+    "editArtwork": "编辑图稿",
     "addNew": "添加新艺术品",
     "subject": "主题",
-    "artworkImages": "艺术品图片",
+    "artworkImages": "艺术品图像",
     "warnings": {
-      "first": "确保艺术品在画框内保持水平并居中",
-      "second": "确保艺术品光线均匀，没有暗点或过曝区域",
-      "third": "包括重要细节的特写照片，例如纹理、笔触和签名"
+      "first": "确保图稿笔直且位于框架中央",
+      "second": "确保艺术品照明均匀，没有黑点或曝光过度的区域",
+      "third": "包括重要细节的特写镜头，例如纹理、笔触和签名"
     },
     "help": {
       "first": {
-        "first": "标有",
+        "first": "标记为的字段",
         "span": "*",
-        "second": "的字段为必填项"
+        "second": "是必需的"
       },
-      "second": "选择类别和风格有助于潜在买家发现您的作品"
+      "second": "通过选择类别和风格，您可以帮助潜在买家发现您的作品"
     },
-    "priceAndQuantity": "价格与数量",
+    "priceAndQuantity": "价格及数量",
     "artwork": "艺术品信息",
-    "title": "艺术品标题",
-    "titlePlaceholder": "输入您的艺术品标题",
+    "title": "作品名称",
+    "titlePlaceholder": "输入您的作品的标题",
     "description": "描述",
-    "descriptionPlaceholder": "提供您的艺术品描述，例如：灵感、使用的材料",
-    "made": "制作地点",
-    "madePlaceholder": "制作地点",
+    "descriptionPlaceholder": "提供您的艺术作品的描述，例如：灵感、使用的材料",
+    "made": "制造于",
+    "madePlaceholder": "它是在哪里制造的",
     "yearMade": "制作年份",
-    "yearPlaceholder": "年份",
+    "yearPlaceholder": "年",
     "signature": "签名类型（可选）",
     "signatureSelect": "选择签名类型",
-    "category": "类别与风格",
+    "category": "类别和风格",
     "categorySelect": "选择类别",
     "rights": "权利",
-    "rightsPlaceholder": "输入权利信息",
+    "rightsPlaceholder": "输入权利",
     "material": "材料",
     "materialSelect": "选择材料",
     "raritySelect": "选择稀有度",
-    "selectAuth": "选择认证证书",
-    "movement": "运动和风格",
+    "selectAuth": "选择身份验证证书",
+    "movement": "运动与风格",
     "styles": "风格",
-    "framed": "有框",
-    "unframed": "无框",
-    "dimensionsBase": "基本尺寸（无框）",
+    "framed": "镶框",
+    "unframed": "无框的",
+    "dimensionsBase": "底座尺寸（无框）",
     "width": "宽度",
     "height": "高度",
     "depth": "深度",
     "weight": "重量",
-    "kg": "千克",
+    "kg": "公斤",
     "units": "单位",
     "cm": "厘米",
     "rarity": "稀有度",
-    "auth": "认证证书",
-    "dimensions": "尺寸",
+    "auth": "授权证书",
+    "dimensions": "方面",
     "preview": {
-      "review": "审核您的艺术品并发布",
-      "show": "这是我们将展示给买家的内容。请确保一切看起来都不错。",
+      "review": "回顾您的艺术作品并发布",
+      "show": "这是我们将向买家展示的内容。",
       "information": "艺术品信息",
-      "title": "艺术品标题",
-      "description": "艺术品描述",
-      "made": "制作地点",
+      "title": "作品名称",
+      "description": "作品描述",
+      "made": "制造于",
       "year": "制作年份",
-      "style": "类别与风格",
+      "style": "类别和风格",
       "category": "类别",
       "styles": "风格",
       "materials": "材料",
       "rarity": "稀有度",
       "price": "价格",
-      "frame": "画框",
+      "frame": "框架",
       "images": "图片",
       "size": "尺寸"
     },
     "second": {
-      "photosAdd": "添加您的艺术品照片",
-      "add": "您需要添加5张照片。稍后可以添加更多",
+      "photosAdd": "添加您的艺术照片",
+      "add": "您需要添加 5 张照片。",
       "requirements": "图片要求",
-      "frontalImage": "正面全景图",
-      "frontalView": "清晰的正面全景图，展示您的艺术品的全貌",
-      "closeUp": "艺术品细节特写",
-      "highResolution": "高分辨率的特写照片，突出艺术品的复杂细节和纹理",
-      "closeUpSignature": "签名的特写细节",
-      "focused": "清晰的签名拍摄，用于认证",
-      "artworkBack": "艺术品的背面",
-      "context": "情景展示（在家庭内）",
-      "potential": "为潜在买家提供视觉感受其规模和美感",
+      "frontalImage": "全正面图像",
+      "frontalView": "清晰、完整地展示您的作品的正面视图，展示其整体",
+      "closeUp": "艺术品的特写细节",
+      "highResolution": "高分辨率特写镜头突出了艺术品的复杂细节和纹理",
+      "closeUpSignature": "您签名的特写细节",
+      "focused": "集中捕获您的签名以确保真实性",
+      "artworkBack": "艺术品背面",
+      "context": "上下文视图（在家庭内部）",
+      "potential": "为潜在买家提供其规模和审美吸引力的视觉感受",
       "preview": "预览",
       "title": "请填写标题",
       "price": "请填写价格"
     },
     "third": {
-      "priceQuantity": "价格与数量",
+      "priceQuantity": "价格及数量",
       "status": "艺术品状态",
-      "statusPlaceholder": "选择艺术品状态",
+      "statusPlaceholder": "选择艺术品的状态",
       "quantity": "库存数量",
-      "quantityPlaceholder": "有多少物品可供出售？",
+      "quantityPlaceholder": "有多少商品可供出售？",
       "price": "价格",
       "currency": "货币",
-      "shipping": "运输",
-      "shippingProfile": "运输资料",
+      "shipping": "船运",
+      "shippingProfile": "运输概况",
       "shippingProfileSelect": "选择运输资料",
-      "calculateShipping": "此资料将用于计算运费",
-      "detailsShipping": "运输详情",
+      "calculateShipping": "此配置文件将用于计算运费",
+      "detailsShipping": "运送详情",
       "packageArtwork": "您将如何包装这件艺术品？",
-      "packageChose": "选择包装选项",
+      "packageChose": "选择套餐选项",
       "parcelEstimated": "预计包裹尺寸",
       "width": "宽度",
       "height": "高度",
       "depth": "深度",
       "units": "单位",
-      "kg": "千克",
+      "kg": "公斤",
       "consider": "考虑平台费用",
-      "ensure": "确保您的定价保持盈利。",
-      "read": "阅读更多卖家条款",
-      "weightShipping": "运输重量",
+      "ensure": "确保您的定价保持盈利能力。",
+      "read": "阅读有关卖方条款的更多信息",
+      "weightShipping": "装运重量",
       "weightPlaceholder": "重量",
       "guides": "运输指南",
       "profile": "选择正确的运输资料",
@@ -1463,96 +1487,96 @@
     }
   },
   "changeStatus": {
-    "change": "更改状态",
-    "sureWant": "您确定要",
-    "enable": "启用",
+    "change": "改变状态",
+    "sureWant": "您确定要吗",
+    "enable": "使能够",
     "disable": "禁用",
-    "the": "销售状态吗？",
+    "the": "这",
     "saleStatus": "销售状态？",
-    "sureWantRemove": "您确定要移除",
+    "sureWantRemove": "您确定要删除",
     "disableBig": "禁用",
-    "enableBig": "启用",
+    "enableBig": "使能够",
     "cancel": "取消",
     "close": "关闭"
   },
   "blog": {
     "title": "博客",
     "mainPage": "主页",
-    "news": "新闻",
+    "news": "消息",
     "newest": "最新",
-    "searchPlaceholder": "按艺术名字、艺术家名字搜索",
+    "searchPlaceholder": "按艺术名称、艺术家姓名搜索",
     "tags": "标签",
     "shareArticle": "分享文章",
-    "readAlso": "还阅读",
-    "trending": "分类热门",
+    "readAlso": "另请阅读",
+    "trending": "类别趋势",
     "showAll": "显示全部",
     "allArticles": "所有文章",
     "info": {
-      "noNews": "暂无新闻显示",
-      "tryAgain": "请尝试更改筛选条件或稍后再试"
+      "noNews": "还没有消息显示",
+      "tryAgain": "请尝试更换过滤器或稍后再回来"
     }
   },
   "giftCard": {
-    "buyTab": "购买",
-    "redeemTab": "兑换",
+    "buyTab": "买",
+    "redeemTab": "赎回",
     "title": "购买礼品卡",
-    "amount": "金额",
-    "to": "收件人",
-    "from": "发件人",
+    "amount": "数量",
+    "to": "到",
+    "from": "从",
     "recipientName": "收件人姓名",
-    "recipientEmail": "收件人邮箱",
-    "giftMessage": "礼品信息",
+    "recipientEmail": "收件人电子邮件",
+    "giftMessage": "礼物留言",
     "senderName": "发件人姓名",
     "send": "发送礼品卡",
     "placeholders": {
-      "custom": "自定义",
-      "giftMessage": "在此输入您的信息..."
+      "custom": "风俗",
+      "giftMessage": "在此输入您的消息..."
     },
     "redeem": {
       "title": "兑换您的礼品卡",
-      "apply": "兑换您的Global Art AI礼品卡后，礼品信用将可用于您的下一次购买",
+      "apply": "兑换 Global Art AI 礼品卡后，礼品积分将可用于您下次购买",
       "code": "礼品卡代码",
       "submit": "兑换礼品卡",
-      "enterCode": "输入代码"
+      "enterCode": "输入礼品卡代码"
     }
   },
   "promocodes": {
     "modals": {
       "createPromocode": {
         "addAnother": "添加另一个促销代码",
-        "reusable": "可重复使用"
+        "reusable": "可重复使用的"
       }
     }
   },
   "preloader": {
     "createProfile": "创建您的个人资料",
-    "pleaseWait": "请稍候",
-    "minute": "这可能需要几分钟",
-    "keepTab": "请不要关闭此选项卡",
-    "thankYou": "谢谢您的耐心等待"
+    "pleaseWait": "请稍等",
+    "minute": "这可能需要几分钟的时间。",
+    "keepTab": "请保持此选项卡打开以确保一切顺利。",
+    "thankYou": "感谢您的耐心等待！"
   },
   "dragImage": {
-    "title": "在室内展示您的艺术品",
-    "subTitle": "通过在美丽、专业的室内环境中展示您的艺术品，并使用可定制的框架来提升您的艺术作品",
+    "title": "在室内展示您的艺术",
+    "subTitle": "通过使用可定制的框架在美丽、专业的室内环境中展示您的艺术作品，从而提升您的艺术作品",
     "position": "位置",
-    "chooseInterior": "选择室内环境",
-    "artworkSize": "艺术品尺寸",
+    "chooseInterior": "选择内饰",
+    "artworkSize": "作品尺寸",
     "smaller": "较小",
     "larger": "较大"
   },
   "payment_types": {
-    "balance": "余额",
-    "stripe": "Stripe"
+    "balance": "平衡",
+    "stripe": "条纹"
   },
   "gift_card_payment": {
     "success": {
       "title": "感谢您的购买",
-      "description": "收件人将收到带有礼品卡代码的电子邮件。您将收到包含购买详情的电子邮件。",
+      "description": "收件人将收到一封包含礼品卡代码的电子邮件。",
       "backToMain": "返回主页"
     },
     "failed": {
-      "title": "支付失败",
-      "description": "您的支付未成功。请重试或联系客户支持以获取帮助。",
+      "title": "付款失败",
+      "description": "您的付款未成功。",
       "backToMain": "返回主页"
     }
   }

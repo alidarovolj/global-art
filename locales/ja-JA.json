@@ -1,275 +1,281 @@
 {
+  "search_general": {
+    "title": "検索",
+    "placeholder": "アーティスト名で検索"
+  },
   "headers": {
     "payment_success": {
-      "title": "支払い成功 | Global Art AI",
-      "description": "お支払いが成功しました。ご購入ありがとうございます。まもなく確認メールが届きます。",
-      "og_url": "https://globalart.ai/ja-JA/payment-success",
-      "canonical": "https://globalart.ai/ja-JA/payment-success"
+      "title": "支払い成功 |",
+      "description": "お支払いは正常に完了しました。",
+      "og_url": "https://globalart.ai/payment-success",
+      "canonical": "https://globalart.ai/payment-success"
     },
     "payment_failed": {
-      "title": "支払い失敗 | Global Art AI",
-      "description": "お支払いが失敗しました。もう一度お試しいただくか、カスタマーサポートにお問い合わせください。",
-      "og_url": "https://globalart.ai/ja-JA/payment-failed",
-      "canonical": "https://globalart.ai/ja-JA/payment-failed"
+      "title": "支払いに失敗しました |",
+      "description": "お支払いは失敗しました。",
+      "og_url": "https://globalart.ai/payment-failed",
+      "canonical": "https://globalart.ai/payment-failed"
     },
     "gift_card_success": {
-      "title": "支払い成功 | Global Art AI",
-      "description": "お支払いが成功しました。ご購入ありがとうございます。間もなく確認メールが届きます。",
-      "og_url": "https://globalart.ai/ja-JA/gift-card-success",
-      "canonical": "https://globalart.ai/ja-JA/gift-card-success"
+      "title": "支払い成功 |",
+      "description": "お支払いは正常に完了しました。",
+      "og_url": "https://globalart.ai/gift-card-success",
+      "canonical": "https://globalart.ai/gift-card-success"
     },
     "gift_card_failed": {
-      "title": "支払い失敗 | Global Art AI",
-      "description": "お支払いが失敗しました。再度お試しいただくか、カスタマーサポートにお問い合わせください。",
-      "og_url": "https://globalart.ai/ja-JA/gift-card-failed",
-      "canonical": "https://globalart.ai/ja-JA/gift-card-failed"
+      "title": "支払いに失敗しました |",
+      "description": "お支払いは失敗しました。",
+      "og_url": "https://globalart.ai/gift-card-failed",
+      "canonical": "https://globalart.ai/gift-card-failed"
     },
     "mainPage": {
-      "title": "メインページ | Global Art AI",
-      "description": "GlobalArt.ai – 創造的なアートと人工知能を融合させた最先端のプラットフォームを発見してください。AI生成のアート作品、アーティスト向けの革新的なツールを探求し、技術を活用して芸術の境界を押し広げるクリエイティブコミュニティに参加しましょう。アーティストとしてAIで創造力を高めたい方や、アート愛好家の方に、GlobalArt.aiは現代アート界に関する独自の洞察とリソースを提供します。",
-      "og_url": "https://globalart.ai/ja-JA/",
-      "canonical": "https://globalart.ai/ja-JA/"
+      "title": "メインページ |",
+      "description": "GlobalArt.ai – 人工知能と創造的なアートを融合する最先端のプラットフォームをご覧ください。 ",
+      "og_url": "https://globalart.ai/",
+      "canonical": "https://globalart.ai/"
     },
     "artist_registration": {
-      "title": "アーティスト登録 | Global Art AI",
-      "description": "アーティストとしてGlobalArt.aiに参加し、才能を披露し、アート愛好家とつながり、作品を販売する機会の世界を開きましょう。今日登録してアーティストプロフィールを作成し、ポートフォリオをアップロードし、アートを世界中のオーディエンスに販売し始めましょう。あなたが画家、彫刻家、写真家、デジタルアーティストのいずれであっても、GlobalArt.aiはあなたのアートキャリアを高めるためのプラットフォームとツールを提供します。",
-      "og_url": "https://globalart.ai/ja-JA/artistRegistration",
-      "canonical": "https://globalart.ai/ja-JA/artistRegistration"
+      "title": "アーティスト登録 |",
+      "description": "アーティストとして GlobalArt.ai に参加し、あなたの才能を披露し、アート愛好家とつながり、あなたの作品を販売する機会の世界を解き放ちましょう。",
+      "og_url": "https://globalart.ai/artistRegistration",
+      "canonical": "https://globalart.ai/artistRegistration"
     },
     "artists": {
-      "title": "アーティスト | Global Art AI",
-      "description": "GlobalArt.aiの「アーティスト」ページでは、絵画の種類（肖像画、風景画）、材料（キャンバスに油絵、水彩画）、スタイル（モダン、クラシック、アーバン、写実主義）、場所など、さまざまな基準でアーティストを探したり、フィルタリングしたりすることができます。また、アーティストを人気や価格で並べ替えるオプションがあり、カスタムアートワークの依頼機能も提供しています。",
-      "og_url": "https://globalart.ai/ja-JA/artists",
-      "canonical": "https://globalart.ai/ja-JA/artists"
+      "title": "アーティスト |",
+      "description": "GlobalArt.ai の「アーティスト」ページでは、ユーザーは絵画の種類 (肖像画、風景画)、素材 (キャンバスに油彩、水彩画)、スタイル (モダン、クラシック、都会的、フォトリアリスティック)、",
+      "og_url": "https://globalart.ai/artists",
+      "canonical": "https://globalart.ai/artists"
     },
     "blog": {
-      "title": "ブログ | Global Art AI",
-      "description": "GlobalArt.aiのブログでは、アートに関連するさまざまなトピック、例えばアートにおけるAI、アーティストの特集、業界の洞察などの記事やビデオを提供しています。毎週の更新でアーティストやアート愛好家を教育し、インスピレーションを与えることを目指しています。",
-      "og_url": "https://globalart.ai/ja-JA/blog",
-      "canonical": "https://globalart.ai/ja-JA/blog"
+      "title": "ブログ |",
+      "description": "GlobalArt.ai ブログでは、アートにおける AI、アーティストの特徴、業界の洞察など、さまざまなアート関連のトピックに関する記事やビデオを提供しています。",
+      "og_url": "https://globalart.ai/ブログ",
+      "canonical": "https://globalart.ai/ブログ"
     },
     "artworks": {
-      "title": "アートワーク | Global Art AI",
-      "description": "GlobalArt.aiの「アートワーク」ページでは、世界中の幅広いアート作品を探求できます。年、価格、ムーブメントとスタイル、希少性、材料、スタイルでフィルタリングすることができます。ユーザーは人気や価格でアートワークを並べ替え、販売中または売却済みの作品を表示することができます。",
-      "og_url": "https://globalart.ai/ja-JA/artworks",
-      "canonical": "https://globalart.ai/ja-JA/artworks"
+      "title": "作品 |",
+      "description": "GlobalArt.ai のアートワーク ページでは、ユーザーは世界中の幅広いアートワークを探索できます。",
+      "og_url": "https://globalart.ai/artworks",
+      "canonical": "https://globalart.ai/artworks"
     },
     "wishlist": {
-      "title": "ウィッシュリスト | Global Art AI",
-      "description": "GlobalArt.aiの「ウィッシュリスト」ページでは、お気に入りのアート作品を管理および表示できます。パーソナライズされたコレクションに作品を追加する機能を提供し、関心のあるアートを追跡するのに役立ちます。",
-      "og_url": "https://globalart.ai/ja-JA/wishlist",
-      "canonical": "https://globalart.ai/ja-JA/wishlist"
+      "title": "ウィッシュリスト |",
+      "description": "GlobalArt.ai のウィッシュリスト ページでは、ユーザーがお気に入りのアートワークを管理および表示できます。",
+      "og_url": "https://globalart.ai/wishlist",
+      "canonical": "https://globalart.ai/wishlist"
     },
     "cart": {
-      "title": "カート | Global Art AI",
-      "description": "GlobalArt.aiの「カート」ページでは、購入予定のアイテムを表示および管理できます。",
-      "og_url": "https://globalart.ai/ja-JA/cart",
-      "canonical": "https://globalart.ai/ja-JA/cart"
+      "title": "カート |",
+      "description": "GlobalArt.ai のカート ページでは、ユーザーが購入予定の商品を表示および管理できます。",
+      "og_url": "https://globalart.ai/cart",
+      "canonical": "https://globalart.ai/cart"
     },
     "about-ai": {
-      "title": "AIについて | Global Art AI",
-      "description": "GlobalArt.aiの「AIについて」ページでは、アーティストとの協力で開発されたAIアート生成の倫理的アプローチを説明しています。ゼロからのアート作成、アーティスティックなスタイルでの写真編集、既存のアートのリサイズと変更、インテリアデザイナーやデジタルマーケティング専門家などのさまざまなプロフェッショナル向けのユースケースなどの機能を紹介しています。プラットフォームは、アーティストの権利が尊重されることを確保し、AIの責任ある使用を強調しています。",
-      "og_url": "https://globalart.ai/ja-JA/about-ai",
-      "canonical": "https://globalart.ai/ja-JA/about-ai"
+      "title": "AIについて |",
+      "description": "GlobalArt.ai の「AI について」ページでは、アーティストと協力して開発された AI アート生成に対する倫理的アプローチが説明されています。",
+      "og_url": "https://globalart.ai/about-ai",
+      "canonical": "https://globalart.ai/about-ai"
     },
     "marketplace": {
-      "title": "マーケットプレイス | Global Art AI",
-      "description": "GlobalArt.aiの「マーケットプレイス」ページは、世界中のアーティストとアート愛好家をつなぎ、3,943人のアーティストから10,590点以上のアート作品を提供しています。アートの発見と購入のためのツール、AIのおすすめ、カスタムアートの注文、スペースにアートを可視化するための拡張現実を提供しています。プラットフォームは、証明書で真実性を保証し、アーティストや専門家との直接の協力を提供しています。",
-      "og_url": "https://globalart.ai/ja-JA/marketplace",
-      "canonical": "https://globalart.ai/ja-JA/marketplace"
+      "title": "マーケットプレイス |",
+      "description": "GlobalArt.ai のマーケットプレイス ページでは、世界中のアーティストとアート愛好家を結び付け、3,943 人のアーティストによる 10,590 点以上の既成作品を提供しています。",
+      "og_url": "https://globalart.ai/マーケットプレイス",
+      "canonical": "https://globalart.ai/マーケットプレイス"
     },
     "help": {
-      "title": "ヘルプセンター | Global Art AI",
-      "description": "GlobalArt.aiの「ヘルプ」ページでは、アート作品の購入、アーティストとしての支払い、注文プロセス、アート作品の発送、返品および返金プロセスに関するよくある質問への回答を提供しています。プラットフォームの使用方法や一般的な問題の解決方法についてのガイダンスを提供します。",
-      "og_url": "https://globalart.ai/ja-JA/help",
-      "canonical": "https://globalart.ai/ja-JA/help"
+      "title": "ヘルプセンター |",
+      "description": "GlobalArt.ai のヘルプ ページには、アートワークの購入、アーティストとしての報酬の受け取り、委託プロセス、アートワークの発送、返品と返金のプロセスに関するよくある質問への回答が記載されています。",
+      "og_url": "https://globalart.ai/ヘルプ",
+      "canonical": "https://globalart.ai/ヘルプ"
     },
     "profile": {
-      "title": "プロフィール | Global Art AI",
-      "description": "GlobalArt.aiの「プロフィール」ページでは、個人情報の管理、活動の表示、プラットフォーム上のやり取りの追跡ができると考えられます。アカウント設定、セキュリティ、通信オプションの設定が含まれている可能性があります。",
-      "og_url": "https://globalart.ai/ja-JA/profile",
-      "canonical": "https://globalart.ai/ja-JA/profile",
+      "title": "プロフィール |",
+      "description": "GlobalArt.ai のプロフィール ページでは、ユーザーが自分の個人情報を管理し、アクティビティを表示し、プラットフォーム上でのやり取りを追跡できる可能性があります。",
+      "og_url": "https://globalart.ai/profile",
+      "canonical": "https://globalart.ai/profile",
       "pages": {
         "commissions": {
-          "title": "コミッション | Global Art AI",
-          "description": "GlobalArt.aiでアートのコミッションを管理します。コミッションされたアート作品のステータスを表示、追跡、更新し、アーティストとコミュニケーションを取り、支払いの詳細を管理します。整理整頓し、カスタムアートリクエストが順調に進み、ビジョンに沿っていることを確認してください。",
-          "og_url": "https://globalart.ai/ja-JA/profile/commissions",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "手数料 |",
+          "description": "GlobalArt.ai でアート コミッションを管理します。",
+          "og_url": "https://globalart.ai/profile/commissions",
+          "canonical": "https://globalart.ai/profile"
         },
         "saved_artworks": {
-          "title": "保存されたアートワーク | Global Art AI",
-          "description": "GlobalArt.aiで保存されたアートワークを探索し、管理します。お気に入りの作品を追跡し、コレクションを整理し、愛するアートワークに簡単にアクセスします。お気に入りの選択を保存して再訪することで、アートの閲覧体験を向上させます。",
-          "og_url": "https://globalart.ai/ja-JA/profile/saved-artworks",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "保存されたアートワーク |",
+          "description": "GlobalArt.ai で保存したアートワークを探索して管理します。",
+          "og_url": "https://globalart.ai/profile/saved-artworks",
+          "canonical": "https://globalart.ai/profile"
         },
         "orders": {
-          "title": "注文 | Global Art AI",
-          "description": "GlobalArt.aiで注文を表示および管理します。購入したアートワークのステータスを追跡し、配送の詳細を管理し、注文履歴にアクセスします。アートの購入について通知を受け、スムーズな購入体験を確保してください。",
-          "og_url": "https://globalart.ai/ja-JA/profile/orders",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "注文 |",
+          "description": "GlobalArt.ai で注文を表示および管理します。",
+          "og_url": "https://globalart.ai/profile/orders",
+          "canonical": "https://globalart.ai/profile"
         },
         "following_artists": {
-          "title": "フォロー中のアーティスト | Global Art AI",
-          "description": "GlobalArt.aiでお気に入りのアーティストをフォローします。最新の作品、展示会、イベントについて最新情報を入手します。新しいアーティストを発見し、さまざまなアートスタイルを探索します。パーソナライズされたアートフィードを作成し、世界中のクリエイティブとつながります。",
-          "og_url": "https://globalart.ai/ja-JA/profile/following-artists",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "アーティストをフォロー中 |",
+          "description": "GlobalArt.ai でお気に入りのアーティストをフォローしてください。",
+          "og_url": "https://globalart.ai/profile/following-artists",
+          "canonical": "https://globalart.ai/profile"
         },
         "reviews": {
-          "title": "レビュー | Global Art AI",
-          "description": "GlobalArt.aiでフィードバックを共有します。購入したアートワーク、アーティスト、プラットフォーム全体の体験についてレビューを書きます。他のアート愛好家が情報に基づいた意思決定を行うのを支援し、考えや推奨事項を共有することでアーティストをサポートします。",
-          "og_url": "https://globalart.ai/ja-JA/profile/review",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "レビュー |",
+          "description": "GlobalArt.ai でフィードバックを共有してください。",
+          "og_url": "https://globalart.ai/profile/review",
+          "canonical": "https://globalart.ai/profile"
         },
         "gift_cards": {
-          "title": "ギフトカード | Global Art AI",
-          "description": "GlobalArt.aiでギフトカードを購入および引き換えます。友人、家族、または同僚にアートを贈りましょう。さまざまな額面から選び、受取人が自分のお気に入りのアート作品を探索して選択できるようにします。GlobalArt.aiのギフトカードで喜びと創造性を広めましょう。",
-          "og_url": "https://globalart.ai/ja-JA/profile/buy-gift-cards",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "ギフトカード |",
+          "description": "GlobalArt.ai でギフト カードを購入して引き換えます。",
+          "og_url": "https://globalart.ai/profile/buy-gift-cards",
+          "canonical": "https://globalart.ai/profile"
         },
         "profile": {
-          "title": "アカウント | Global Art AI",
-          "description": "GlobalArt.aiでアカウント設定を管理します。個人情報を更新し、パスワードを変更し、プロフィールをカスタマイズします。アートコミュニティとつながり、独自の機能にアクセスし、アート体験をパーソナライズします。",
-          "og_url": "https://globalart.ai/ja-JA/profile/profile",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "アカウント |",
+          "description": "GlobalArt.ai でアカウント設定を管理します。",
+          "og_url": "https://globalart.ai/profile/profile",
+          "canonical": "https://globalart.ai/profile"
         },
         "address_book": {
-          "title": "アドレス帳 | Global Art AI",
-          "description": "GlobalArt.aiでアドレス帳を管理します。シームレスなチェックアウト体験のために配送先住所を保存および整理します。住所を追加、編集、または削除し、購入したアートワークの正確でタイムリーな配送を確保します。",
-          "og_url": "https://globalart.ai/ja-JA/profile/addresses",
-          "canonical": "https://globalart.ai/ja-JA/profile"
+          "title": "アドレス帳 |",
+          "description": "GlobalArt.ai でアドレス帳を管理します。",
+          "og_url": "https://globalart.ai/profile/addresses",
+          "canonical": "https://globalart.ai/profile"
         }
       }
     },
     "commissions": {
-      "title": "カスタムアートリクエスト",
-      "description": "GlobalArt.aiでカスタムアートワークをリクエストしてください。希望のカテゴリとスタイルを選択し、予算を設定し、理想のアーティストを見つけるためにビジョンを説明します。サイズ、タイムラインをカスタマイズし、参照画像を添付して、委託されたアートが期待に沿うようにします。今日、ユニークでパーソナライズされたアートを作成しましょう！",
-      "og_url": "https://globalart.ai/ja-JA/commissions",
-      "canonical": "https://globalart.ai/ja-JA/commissions"
+      "title": "カスタムアートのリクエスト",
+      "description": "GlobalArt.ai でカスタム アートワークをリクエストします。",
+      "og_url": "https://globalart.ai/commissions",
+      "canonical": "https://globalart.ai/commissions"
     },
     "artist_profile": {
-      "title": "アーティストのプロフィール",
-      "description": "GlobalArt.aiでアーティストのプロフィールを探検しましょう。彼らの創作の旅、教育、成果、現在の展示を発見してください。特集コレクション、創作信条、ポートフォリオをご覧ください。アーティストの作品に触れ、更新をフォローし、スタジオクロニクルを通じて彼らとつながりましょう。",
-      "og_url": "https://globalart.ai/ja-JA/artistProfile",
-      "canonical": "https://globalart.ai/ja-JA/artistProfile",
+      "title": "アーティストプロフィール",
+      "description": "GlobalArt.ai でアーティストのプロフィールを調べてください。",
+      "og_url": "https://globalart.ai/artistProfile",
+      "canonical": "https://globalart.ai/artistProfile",
       "pages": {
         "artworks": {
-          "title": "アートワーク",
-          "description": "GlobalArt.aiでアーティストのポートフォリオを探検しましょう。絵画、彫刻、版画などのコレクションをご覧ください。ユニークなアート作品を発見し、アーティストの創作プロセスについて学び、アートコレクションのインスピレーションを見つけてください。",
-          "og_url": "https://globalart.ai/ja-JA/artistProfile/artworks",
-          "canonical": "https://globalart.ai/ja-JA/artistProfile"
+          "title": "芸術作品",
+          "description": "GlobalArt.ai でアーティストのポートフォリオを探索してください。",
+          "og_url": "https://globalart.ai/artistProfile/artworks",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "promocodes": {
           "title": "プロモーションコード",
-          "description": "GlobalArt.aiでプロモーションコードを利用してください。アート購入での割引、特別オファー、独占ディールをお楽しみください。お支払い時にプロモーションコードを入力して、お気に入りのアートワークをお得に購入し、才能あるアーティストをサポートしましょう。節約を実現し、アートコレクションを高めましょう。",
-          "og_url": "https://globalart.ai/ja-JA/artistProfile/promocode",
-          "canonical": "https://globalart.ai/ja-JA/artistProfile"
+          "description": "GlobalArt.ai でプロモーション コードを引き換えてください。",
+          "og_url": "https://globalart.ai/artistProfile/promocode",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "commissions": {
-          "title": "委託作品",
-          "description": "GlobalArt.aiでアーティストとカスタムアートの委託作品について協力しましょう。パーソナライズされたアートワークを依頼し、ビジョンを伝え、委託作品の進捗状況を追跡します。アーティストと交流し、アイデアを共有し、創造的なプロジェクトを実現しましょう。",
-          "og_url": "https://globalart.ai/ja-JA/artistProfile/commissions",
-          "canonical": "https://globalart.ai/ja-JA/artistProfile"
+          "title": "手数料",
+          "description": "GlobalArt.ai のカスタム アート コミッションでアーティストとコラボレーションします。",
+          "og_url": "https://globalart.ai/artistProfile/commissions",
+          "canonical": "https://globalart.ai/artistProfile"
         },
         "messages": {
           "title": "メッセージ",
-          "description": "GlobalArt.aiでアーティストとコミュニケーションをとりましょう。メッセージを送信し、フィードバックを共有し、才能あるクリエイターとカスタムアートのリクエストについて話し合いましょう。アーティストとつながり、委託されたアートワークの更新を受け取り、アートについての意義ある対話に参加しましょう。",
-          "og_url": "https://globalart.ai/ja-JA/artistProfile/messages",
-          "canonical": "https://globalart.ai/ja-JA/artistProfile"
+          "description": "GlobalArt.ai でアーティストとコミュニケーションしましょう。",
+          "og_url": "https://globalart.ai/artistProfile/messages",
+          "canonical": "https://globalart.ai/artistProfile"
         }
       }
     }
   },
   "cus_art_req": {
-    "open": "カスタムアート受付中",
-    "close": "カスタムアート受付終了"
+    "open": "カスタムアートを募集中",
+    "close": "カスタムアートの受付はお休みです"
   },
   "header": {
     "links": {
-      "artworks": "アート作品",
+      "artworks": "芸術作品",
       "artists": "アーティスト",
       "marketplace": "マーケットプレイスについて",
-      "order_cus_art": "カスタムアートを注文",
-      "but_gift_card": "ギフトカードを購入",
+      "order_cus_art": "カスタムアートを注文する",
+      "but_gift_card": "ギフトカードを購入する",
       "about_us": "私たちについて",
       "ai": "グローバルアートAIについて",
       "galleries": "ギャラリー",
       "blog": "私たちのブログ"
     },
-    "search": "アートワーク名、アーティスト、ギャラリー、スタイル、テーマなどで検索",
+    "search": "作品名、アーティスト、ギャラリー、スタイル、テーマなどで検索できます。",
     "login": "ログイン",
     "registration": "サインアップ",
-    "activationCode": "認証コード",
-    "resendCode": "コードを再送信",
+    "activationCode": "アクティベーションコード",
+    "resendCode": "コードを再度送信する",
     "inner_header_links": {
       "sell": "アーティスト向け",
       "help": "ヘルプ",
       "mobileApp": "モバイルアプリ"
     },
-    "popular": "人気のあるグローバルアート",
-    "contemporary": "現代アート",
+    "popular": "グローバルアートで人気",
+    "contemporary": "現代美術",
     "noNotifications": "通知はありません",
-    "balance": "残高",
-    "myProfile": "マイプロフィール",
+    "balance": "バランス",
+    "myProfile": "私のプロフィール",
     "orders": "注文",
     "becomeAnArtist": "アーティストになる",
+    "artistProfile": "アーティストプロフィール",
+    "verifyingProfile": "プロフィールを確認しています...",
     "helpCenter": "ヘルプセンター",
     "logout": "ログアウト"
   },
   "footer": {
-    "about": "会社概要",
+    "about": "私たちについて",
     "blog": "ブログ",
     "contact": "お問い合わせ",
-    "explore": "探索する",
-    "artworks": "アートワーク",
+    "explore": "探検する",
+    "artworks": "芸術作品",
     "artists": "アーティスト",
-    "letUsHelp": "お手伝いします",
+    "letUsHelp": "お手伝いさせてください",
     "orderStatus": "注文状況",
     "customerSupport": "カスタマーサポート",
-    "sellWithUs": "当社で販売",
-    "subscribeToNewsLetter": "ニュースレターに登録する",
-    "getWeekly": "週刊アート関連記事＆ビデオを入手する",
-    "yourEmail": "あなたのメール",
-    "valueRequired": "値が必要です",
-    "subscribe": "登録する",
-    "getToKnow": "私たちを知る",
-    "terms": "利用規約",
+    "sellWithUs": "私たちと一緒に販売してください",
+    "subscribeToNewsLetter": "ニュースレターを購読する",
+    "getWeekly": "アート関連の記事やビデオを毎週入手できます",
+    "yourEmail": "あなたのメールアドレス",
+    "valueRequired": "値は必須です",
+    "subscribe": "購読する",
+    "getToKnow": "私たちについて知りましょう",
+    "terms": "条項",
     "privacy": "プライバシー"
   },
   "faq": {
-    "title": "もっと知りたいですか？",
+    "title": "もっと知りたいですか?",
     "subtitle": "よくある質問",
     "first": {
-      "title": "Artworks プラットフォームとは何ですか？",
-      "content": "Artworks プラットフォームは、アーティストの作品を展示し、アート愛好家、コレクター、購入者とつなぐために設計されたオンラインプラットフォームです。アーティストには、作品を展示して販売するスペースが提供されます。"
+      "title": "アートワークスプラットフォームとは何ですか?",
+      "content": "アートワークス プラットフォームは、アーティストの作品を紹介し、アート愛好家、コレクター、バイヤーとつながるために設計されたオンライン プラットフォームです。"
     },
     "second": {
-      "title": "Artworks プラットフォームでアーティストプロフィールを作成するにはどうすればよいですか？",
-      "content": "アーティストプロフィールを作成するには、プラットフォームに登録し、プロフィールを設定するための簡単な手順に従います。作品の画像をアップロードしたり、経歴を書いたり、その他の関連情報を追加することができます。"
+      "title": "Artworks プラットフォームでアーティスト プロフィールを作成するにはどうすればよいですか?",
+      "content": "アーティスト プロフィールを作成するには、プラットフォームに登録し、簡単な手順に従ってプロフィールを設定します。"
     },
     "third": {
-      "title": "Artworks プラットフォームにアーティストとして参加するのは無料ですか？",
-      "content": "はい、アーティストがプラットフォームにプロフィールを作成するのは無料です。メンバーシップレベルに応じて、リスティングや作品の販売に関連する料金がかかる場合があります。"
+      "title": "アーティストとして Artworks プラットフォームに参加するのは無料ですか?",
+      "content": "はい、アーティストがプラットフォーム上でプロフィールを作成するのは無料です。"
     },
     "fourth": {
-      "title": "Artworks プラットフォームで自分の作品を販売するにはどうすればよいですか？",
-      "content": "作品を販売するには、プロフィールで販売のリストを作成します。その後、購入者はプラットフォームを通じてあなたのアートを閲覧して購入することができます。配送や支払いについては、自分で処理するか、プラットフォームの統合サービスを利用することができます。"
+      "title": "Artworks プラットフォームで自分の作品を販売するにはどうすればよいですか?",
+      "content": "自分の作品を販売するには、プロフィールに出品リストを掲載します。"
     },
     "fifth": {
-      "title": "プラットフォームで受け入れられるアートの種類は何ですか？",
-      "content": "絵画、彫刻、写真、デジタルアートなど、幅広い芸術的媒体を受け入れています。プラットフォームは多様性を奨励し、あらゆる方向のアーティストを歓迎しています。"
+      "title": "プラットフォームではどのような種類のアートが受け入れられますか?",
+      "content": "絵画、彫刻、写真、デジタルアートなど、幅広い芸術媒体を受け入れます。"
     },
     "sixth": {
-      "title": "自分の作品に自分の価格を設定することはできますか？",
-      "content": "はい、アーティストとして、作品の価格設定に完全なコントロールがあります。自分の好みや市場価値に基づいて価格を設定することができます。"
+      "title": "自分の作品の価格を自分で設定できますか?",
+      "content": "はい、アーティストとして、あなたは自分の作品の価格を完全にコントロールできます。"
     }
   },
   "help": {
     "search": {
-      "title": "どのようにお手伝いできますか？",
-      "placeholder": "キーワードまたは質問を検索"
+      "title": "どうすれば助けられるでしょうか？",
+      "placeholder": "キーワードや質問を検索する"
     },
     "tabs": {
-      "general": "一般",
+      "general": "一般的な",
       "artist": "アーティスト",
       "designer": "デザイナー"
     },
@@ -277,24 +283,24 @@
       "title": "よくある質問",
       "questions": {
         "first": {
-          "title": "作品を購入するにはどうすればよいですか？",
-          "content": "作品を購入するには、次の手順に従ってください： \n 1. 作品をブラウズする：才能あるアーティストによって作成された多様な作品のコレクションを見てください。 \n 2. 作品を選択する：魅了された作品をクリックして詳細情報を表示します。 \n 3. カートに追加する：作品ページで「カートに追加」ボタンをクリックします。 \n 4. カートを確認する：選択した作品と数量を確認するためにショッピングカートを訪れます。 \n 5. チェックアウトする：チェックアウトに進み、配送先の詳細と支払い方法を入力します。 \n 6. 支払い：安全な支払い方法を選択し、トランザクションを完了するために必要な詳細を提供します。 \n 7. 確認：購入した作品の詳細が記載された注文確認を受け取ります。 \n 8. 作品の発送：購入した作品の発送を追跡します。 \n 各ステップの詳細については、購入ガイドを参照してください。"
+          "title": "アートワークを購入するにはどうすればよいですか?",
+          "content": "アートワークを購入するには、次の手順に従います。 \n "
         },
         "second": {
-          "title": "どのようにして支払いを受け取ることができますか？",
-          "content": "当社のプラットフォームでアートを販売することで支払いを受け取ることができます。"
+          "title": "どうやって給料を受け取るのですか？",
+          "content": "私たちのプラットフォームでアートを販売することで報酬を受け取ることができます。"
         },
         "third": {
-          "title": "委託プロセスはどのように機能しますか？",
-          "content": "委託プロセスにはいくつかのステップがあります。まず、プロジェクトが定義され、チームが編成されます。次に、システムが設計され、実装されます。その後、システムがプロジェクト要件を満たすことを確認するためにテストされます。最後に、システムが所有者に引き渡され、委託報告が完了します。"
+          "title": "試運転プロセスはどのように行われますか?",
+          "content": "試運転プロセスにはいくつかの手順が含まれます。"
         },
         "fourth": {
           "title": "作品はどのように発送されますか？",
-          "content": "作品は信頼できる宅配業者を使用して発送され、安全な配達が行われます。"
+          "content": "アート作品は安全な配送を確保するために、信頼できる宅配便を使用して発送されます。"
         },
         "fifth": {
-          "title": "作品を返品できますか？返金手続きはどのようになりますか？",
-          "content": "はい、作品が期待に添わない場合は返品することができます。作品は通常、指定された期間内にその元の状態で返送する必要があります。返送された作品を受け取り、その状態を確認した後、返金手続きが開始されます。返金は、銀行の方針に応じて、元の支払い方法に行われます。"
+          "title": "アートワークを返品できますか? 返金プロセスはどのようなものですか?",
+          "content": "はい、期待に沿わない場合はアートワークを返品できます。"
         }
       }
     },
@@ -304,19 +310,19 @@
         "title": "アカウント管理",
         "link": {
           "first": "アカウントの作成方法",
-          "second": "電子メールの確認",
-          "third": "アカウントの更新",
-          "fourth": "パスワードの変更",
-          "fifth": "アカウントの削除"
+          "second": "メールを確認してください",
+          "third": "アカウントを更新する",
+          "fourth": "パスワードを変更する",
+          "fifth": "アカウントを削除する"
         }
       },
       "artworks": {
         "title": "アートワークの発見",
         "link": {
           "first": "完璧なアートワークを見つける",
-          "second": "特定のアートピースを検索する",
-          "third": "アートワークの詳細を理解する",
-          "fourth": "お気に入りのアートを保存する"
+          "second": "特定のアート作品を検索する",
+          "third": "作品の詳細を理解する",
+          "fourth": "アートをお気に入りに保存する"
         }
       },
       "orders": {
@@ -324,27 +330,27 @@
         "link": {
           "first": "アートワークの依頼方法",
           "second": "アーティストとのコミュニケーション",
-          "third": "AI 生成アートの依頼",
-          "fourth": "依頼の要件を設定する",
-          "fifth": "ステータスの確認",
+          "third": "AI 生成アートの委託",
+          "fourth": "コミッション要件の設定",
+          "fifth": "ステータスを確認中",
           "sixth": "返金ポリシー"
         }
       },
       "generates": {
-        "title": "AI 生成アート",
+        "title": "AI が生成したアート",
         "link": {
-          "first": "AI アートの生成方法",
-          "second": "AI 生成アートの依頼",
-          "third": "AI アートの倫理",
+          "first": "AIアートの生成方法",
+          "second": "AI 生成アートの委託",
+          "third": "AI芸術倫理",
           "fourth": "利用規約"
         }
       },
       "payments": {
         "title": "取引と支払い",
         "link": {
-          "first": "購入する方法",
+          "first": "購入する",
           "second": "支払い方法",
-          "third": "取引のセキュリティ"
+          "third": "トランザクションのセキュリティ"
         }
       },
       "deliveries": {
@@ -352,12 +358,12 @@
         "link": {
           "first": "配送料",
           "second": "出荷の追跡",
-          "third": "返品と返金ポリシー",
-          "fourth": "破損または紛失した出荷の処理"
+          "third": "返品および返金ポリシー",
+          "fourth": "破損または紛失した荷物の処理"
         }
       },
       "terms": {
-        "title": "規約とポリシー",
+        "title": "利用規約とポリシーW",
         "link": {
           "first": "プライバシーポリシー",
           "second": "利用規約"
@@ -365,10 +371,10 @@
       }
     },
     "contact": {
-      "title": "お問い合わせはこちら",
+      "title": "連絡する必要がありますか?",
       "button": "お問い合わせ",
       "also": "また、",
-      "feedback": "フィードバックをお送りください"
+      "feedback": "フィードバックをください"
     }
   },
   "galleries": {
@@ -384,57 +390,57 @@
     "terms": {
       "title": "利用規約",
       "subtitle": "あなたの同意",
-      "content": "サーチアートのサービス利用規約 最終更新日：2019年6月4日 Leaf Group Ltd. の完全子会社であるサーチオンライン株式会社（以下「サーチアート」、「当社」または「私たち」）は、ウェブサイト www.saatchiart.com（以下「サイト」）またはモバイルアプリケーション（以下「モバイルアプリケーション」）を通じて、原作のアート作品の閲覧、販売、購入、およびデジタルアート作品の商業的利用を提供しています。サーチアートによって提供されるサービス、ソフトウェア、ツール、機能、または機能（以下、「サービス」およびそれらの合計「サービス」）を通じて利用可能な。以下の利用規約（以下「利用規約」）および当社のプライバシーポリシーを注意深くお読みください。 プライバシーポリシー） www.saatchiart.com/privacy（以下「プライバシーポリシー」）。これらの利用規約、プライバシーポリシー、およびここでリンクされているその他のポリシーは、サービスへのアクセスと使用を規定し、あなたとサーチアートとの間の法的拘束力のある契約を構成します。サービスの特定のエリアや特定のサービスへのアクセスに対して異なる利用規約が掲示されている場合があります。これらの利用規約とサービスの特定のエリアや特定のサービスへのアクセスに対する利用規約との間で競合がある場合は、後者の利用規約がそのエリアまたはサービスへのアクセスまたは使用に関するあなたの使用に関して優先されます。 この利用規約を注意深くお読みください。 この利用規約には、個別の仲裁に提出することに同意する契約が含まれています。これは、サービスの使用に関連する任意の紛争を裁判所で処理する代わりに、拘束力のある個別の仲裁に提出することに同意することを意味します。 仲裁に同意する契約にオプトアウトしたい場合は、以下の「仲裁に同意する」セクションに記載されている手続きに従う必要があります。紛争解決セクションには、クラスアクションの放棄が含まれており、任意の紛争を個別に処理することに同意することを意味します。これらの条項には、あなたが自分の主張を仲裁するかどうかにかかわらず、陪審裁判の権利を放棄する規定も含まれています。 サービスのアクセスまたは使用。"
+      "content": "Saatchi Art 利用規約 最終更新日：2019 年 6 月 4 日 Leaf Group Ltd. (以下「Saatchi Art」、「当社」) の完全子会社である Saatchi Online, Inc. は、閲覧・販売のためのサービスを提供しています。"
     }
   },
   "commission": {
-    "title": "カスタムアートリクエスト",
-    "referenceArts": "グローバルアートAIの参照",
+    "title": "カスタムアートのリクエスト",
+    "referenceArts": "Global Art AI Artsより引用",
     "budgetPlaceholder": "予算を入力してください",
     "delAddress": "配送先住所",
     "chooseArtist": "アーティストを選択",
-    "selectCategory": "最初にアーティストを選択して、すべてのカテゴリを表示",
-    "category": "カテゴリ",
-    "categoryText": "アーティストは異なるカテゴリに特化しており、カテゴリを選ぶことで、あなたが興味のあるアートの種類を絞り込むのに役立ちます。",
+    "selectCategory": "まずアーティストを選択してすべてのカテゴリを表示します",
+    "category": "カテゴリー",
+    "categoryText": "アーティストはさまざまなカテゴリに特化しており、カテゴリを選択することで、興味のあるアートワークの種類を絞り込むことができます。",
     "styleChoose": "スタイル",
-    "styleChooseText": "これにより、アーティストがあなたの好みのスタイルに合わせて作品を作成できます。",
-    "budget": "予算は？",
+    "styleChooseText": "これは、アーティストが自分の作品を好み​​のスタイルに合わせるのに役立ちます",
+    "budget": "予算とは何ですか?",
     "days": "日",
-    "referenceArtist": "アーティストの参考",
+    "referenceArtist": "アーティストリファレンス",
     "style": {
-      "title": "アートリクエストを開始するためのスタイルを選択",
+      "title": "スタイルを選択してアートリクエストを開始してください",
       "tabs": {
         "paintings": "絵画",
         "sculptures": "彫刻",
         "prints": "プリント"
       },
       "paintings": {
-        "portrait": "ポートレート",
-        "price": "1500ドルから"
+        "portrait": "肖像画",
+        "price": "1500ドルから始まります"
       }
     },
     "description": {
-      "title": "あなたのビジョンを自分の言葉で説明してください",
-      "placeholder": "希望する内容、テーマ、スタイル、色、および含めたい特定の要素を含む説明を提供してください"
+      "title": "自分のビジョンを自分の言葉で説明する",
+      "placeholder": "件名、スタイル、色、含めたい特定の要素など、希望する内容の説明を入力します。"
     },
     "size": {
-      "title": "アートワークのサイズ（幅×高さ）:",
-      "optional": "任意",
-      "description": "アートワークの標準的な寸法を選択するか、独自の寸法を指定してください",
+      "title": "アートワークのサイズ (幅 x 高さ):",
+      "optional": "オプション",
+      "description": "アートワークの標準寸法を選択するか、独自の寸法を指定します",
       "select": "希望なし"
     },
     "timeline": {
-      "title": "タイムラインの希望",
-      "optional": "任意",
-      "description": "カスタムアートワークを受け取るための希望するタイムフレームがある場合は、アーティストに知らせてください。アーティストが確認して変更する場合があります",
+      "title": "タイムラインの設定 ",
+      "optional": "オプション",
+      "description": "依頼されたアートワークを受け取るための希望の期間があるかどうかをアーティストに伝えてください。",
       "select": "希望なし"
     },
     "reference": {
       "title": "参考画像",
       "description": "アーティストがあなたのビジョンを理解するのに役立つ参考画像やファイルを添付してください",
-      "upload": "ここに写真をドラッグ＆ドロップ"
+      "upload": "ここに写真をドラッグ アンド ドロップします"
     },
-    "submit": "リクエストを送信",
+    "submit": "リクエストの送信",
     "artist": {
       "followers": "フォロワー",
       "terms": "利用規約"
@@ -443,69 +449,70 @@
   "cart": {
     "title": "カート",
     "shipping_title": "配送",
-    "shipping_calc": "次の手順で計算されます",
-    "save": "後で保存",
-    "saved": "後で保存されました",
-    "remove": "削除",
-    "artworks": "作品",
+    "shipping_calc": "次のステップで計算されます",
+    "save": "後で使うために保存しておきます",
+    "saved": "後で使用するために保存",
+    "delivery_price": "配送価格",
+    "remove": "取り除く",
+    "artworks": "芸術作品",
     "address": "住所",
-    "chooseAddress": "住所を選択",
-    "fillAddress": "このフィールドを入力してください",
-    "fee": "グローバルアートサービス料金",
-    "total": "見積もり合計",
-    "shipping": "配送料は含まれていません",
+    "chooseAddress": "住所を選択してください",
+    "fillAddress": "このフィールドに記入してください",
+    "fee": "グローバルアートサービス料",
+    "total": "推定合計額",
+    "shipping": "送料は含まれておりません",
     "checkout": "チェックアウト",
-    "emptyTitle": "表示するカートのアイテムがありません",
-    "emptyText": "カートにアイテムがありません。ショップに移動してカートにアイテムを追加してください。",
-    "unfortunately": "残念ながら、カートは利用できません。登録またはログインしてください",
+    "emptyTitle": "表示するカート項目がありません",
+    "emptyText": "カートには商品がありません。",
+    "unfortunately": "申し訳ございませんが、カートはご利用いただけません。登録またはログインしてください。",
     "login": "ログイン",
-    "register": "登録"
+    "register": "登録する"
   },
   "general": {
     "mode": "バイヤーモードに切り替える",
-    "artist": "カスタムアート利用可能",
-    "blogBlock": "分の読み物",
+    "artist": "カスタムアートに利用可能",
+    "blogBlock": "分で読んだ",
     "cookieResolve": {
-      "title": "当ウェブサイトはクッキーを使用しています",
-      "text": "当ウェブサイトではクッキーを使用しています。引き続きご利用いただくことで、当社の",
+      "title": "当社のウェブサイトは Cookie を使用しています",
+      "text": "当社のウェブサイトでは Cookie を使用しています。",
       "privacy": "プライバシーポリシー",
-      "decline": "拒否",
-      "accept": "同意"
+      "decline": "衰退",
+      "accept": "受け入れる"
     },
-    "location": "位置情報取得中",
+    "location": "位置を特定する",
     "pagination": {
-      "showBy": "表示数",
+      "showBy": "表示方法",
       "prev": "前へ",
-      "next": "次へ"
+      "next": "次"
     },
     "sort": {
-      "title": "並べ替え",
+      "title": "選別",
       "popularity": "人気順",
-      "price": "価格順"
+      "price": "価格別"
     },
     "theme": {
       "light": "ライト",
-      "dark": "ダーク",
+      "dark": "暗い",
       "sepia": "セピア"
     }
   },
   "detailBlog": {
-    "readAlso": "分の読み物"
+    "readAlso": "分で読んだ"
   },
   "detailArtist": {
     "about": {
       "title": "アーティストについて",
-      "studioTitle": "スタジオクロニクル",
+      "studioTitle": "スタジオクロニクルズ",
       "educationTitle": "教育",
-      "achievementTitle": "認識とイベント",
-      "exhibitionTitle": "進行中の展覧会",
-      "featuredTitle": "注目コレクション",
-      "creativeCreed": "創造的信条",
+      "achievementTitle": "表彰とイベント",
+      "exhibitionTitle": "開催中の展覧会",
+      "featuredTitle": "注目のコレクション",
+      "creativeCreed": "創作信条",
       "portfolio": "ポートフォリオ",
       "authorWorks": "作者の作品",
       "showAll": "すべて表示"
     },
-    "artworks": "作品"
+    "artworks": "芸術作品"
   },
   "categories": {
     "artworksFilter": {
@@ -513,174 +520,175 @@
       "custom": "カスタム作成者のみ",
       "year": "年",
       "from": "から",
-      "y": "年",
-      "to": "まで",
+      "y": "y",
+      "to": "に",
       "price": "価格",
       "minimum": "最小",
       "maximum": "最大",
       "sale": "販売中",
       "sold": "販売済み",
-      "movement": "運動とスタイル",
-      "rarity": "希少性",
+      "movement": "動きとスタイル",
+      "rarity": "レアリティ",
       "certs": "証明書",
       "signatures": "署名",
-      "materials": "素材",
+      "materials": "材料",
       "styles": "スタイル",
-      "submit": "送信",
+      "submit": "提出する",
       "reset": "すべてのフィルターをリセット"
     },
     "sort": {
-      "sort": "並べ替え",
+      "sort": "選別",
       "popularity": "人気順",
-      "price": "価格順",
+      "price": "価格別",
       "search": "検索..."
     }
   },
   "buyerComponent": {
     "edit": "バイヤーの編集",
-    "change": "以下のフィールドを変更できます",
+    "change": "次のフィールドを変更できます",
     "fullName": "フルネーム",
-    "fill": "このフィールドを記入してください",
-    "confirm": "確認",
+    "fill": "このフィールドに記入してください",
+    "confirm": "確認する",
     "cancel": "キャンセル",
-    "close": "閉じる"
+    "close": "近い"
   },
   "landing": {
     "ar": {
-      "title": "アートを視覚化",
-      "description": "ARはあなたのスペースでの機能を表示します"
+      "title": "アートを視覚化する",
+      "description": "AR があなたの空間でどのように機能するかを示します"
     },
     "buyArt": {
       "tags": {
-        "contemporary": "現代の",
+        "contemporary": "コンテンポラリー",
         "abstract": "抽象的な",
         "modern": "モダンな",
         "colors": "色"
       },
       "title": {
-        "main": "あなたに訴える",
-        "span": "アートを買う"
+        "main": "アートを購入する",
+        "span": "あなたに話しかけます"
       },
-      "description": "アートエキスパートとAIの推薦の助けを借りて発見し、購入してください",
-      "link": "あなたのアーティストを見つける"
+      "description": "アートの専門家と AI の推奨事項を活用して見つけて購入しましょう",
+      "link": "あなたのアーティストを見つけてください"
     },
     "gridBlock": {
       "title": {
-        "main": "感じて、体験して、大切にしてください",
-        "span": "アート"
+        "main": "感じ、経験し、大切にする",
+        "span": "美術"
       },
       "authenticity": {
-        "title": "正統性",
-        "subtitle": "保証されました",
-        "description": "正統性証明書が付属しています。各作品は、その正統性と価値を保証します"
+        "title": "信頼性",
+        "subtitle": "保証されています",
+        "description": "各アートワークには真正性証明書が付属し、その真正性と価値を保証します。"
       },
       "delivery": {
         "title": "配達",
-        "description": "アーティストからあなたの玄関まで",
-        "link": "料金をチェックする"
+        "description": "アーティストからあなたの玄関先まで",
+        "link": "料金を確認する"
       },
       "expertGuidance": {
-        "title": "専門的なアートガイダンス",
-        "description": "経験豊富な専門家チームが、カスタマイズされた推薦と洞察に満ちた助言を提供します",
-        "link": "料金をチェックする"
+        "title": "専門家によるアート指導",
+        "description": "経験豊富な専門家のチームが、カスタマイズされた推奨事項と洞察力に富んだアドバイスを提供します",
+        "link": "料金を確認する"
       }
     },
     "heroAnimation": {
       "title": {
-        "main": "アーティストとアートを",
-        "span": "愛好家を世界中から一緒にする",
-        "text": "來自世界各地的戀人聚集在一起"
+        "main": "持参します",
+        "span": "アーティストとアート",
+        "text": "世界中から集まった恋人たち"
       },
-      "description": "10,590の即戦力のアート＆3943のアーティストから選択できます",
-      "video": "お使いのブラウザはビデオタグをサポートしていません。"
+      "description": "10,590 点の既成アートと 3943 人のアーティストから選択可能",
+      "video": "お使いのブラウザはvideoタグをサポートしていません。"
     },
     "infiniteScroll": {
       "title": {
-        "main": "アーティストとアートの専門家との直接のコラボレーション",
-        "span": "コラボレート"
+        "main": "と直接コラボレーションする",
+        "span": "アーティストとアートの専門家"
       },
-      "description": "どの言語でも簡単にコミュニケーションが取れます"
+      "description": "どの言語でも楽々コミュニケーション"
     },
     "orderCustomArt": {
       "title": {
-        "main": "カスタムアートを",
-        "span": "注文する"
+        "main": "注文",
+        "span": "カスタムアート"
       },
-      "description": "AI技術を使用してアイデアを視覚化します。私たちはそれを現実にします",
-      "findBtn": "あなたのアーティストを見つける",
-      "howItWorksBtn": "動作方法は？",
-      "available": "カスタムアート作品用に利用可能",
-      "video": "お使いのブラウザはビデオタグをサポートしていません。",
-      "makeReference": "AIを使用してリファレンスを作成する"
+      "description": "AI技術を活用してあなたのアイデアを視覚化します。",
+      "findBtn": "あなたのアーティストを見つけてください",
+      "howItWorksBtn": "仕組みは?",
+      "available": "カスタムアートワークが利用可能",
+      "video": "お使いのブラウザはvideoタグをサポートしていません。",
+      "makeReference": "AI を使用してリファレンスを作成する"
     }
   },
   "mainPage": {
     "categories": {
-      "shopBy": "カテゴリー別ショップ"
+      "shopBy": "カテゴリ別に購入する"
     },
     "hero": {
       "slide": {
         "buttons": {
-          "shopNow": "今すぐショッピング",
-          "howToOrder": "カスタムアートを注文する方法？"
+          "browse": "作品を見る",
+          "explore": "アーティストを探索する",
+          "order": "カスタムアートを注文する"
         },
         "first": {
           "title": {
-            "order": "注文する",
+            "order": "優れたアーティストのオリジナルアートを購入する",
             "custom": "カスタム",
-            "art": "アート"
+            "art": "美術"
           },
-          "content": "1000人以上の才能あるアーティストから選んで、あなたのビジョンを実現させます"
+          "content": "1,000 人以上の才能あるアーティストから選んで、あなたのビジョンに命を吹き込みましょう"
         },
         "second": {
           "title": {
-            "buy": "購入する",
+            "buy": "買う",
             "reallyMade": "オリジナルアート"
           },
-          "content": "1000人以上の才能あるアーティストから選んで、あなたのビジョンを実現させます"
+          "content": "1,000 人以上の才能あるアーティストから選んで、あなたのビジョンに命を吹き込みましょう"
         }
       }
     },
     "risingTalents": {
-      "title": "新進気鋭の才能",
-      "showAll": "すべて表示"
+      "title": "台頭する才能",
+      "showAll": "成長中の才能をすべて発揮する"
     },
     "trending": {
       "title": "トレンド",
-      "showAll": "すべて表示"
+      "showAll": "トレンドをすべて表示"
     }
   },
   "profile": {
     "links": {
-      "title": "マイアカウント",
+      "title": "私のアカウント",
       "dashboard": "ダッシュボード",
       "orders": "注文",
-      "savedArtworks": "保存した作品",
-      "followingArtists": "フォローしているアーティスト",
+      "savedArtworks": "保存された作品",
+      "followingArtists": "アーティストをフォロー中",
       "reviews": "レビュー",
       "giftCard": "ギフトカード",
-      "commissions": "委託"
+      "commissions": "手数料"
     },
     "commissions": {
-      "title": "委託",
-      "noCommissions": "まだ委託がありません",
-      "noCommissionsText": "委託のリストが表示されるまで、委託依頼を受け取るときに表示されます！"
+      "title": "手数料",
+      "noCommissions": "表示するコミッションはまだありません",
+      "noCommissionsText": "コミッションリクエストを受け取ると、コミッションのリストを確認できるようになります。"
     },
     "settingLinks": {
       "title": "アカウント設定",
       "profile": "プロフィール",
-      "addressBook": "住所録",
+      "addressBook": "アドレス帳",
       "help": "ヘルプ"
     },
     "dashboard": {
-      "editProfile": "プロフィールを編集",
+      "editProfile": "プロフィールの編集",
       "recentOrders": "最近の注文",
-      "viewAll": "すべて表示",
-      "noOrders": "まだ注文がありません",
-      "noOrdersText": "注文をすると、注文リストを見る機会があります！",
+      "viewAll": "すべて見る",
+      "noOrders": "表示する注文はまだありません",
+      "noOrdersText": "注文すると、注文リストが表示されます。",
       "artistsYouFollow": "フォローしているアーティスト",
-      "noSubscriptions": "まだ購読がありません",
-      "noSubscriptionsText": "アーティストをフォローすると、アーティストのリストが表示されるようになります！"
+      "noSubscriptions": "表示するサブスクリプションはまだありません",
+      "noSubscriptionsText": "アーティストをフォローすると、アーティストのリストが表示されます。"
     },
     "orders": {
       "title": "注文",
@@ -690,37 +698,37 @@
       "date": "日付",
       "address": "住所",
       "waiting": "配達待ち",
-      "noOrders": "まだ注文がありません",
-      "noOrdersText": "注文をすると、注文リストを見る機会があります！"
+      "noOrders": "表示する注文はまだありません",
+      "noOrdersText": "注文すると、注文リストが表示されます。"
     },
     "savedArtworks": {
       "title": "私のコレクション",
       "noItems": "コレクションにアイテムがありません",
-      "noItemsText": "アイテムページのハートアイコンをクリックして、コレクションにアイテムを追加できます。"
+      "noItemsText": "アイテム ページのハートのアイコンをクリックすると、アイテムをコレクションに追加できます。"
     },
     "followingArtists": {
       "title": "フォローしているアーティスト",
-      "viewAll": "すべて表示",
-      "artistMaterial": "アーティストの素材",
+      "viewAll": "すべて見る",
+      "artistMaterial": "アーティスト素材",
       "artStyle": "アートスタイル",
-      "typeOfPainting": "絵のタイプ",
-      "noArtists": "まだアーティストがいません",
+      "typeOfPainting": "塗装の種類",
+      "noArtists": "まだ紹介するアーティストがいません",
       "noArtistsText": "アーティストリストからアーティストをフォローできます"
     },
     "review": {
       "tabs": {
         "notReviewed": "まだレビューされていません",
-        "previouslyReviewed": "以前にレビューされました"
+        "previouslyReviewed": "以前にレビューした"
       },
       "title": "レビュー",
       "reviews": "レビュー",
       "writeReview": "レビューを書く",
       "send": "送信",
       "cancel": "キャンセル",
-      "submit": "提出",
+      "submit": "提出する",
       "search": "注文番号で検索",
-      "noReviews": "まだレビューがありません",
-      "noReviewsText": "注文を受け取った後にレビューを書くことができます"
+      "noReviews": "表示するレビューはまだありません",
+      "noReviewsText": "ご注文後にレビューを書いていただけます"
     },
     "profile": {
       "title": "アカウント情報",
@@ -728,271 +736,286 @@
       "edit": "編集",
       "cancel": "キャンセル",
       "save": "保存",
-      "thisIs": "これはあなたの書類に記載された名前です",
-      "typeHere": "ここに入力",
-      "email": "メールアドレス",
+      "thisIs": "これはあなたの書類上の名前です",
+      "typeHere": "ここに入力してください",
+      "email": "電子メールアドレス",
       "password": "パスワード",
       "accountDeactivation": "アカウントの無効化または削除",
-      "deactivate": "アカウントを無効化",
-      "delete": "アカウントを削除",
-      "deleteConfirm": "アカウントを削除してもよろしいですか？",
-      "deleteButton": "削除",
+      "deactivate": "アカウントを無効化する",
+      "delete": "アカウントを削除する",
+      "deleteConfirm": "アカウントを削除してもよろしいですか?",
+      "deleteButton": "消去",
       "noData": "データなし"
     },
     "address": {
-      "savedAddresses": "保存された住所",
-      "addNew": "新しい住所を追加",
+      "savedAddresses": "保存されたアドレス",
+      "addNew": "新しいアドレスを追加",
       "default": "デフォルト",
       "title": "住所",
-      "fillOutField": "このフィールドを記入してください",
-      "city": "市区町村",
-      "state": "都道府県",
+      "fillOutField": "このフィールドに記入してください",
+      "city": "市",
+      "state": "州",
       "country": "国",
       "zip": "郵便番号",
       "phone": "電話番号",
       "fullName": "フルネーム",
-      "remove": "削除",
+      "remove": "取り除く",
       "edit": "編集",
-      "submit": "送信",
+      "submit": "提出する",
       "createAddressModal": {
-        "title": "新しい住所を追加"
+        "title": "新しいアドレスを追加"
       },
       "editAddressModal": {
-        "title": "住所を編集",
-        "submit": "送信"
+        "title": "住所の編集",
+        "submit": "提出する"
       },
-      "noAddresses": "まだ表示する住所がありません",
-      "noAddressesText": "上記のボタンをクリックして新しい住所を追加できます"
+      "noAddresses": "表示する住所はまだありません",
+      "noAddressesText": "上のボタンをクリックすると新しいアドレスを追加できます"
     },
     "customArtRequests": {
       "title": "カスタムアートのリクエスト",
       "pending": "保留中",
       "artType": "アートタイプ（絵画、ポートレート）",
-      "description": "私の結婚式の夜の魔法の思い出 - でも、写真では心の中で感じていたようにその日を捉えることができませんでした",
-      "size": "サイズの希望",
-      "timeline": "タイムラインの希望",
-      "edit": "リクエストの編集"
+      "description": "私の頭の中には結婚式の夜からの魔法のような記憶がありました - しかし、私がちょうど持っていた写真は、私が心の中で感じていたようにその日を捉えていませんでした",
+      "size": "サイズの好み",
+      "timeline": "タイムラインの設定",
+      "edit": "編集リクエスト"
     }
   },
   "search": {
-    "sort": "ソート",
+    "sort": "選別",
     "byPopularity": "人気順",
-    "artworks": "作品",
-    "noArtworks": "作品がありません",
+    "artworks": "芸術作品",
+    "noArtworks": "作品はありません",
     "article": "記事"
   },
   "wishList": {
-    "title": "マイコレクション",
+    "title": "私のコレクション",
     "noItemsTitle": "コレクションにアイテムがありません",
-    "noItemsText": "アイテムページのハートアイコンをクリックして、コレクションにアイテムを追加できます。"
+    "noItemsText": "アイテム ページのハートのアイコンをクリックすると、アイテムをコレクションに追加できます。"
   },
   "dragAndDrop": {
-    "title": "ここに参照画像をドラッグアンドドロップしてください！",
-    "maxSize": "最大ファイルサイズ: 2MB",
-    "browseFile": "ファイルを参照",
-    "uploadImage": "画像をアップロード"
+    "title": "参考画像をここにドラッグ＆ドロップしてください。",
+    "maxSize": "最大。",
+    "browseFile": "ファイルの参照",
+    "uploadImage": "画像をアップロードする"
   },
   "payment": {
     "success": {
       "title": "ご注文ありがとうございます",
       "description": "ご注文の詳細が記載された注文確認メールが届きます。",
-      "orderNumber": "ご注文番号は",
+      "orderNumber": "あなたの注文番号は、",
       "backToMain": "メインページに戻る",
-      "orderedArtworks": "注文した作品"
+      "orderedArtworks": "ご注文いただいた作品"
     },
     "failed": {
       "title": "支払いに失敗しました",
-      "description": "支払いが正常に完了しませんでした。もう一度お試しください。問題が解決しない場合は、カスタマーサポートにお問い合わせください。",
-      "orderNumber": "ご注文番号は",
+      "description": "お支払いは正常に完了しませんでした。",
+      "orderNumber": "あなたの注文番号は、",
       "backToMain": "メインページに戻る"
     }
   },
   "artistProfile": {
     "noElements": {
-      "title": "作品が見つかりません",
-      "text": "ここに表示するために新しい作品を追加してください。"
+      "title": "作品が見つかりませんでした",
+      "text": "新しい作品を追加してここに表示してください。"
     },
-    "welcome": "おかえりなさい",
+    "welcome": "おかえり",
     "tabs": {
       "overview": "概要",
-      "artworks": "作品",
+      "artworks": "芸術作品",
       "promocode": "プロモーションコード",
-      "commissions": "委託",
+      "commissions": "手数料",
       "messages": "メッセージ"
     },
     "confirm": {
-      "title": "あなたのアカウントはまだ確認されていません",
-      "description": "提供された情報を管理者が確認するのをお待ちください。",
-      "verify": "今すぐ確認"
+      "title": "あなたのアカウントはまだ認証されていません",
+      "description": "管理者が入力した情報を確認するまでお待ちください。",
+      "verify": "今すぐ確認してください"
     },
     "works": {
       "title": "あなたの作品",
-      "total": "合計作品数",
-      "manage": "作品を管理",
-      "review": "審査中",
-      "edit": "詳細を編集"
+      "total": "総作品数",
+      "manage": "アートワークの管理",
+      "review": "検討中",
+      "edit": "詳細の編集"
     },
     "dashboard": {
       "yourArtworks": "あなたの作品",
-      "artworksInStock": "在庫の作品",
-      "artworksSold": "売れた作品",
-      "availableForCommissions": "委託依頼可能ですか？",
-      "availableSubtitle": "訪問者にカスタムアートのリクエストを受け付けていることを知らせる",
+      "artworksInStock": "作品の在庫あり",
+      "artworksSold": "販売された作品",
+      "availableForCommissions": "コミッションを利用できますか?",
+      "availableSubtitle": "カスタム アートのリクエストに対応していることを訪問者に知らせます",
       "followers": "フォロワー",
-      "following": "フォロー中",
+      "following": "続く",
       "bio": "バイオ",
       "styles": "スタイル",
       "materials": "材料",
-      "subjects": "テーマ",
-      "achievements": "達成",
-      "education": "学歴",
+      "subjects": "科目",
+      "achievements": "業績",
+      "education": "教育",
       "exhibitions": "展示会",
-      "studioChronicles": "スタジオの記録",
-      "noInfoAbout": "情報がありません",
+      "studioChronicles": "スタジオクロニクルズ",
+      "noInfoAbout": "に関する情報はありません",
       "buttons": {
         "edit": "編集",
-        "more": "もっと見る",
-        "less": "少なく",
-        "editProfile": "プロフィールを編集",
-        "previewProfile": "プロフィールをプレビュー",
-        "goToArtworks": "作品に移動",
-        "editAvailability": "可用性を編集"
+        "more": "もっと",
+        "less": "少ない",
+        "editProfile": "プロフィールの編集",
+        "previewProfile": "プレビュープロファイル",
+        "goToArtworks": "作品集へ",
+        "editAvailability": "空き状況を編集する"
       }
     },
     "comission": {
-      "title": "委託依頼",
-      "total": "進行中の委託",
-      "details": "詳細を見る",
-      "requests": "新しい依頼",
-      "messages": "メッセージへ",
-      "isAvailable": "委託を受け付ける準備ができていますか？",
-      "question": "アートを世界に公開するために、アイデンティティを確認してください。作品を公開するには今すぐ確認してください。",
-      "reject": "いいえ、利用できません",
+      "title": "コミッションリクエスト",
+      "total": "継続的なコミッション",
+      "details": "詳細へ",
+      "requests": "新しいリクエスト",
+      "messages": "メッセージに移動",
+      "isAvailable": "コミッションは受けられますか?",
+      "question": "あなたのアートを世界に紹介するには、あなたの身元を確認してください。",
+      "reject": "いいえ、不在です",
       "accept": "はい、利用可能です",
-      "execution": "実行日数",
-      "personalities": "私たちのリビングルームに掛ける家族のカスタムポートレートが欲しいです。ポートレートは私たちの絆と個性の本質を捉えるべきです。",
-      "decision": "決定する準備ができていますか？",
-      "discussDetails": "もし既に詳細を話し合ったり、このリクエストについて明確な希望がある場合は",
-      "acceptCommission": "委託を受け入れる",
-      "decline": "拒否する",
-      "notSpecified": "価格が指定されていません",
-      "requested": "リクエストされました",
+      "execution": "執行日数",
+      "personalities": "家族のカスタムポートレートをリビングルームに飾りたいと思っています。",
+      "decision": "決断する準備はできていますか?",
+      "discussDetails": "すでに詳細について話し合っている場合、またはこのリクエストについて明確な希望がある場合",
+      "acceptCommission": "コミッションを受け入れる",
+      "decline": "衰退",
+      "notSpecified": "価格は指定されていません",
+      "acceptOrder": "カスタムオーダーを受け入れる",
+      "acceptOrderContent": "ご注文を受ける前に、お客様へのメッセージをご記入ください",
+      "declineOrder": "カスタムオーダーを拒否する",
+      "declineOrderContent": "注文を拒否する前に、お客様へのメッセージを書いてください",
+      "updateOrderParams": "カスタムオーダーパラメータを更新する",
+      "updateOrderPrice": "カスタムオーダー価格を更新",
+      "updatePriceTitle": "価格",
+      "updatePriceContent": "カスタムオーダーの最終価格を入力します",
+      "requested": "要求された",
       "requestedUser": "ユーザーが要求したサイズ",
-      "finalSize": "最終サイズ",
+      "finalSize": "最終的なサイズ",
       "chat": "チャット",
-      "updateParams": "パラメータを更新",
-      "updatePrice": "価格を更新"
+      "updateParams": "パラメータを更新する",
+      "updatePrice": "価格を更新します"
     },
     "insights": {
-      "title": "洞察：2023年11月",
+      "title": "インサイト: 2023 年 11 月",
       "monthRevenue": "今月の収益",
-      "sold": "販売された作品",
-      "commission": "委託された作品",
-      "sales": "国別売上"
+      "sold": "販売済みの作品",
+      "commission": "委託作品",
+      "sales": "国別売上高"
     },
     "tips": {
       "title": "ヒントとガイダンス",
       "first": {
-        "title": "スマートフォンで素晴らしい写真を撮る方法"
+        "title": "携帯電話で素晴らしい写真を撮る方法"
       },
       "second": {
-        "title": "機能するリスティング説明の書き方"
+        "title": "効果的な商品説明の書き方"
       }
     },
     "message": {
       "title": "メッセージ"
     },
     "artworks": {
-      "title": "作品",
-      "addNewArt": "新しい作品を追加",
-      "options": "表示オプション",
+      "ready_to_send": "送信する準備ができました",
+      "ready_to_send_modal": {
+        "title": "送信する準備ができました",
+        "description": "アートワークを顧客に送信してもよろしいですか?",
+        "send": "送信",
+        "cancel": "キャンセル"
+      },
+      "title": "芸術作品",
+      "addNewArt": "新しいアートを追加する",
+      "options": "オプションを表示する",
       "info": {
         "id": "ID",
         "images": "画像",
         "title": "タイトル",
         "description": "説明",
         "price": "価格",
-        "date": "作成日",
+        "date": "で作成されました",
         "validateStatus": "検証済み",
         "notValidated": "未検証",
         "sale": "販売中",
-        "sold": "売り切れ",
+        "sold": "いいえ",
         "actions": "アクション",
         "yes": "はい",
         "no": "いいえ",
         "inStock": "在庫あり",
-        "soldOut": "売り切れ",
-        "noArtworks": "作品がありません",
+        "soldOut": "完売",
+        "noArtworks": "作品はありません",
         "tryAgain": "アーティストはまだ絵をアップロードしていません"
       }
     },
     "addArtwork": {
       "details": "詳細",
-      "upload": "画像をアップロード",
-      "price": "価格と配送",
+      "upload": "画像をアップロードする",
+      "price": "価格と送料",
       "preview": "プレビュー",
-      "back": "作品に戻る",
-      "next": "次へ"
+      "back": "作品集に戻る",
+      "next": "次"
     },
     "promocode": {
       "discountAmount": "割引額",
       "promocodeAdd": "プロモーションコードを追加",
-      "promocodeNo": "プロモーションコードが見つかりません",
-      "promocodeNoText": "プロモーションコードがありません。追加してください。"
+      "promocodeNo": "プロモコードが見つかりません",
+      "promocodeNoText": "プロモーション コードをお持ちではありません。追加してください"
     },
     "comissions": {
       "title": "手数料",
       "links": {
-        "commissions": "すべての手数料",
-        "work": "進行中",
-        "new": "新規",
-        "declined": "拒否",
+        "commissions": "すべてのコミッション",
+        "work": "仕事中",
+        "new": "新しい",
+        "declined": "拒否されました",
         "completed": "完了",
-        "onReview": "審査中",
+        "onReview": "レビュー中",
         "pricing": "価格設定",
-        "waitingForPayment": "支払い待ち",
-        "paid": "支払済み",
-        "waitingForDelivery": "配送待ち"
+        "waitingForPayment": "支払いを待っています",
+        "paid": "有料",
+        "waitingForDelivery": "配達を待っています"
       },
       "settings": {
         "budget": "予算",
-        "size": "サイズの希望",
+        "size": "サイズの好み",
         "time": "タイムライン"
       },
       "buttons": {
-        "more": "詳細を表示",
-        "conversation": "会話を開始"
+        "more": "さらに詳しく",
+        "conversation": "会話を開始する"
       }
     }
   },
   "artistRegistration": {
     "placeholders": {
-      "firstName": "名前",
-      "lastName": "姓",
+      "firstName": "ファーストネーム",
+      "lastName": "苗字",
       "fullName": "フルネーム"
     },
     "modals": {
       "education": {
         "title": "教育",
-        "school": "学校 / 大学",
+        "school": "学校・大学",
         "faculty": "学部",
-        "degree": "学位",
-        "chooseDegree": "学位を選択",
+        "degree": "程度",
+        "chooseDegree": "学位を選択してください",
         "startYear": "開始年",
         "endYear": "終了年",
-        "addAnotherSchool": "別の学校 / 大学を追加"
+        "addAnotherSchool": "別の学校/大学を追加"
       },
       "achievements": {
-        "title": "実績または認識",
-        "subtitle": "芸術的な実績や認識を共有することで、芸術コミュニティへの貢献が強調されます"
+        "title": "業績や評価",
+        "subtitle": "芸術的な成果や評価を共有すると、アート コミュニティへの貢献を強調するのに役立ちます"
       },
       "exhibitions": {
         "title": "展示会",
-        "name": "展示会名",
-        "location": "場所",
+        "name": "展覧会について",
+        "location": "位置",
         "startDate": "開始日",
         "endData": "終了日",
-        "addAnother": "別の展示会を追加",
+        "addAnother": "別の展示を追加する",
         "photo": "写真"
       },
       "profilePhoto": {
@@ -1003,167 +1026,167 @@
         "title": "ポートフォリオ",
         "works": "作品",
         "fillTitlePlaceholder": "タイトルを入力してください",
-        "pleaseUpload": "少なくともアップロードしてください"
+        "pleaseUpload": "ポートフォリオから少なくとも 1 つのアートワークを提供するか、作業中の自分自身を映してください。 "
       },
       "editAbout": {
-        "title": "アーティストについての編集",
-        "minimumCharacters": "最小40文字"
+        "title": "アーティストについて編集する",
+        "minimumCharacters": "最低 40 文字"
       },
       "editArtistParams": {
-        "title": "アーティストパラメータの編集"
+        "title": "アーティストパラメータを編集する"
       },
       "editCreativeCredo": {
-        "title": "創造的信念の編集"
+        "title": "クリエイティブ信条を編集する"
       },
       "editArtistName": {
-        "title": "名前を編集",
-        "firstName": "名",
-        "lastName": "姓"
+        "title": "名前の編集",
+        "firstName": "ファーストネーム",
+        "lastName": "苗字"
       }
     },
     "profileSetup": {
       "tabs": {
-        "artisticProfile": "芸術的プロフィール設定",
+        "artisticProfile": "芸術的プロファイルの設定",
         "pictures": "写真",
         "verification": "検証",
         "preview": "プレビュー"
       },
       "firstStep": {
         "basicInfoTitle": "基本情報",
-        "basicInfoSubtitle": "プロフェッショナルな存在感を示すために、以下の提案されたフィールドを入力してください",
-        "firstName": "名",
-        "lastName": "姓",
-        "artisticName": "芸術名（任意、異なる場合のみ）",
-        "fillOutPlaceholder": "異なる芸術名を持っている場合は、このフィールドに記入してください",
+        "basicInfoSubtitle": "専門的な対応を希望する場合は、以下の推奨フィールドに記入してください",
+        "firstName": "ファーストネーム",
+        "lastName": "苗字",
+        "artisticName": "芸術名 (オプション、異なる場合のみ)",
+        "fillOutPlaceholder": "別の芸術名がある場合は、このフィールドに記入してください",
         "chooseCountry": "国を選択してください",
         "country": "国",
         "state": "州",
         "city": "市",
-        "providesYourLocation": "潜在的なバイヤーがあなたの出身地または影響範囲を理解できるようにします",
-        "note": "注意：提出された情報が正確であることを確認してください。これらのフィールドが送信されると、その後の変更はチームによる審査の対象となります。",
+        "providesYourLocation": "あなたの所在地を提供し、潜在的な購入者があなたの出身地や影響力のある地域を理解できるようにします",
+        "note": "注: 送信されたすべての情報が正しいことを確認してください。",
         "address": "住所",
         "zipcode": "郵便番号",
         "phone": "電話番号"
       },
       "secondStep": {
-        "briefBio": "簡単なバイオ",
+        "briefBio": "略歴",
         "bio": "バイオ",
-        "credoTitle": "創造的信念",
-        "credo": "信念",
-        "bioPlaceholder": "自己についての簡単なバイオを書いてください。最小40文字。",
-        "credoPlaceholder": "自己についての信念を書いてください。最小40文字。",
-        "minimumCharacters": "最小40文字",
+        "credoTitle": "クリエイティブな信条",
+        "credo": "信条",
+        "bioPlaceholder": "あなた自身についての簡単な自己紹介を書いてください。",
+        "credoPlaceholder": "あなた自身についての信条を書いてください。",
+        "minimumCharacters": "最低 40 文字",
         "additionalDetails": "追加の詳細",
-        "youCanUpdate": "いつでもプロフィール設定から情報を更新または追加できます"
+        "youCanUpdate": " プロフィール設定からいつでも情報を更新または追加できます。"
       },
       "thirdStep": {
-        "areYouOpen": "アートの依頼を受け付けますか？",
-        "youCanChange": "プロフィール設定で可用性を変更できます",
-        "yesImOpen": "はい、カスタムの依頼を受け付けます",
-        "thisIndicatesToYes": "これにより、購入者に利用可能であり、興味があればカスタム作業を受け入れることが示されます",
-        "noImNotOpen": "いいえ、現在は受け付けていません",
-        "thisIndicatesToNot": "これにより、現在カスタムの依頼を受け付けていないことが示されます"
+        "areYouOpen": "アートコミッションを受け付けていますか?",
+        "youCanChange": "プロフィール設定で空き状況を変更できます",
+        "yesImOpen": "はい、カスタムコミッションを歓迎します",
+        "thisIndicatesToYes": "これは、あなたが対応可能であり、興味があればカスタム作業を受け入れる可能性があることを購入者に示します",
+        "noImNotOpen": "いいえ、現在対応できません",
+        "thisIndicatesToNot": "これは、現在カスタム コミッションを受け入れていないことを示します"
       },
       "fourthStep": {
         "describeYourStyle": "あなたの芸術的スタイルを説明してください",
-        "category": "カテゴリー",
-        "chooseAtLeast": "少なくとも1つを選択してください",
+        "category": "カテゴリ",
+        "chooseAtLeast": "少なくとも 1 つ選択してください",
         "materials": "材料",
         "styles": "スタイル",
-        "subject": "テーマ"
+        "subject": "主題"
       },
       "fifthStep": {
-        "upload": "写真をアップロード",
-        "subtitle": "プロフィールを個人化し、プラットフォーム上での存在感に個人的なタッチを加えます",
+        "upload": "写真をアップロードする",
+        "subtitle": "あなたのプロフィールをパーソナライズし、プラットフォーム上のあなたの存在に個人的なタッチを加えるのに役立ちます",
         "profilePhoto": "プロフィール写真",
-        "aboutSectionPhoto": "「About」セクションの写真",
+        "aboutSectionPhoto": "「概要」セクションの写真",
         "portfolio": "ポートフォリオ",
-        "pleaseProvide": "少なくとも1つの作品をアップロードしてください"
+        "pleaseProvide": "ポートフォリオから少なくとも 1 つのアートワークを提供するか、作業中の自分自身を映してください。"
       },
       "sixthStep": {
-        "verifyIdentity": "アイデンティティを確認してください",
-        "pleaseProvide": "少なくとも2人の他のアーティストの連絡先を提供してください。そうすることで、アカウントを確認できます。",
+        "verifyIdentity": "身元を確認する",
+        "pleaseProvide": "他のアーティストの連絡先を少なくとも 2 つ提供してください。\n            ",
         "artist": "アーティスト",
         "artistName": "アーティスト名",
         "artistContacts": "アーティストの連絡先",
-        "contactsPlaceholder": "電話番号またはメール",
-        "addMoreContacts": "さらに連絡先を追加"
+        "contactsPlaceholder": "電話番号またはメールアドレス",
+        "addMoreContacts": "参照連絡先をさらに追加"
       },
       "preview": {
         "style": "スタイル",
-        "typeOfPainting": "絵のタイプ",
+        "typeOfPainting": "塗装の種類",
         "material": "材料",
-        "orderCustomArt": "カスタムアートの注文",
-        "follow": "フォロー",
-        "replace": "置換",
+        "orderCustomArt": "カスタムアートを注文する",
+        "follow": "フォローする",
+        "replace": "交換する",
         "education": "教育",
         "aboutArtist": "アーティストについて",
-        "recognitionEvents": "認識、イベント"
+        "recognitionEvents": "表彰、イベント"
       }
     },
     "buttons": {
       "edit": "編集",
       "add": "追加",
-      "next": "次へ",
+      "next": "次",
       "back": "戻る",
-      "submit": "送信",
+      "submit": "提出する",
       "cancel": "キャンセル",
       "save": "保存",
       "publish": "公開",
-      "goBack": "メインページに行く"
+      "goBack": "メインページに移動"
     }
   },
   "artRegistration": {},
   "artists": {
     "title": "アーティスト",
     "followers": "フォロワー",
-    "available": "利用可能性",
-    "type": "絵画のタイプ",
+    "available": "可用性",
+    "type": "塗装の種類",
     "material": "材料",
     "custom": "カスタムアートを注文する",
-    "noCustom": "カスタムアート用に利用不可",
-    "searchBy": "アート名、アーティスト名で検索",
+    "noCustom": "カスタムアートには使用できません",
+    "searchBy": "作品名、アーティスト名で検索",
     "about": "アーティストについて",
-    "artworks": "作品",
+    "artworks": "芸術作品",
     "reviews": "レビュー",
-    "unfollow": "フォロー解除",
-    "follow": "フォロー",
-    "noArtistsTitle": "表示するアーティストはいません",
-    "noArtistsText": "フィルターを変更するか、後で戻ってきてください"
+    "unfollow": "フォローを解除する",
+    "follow": "フォローする",
+    "noArtistsTitle": "表示するアーティストがありません",
+    "noArtistsText": "フィルターを変更するか、後でもう一度やり直してください"
   },
   "artistFilter": {
     "show": "フィルターを表示",
     "filter": "フィルター",
-    "artwork": "カスタムアート利用可能",
-    "type": "絵画のタイプ",
+    "artwork": "カスタムアートワークが利用可能",
+    "type": "塗装の種類",
     "materials": "材料",
     "styles": "スタイル",
-    "location": "アーティストの場所",
-    "showMore": "詳細を表示",
-    "submit": "送信",
+    "location": "アーティストの所在地",
+    "showMore": "もっと見る",
+    "submit": "提出する",
     "reset": "すべてのフィルターをリセット",
-    "sort": "並び替え",
+    "sort": "選別",
     "popularity": "人気順",
-    "price": "価格順"
+    "price": "価格別"
   },
   "artworkDetail": {
     "chooseFrame": {
-      "choose": "フレームを選択",
-      "profile": "プロファイル",
+      "choose": "フレームを選択してください",
+      "profile": "プロフィール",
       "color": "色"
     },
     "breadCrumbs": {
       "mainPage": "メインページ",
-      "artworks": "作品"
+      "artworks": "芸術作品"
     },
     "descriptionTabs": {
       "artistAbout": "アーティストについて",
-      "detailsArtwork": "作品の詳細",
+      "detailsArtwork": "作品詳細",
       "readMore": "続きを読む",
-      "follow": "フォロー",
-      "located": "所在地",
-      "available": "カスタムアート用に利用可能",
-      "notAvailable": "カスタムアート用に利用不可",
+      "follow": "フォローする",
+      "located": "にあります",
+      "available": "カスタムアートに利用可能",
+      "notAvailable": "カスタムアートには使用できません",
       "viewed": "最近見た"
     }
   },
@@ -1171,52 +1194,52 @@
     "emailModal": {
       "login": "ログインまたはサインアップ",
       "welcome": "アートプラットフォームへようこそ",
-      "continue": "続行"
+      "continue": "続く"
     },
     "forgotPassword": {
-      "forgot": "パスワードを忘れました",
-      "enter": "アカウントに関連付けられたメールアドレスを入力してください。パスワードをリセットするためのリンクをメールでお送りします。",
-      "send": "パスワードをリセット"
+      "forgot": "パスワードをお忘れですか",
+      "enter": "アカウントに関連付けられたメール アドレスを入力すると、パスワードをリセットするためのリンクがメールで送信されます。",
+      "send": "パスワードをリセットする"
     },
     "loginModal": {
       "login": "ログイン",
-      "email": "メール",
+      "email": "電子メール",
       "password": "パスワード",
-      "try": "再試行しましょう",
-      "invalidTry": "無効な資格情報です。もう一度お試しください。",
+      "try": "もう一度試してみましょう",
+      "invalidTry": "無効な資格情報です。",
       "forgot": "パスワードをお忘れですか？",
-      "close": "閉じる",
+      "close": "近い",
       "or": "または",
-      "forgotPass": "パスワードを忘れましたか？",
-      "continueWithGoogle": "Googleで続行"
+      "forgotPass": "パスワードをお忘れですか？",
+      "continueWithGoogle": "Google を続ける"
     },
     "signUpModal": {
-      "title": "サインアップして",
-      "discount": "20ドルの割引",
-      "firstPurchase": "初回購入時に",
-      "artistOrNo": "私はアーティストです",
-      "enterCode": "確認コードを入力",
-      "haveAnAccount": "すでにアカウントをお持ちですか？",
+      "title": "サインアップして入手",
+      "discount": "20ドルオフ",
+      "firstPurchase": "初めての購入時",
+      "artistOrNo": "私は芸術家です",
+      "enterCode": "認証コードを入力",
+      "haveAnAccount": "すでにアカウントをお持ちですか?",
       "signIn": "サインイン",
-      "welcome": "Global Art AIへようこそ",
-      "first": "私たちは、高品質なアートとパーソナライズされた体験を提供することをお約束します。",
-      "second": "アートの世界へのゲートウェイとして私たちを選んでいただきありがとうございます！",
+      "welcome": "グローバルアートAIへようこそ",
+      "first": "私たちは、高品質のアートとパーソナライズされた体験を提供することに尽力しています。",
+      "second": "アートの世界への入り口として私たちを選んでいただき、ありがとうございます。",
       "artistRegistration": "アーティスト登録へ",
       "continue": "ショッピングを始める",
-      "fullName": "氏名",
-      "email": "メールアドレス",
+      "fullName": "フルネーム",
+      "email": "電子メール",
       "password": "パスワード",
-      "sendCode": "コードを送信",
+      "sendCode": "コードを送信する",
       "signUp": "サインアップ",
       "again": "もう一度試してみましょう",
-      "invalidTry": "無効な認証情報です。もう一度お試しください。",
-      "fill": "このフィールドを入力してください",
-      "agree": "続行することで、以下に同意したものとみなされます",
+      "invalidTry": "資格情報が無効です。もう一度お試しください。",
+      "fill": "このフィールドに記入してください",
+      "agree": "続行すると、次のことに同意したことになります",
       "terms": "利用規約",
-      "and": "と",
+      "and": "そして",
       "or": "または",
       "privacy": "プライバシーポリシー",
-      "close": "閉じる",
+      "close": "近い",
       "refCode": "紹介コード"
     }
   },
@@ -1225,7 +1248,7 @@
       "payment": "支払い",
       "cardNumber": "カード番号",
       "firstName": "名を入力してください",
-      "cardholderName": "カード保有者名",
+      "cardholderName": "クレジットカード名義人氏名",
       "fullName": "フルネームを入力してください",
       "expDate": "有効期限",
       "enterExpDate": "有効期限を入力してください",
@@ -1235,38 +1258,38 @@
       "back": "戻る"
     },
     "result": {
-      "thanks": "ご購入いただきありがとうございます！",
+      "thanks": "ご購入いただきありがとうございます。",
       "purchase": "アート購入情報",
       "order": "注文番号",
       "date": "日付",
-      "total": "合計金額",
+      "total": "合計額",
       "shipping": "配送情報",
-      "shippingAddress": "配送先住所",
-      "share": "ご購入を共有する",
+      "shippingAddress": "お届け先の住所",
+      "share": "購入したものを共有する",
       "icons": "ソーシャルアイコン",
-      "recommend": "おすすめ"
+      "recommend": "お勧めします"
     },
     "shipping": {
-      "address": "配送先住所",
-      "name": "名",
+      "address": "お届け先の住所",
+      "name": "ファーストネーム",
       "enterName": "名を入力してください",
-      "lastName": "姓",
+      "lastName": "苗字",
       "enterLastName": "姓を入力してください",
       "country": "国",
       "enterCountry": "国を入力してください",
-      "city": "市区町村",
-      "enterCity": "市区町村を入力してください",
-      "apt": "アパート、部屋番号など",
-      "enterApt": "アパート、部屋番号などを入力してください",
+      "city": "市",
+      "enterCity": "都市を入力してください",
+      "apt": "アプト、スイートなど",
+      "enterApt": "apt、suiteなどを入力します。",
       "zip": "郵便番号",
       "enterZip": "郵便番号を入力してください",
       "phone": "電話番号",
       "enterPhone": "電話番号を入力してください",
-      "next": "次へ"
+      "next": "次のステップ"
     }
   },
   "artworks": {
-    "medium": "媒体",
+    "medium": "中くらい",
     "size": "サイズ",
     "inch": "インチ",
     "cm": "cm",
@@ -1275,120 +1298,121 @@
     "viewCart": "カートを見る",
     "movement": "動きとスタイル",
     "year": "年",
-    "location": "場所",
-    "rare": "希少性",
-    "signature": "署名",
-    "certificate": "正当性の証明書",
+    "location": "位置",
+    "rare": "レアリティ",
+    "signature": "サイン",
+    "certificate": "真正性証明書",
     "frameMain": "フレーム",
     "yes": "はい",
     "no": "いいえ",
-    "rights": "画像の権利",
+    "rights": "肖像権",
     "remove": "カートから削除",
-    "options": "オプションを表示",
-    "shipping": "発送先",
-    "stan_par": "標準配送",
+    "options": "オプションを表示する",
+    "shipping": "配送先",
+    "stan_par": "通常配送",
     "taxes": "税金はチェックアウト時に計算されます",
     "artist": "アーティスト",
-    "want": "このアーティストの類似スタイルのアートを希望しますか？",
-    "order": "カスタムアートを注文",
+    "want": "このアーティストによる同様のスタイルのアートが欲しいですか?",
+    "order": "カスタムアートを注文する",
     "explore": "世界中のアートを探索",
-    "browse": "テーマ別に閲覧",
-    "title": "作品"
+    "browse": "主題別に閲覧する",
+    "title": "芸術作品"
   },
   "buy": {
-    "delivery": "配送",
+    "delivery": "配達",
     "payment": "支払い",
     "preview": "プレビュー",
     "login": "サインインまたはサインアップ",
-    "speed": "チェックアウトプロセスをスピードアップして支払いをアカウントに保存するには",
+    "speed": "チェックアウトプロセスをスピードアップし、アカウントへの支払いを節約するため",
     "signUp": "サインアップ",
     "signIn": "サインイン",
     "edit": "編集",
-    "promocode": "プロモコードをお持ちですか？",
+    "promocode": "プロモコードはありますか?",
     "shipping": "配送",
     "address": "配送先住所を入力してください",
-    "fee": "アートプラットフォームのサービス料金",
-    "total": "見積もり合計",
-    "notShipping": "配送費用は含まれていません"
+    "fee": "アートプラットフォームサービス利用料",
+    "total": "推定合計額",
+    "notShipping": "送料は含まれておりません"
   },
   "aboutAI": {
-    "create": "倫理的な",
-    "authentic": "本物のアートを作成する",
-    "collaboration": "アーティストとの直接的な協力を通じて設計されたGen-AIとの共同作業",
-    "value": "価値が必要です",
-    "waitlist": "待機リストに参加",
-    "shareInfo": "私たちはあなたの情報を誰とも共有しません",
-    "notSupport": "お使いのブラウザはビデオタグをサポートしていません。",
-    "joinDigitalArt": "デジタルアート革命に参加する",
-    "cases": "使用例",
+    "create": "倫理的なものを作る",
+    "authentic": "本物の芸術",
+    "collaboration": "アーティストとの直接コラボレーションにより設計された Gen-AI を搭載",
+    "value": "値は必須です",
+    "waitlist": "順番待ちリストに参加する",
+    "shareInfo": "あなたの情報を誰とも共有しません",
+    "notSupport": "お使いのブラウザはvideoタグをサポートしていません。",
+    "joinDigitalArt": "デジタルアート革命に参加しましょう",
+    "cases": "ユースケース",
     "artists": "アーティスト",
     "designers": "インテリアデザイナー",
-    "eventDesigners": "ハイエンドのイベントデザイナー",
+    "eventDesigners": "ハイエンドイベントデザイナー",
     "marketing": "デジタルマーケティングスペシャリスト",
-    "gameDesigners": "映画＆ゲームデザイナー",
+    "gameDesigners": "映画およびゲームのデザイナー",
     "industrialDesigners": "工業デザイナー",
     "artist": "アーティスト",
-    "platform": "責任あるAIアート生成を実践する唯一のプラットフォームです",
+    "platform": "当社は責任ある AI アート生成を実践する唯一のプラットフォームです",
     "generate": "ゼロからアートを生成する",
-    "exploreStyles": "さまざまなスタイルを探索し、ビジョンに最適なマッチを見つける",
-    "inspiredArtists": "アーティストにインスパイアされる",
-    "keepEthical": "協力してアーティストの権利を尊重することで、倫理的に保ちます",
+    "exploreStyles": "さまざまなスタイルを試して、あなたのビジョンに完璧にマッチするものを見つけてください",
+    "inspiredArtists": "アーティストからインスピレーションを受ける",
+    "keepEthical": "私たちは協力し、アーティストの権利が尊重されるようにすることで、倫理を保ちます。",
     "edit": "写真を編集する",
-    "applyStyles": "アーティストにインスパイアされたスタイルを適用し、背景を変更して再着色します",
-    "resize": "既存のアートをリサイズおよび変更する",
+    "applyStyles": "アーティストからインスピレーションを得たスタイルを適用し、背景を変更し、色を変更します",
+    "resize": "既存のアートのサイズ変更と変更",
     "fullNamePlaceholder": "フルネーム",
-    "emailPlaceholder": "メール",
-    "generateFromScratch": "ゼロから生成する",
-    "beInspiredByArtists": "アーティストにインスパイアされる",
+    "emailPlaceholder": "電子メール",
+    "generateFromScratch": "ゼロから生成",
+    "beInspiredByArtists": "アーティストからインスピレーションを受ける",
     "editYourPhotos": "写真を編集する",
     "makeArtMove": "アートを動かす"
   },
   "addArtwork": {
-    "addNew": "新しい作品を追加",
-    "subject": "件名",
+    "editArtwork": "アートワークの編集",
+    "addNew": "新しいアートワークを追加",
+    "subject": "主題",
     "artworkImages": "アートワーク画像",
     "warnings": {
-      "first": "アートワークがフレーム内でまっすぐで中央に配置されていることを確認してください",
-      "second": "アートワークが均等に照らされ、暗いスポットや露出オーバーの領域がないことを確認してください",
-      "third": "テクスチャ、筆跡、署名などの重要な詳細のクローズアップショットを含めてください"
+      "first": "アートワークがまっすぐでフレームの中央にあることを確認してください",
+      "second": "アートワークが均一に照明され、暗い斑点や露出過度の領域がないことを確認します。",
+      "third": "テクスチャ、ブラシ ストローク、署名などの重要な詳細のクローズアップ ショットを含めます。"
     },
     "help": {
       "first": {
-        "first": "マークされたフィールド",
+        "first": "でマークされたフィールド",
         "span": "*",
-        "second": "は必須です"
+        "second": "必要です"
       },
-      "second": "カテゴリとスタイルを選ぶことで、潜在的な購入者があなたの作品を発見するのを助けます"
+      "second": "カテゴリとスタイルを選択することで、潜在的な購入者があなたの作品を見つけやすくなります。"
     },
     "priceAndQuantity": "価格と数量",
-    "artwork": "アートワーク情報",
-    "title": "アートワークタイトル",
-    "titlePlaceholder": "アートワークのタイトルを入力してください",
+    "artwork": "作品情報",
+    "title": "作品タイトル",
+    "titlePlaceholder": "作品のタイトルを入力してください",
     "description": "説明",
-    "descriptionPlaceholder": "アートワークの説明を提供してください。例えば、インスピレーションや使用した素材など",
-    "made": "作成場所",
-    "madePlaceholder": "どこで作成されたか",
-    "yearMade": "作成年",
+    "descriptionPlaceholder": "アートワークの説明を入力します。例: インスピレーション、使用した素材など",
+    "made": "製造国",
+    "madePlaceholder": "どこで作られたのか",
+    "yearMade": "製造年",
     "yearPlaceholder": "年",
-    "signature": "署名の種類（オプション）",
-    "signatureSelect": "署名の種類を選択",
+    "signature": "署名の種類 (オプション)",
+    "signatureSelect": "署名の種類を選択してください",
     "category": "カテゴリとスタイル",
-    "categorySelect": "カテゴリを選択",
+    "categorySelect": "カテゴリを選択してください",
     "rights": "権利",
     "rightsPlaceholder": "権利を入力してください",
-    "material": "素材",
-    "materialSelect": "素材を選択",
-    "raritySelect": "レアリティを選択",
-    "selectAuth": "認証証明書を選択",
-    "movement": "ムーブメントとスタイル",
+    "material": "材料",
+    "materialSelect": "素材の選択",
+    "raritySelect": "レアリティの選択",
+    "selectAuth": "認証証明書の選択",
+    "movement": "動きとスタイル",
     "styles": "スタイル",
-    "framed": "フレーム付き",
+    "framed": "額入り",
     "unframed": "フレームなし",
-    "dimensionsBase": "基本寸法（フレームなし）",
+    "dimensionsBase": "ベース寸法 (フレームなし)",
     "width": "幅",
-    "height": "高さ",
+    "height": "身長",
     "depth": "深さ",
-    "weight": "重量",
+    "weight": "重さ",
     "kg": "kg",
     "units": "単位",
     "cm": "cm",
@@ -1396,17 +1420,17 @@
     "auth": "認証証明書",
     "dimensions": "寸法",
     "preview": {
-      "review": "アートワークをレビューして公開",
-      "show": "購入者に見せる内容はこちらです。すべてが良いか確認してください。",
-      "information": "アートワーク情報",
-      "title": "アートワークのタイトル",
-      "description": "アートワークの説明",
-      "made": "作成場所",
-      "year": "作成年",
+      "review": "アートをレビューして公開する",
+      "show": "購入者様に向けてご案内させていただく内容はこちらです。",
+      "information": "作品情報",
+      "title": "作品タイトル",
+      "description": "作品説明",
+      "made": "製造国",
+      "year": "製造年",
       "style": "カテゴリとスタイル",
       "category": "カテゴリ",
       "styles": "スタイル",
-      "materials": "素材",
+      "materials": "材料",
       "rarity": "レアリティ",
       "price": "価格",
       "frame": "フレーム",
@@ -1414,93 +1438,93 @@
       "size": "サイズ"
     },
     "second": {
-      "photosAdd": "アートワークの写真を追加",
-      "add": "5枚の写真を追加する必要があります。後で追加することもできます",
-      "requirements": "画像要件",
-      "frontalImage": "正面画像",
-      "frontalView": "アートワークの全体を示すクリアで完全な正面ビュー",
-      "closeUp": "アートワークのクローズアップ詳細",
-      "highResolution": "アートワークの複雑な詳細やテクスチャを強調する高解像度のクローズアップ",
-      "closeUpSignature": "署名のクローズアップ詳細",
-      "focused": "真正性を確認するための署名のフォーカスされたキャプチャ",
-      "artworkBack": "アートワークの背面",
-      "context": "コンテキストビュー（家庭内）",
-      "potential": "潜在的な購入者にそのスケールと美的魅力を視覚的に伝える",
+      "photosAdd": "アートの写真を追加する",
+      "add": "写真を5枚追加する必要があります。",
+      "requirements": "画像の要件",
+      "frontalImage": "正面から見た画像",
+      "frontalView": "アートワークの全体を鮮明に正面から見た図",
+      "closeUp": "アートワークの詳細をクローズアップ",
+      "highResolution": "アートワークの複雑な詳細とテクスチャを強調表示する高解像度のクローズアップ",
+      "closeUpSignature": "あなたの署名の詳細をクローズアップ",
+      "focused": "署名を集中的にキャプチャして信頼性を確保します",
+      "artworkBack": "作品の裏側",
+      "context": "インコンテキスト ビュー (家の内部)",
+      "potential": "潜在的な購入者にその規模と美的魅力の視覚的感覚を提供する",
       "preview": "プレビュー",
       "title": "タイトルを入力してください",
       "price": "価格を入力してください"
     },
     "third": {
       "priceQuantity": "価格と数量",
-      "status": "アートワークの状態",
-      "statusPlaceholder": "アートワークの状態を選択",
-      "quantity": "在庫数量",
-      "quantityPlaceholder": "販売可能なアイテム数は？",
+      "status": "作品のステータス",
+      "statusPlaceholder": "アートワークのステータスを選択してください",
+      "quantity": "在庫数",
+      "quantityPlaceholder": "販売可能なアイテムは何点ありますか?",
       "price": "価格",
       "currency": "通貨",
       "shipping": "配送",
       "shippingProfile": "配送プロファイル",
-      "shippingProfileSelect": "配送プロファイルを選択",
-      "calculateShipping": "このプロファイルは送料の計算に使用されます",
-      "detailsShipping": "配送の詳細",
-      "packageArtwork": "このアートワークをどのように梱包しますか？",
-      "packageChose": "梱包オプションを選択",
-      "parcelEstimated": "推定小包サイズ",
+      "shippingProfileSelect": "配送プロファイルを選択してください",
+      "calculateShipping": "このプロファイルは配送料の計算に使用されます",
+      "detailsShipping": "発送詳細",
+      "packageArtwork": "この作品をどのように梱包しますか?",
+      "packageChose": "パッケージオプションを選択してください",
+      "parcelEstimated": "推定荷物サイズ",
       "width": "幅",
-      "height": "高さ",
-      "depth": "奥行",
+      "height": "身長",
+      "depth": "深さ",
       "units": "単位",
       "kg": "kg",
-      "consider": "プラットフォーム手数料を考慮する",
-      "ensure": "価格設定が利益を維持することを確認してください。",
-      "read": "販売者の条件を詳しく読む",
+      "consider": "プラットフォーム料金を考慮する",
+      "ensure": "収益性を維持できる価格設定を確保します。",
+      "read": "販売条件の詳細を読む",
       "weightShipping": "配送重量",
-      "weightPlaceholder": "重量",
+      "weightPlaceholder": "重さ",
       "guides": "配送ガイド",
-      "profile": "適切な配送プロファイルを選択",
+      "profile": "適切な配送プロファイルを選択する",
       "packagingTechniques": "適切な梱包技術",
       "insurance": "配送保険オプション"
     }
   },
   "changeStatus": {
-    "change": "ステータスを変更",
-    "sureWant": "本当に",
+    "change": "ステータス変更",
+    "sureWant": "本当によろしいですか",
     "enable": "有効にする",
     "disable": "無効にする",
-    "the": "この",
-    "saleStatus": "販売ステータス",
-    "sureWantRemove": "本当に",
+    "the": "の",
+    "saleStatus": "販売状況は？",
+    "sureWantRemove": "削除してもよろしいですか?",
     "disableBig": "無効にする",
     "enableBig": "有効にする",
     "cancel": "キャンセル",
-    "close": "閉じる"
+    "close": "近い"
   },
   "blog": {
     "title": "ブログ",
     "mainPage": "メインページ",
     "news": "ニュース",
     "newest": "最新",
-    "searchPlaceholder": "アート名、アーティスト名で検索",
+    "searchPlaceholder": "作品名、アーティスト名で検索",
     "tags": "タグ",
-    "shareArticle": "記事を共有",
-    "readAlso": "関連記事",
-    "trending": "カテゴリでトレンド",
+    "shareArticle": "記事をシェアする",
+    "readAlso": "こちらもお読みください",
+    "trending": "カテゴリー別のトレンド",
     "showAll": "すべて表示",
     "allArticles": "すべての記事",
     "info": {
-      "noNews": "表示するニュースはありません",
-      "tryAgain": "フィルターを変更するか、後で戻ってきてください"
+      "noNews": "まだ表示するニュースはありません",
+      "tryAgain": "フィルターを変更するか、後でもう一度やり直してください"
     }
   },
   "giftCard": {
-    "buyTab": "購入",
-    "redeemTab": "交換",
-    "title": "ギフトカード購入",
-    "amount": "金額",
-    "to": "宛先",
-    "from": "差出人",
-    "recipientName": "受取人名",
-    "recipientEmail": "受取人のメール",
+    "buyTab": "買う",
+    "redeemTab": "償還",
+    "title": "ギフトカードを購入する",
+    "amount": "額",
+    "to": "に",
+    "from": "から",
+    "recipientName": "受信者名",
+    "recipientEmail": "受信者の電子メール",
     "giftMessage": "ギフトメッセージ",
     "senderName": "送信者名",
     "send": "ギフトカードを送る",
@@ -1509,50 +1533,50 @@
       "giftMessage": "ここにメッセージを入力してください..."
     },
     "redeem": {
-      "title": "ギフトカードを利用する",
-      "apply": "Global Art AIギフトカードを利用すると、次回の購入に適用できるギフトクレジットが利用可能になります",
+      "title": "ギフトカードを引き換える",
+      "apply": "Global Art AI ギフト カードを引き換えると、次回の購入にギフト クレジットを適用できるようになります。",
       "code": "ギフトカードコード",
-      "submit": "ギフトカードを利用する",
+      "submit": "ギフトカードを引き換える",
       "enterCode": "ギフトカードコードを入力してください"
     }
   },
   "promocodes": {
     "modals": {
       "createPromocode": {
-        "addAnother": "別のプロモコードを追加",
+        "addAnother": "別のプロモーションコードを追加する",
         "reusable": "再利用可能"
       }
     }
   },
   "preloader": {
-    "createProfile": "プロフィールを作成中",
+    "createProfile": "プロフィールの作成",
     "pleaseWait": "お待ちください",
-    "minute": "1分",
-    "keepTab": "このタブを開いたままにしてください",
-    "thankYou": "ありがとうございます"
+    "minute": "これには数分かかる場合があります。",
+    "keepTab": "すべてがスムーズに進むように、このタブを開いたままにしてください。",
+    "thankYou": "ご辛抱いただきありがとうございます。"
   },
   "dragImage": {
-    "title": "インテリアにアートを展示",
-    "subTitle": "カスタマイズ可能なフレームを使用して、美しくプロフェッショナルなインテリア環境にアート作品を展示しましょう",
+    "title": "インテリアでアートを展示",
+    "subTitle": "カスタマイズ可能なフレームを使用して、美しくプロフェッショナルなインテリア設定でアートワークを展示することで、アートワークのレベルを高めます。",
     "position": "位置",
     "chooseInterior": "インテリアを選ぶ",
     "artworkSize": "アートワークのサイズ",
-    "smaller": "小さくする",
-    "larger": "大きくする"
+    "smaller": "より小さい",
+    "larger": "より大きな"
   },
   "payment_types": {
     "balance": "バランス",
-    "stripe": "Stripe"
+    "stripe": "ストライプ"
   },
   "gift_card_payment": {
     "success": {
-      "title": "ご購入ありがとうございます",
-      "description": "受取人はギフトカードコードを含むメールを受け取ります。購入の詳細を含むメールをお送りします。",
+      "title": "ご購入いただきありがとうございます",
+      "description": "受取人にはギフト カード コードが記載された電子メールが届きます。",
       "backToMain": "メインページに戻る"
     },
     "failed": {
       "title": "支払いに失敗しました",
-      "description": "支払いが成功しませんでした。再度お試しいただくか、カスタマーサポートにお問い合わせください。",
+      "description": "お支払いは正常に完了しませんでした。",
       "backToMain": "メインページに戻る"
     }
   }

@@ -2,8 +2,8 @@
 import {storeToRefs} from "pinia";
 import {useLanguagesStore} from "~/store/languages.js";
 import {useModalsStore} from "~/store/modals.js";
+import {onMounted} from "vue";
 
-const router = useRouter();
 const runtimeConfig = useRuntimeConfig();
 const localePath = useLocalePath();
 const languages = useLanguagesStore()
@@ -14,47 +14,29 @@ const pending = ref(true);
 
 const user = useUserStore();
 
-const artistArtworksStore = useArtistArtworksStore();
-const {getArtistArtworks} = artistArtworksStore;
-const {artistArtworks} = storeToRefs(artistArtworksStore);
-
 const artistProfileStore = useArtistProfileStore();
-const {getArtistData} = artistProfileStore;
-
-const addNewArt = () => {
-  router.push(localePath("/artistProfile/artworks/add-artwork"));
-};
+const {resultOrders} = storeToRefs(artistProfileStore)
+const {artistOrders} = artistProfileStore;
 
 const {t} = useI18n();
 
 const requestBody = ref({
   page_number: 1,
-  show_by: 10,
-  only_ids: [],
-  exclude_ids: [],
-  search_text: null,
-  movement_and_style: [],
-  year_from: null,
-  year_to: null,
-  price_from: null,
-  price_to: null,
-  artist_ids: [],
-  art_item_is_for_sale: null,
-  art_item_is_sold: null,
-  art_item_is_validated: null,
-  rarity: [],
-  art_item_material: [],
-  art_item_style: [],
+  show_by: 20,
+  app_user_order_id: null,
+  date_from: null,
+  date_to: null,
+  amount_from: null,
+  amount_to: null,
+  app_user_ids: [],
+  artist_ids: []
 });
 
 onMounted(async () => {
+  pending.value = true;
   await nextTick();
   await user.getProfile();
-  await getArtistData();
-  if (user.result) {
-    requestBody.value.artist_ids = [artistProfileStore.result.data.id];
-  }
-  await getArtistArtworks(requestBody.value);
+  await artistOrders(requestBody.value);
   pending.value = false;
 });
 
@@ -91,17 +73,11 @@ useHead({
   <div class="container mx-auto px-4 md:px-0 ">
     <div class="flex items-center justify-between mb-10 ">
       <h1 class="text-3xl md:text-5xl  font-bold">
-        {{ $t("artistProfile.artworks.title") }}
+        {{ $t("header.orders") }}
       </h1>
-      <div
-          class="bg-black text-white py-3 px-6 rounded-lg font-bold cursor-pointer"
-          @click="addNewArt"
-      >
-        + {{ $t("artistProfile.artworks.addNewArt") }}
-      </div>
     </div>
     <div v-if="!pending">
-      <div v-if="artistArtworks.data.objects_list.length > 0">
+      <div v-if="resultOrders.data.objects_list.length > 0">
         <div class="mt-8 flow-root">
           <div class="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
             <div class="inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8">
@@ -147,7 +123,7 @@ useHead({
                 </thead>
                 <tbody class="divide-y divide-gray-200 bg-white">
                 <tr
-                    v-for="(item, index) in artistArtworks.data.objects_list"
+                    v-for="(item, index) in resultOrders.data.objects_list"
                     :key="index">
                   <td class="whitespace-nowrap py-5 pl-4 pr-3 text-sm sm:pl-0">
                     <div class="flex items-center gap-3">
@@ -155,7 +131,7 @@ useHead({
                         <img
                             :src="
                   runtimeConfig.public.ENDPOINTS_LINK +
-                  item.art_item_images[0].full
+                  item.app_user_order_item_art_item.art_item_images[0].full
                 "
                             alt="artwork"
                             class="h-11 w-11 rounded-full"
@@ -163,11 +139,11 @@ useHead({
                       </div>
                       <div class="ml-4">
                         <div class="font-medium text-gray-900">
-                          {{ item.art_item_title }}
+                          {{ item.app_user_order_item_art_item.art_item_title }}
                         </div>
                         <div class="mt-1">
                           <p
-                              v-for="(item, index) of item.art_item_materials"
+                              v-for="(item, index) of item.app_user_order_item_art_item.art_item_materials"
                               :key="index"
                               class="font-medium text-gray-500">
                             {{ item.translations[cur_lang].title }}
@@ -178,21 +154,24 @@ useHead({
                   </td>
                   <td class="whitespace-nowrap px-3 py-5 text-sm text-gray-500">
                     <div class="text-gray-900">
-                      {{ item.art_item_params.size.width }} x {{ item.art_item_params.size.height }}
+                      {{ item.app_user_order_item_art_item.art_item_params.size.width }} x
+                      {{ item.app_user_order_item_art_item.art_item_params.size.height }}
                     </div>
                   </td>
                   <td class="whitespace-nowrap px-3 py-5 text-sm text-gray-500">
                     <div class="text-gray-900">
-                      {{ item.art_item_category.translations[cur_lang].art_category_title }}
+                      {{
+                        item.app_user_order_item_art_item.art_item_category.translations[cur_lang].art_category_title
+                      }}
                     </div>
                   </td>
                   <td class="whitespace-nowrap px-3 py-5 text-sm text-gray-500">
-                    <div class="text-gray-900"> $ {{ item.art_item_base_price }}</div>
-                    <div class="mt-1 text-gray-500">$ {{ item.art_item_price }}</div>
+                    <div class="text-gray-900"> $ {{ item.app_user_order_item_art_item.art_item_base_price }}</div>
+                    <div class="mt-1 text-gray-500">$ {{ item.app_user_order_item_art_item.art_item_price }}</div>
                   </td>
                   <td class="whitespace-nowrap px-3 py-5 text-sm text-gray-500">
                     <span
-                        v-if="!item.art_item_is_validated"
+                        v-if="!item.app_user_order_item_art_item.art_item_is_validated"
                         class="inline-flex items-center rounded-md bg-red-50 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/20"
                     >
                       {{ $t("artistProfile.artworks.info.notValidated") }}
@@ -206,7 +185,7 @@ useHead({
                   </td>
                   <td class="whitespace-nowrap px-3 py-5 text-sm text-gray-500">
                     <span
-                        v-if="!item.art_item_is_sold"
+                        v-if="!item.app_user_order_item_art_item.art_item_is_sold"
                         class="inline-flex items-center rounded-md bg-red-50 px-2 py-1 text-xs font-medium text-red-700 ring-1 ring-inset ring-red-600/20"
                     >
                       {{ $t("categories.artworksFilter.sale") }}
@@ -219,9 +198,12 @@ useHead({
                     </span>
                   </td>
                   <td class="relative whitespace-nowrap py-5 pl-3 pr-4 text-right text-sm font-medium sm:pr-0">
-                    <NuxtLink :to="localePath('/artistProfile/artworks/edit-artwork/' + item.id)">
-                      {{ $t('profile.profile.edit') }}
-                    </NuxtLink>
+                    <p
+                        v-if="item.app_user_order_item_art_item.art_item_is_sold"
+                        class="w-max px-3 py-1 text-xs border border-green-200 rounded-md bg-green-100 text-green-500 cursor-pointer"
+                        @click="modals.showModal('SetReadyToSend', item)">
+                      {{ $t('artistProfile.artworks.ready_to_send') }}
+                    </p>
                   </td>
                 </tr>
                 </tbody>

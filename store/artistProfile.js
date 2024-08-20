@@ -2,6 +2,7 @@ import {defineStore} from "pinia";
 
 export const useArtistProfileStore = defineStore("artistProfile", () => {
     const result = ref(null);
+    const resultOrders = ref(null);
     const toasts = useToastsStore();
 
     const form = ref({
@@ -29,6 +30,7 @@ export const useArtistProfileStore = defineStore("artistProfile", () => {
 
     return {
         result,
+        resultOrders,
         form,
         async getArtistData() {
             await api(`/api/artist/artist/get-my-artist-profile/`, {
@@ -60,6 +62,27 @@ export const useArtistProfileStore = defineStore("artistProfile", () => {
                     if (data.success) {
                         toasts.showToast("success", data.msg_txt, "Artist profile has been updated successfully!");
                     } else {
+                        toasts.showToast("error", "An error has occurred!", data.msg_txt);
+                    }
+                })
+                .catch((e) => {
+                    if (e.response && e.response.data.success === false) {
+                        toasts.showToast("error", "An error has occurred!", e.response.data.msg_txt);
+                    } else {
+                        toasts.showToast("error", "An error has occurred!", "Server Error! Please try again later.");
+                    }
+                });
+        },
+        async artistOrders() {
+            await api(`/api/order/app-user-order/artist-list-app-user-order-items/`, {
+                body: JSON.stringify(form.value)
+            })
+                .then((response) => {
+                    const data = response.data;
+                    if (data.success) {
+                        resultOrders.value = data;
+                    } else {
+                        resultOrders.value = false;
                         toasts.showToast("error", "An error has occurred!", data.msg_txt);
                     }
                 })

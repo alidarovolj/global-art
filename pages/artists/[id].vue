@@ -256,7 +256,7 @@ useHead({
             artist.detailArtist.data.artist_app_user.params.photo?.full
           "
             alt="artist"
-            class="md:w-third w-full h-full object-cover"
+            class="md:w-auto md:h-[400px] w-full h-full object-cover"
         />
       </div>
       <div class="flex flex-col">
