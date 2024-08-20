@@ -1,0 +1,255 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    transition: all 0.1s ease-in-out;
+}
+
+html {
+    font-family: "Roboto", sans-serif;
+    background: #fff;
+    color: #000 !important;
+    overflow-x: hidden;
+}
+
+.skeleton {
+    border-radius: 1rem;
+    --tw-bg-opacity: 1;
+    animation: skeleton 1.8s ease-in-out infinite;
+    background-color: rgba(220, 220, 220, var(--tw-bg-opacity));
+    background-image: linear-gradient(105deg, transparent 0, transparent 40%, rgba(255, 255, 255, 1) 50%, transparent 60%, transparent 100%);
+    background-position-x: -50%;
+    background-repeat: no-repeat;
+    background-size: 200% auto;
+    will-change: background-position;
+}
+
+@keyframes skeleton {
+    0% {
+        background-position-x: 200%;
+    }
+    100% {
+        background-position-x: -200%;
+    }
+}
+
+
+.router-link-active,
+.router-link-exact-active {
+    text-decoration: underline;
+}
+
+body {
+    background: #fff;
+}
+
+svg {
+    filter: none !important;
+    box-shadow: none !important;
+}
+
+html.dark .skeleton {
+    background-color: #1a1a1a;
+}
+
+.Toastify__toast {
+    z-index: 100000;
+}
+
+.zoom-on-hover {
+    position: relative;
+    overflow: hidden;
+}
+
+.zoom-on-hover .normal {
+    width: 100%;
+}
+
+.zoom-on-hover .zoom {
+    position: absolute;
+    opacity: 0;
+    transform-origin: top left;
+}
+
+.zoom-on-hover.zoomed .zoom {
+    opacity: 1;
+}
+
+.zoom-on-hover.zoomed .normal {
+    opacity: 0;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #808080;
+    transition: all 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #646464;
+}
+
+.carousel {
+    width: 100%;
+}
+
+.carousel_main .carousel .carousel__viewport {
+    width: 100%;
+}
+
+.carousel__track {
+    height: 100%;
+    justify-content: space-between;
+}
+
+.carousel__track .carousel__slide:nth-child(1) {
+    margin-left: 0 !important;
+}
+
+/*.carousel__slide {*/
+/*    margin: 0 8px !important;*/
+/*}*/
+
+.spinner {
+    border-top-color: #4299e1;
+    border-left-color: #4299e1;
+    animation: spinner-spin 1s infinite linear;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    border-width: 2px;
+    width: 20px;
+    height: 20px;
+}
+
+.hero_carousel .carousel__viewport {
+    width: 100%;
+    height: 100%;
+}
+
+.hero_carousel .carousel__slide {
+    justify-content: left;
+}
+
+.hero_carousel .carousel__prev,
+.hero_carousel .carousel__next {
+    position: static;
+}
+
+.artwork__main-carousel .carousel__viewport {
+    width: 100%;
+    height: 100%;
+}
+
+.artwork__main-carousel .carousel__slide {
+    justify-content: center;
+}
+
+.painting .carousel__pagination {
+    position: absolute;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+}
+
+.painting .carousel__slide {
+    background: rgb(243, 244, 246, 1);
+    padding: 1.75rem;
+}
+
+.painting .carousel__slide img:hover {
+    transform: scale(1.1);
+}
+
+.painting .carousel__pagination-button::after {
+    width: 5px;
+    height: 5px;
+    border-radius: 100%;
+    background: #fff;
+}
+
+.painting .carousel__prev,
+.painting .carousel__next {
+    border-radius: 100%;
+    border: 1px solid #cccccc;
+    background: #fff;
+    font-size: 16px;
+}
+
+.artist .carousel__viewport {
+    width: 100%;
+}
+
+.image-container {
+    overflow: hidden;
+}
+
+.image-container img {
+    transition: transform 0.3s ease;
+    transform-origin: center;
+}
+
+.image-container:hover img {
+    transform: scale(1.1); /* Увеличиваем изображение на 10% */
+}
+
+/*.drawer {*/
+/*  z-index: 35;*/
+/*}*/
+
+.drawer-side {
+    z-index: 100;
+}
+
+@keyframes spinner-spin {
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .carousel__slide {
+        margin: 0 0 !important;
+    }
+}
+
+.editorBlock button {
+    border: 1px solid #cccccc;
+    padding: 4px 10px;
+    font-size: 12px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: all 0.2s ease-in-out;
+}
+
+.editorBlock button:hover {
+    background-color: black;
+    color: white;
+}
+
+.editorBlock button.is-active {
+    background-color: black;
+    color: white;
+}
+
+.Toastify__toast-container {
+    z-index: 200000000 !important;
+}
