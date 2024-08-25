@@ -237,12 +237,18 @@ const setPhotoChat = async (photo) => {
                     </p>
                   </div>
                   <div v-if="item.images.length > 0" class="h-[200px] w-auto">
-                    <img
-                        :src="
-                        runtimeConfig.public.ENDPOINTS_LINK +
-                        item.images[0].full
-                      "
-                        alt=""
+<!--                    <img-->
+<!--                        :src="-->
+<!--                        runtimeConfig.public.ENDPOINTS_LINK +-->
+<!--                        item.images[0].full-->
+<!--                      "-->
+<!--                        alt=""-->
+<!--                        class="h-full w-auto object-cover rounded-lg"-->
+<!--                    />-->
+                    <ExpandableImage
+                        :src="runtimeConfig.public.ENDPOINTS_LINK + item.images[0].full"
+                        :title="item.images[0].full"
+                        alt="Message"
                         class="h-full w-auto object-cover rounded-lg"
                     />
                   </div>
@@ -374,9 +380,10 @@ const setPhotoChat = async (photo) => {
             <p class="font-bold mb-2">Budget:</p>
             <p>${{ element.custom_order_budget }}</p>
           </div>
-          <div class="mb-4">
-            <p class="font-bold mb-2">Size:</p>
-            <p>
+          <div class="pb-4 border-b mb-4">
+            <div :class="{ 'mb-4' : element.custom_order_final_dimensions.length > 0 }">
+              <p class="font-bold mb-2">Size:</p>
+              <p>
               <span class="text-sm text-[#757575]"
               >{{ element.custom_order_dimensions.width }}x{{
                   element.custom_order_dimensions.height
@@ -384,22 +391,23 @@ const setPhotoChat = async (photo) => {
                   element.custom_order_dimensions.weight
                 }}kg)</span
               >
-            </p>
+              </p>
+            </div>
+            <div
+                v-if="element.custom_order_final_dimensions.length > 0"
+                class="mb-4"
+            >
+              <p class="font-bold mb-2">Final size:</p>
+              <p class="text-sm text-[#757575]">
+                {{ element.custom_order_dimensions.width }}x{{
+                  element.custom_order_dimensions.height
+                }}x{{ element.custom_order_dimensions.length }} ({{
+                  element.custom_order_dimensions.weight
+                }}kg)
+              </p>
+            </div>
           </div>
-          <div
-              v-if="element.custom_order_final_dimensions.length > 0"
-              class="mb-6 pb-6 border-b"
-          >
-            <p class="font-bold mb-2">Final size:</p>
-            <p class="text-sm text-[#757575]">
-              {{ element.custom_order_dimensions.width }}x{{
-                element.custom_order_dimensions.height
-              }}x{{ element.custom_order_dimensions.length }} ({{
-                element.custom_order_dimensions.weight
-              }}kg)
-            </p>
-          </div>
-          <div class="mb-6 pb-6 border-b">
+          <div class="mb-4">
             <p class="font-bold mb-2">Media:</p>
             <div class="flex flex-wrap">
               <div
@@ -413,6 +421,22 @@ const setPhotoChat = async (photo) => {
                     class="w-full h-full image-zoom"
                 />
               </div>
+            </div>
+          </div>
+          <div class="mb-4">
+            <p class="font-bold mb-2">Category:</p>
+            <p>{{ element.custom_order_art_category.translations[cur_lang].art_category_title }}</p>
+          </div>
+          <div class="mb-4">
+            <p class="font-bold mb-2">Styles:</p>
+            <div class="flex flex-wrap">
+              <p
+                  v-for="(item, index) of element.custom_order_reference_art_styles"
+                  :key="index"
+              >
+                {{ item.translations[cur_lang].title }} <span
+                  v-if="index + 1 !== element.custom_order_reference_art_styles.length">, </span>
+              </p>
             </div>
           </div>
           <div

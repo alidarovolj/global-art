@@ -1,5 +1,60 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+import axios from 'axios'
+
+async function getArtworksRoutes() {
+    const { data } = await axios.post('https://api.globalart.ai/api/art/art-item/list-art-items/', {
+        page_number: 1,
+        show_by: 100,
+        only_ids: [],
+        exclude_ids: [],
+        category_ids: [],
+        search_text: null,
+        movement_and_style: [],
+        year_from: null,
+        year_to: null,
+        price_from: null,
+        price_to: null,
+        artist_ids: [],
+        art_item_is_for_sale: null,
+        art_item_is_sold: null,
+        art_item_is_validated: null,
+        rarity: [],
+        signature: [],
+        cert: [],
+        art_item_material: [],
+        art_item_style: [],
+        art_item_subject: [],
+    })
+
+    return data.data.objects_list.map(artwork => `/artworks/${artwork.id}`)
+}
+
+async function getArtistsRoutes() {
+    const { data } = await axios.post('https://api.globalart.ai/api/art/art-item/list-art-items/', {
+        page_number: 1,
+        show_by: 100,
+        artist_is_available: null,
+        artist_art_categories: [],
+        artist_material: [],
+        artist_art_style: [],
+        artist_art_subjects: [],
+    })
+
+    return data.data.objects_list.map(artist => `/artists/${artist.id}`)
+}
 export default defineNuxtConfig({
+    hooks: {
+        async 'nitro:config'(nitroConfig) {
+            if (nitroConfig.dev) return
+
+            let slugs = await getArtworksRoutes();
+            let artistSlugs = await getArtistsRoutes();
+            nitroConfig.prerender.routes.push(...slugs);
+            nitroConfig.prerender.routes.push(...artistSlugs);
+            return
+        },
+    },
+
     app: {
         head: {
             charset: "utf-8",

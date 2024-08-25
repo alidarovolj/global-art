@@ -37,7 +37,7 @@ const isMessageShown = ref(true);
 
 const showMessage = async (id) => {
   requestBody.value.chat_room_id = id;
-  router.push({query: {id}});
+  await router.push({query: {id}});
   await chatRoom.getChatRoomList(requestBody.value);
 };
 const {t} = useI18n();
@@ -186,6 +186,40 @@ useHead({
                 type="artist"
                 @show-message="() => (isMessageShown = !isMessageShown)"
             />
+          </div>
+        </div>
+      </div>
+      <div v-else class="w-full md:w-3/4 h-full overflow-y-auto">
+        <div
+            v-for="(item, index) of 10"
+            :key="index"
+            :class="{ 'justify-end' : index % 2 === 0 }"
+            class="flex items-start gap-2 cursor-pointer py-4 px-6 w-full"
+        >
+          <div
+              class="rounded-full bg-[#01188E33] w-10 min-w-10 min-h-10 h-10 relative"
+          >
+            <p
+                class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
+            />
+          </div>
+          <div class="w-full">
+            <div class="w-full flex items-center gap-2 mb-2">
+              <div class="h-2 skeleton w-10"/>
+              <div class="text-sm text-secondaryText">
+                <div class="h-2 skeleton w-20"/>
+              </div>
+            </div>
+            <div class="mb-3">
+              <div class="font-bold text-primaryText ">
+                <div class="h-2 skeleton w-full"/>
+              </div>
+            </div>
+            <div
+                class="py-1 px-3 rounded-lg capitalize w-max  font-bold bg-[#EDE4F6] text-[#48058B]"
+            >
+              <div class="h-2 skeleton w-10"/>
+            </div>
           </div>
         </div>
       </div>
