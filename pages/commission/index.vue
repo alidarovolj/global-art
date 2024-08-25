@@ -6,8 +6,10 @@ import {useLanguagesStore} from "~/store/languages.js";
 import {useVuelidate} from "@vuelidate/core";
 import {maxLength, minLength, required} from "@vuelidate/validators";
 import {useToastsStore} from "~/store/toastDropStore.js";
+import {useUserStore} from "~/store/user.js";
 
 const loadingStore = useLoadingStore();
+const user = useUserStore();
 const localePath = useLocalePath()
 const artworkType = ref({
   title: "Choose size",
@@ -225,6 +227,7 @@ const requestBodyArtworks = ref({
 onMounted(async () => {
   await nextTick();
   await artistStore.getArtistList(requestBody.value);
+  await user.getProfile();
   if (route.query.artist_id) {
     await getDetailArtist(route.query.artist_id);
   }
@@ -321,10 +324,9 @@ const showImage = (item) => {
                       ]"
                     class="p-4 rounded-2xl border">
                   <form
-                      class="rounded-md px-3 pb-1.5 pt-2.5 shadow-sm ring-1 ring-inset ring-gray-300 focus-within:ring-2 focus-within:ring-indigo-600 mb-3"
                       @submit.prevent="artistStore.artistList = false; artistStore.getArtistList(requestBody)">
                     <label
-                        class="block text-xs font-medium text-gray-900"
+                        class="text-xs font-medium text-gray-900"
                         for="name">
                       {{ $t('search_general.title') }}
                     </label>
@@ -332,7 +334,7 @@ const showImage = (item) => {
                         id="name"
                         v-model="requestBody.search_text"
                         :placeholder="$t('search_general.placeholder')"
-                        class="block w-full border-0 p-0 text-gray-900 placeholder:text-gray-400 focus:ring-0 sm:text-sm sm:leading-6"
+                        class="rounded-md w-full px-3 pb-1.5 pt-2.5 shadow-sm ring-gray-300 focus-within:ring-2 focus-within:ring-indigo-600 mb-3"
                         name="name"
                         type="text"
                     />
@@ -345,37 +347,44 @@ const showImage = (item) => {
                           v-for="(item, index) of artistStore.artistList.data.objects_list"
                           :key="index"
                           class="relative flex items-center">
+                       <div v-if="item.artist_app_user.app_user_login !== user.result.data.app_user_login" class="flex items-center">
                         <div class="flex h-6 items-center">
-                          <input
-                              :id="item.id"
-                              v-model="form.custom_order_artist_id"
-                              :value="item.id"
-                              aria-describedby="comments-description"
-                              class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-600"
-                              name="artist_pick"
-                              type="radio"
-                              @change="setCurrentArtist(item.id)"
-                          />
+                         <input
+                           :id="item.id"
+                           v-model="form.custom_order_artist_id"
+                           :value="item.id"
+                           aria-describedby="comments-description"
+                           class="h-4 w-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-600"
+                           name="artist_pick"
+                           type="radio"
+                           @change="setCurrentArtist(item.id)"
+                         />
                         </div>
                         <label
-                            :for="item.id"
-                            class="ml-3 text-sm flex items-center gap-2">
+                          :for="item.id"
+                          class="ml-3 text-sm flex items-center gap-2">
+                         <img
+                           v-if="item.artist_app_user.params.photo"
+                           :src="runtimeConfig.public.ENDPOINTS_LINK + item.artist_app_user.params.photo.thumb"
+                           alt=""
+                           class="w-10 h-10 rounded-full">
+                         <div
+                           v-else
+                           class="w-10 h-10 rounded-full border p-5">
                           <img
-                              v-if="item.artist_app_user.params.photo"
-                              :src="runtimeConfig.public.ENDPOINTS_LINK + item.artist_app_user.params.photo.thumb"
-                              alt=""
-                              class="w-10 h-10 rounded-full">
-                          <div
-                              v-else
-                              class="w-10 h-10 rounded-full border p-5">
-                            <img
-                                alt=""
-                                class="w-full h-full object-contain"
-                                src="@/assets/img/null.png">
-                          </div>
-                          {{ item.artist_base_info.translations[cur_lang].last_name }}
-                          {{ item.artist_base_info.translations[cur_lang].first_name }}
+                            alt=""
+                            class="w-full h-full object-contain"
+                            src="@/assets/img/null.png">
+                         </div>
+                         {{ item.artist_base_info.translations[cur_lang].last_name }}
+                         {{ item.artist_base_info.translations[cur_lang].first_name }}
                         </label>
+                       </div>
+                       <NoElements
+                         v-else
+                         :text="$t('artists.noArtistsText')"
+                         :title="$t('artists.noArtistsTitle')"
+                       />
                       </div>
                     </div>
 
