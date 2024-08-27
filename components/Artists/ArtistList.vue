@@ -35,7 +35,7 @@ watch(
   <div v-if="artistList">
     <div
         v-if="artistList.data.objects_list.length"
-        class="grid grid-cols-1 md:grid-cols-3 gap-y-4 sm:gap-x-5 sm:gap-y-5"
+        class="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-y-4 sm:gap-x-5 sm:gap-y-5"
     >
       <div
           v-for="artist in artistList.data.objects_list"
