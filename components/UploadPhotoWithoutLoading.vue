@@ -2,17 +2,11 @@
 import {defineEmits} from "vue";
 import {CircleStencil, Cropper} from "vue-advanced-cropper"
 import 'vue-advanced-cropper/dist/style.css'
+import 'vue-advanced-cropper/dist/theme.classic.css'
 
 const emit = defineEmits(["receivePhoto"]);
 
 const cropper = ref()
-
-const coords = ref({
-  width: 0,
-  height: 0,
-  left: 0,
-  top: 0,
-})
 
 const form = ref({
   encodedBase64: "",
@@ -62,9 +56,6 @@ const onChange = ({canvas}) => {
       @change="onChange"
       :src="form.encodedBase64"
       :stencil-component="CircleStencil"
-      :stencil-props="{
-		    aspectRatio: 6/9,
-		    resizable: false
-	    }"
+      :stencil-props="{ aspectRatio: 1/1}"
   />
 </template>
