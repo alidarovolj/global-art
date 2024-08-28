@@ -246,7 +246,7 @@ useHead({
             <div v-if="!pending">
               <div
                   v-if="subscriptions.data?.length > 0"
-                  class="flex flex-wrap md:flex-nowrap gap-6"
+                  class="flex flex-wrap gap-5"
               >
                 <div
                     v-for="item in subscriptions.data"
