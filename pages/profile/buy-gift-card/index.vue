@@ -4,6 +4,7 @@ import {useVuelidate} from "@vuelidate/core";
 import {email, required} from "@vuelidate/validators";
 import {useToastsStore} from "~/store/toastDropStore.js";
 import {useGiftCardsStore} from "~/store/giftCards.js";
+import {api} from "~/composables/api.js";
 
 const {t} = useI18n();
 const tabs = ref([
@@ -13,8 +14,6 @@ const tabs = ref([
 ]);
 const activeTab = ref(1);
 const loading = ref(false);
-
-const paymentType = ref(true);
 
 const runtimeConfig = useRuntimeConfig();
 const giftCards = useGiftCardsStore()
@@ -29,6 +28,7 @@ const selectedAmount = ref(null);
 const form = ref({
   gift_card_receiver_app_user: null,
   gift_card_code_amount: null,
+  payment_system: 'stripe',
   host_name: runtimeConfig.public.NUXT_PUBLIC_SITE_URL,
 });
 
@@ -53,36 +53,22 @@ const onSubmit = async () => {
     return;
   }
 
-  if (paymentType.value === true) {
-    await api(`/api/order/gift-card/buy-gift-card/`, {
-      body: JSON.stringify(form.value),
-    })
+    await api(`/api/order/gift-card/buy-gift-card-via-payment-system`, {
+    body: JSON.stringify(form.value),
+  })
         .then((response) => {
           const data = response.data;
           if (data.success) {
-            toasts.showToast("success", "Gift card has been sent successfully!", "Recevier will get an email with the gift card code.");
+            if(data.data.params.checkout_link) {
+              window.location.href = data.data.params.checkout_link;
+              toasts.showToast("success", "Gift card has been sent successfully!", "Recevier will get an email with the gift card code.");
+            } else {
+              toasts.showToast("success", "Gift card has been sent successfully!", "Recevier will get an email with the gift card code.");
+            }
           } else {
             toasts.showToast("error", "An error has occurred!", data.msg_txt);
           }
-        })
-        .catch((e) => {
-          if (e.response.data.success === false) {
-            toasts.showToast("error", "An error has occurred!", e.response.data.msg_txt);
-          } else {
-            toasts.showToast("error", "An error has occurred!", "Server Error! Please try again later.");
-          }
-        });
-  } else {
-    await api(`/api/order/gift-card/buy-gift-card-via-stripe/`, {
-      body: JSON.stringify(form.value),
-    })
-        .then((response) => {
-          const data = response.data;
-          if (data.success) {
-            window.location.href = data.data.params.checkout_link;
-          } else {
-            toasts.showToast("error", "An error has occurred!", data.msg_txt);
-          }
+          loading.value = false;
         })
         .catch((e) => {
           console.log(e);
@@ -91,8 +77,8 @@ const onSubmit = async () => {
           } else {
             toasts.showToast("error", "An error has occurred!", "Server Error! Please try again later.");
           }
+          loading.value = false;
         });
-  }
   loading.value = false;
 };
 
@@ -160,12 +146,12 @@ useHead({
                   <div class="flex">
                     <label
                         for="balance"
-                        :class="{ '!bg-black text-white' : paymentType === 1 }"
+                        :class="{ '!bg-black text-white' : form.payment_system === null }"
                         class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
                       <input
                           id="balance"
-                          v-model="paymentType"
-                          :value="1"
+                          v-model="form.payment_system"
+                          :value="null"
                           checked
                           class="hidden"
                           name="frame"
@@ -177,12 +163,12 @@ useHead({
                     </label>
                     <label
                         for="stripe"
-                        :class="{ '!bg-black text-white' : paymentType === 2 }"
+                        :class="{ '!bg-black text-white' : form.payment_system === 'stripe' }"
                         class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
                       <input
                           id="stripe"
-                          v-model="paymentType"
-                          :value="2"
+                          v-model="form.payment_system"
+                          value="stripe"
                           class="hidden"
                           name="frame"
                           type="radio"
@@ -198,12 +184,12 @@ useHead({
                     </label>
                     <label
                         for="paypal"
-                        :class="{ '!bg-black text-white' : paymentType === 3 }"
+                        :class="{ '!bg-black text-white' : form.payment_system === 'paypal' }"
                         class="w-full flex items-center justify-center bg-[#f0f0f0] px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
                       <input
                           id="paypal"
-                          v-model="paymentType"
-                          :value="3"
+                          v-model="form.payment_system"
+                          value="paypal"
                           class="hidden"
                           name="frame"
                           type="radio"
@@ -216,12 +202,6 @@ useHead({
                     </label>
                   </div>
                 </div>
-                <p
-                    v-if="v$.gift_card_code_amount.$error"
-                    class="text-red-500 mt-1 text-sm"
-                >
-                  {{ $t("profile.address.fillOutField") }}
-                </p>
               </div>
               <div class="flex flex-col mb-10">
                 <p class="font-bold mb-2">

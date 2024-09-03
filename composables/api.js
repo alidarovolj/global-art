@@ -14,7 +14,7 @@ export async function api(url, options = {}) {
     };
 
     const defaults = {
-        baseURL: "https://api.globalart.ai",
+        baseURL: "https://api-dev.globalart.ai",
         headers: headers,
         method: "POST",
         url: url,

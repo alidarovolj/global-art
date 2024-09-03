@@ -2,7 +2,7 @@
 import axios from 'axios'
 
 async function getArtworksRoutes() {
-    const { data } = await axios.post('https://api.globalart.ai/api/art/art-item/list-art-items/', {
+    const { data } = await axios.post('https://api-dev.globalart.ai/api/art/art-item/list-art-items/', {
         page_number: 1,
         show_by: 100,
         only_ids: [],
@@ -30,7 +30,7 @@ async function getArtworksRoutes() {
 }
 
 async function getArtistsRoutes() {
-    const { data } = await axios.post('https://api.globalart.ai/api/art/art-item/list-art-items/', {
+    const { data } = await axios.post('https://api-dev.globalart.ai/api/art/art-item/list-art-items/', {
         page_number: 1,
         show_by: 100,
         artist_is_available: null,

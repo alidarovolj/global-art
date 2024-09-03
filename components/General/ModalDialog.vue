@@ -23,7 +23,7 @@ const closeModal = () => {
       :show="isModalVisible"
       as="template">
     <Dialog
-        class="relative z-10"
+        class="relative z-50"
         @close="closeModal">
       <TransitionChild
           as="template"

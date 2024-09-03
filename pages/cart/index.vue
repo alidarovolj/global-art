@@ -45,6 +45,7 @@ const form = ref({
 const formRef = ref({
   app_user_order_delivery_address_id: null,
   host_name: "https://globalart.ai",
+  payment_system: null,
 });
 
 const requestCart = ref({
@@ -394,6 +395,72 @@ useHead({
                 </div>
               </div>
               <div v-else class="w-full md:w-4/5">
+                <div class="flex flex-col mb-10">
+                  <p class="font-bold mb-2">
+                    {{ $t("help.categories.payments.link.second") }}
+                  </p>
+
+                  <div class="w-1/3">
+                    <div class="flex">
+                      <label
+                          for="balance"
+                          :class="{ '!bg-black text-white' : formRef.payment_system === null }"
+                          class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                        <input
+                            id="balance"
+                            v-model="formRef.payment_system"
+                            :value="null"
+                            checked
+                            class="hidden"
+                            name="frame"
+                            type="radio"
+                        />
+                        <p>
+                          {{$t("payment_types.balance")}}
+                        </p>
+                      </label>
+                      <label
+                          for="stripe"
+                          :class="{ '!bg-black text-white' : formRef.payment_system === 'stripe' }"
+                          class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                        <input
+                            id="stripe"
+                            v-model="formRef.payment_system"
+                            value="stripe"
+                            class="hidden"
+                            name="frame"
+                            type="radio"
+                        />
+                        <div class="flex items-center gap-2">
+                          <img
+                              alt=""
+                              class="w-5 h-5"
+                              src="@/assets/img/stripe.webp"
+                          />
+                          <p>{{ $t("payment_types.stripe") }}</p>
+                        </div>
+                      </label>
+                      <label
+                          for="paypal"
+                          :class="{ '!bg-black text-white' : formRef.payment_system === 'paypal' }"
+                          class="w-full flex items-center justify-center bg-[#f0f0f0] px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                        <input
+                            id="paypal"
+                            v-model="formRef.payment_system"
+                            value="paypal"
+                            class="hidden"
+                            name="frame"
+                            type="radio"
+                        />
+                        <img
+                            alt=""
+                            class="w-full h-auto"
+                            src="@/assets/img/paypal.png"
+                        />
+                      </label>
+                    </div>
+                  </div>
+                </div>
                 <div class="w-full flex justify-between mt-10">
                   <div v-if="result.data" class="w-full">
                     <div>
