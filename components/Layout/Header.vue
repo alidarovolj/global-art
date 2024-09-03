@@ -132,7 +132,7 @@ onMounted(async () => {
 </script>
 
 <template>
-  <div class="w-full border-0 md:border-b border-[#E3E3E3] bg-white   ">
+  <div class="header_block w-full border-0 md:border-b border-[#E3E3E3] bg-white   ">
     <div class="w-full px-0 pb-0 md:pb-4">
       <div
           class="flex md:hidden justify-between md:justify-center w-full gap-6 text-sm text-black  px-4 md:px-0 pt-4">
@@ -392,7 +392,7 @@ onMounted(async () => {
       </div>
 
       <div class="container mx-auto px-4 md:px-0">
-        <div class="hidden md:flex items-center mt-4">
+        <div class="hidden md:flex items-center mt-4 links_nav">
           <div v-for="(item, index) of links" :key="index">
             <NuxtLink v-if="item.children.length === 0 && item.requiresAuth === false" :class="{ 'ml-0': index === 0 }"
                       :to="localePath(item.link)"
@@ -658,4 +658,18 @@ onMounted(async () => {
       </div>
     </Dialog>
   </TransitionRoot>
+  <div
+      v-if="!token"
+      class="bg-[#F7F7F7]">
+    <div class="container mx-auto">
+      <div class="flex items-center gap-2 justify-center py-3">
+        <p>{{ $t('discount.title') }}</p>
+        <p
+            @click="modals.showModal('LoginModal')"
+            class="text-[#0317CC] underline hover:no-underline cursor-pointer">
+          {{ $t('discount.button') }}
+        </p>
+      </div>
+    </div>
+  </div>
 </template>

@@ -21,20 +21,20 @@ onMounted(async () => {
 <template>
   <section class="mb-20 border-b border-bColor  pb-20">
     <div>
-      <h2 class="text-3xl font-bold mb-8  ">
+      <h2 class="text-3xl font-bold mb-8">
         {{ $t("mainPage.categories.shopBy") }}
       </h2>
 
       <div v-if="categories.result" class="overflow-x-auto md:overflow-hidden">
         <div
-            class="flex flex-row flex-nowrap md:flex-wrap justify-between items-center gap-4"
+            class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-8 gap-x-4"
         >
           <NuxtLink
               v-for="category in categories.result.data"
               :key="category.id"
 
               :to="localePath('/artworks?category_ids=' + category.id)"
-              class="mt-4 w-[150px] min-w-[150px] md:w-[32%] rounded-2xl cursor-pointer"
+              class="w-full rounded-2xl cursor-pointer image-container"
           >
             <img
                 :key="category.id"
@@ -42,9 +42,9 @@ onMounted(async () => {
                 runtimeConfig.public.ENDPOINTS_LINK + category.params.image.full
               "
                 alt="category"
-                class="w-full h-[100px] md:h-[270px] object-cover object-top"
+                class="w-full h-[270px] mb-4 object-cover object-top"
             />
-            <p class="mt-1 font-bold">
+            <p class="font-bold">
               {{ category.translations[cur_lang].art_category_title }}
             </p>
           </NuxtLink>

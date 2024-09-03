@@ -158,6 +158,40 @@ const modals = useModalsStore()
                   </div>
                 </div>
               </div>
+              <div>
+                <div class="p-6 border  rounded-2xl mb-8">
+                  <div class="flex items-center justify-between">
+                    <p
+                        class="text-primaryText text-xl font-bold  "
+                    >
+                      {{ $t("detailArtist.about.studioTitle") }}
+                    </p>
+                    <button
+                        class="underline "
+                        @click="modals.showModal('AddPortfolioRegistration')"
+                    >
+                      <span v-if="form.artist_exhibition[0].title">
+                        {{ $t("artistRegistration.buttons.edit") }}
+                      </span>
+                      <span v-else>
+                        {{ $t("artistRegistration.buttons.add") }}
+                      </span>
+                    </button>
+                  </div>
+                  <div class="grid grid-cols-1 sm:grid-cols-3 gap-y-4 sm:gap-x-5 sm:gap-y-5">
+                    <div
+                        v-for="(item, index) of form.artist_portfolio"
+                        :key="index"
+                        class="mt-4 "
+                    >
+                      <img
+                          class="mb-2 w-full h-[200px] max-h-[200px]"
+                          :src="artistRegistrationStore.portfolio_photos[index]" alt="">
+                      <p>{{ item.title }}</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>

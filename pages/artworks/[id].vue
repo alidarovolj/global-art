@@ -138,6 +138,48 @@ const breakpoints = computed(() => {
   };
 });
 
+const requestBody = ref({
+  page_number: 1,
+  show_by: 10,
+  only_ids: [],
+  exclude_ids: [],
+  category_ids: [],
+  search_text: null,
+  movement_and_style: [],
+  year_from: null,
+  year_to: null,
+  price_from: null,
+  price_to: null,
+  artist_ids: [],
+  art_item_is_for_sale: null,
+  art_item_is_sold: null,
+  art_item_is_validated: null,
+  rarity: [],
+  art_item_material: [],
+  art_item_style: [],
+  cert: [],
+  signature: [],
+});
+
+onMounted(async () => {
+  await nextTick();
+  await artworksStore.getArtwork(route.params.id);
+  breadcrumbs.value.push({
+    title: translatedBaseInfo.value.art_item_title,
+    link: `/artworks/${route.params.id}`,
+  });
+  requestBody.value.artist_ids = [artworksStore.result.data.art_item_artist_id];
+  await nextTick()
+  await artworksStore.getArtworks(requestBody.value);
+});
+
+watch(
+    () => user.result,
+    async () => {
+      await artworksStore.getArtwork(route.params.id);
+    },
+);
+
 useHead({
   title: computed(() => `${artworkTitle.value} | Global Art AI`),
   meta: [
@@ -160,22 +202,6 @@ useHead({
   ],
   link: [{rel: "canonical", href: t("headers.artworks.canonical")}],
 });
-
-onMounted(async () => {
-  await nextTick();
-  await artworksStore.getArtwork(route.params.id);
-  breadcrumbs.value.push({
-    title: translatedBaseInfo.value.art_item_title,
-    link: `/artworks/${route.params.id}`,
-  });
-});
-
-watch(
-    () => user.result,
-    async () => {
-      await artworksStore.getArtwork(route.params.id);
-    },
-);
 </script>
 
 <template>
@@ -874,42 +900,40 @@ watch(
           </div>
         </div>
       </div>
-      <div v-if="breakpoints['700'].itemsToShow" class="carousel_main">
-        <ClientOnly>
-          <my-carousel-carousel
-              ref="artworkArtistCarousel"
-              :breakpoints="breakpoints"
-              :items-to-show="1"
-              :mouse-drag="false"
-              :touch-drag="true"
-              class="flex"
-          >
-            <my-carousel-slide
-                v-for="slide of result.artist.works"
-                :key="slide.id"
-            >
-              <div
-                  class="flex w-full flex-col justify-start pr-4 h-[420px] max-h-[420px] painting"
-              >
-                <div class="p-9 bg-cardBg">
-                  <img
-                      :src="slide.img"
-                      alt=""
-                      class="w-full h-[288px] object-cover"
-                  />
-                </div>
-                <nuxt-link :to="localePath('/artworks/' + slide.id)" class="w-full">
-                  <div class="flex flex-col text-start justify-start w-full">
-                    <p class="text-base">Test title</p>
-                    <p class="font-bold text-base mb-2">$Test price</p>
-                  </div>
-                </nuxt-link>
-              </div>
-            </my-carousel-slide>
-          </my-carousel-carousel>
-        </ClientOnly>
+    </div>
+    <div v-if="artworksStore.artworksList" class="pb-7 mb-10">
+    <h2 class="text-3xl font-semibold  ">
+      {{ $t("detailArtist.about.authorWorks") }}
+    </h2>
+    <div
+        v-if="artworksStore.artworksList.data.objects_list.length > 0"
+        class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-8 gap-x-4"
+    >
+      <div
+          v-for="item in artworksStore.artworksList.data.objects_list"
+          :key="item.id"
+          v-memo="[item]"
+          class="mt-6 w-full"
+      >
+        <Painting
+            :id="item.id"
+            :artist="item.art_item_artist"
+            :artwork_data="item"
+            :images="item.art_item_images"
+            :is_in_wish_list="item.is_in_wish_list"
+            :price="item.art_item_price"
+            :title="item.art_item_title"
+        />
       </div>
     </div>
+    <div v-else>
+      <NoElements
+          :text="$t('artistProfile.artworks.info.tryAgain')"
+          :title="$t('artistProfile.artworks.info.noArtworks')"
+          class="py-10"
+      />
+    </div>
+  </div>
   </section>
   <ArtworkDetailPreloader v-else/>
 </template>

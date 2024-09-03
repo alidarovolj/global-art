@@ -3,6 +3,13 @@
     "title": "Search",
     "placeholder": "Search by artist name"
   },
+  "discount": {
+    "title": "Want to save $20 on your first purchase?",
+    "button": "Sign up to get discount"
+  },
+  "risingTalents": {
+    "title": "Rising Talent"
+  },
   "headers": {
     "payment_success": {
       "title": "Payment success | Global Art AI",

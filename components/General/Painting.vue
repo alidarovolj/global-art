@@ -137,7 +137,7 @@ onMounted(() => {
       <div
           ref="tile"
           :data-image="runtimeConfig.public.ENDPOINTS_LINK + images[0].full"
-          class="tile w-auto h-[280px] min-h-[280px] mx-auto object-contain relative"
+          class="tile w-auto h-[280px] min-h-[280px] mx-auto object-contain relative mb-2"
           data-scale="2.4"
           @mousemove="handleMouseMove"
           @mouseout="handleMouseOut"
@@ -166,7 +166,12 @@ onMounted(() => {
     <div class="">
       <NuxtLink :to="localePath('/artists/' + artist.id)">
         <div class="flex items-center gap-1">
-          <p>
+          <img
+              :src="runtimeConfig.public.ENDPOINTS_LINK + artist.artist_photo.thumb"
+              alt="Artist"
+              class="w-8 h-8 rounded-full object-cover object-top"
+          />
+          <p class="text-sm">
             {{ artist.artist_base_info.translations[cur_lang].last_name }}
             {{ artist.artist_base_info.translations[cur_lang].first_name }}
           </p>

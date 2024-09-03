@@ -2,8 +2,8 @@
 import {useLanguagesStore} from "~/store/languages.js";
 import {useArtistsStore} from "~/store/artists.js";
 
-const artistProfileStore = useArtistProfileStore();
-const {getArtistData} = artistProfileStore;
+const artistRegistration = useArtistRegistrationStore()
+const {form, portfolio_photos} = storeToRefs(artistRegistration)
 const loading = ref(false);
 
 const modals = useModalsStore()
@@ -12,39 +12,12 @@ const languages = useLanguagesStore()
 const {cur_lang} = storeToRefs(languages)
 const artists = useArtistsStore()
 
-const portfolio_photos = ref([]);
-
-const form = ref({
-  artist_id: null,
-  artist_portfolios: [],
-  language: cur_lang.value
-});
-
-onMounted(async () => {
-  await nextTick();
-  form.value.artist_id = modals.modal.modalData.id;
-});
-
 const pushPhoto = (photo) => {
-  form.value.artist_portfolios.push({
+  form.value.artist_portfolio.push({
     title: null,
     media_token: photo.temp_media_token,
   });
   portfolio_photos.value.push(photo.base64);
-};
-
-const submitForm = async () => {
-  loading.value = true;
-
-  try {
-    await artists.addPortfolio(form.value);
-    await getArtistData()
-    loading.value = false;
-    modals.modal.show = false
-  } catch (error) {
-    toasts.showToast("error", "An error has occurred!", error);
-    loading.value = false;
-  }
 };
 </script>
 
@@ -78,7 +51,7 @@ const submitForm = async () => {
                   <p class="text-xs mb-1">Title</p>
                   <input
                       v-model="
-                        form.artist_portfolios[index]
+                        form.artist_portfolio[index]
                           .title
                       "
                       :placeholder="
@@ -110,7 +83,7 @@ const submitForm = async () => {
           <p
               v-if="loading === false"
               class="cursor-pointer w-full bg-black text-white text-center py-2 rounded-xl"
-              @click="submitForm"
+              @click="modals.modal.show = false"
           >
             {{ $t("artistRegistration.buttons.save") }}
           </p>

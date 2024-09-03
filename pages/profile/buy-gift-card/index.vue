@@ -3,11 +3,13 @@ import {CurrencyDollarIcon} from "@heroicons/vue/24/outline";
 import {useVuelidate} from "@vuelidate/core";
 import {email, required} from "@vuelidate/validators";
 import {useToastsStore} from "~/store/toastDropStore.js";
+import {useGiftCardsStore} from "~/store/giftCards.js";
 
 const {t} = useI18n();
 const tabs = ref([
   {id: 1, name: t("giftCard.buyTab")},
   {id: 2, name: t("giftCard.redeemTab")},
+  {id: 3, name: t("giftCard.historyTab")},
 ]);
 const activeTab = ref(1);
 const loading = ref(false);
@@ -15,6 +17,8 @@ const loading = ref(false);
 const paymentType = ref(true);
 
 const runtimeConfig = useRuntimeConfig();
+const giftCards = useGiftCardsStore()
+const { result } = storeToRefs(giftCards)
 
 const toasts = useToastsStore()
 
@@ -92,6 +96,11 @@ const onSubmit = async () => {
   loading.value = false;
 };
 
+onMounted(async () => {
+  await nextTick()
+  await giftCards.getGiftCards()
+})
+
 useHead({
   title: t("headers.profile.pages.gift_cards.title"),
   meta: [
@@ -147,37 +156,63 @@ useHead({
                   {{ $t("help.categories.payments.link.second") }}
                 </p>
 
-                <div class="flex">
-                  <div
-                      class="flex border p-2 border-[#E5E7EB]  rounded-lg overflow-hidden"
-                  >
-                    <input
-                        id="framed"
-                        v-model="paymentType"
-                        :value="true"
-                        checked
-                        class="radio-option"
-                        name="frame"
-                        type="radio"
-                    />
-                    <label for="framed">{{
-                        $t("payment_types.balance")
-                      }}</label>
-                    <input
-                        id="unframed"
-                        v-model="paymentType"
-                        :value="false"
-                        class="radio-option"
-                        name="frame"
-                        type="radio"
-                    />
-                    <label class="flex items-center gap-2" for="unframed">
+                <div>
+                  <div class="flex">
+                    <label
+                        for="balance"
+                        :class="{ '!bg-black text-white' : paymentType === 1 }"
+                        class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                      <input
+                          id="balance"
+                          v-model="paymentType"
+                          :value="1"
+                          checked
+                          class="hidden"
+                          name="frame"
+                          type="radio"
+                      />
+                      <p>
+                        {{$t("payment_types.balance")}}
+                      </p>
+                    </label>
+                    <label
+                        for="stripe"
+                        :class="{ '!bg-black text-white' : paymentType === 2 }"
+                        class="w-full flex items-center justify-center bg-[#f0f0f0] border-r px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                      <input
+                          id="stripe"
+                          v-model="paymentType"
+                          :value="2"
+                          class="hidden"
+                          name="frame"
+                          type="radio"
+                      />
+                      <div class="flex items-center gap-2">
+                        <img
+                            alt=""
+                            class="w-5 h-5"
+                            src="@/assets/img/stripe.webp"
+                        />
+                        <p>{{ $t("payment_types.stripe") }}</p>
+                      </div>
+                    </label>
+                    <label
+                        for="paypal"
+                        :class="{ '!bg-black text-white' : paymentType === 3 }"
+                        class="w-full flex items-center justify-center bg-[#f0f0f0] px-3 hover:bg-black hover:text-white cursor-pointer transition-all">
+                      <input
+                          id="paypal"
+                          v-model="paymentType"
+                          :value="3"
+                          class="hidden"
+                          name="frame"
+                          type="radio"
+                      />
                       <img
                           alt=""
-                          class="w-5 h-5"
-                          src="@/assets/img/stripe.webp"
+                          class="w-full h-auto"
+                          src="@/assets/img/paypal.png"
                       />
-                      <label>{{ $t("payment_types.stripe") }}</label>
                     </label>
                   </div>
                 </div>
@@ -329,40 +364,12 @@ useHead({
           <RedeemCardForm/>
         </div>
       </div>
+      <div v-if="activeTab === 3">
+        <div class="w-full">
+          {{ result }}
+        </div>
+      </div>
     </div>
   </div>
 </template>
 
-<style scoped>
-.rounded-img {
-  border-radius: 1.5rem;
-  /* or 24px depending on your design system */
-}
-
-.radio-option {
-  display: none;
-}
-
-html.dark .radio-option + label {
-  background: #303134;
-  color: white;
-}
-
-.radio-option + label {
-  padding: 16px 64px;
-  margin: 0;
-  background: #f0f0f0;
-  color: #000;
-  cursor: pointer;
-}
-
-.radio-option:checked + label {
-  background: #000 !important;
-  color: #fff;
-}
-
-/* Remove the last border */
-.radio-option + label:last-of-type {
-  border-right: none;
-}
-</style>

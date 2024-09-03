@@ -9,7 +9,7 @@ const router = useRouter();
 const toasts = useToastsStore();
 
 const loadingStore = useLoadingStore();
-const currentStep = ref(1);
+const currentStep = ref(2);
 const isFormFilled = ref(false);
 
 const user = useUserStore();
@@ -48,6 +48,12 @@ const isEveryTitleFilled = computed(() => {
   );
 });
 
+const isEveryPortfolioTitleFilled = computed(() => {
+  return form.value.artist_portfolio.every(
+      (portfolio) => portfolio.title !== null && portfolio.title.length > 0,
+  );
+});
+
 const isPhotoAvailable = computed(() => {
   const userData = result.value?.data?.params;
   return userData?.photo || false;
@@ -79,6 +85,8 @@ const isStepFormFilled = (step, form) => {
           form.artist_credo?.length >= 40 &&
           form.artist_credo?.length <= 1500 &&
           form.artist_exhibition?.length >= 1 &&
+          form.artist_portfolio?.length >= 1 &&
+          isEveryPortfolioTitleFilled.value &&
           isEveryTitleFilled.value
       );
     case 3:
